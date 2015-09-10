@@ -230,7 +230,7 @@ By Peter Bihr and Michelle Thorne
 	* Selecting objects on more human critiera (aesethetic, function, sentiment, joy)
 
 
-26. Monitoring and Interfaces [M to write]
+26. Ambient notifications [M wrote, P to review]
 	* Ambient status, i.e. birdsong
 
 
