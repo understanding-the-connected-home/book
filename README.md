@@ -31,6 +31,9 @@ Peter Bihr & Michelle Thorne
 Berlin, September 2015
 
 [^1] To learn more and watch ThingsCon talks, visit [thingscon.com](http://thingscon.com)
+
 [^2] Casa Jasmina is a joint research project by Bruce Sterling and Jasmina Tesanovic as well as the Arduino team, represented by Lorenzo Romagnoli and Massimo Banzi. To learn more about Casa Jasmina visit [casajasmina.arduino.cc](http://casajasmina.arduino.cc)
+
 [^3] Check out Good Night Lamp at [goodnightlamp.com](http://goodnightlamp.com)
+
 [^4] See Understanding the Connected Home on [thewavingcat.com](http://www.thewavingcat.com/tag/understandingtheconnectedhome/)
