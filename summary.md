@@ -1,9 +1,10 @@
 
 TO DO
 
+- M: review readme
 - M&P: decide chapter order
 - M: Gitbook migration
-- P: cover (first draft: M to review)
+- P: cover
 - P: intro/narrative
 - P: bio drafts
 - M: review P's texts
@@ -11,12 +12,23 @@ TO DO
 - P: review own texts
 
 
-Blurb:
 
-_Understanding the Connected Home explores the questions, challenges and opportunities around increasingly connected homes. [(Show all posts.)](LINK)_
+# Summary
+
+Understanding the Connected Home explores the questions, challenges and opportunities around increasingly connected homes.
+
+By Peter Bihr and Michelle Thorne
+
+* [Introduction](section1/README.md)
+    * [Who we are](section1/bios.md)
+    * [Ground rules](section1/ground_rules.md)
+    * [Framing the debate](section1/framing_the_debate.md)
+* [Managing conflict](section2/managing_conflict.md)
+* [Connected literacy](section3/connected_literacy.md)
 
 
-# Table of Contents
+
+----
 
 ## Bios (why should you trust us, why are we authoring this)
 
@@ -66,7 +78,7 @@ _Understanding the Connected Home explores the questions, challenges and opportu
 
 # Explorations
 
-0. 00A-00F: [M to review in context]
+0. 00A-00F: [M REVIEWED]
 
 1. Design Principles
 	* IoT manifesto
