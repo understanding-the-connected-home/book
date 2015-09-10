@@ -2,8 +2,6 @@
 
 Five years from now the moment we enter a home might require some decisions from us: It might be a transition into a connected space, and it might not be obvious how connected it is, and in which ways. Yet, these are essential things to know to make an informed decision.
 
-<!--more-->
-
 Consider some of the following scenes. (Please note that many of examples used here might be framed rather more extreme than we might encounter in real life, in order to provoke some thoughts and jog our creativity.)
 
 - The moment we approach the door we might be scanned, visually via camera, or maybe for data transmissions: Do we get a say in this? Or will it be as commonplace as a ringer with a CCTV camera as we've been using them for years?
