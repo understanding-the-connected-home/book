@@ -192,7 +192,7 @@ By Peter Bihr and Michelle Thorne
 	* Home literacy
 
 
-20. Legibility [M to write]
+20. Humans, machines and homes knowing how to read [M wrote, P to review]
 	* New vocabulary 
 	* human-readable, machine-readable
 	* Other layers to consider (law enforcement, etc.)
