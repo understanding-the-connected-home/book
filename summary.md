@@ -9,25 +9,15 @@
 * [Connected literacy](connected_literacy.md)
 
 
-----
-
-TO DO
-
-- M: review readme
-- M&P: decide chapter order
-- M&P: figure out domain configuration
-- P: cover
-- P: intro/narrative
-- P: bio drafts
-- M: review own texts
-- P: review own texts
-
-
 Understanding the Connected Home explores the questions, challenges and opportunities around increasingly connected homes.
 
 By Peter Bihr and Michelle Thorne
 
 (example, in progress formatting)
+
+To do:
+
+- add bios
 
 ## Bios (why should you trust us, why are we authoring this)
 
