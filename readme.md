@@ -1,5 +1,4 @@
 # Intro
-TEST
 
 In May 2015, Science Fiction author Bruce Sterling gave a keynote at ThingsCon[^1], a conference about the internet of things and maker culture that Peter co-organizes in Berlin. In his talk, Bruce introduced a new project he had been working on with his partner Jasmina Tesanovic: Casa Jasmina[^2], the open source connected home of the future. It's a unique research project, an open source investigation of the connected home.
 
