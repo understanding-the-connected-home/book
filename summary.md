@@ -3,11 +3,10 @@ TO DO
 
 - M: review readme
 - M&P: decide chapter order
-- M: Gitbook migration
+- M&P: figure out domain configuration
 - P: cover
 - P: intro/narrative
 - P: bio drafts
-- M: review P's texts
 - M: review own texts
 - P: review own texts
 
