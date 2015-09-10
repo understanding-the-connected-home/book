@@ -1,6 +1,6 @@
 # Network models for the connected home 
 
-How do we handle connectivity in the connected home? This is not just a question of networking standards and protocols but also one of architecture: Which network model - or more concretely, which logical network topology[^1] - is the best fit?
+How do we handle connectivity in the connected home? This is not just a question of networking standards and protocols but also one of architecture: Which network model - or more concretely, which logical network topology - is the best fit?
 
 ## Network models are models of control
 
@@ -14,7 +14,7 @@ Of course all of these are just theoretical models, so they can be implemented m
 
 In a master/slave scenario, there's a centralized control unit (the master) that coordinates what's going on in the network. This could be built into the router or be a smart phone app. It's clearly top-down.
 
-Apple tends to build this kind of architecture because it's easier to deliver a seamless experience if the whole system is integrated and hence under control. It's also a system that fosters lock-in: If 9 devices are integrated into one system, it's harder to get a 10th from a different system into play.
+Apple tends to build this kind of architecture because it's easier to deliver a seamless experience if the whole system is integrated and hence under control. It's also a system that fosters lock-in: If nine devices are integrated into one system, it's harder to get a tenth from a different system into play.
 
 ## Hub and spokes
 
@@ -33,6 +33,8 @@ It is the most open in that new nodes can be added at any time, that every node 
 - Network models are models of control and power, so choose wisely.
 - Each model has its own strengths and weaknesses.
 
-[1]: For a quick overview, see [Wikipedia](https://en.wikipedia.org/wiki/Network_topology#Topology)
+## Further reading
+
+For a quick overview, see [Wikipedia's article on network topology](https://en.wikipedia.org/wiki/Network_topology#Topology)
 
 

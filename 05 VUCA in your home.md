@@ -1,6 +1,6 @@
 # VUCA in the connected home
 
-VUCA - volatility, uncertainty, complexity and ambiguity - is a framework for analysis of situations that originated in a military context and was adapted to management/strategic thinking as well as foresight. I'll make the case that VUCA can offer some valuable insight into the connected home.
+VUCA - volatility, uncertainty, complexity and ambiguity - is a framework to analyze military situations. It's since been adapted to management/strategic thinking as well as foresight. We'll make the case that VUCA can offer some valuable insight into the connected home.
 
 First, a look at the four components of VUCA as [explained by Wikipedia](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity):
 
@@ -11,13 +11,13 @@ First, a look at the four components of VUCA as [explained by Wikipedia](https:/
 
 ## The connected home is a new space we don't yet understand
 
-We believe that as of today, we have only the earliest beginnings of an understanding on how connectivity in our living environment will change our lives. Hence, applying frameworks designed for strategic analysis and foresight might yield interesting and useful insights indeed. 
+We believe that as of today, we have only the earliest understanding on how connectivity in our living environment will change our lives. Hence, applying frameworks designed for strategic analysis and foresight might yield insights. 
 
 While various authors interpret and apply VUCA slightly differently, let's stick with the Wikipedia version for now as this is freely avaiable and nicely generic in its scope:
 
-"The particular meaning and relevance of VUCA often relates to how people view the conditions under which they make decisions, plan forward, manage risks, foster change and solve problems. In general, the premises of VUCA tend to shape an organization's capacity to:
+> "The particular meaning and relevance of VUCA often relates to how people view the conditions under which they make decisions, plan forward, manage risks, foster change and solve problems. In general, the premises of VUCA tend to shape an organization's capacity to:
 
-- Anticipate the Issues that Shape Conditions
+> - Anticipate the Issues that Shape Conditions
 - Understand the Consequences of Issues and Actions
 - Appreciate the Interdependence of Variables
 - Prepare for Alternative Realities and Challenges
@@ -35,11 +35,15 @@ The connected home will increasingly be a focal point for digital tech and innov
 
 > U = Uncertainty. The lack of predictability, the prospects for surprise, and the sense of awareness and understanding of issues and events.
 
-As William Gibson famously wrote, the street finds its own uses for technology. Clay Shirky stated that (communications) tools don't get socially interesting until they get technologically boring. Both apply to the connected home: We simply do not know yet how users/residents will use the tools that are becoming available, that help bring connectivity into homes. It will be interesting to watch, but it is largely unpredictable. We need to factor in a lot of unpredicability if we want to make sense of this emerging space.
+As William Gibson famously wrote, the street finds its own uses for technology. Clay Shirky stated that (communications) tools don't get socially interesting until they get technologically boring. 
+
+Both statements apply to the connected home: We simply do not know yet how users/residents will use the tools that are becoming available. It will be interesting to watch, but it is largely unpredictable. We need to factor in a lot of unpredicability if we want to make sense of this emerging space.
 
 > C = Complexity. The multiplex of forces, the confounding of issues and the chaos and confusion that surround an organization.
 
-Replace "organization" with "connected home" and you get the idea. There are many powers at play (and yet more to come), and there will be layers upon layers of networks and connectivity. With those come complex interrelations and dependencies, and in turn challenges and opportunities we can hardly anticipate (but of course we need to try). Unintended consequences, both good and bad. This will be particularly interesting to see play out across various cultural and political contexts: Almost certainly the needs, wishes and rules for a connected home in the Bay Area will vary hugely from those in suburban Paris or inner-city New Delhi.
+Replace "organization" with "connected home" and you get the idea. There are many powers at play (and yet more to come), and there will be layers upon layers of networks and connectivity. 
+
+With those come complex interrelations and dependencies, and in turn challenges and opportunities we can hardly anticipate (but of course we need to try). Unintended consequences, both good and bad. This will be particularly interesting to see play out across various cultural and political contexts: Almost certainly the needs, wishes and rules for a connected home in the Bay Area will vary hugely from those in suburban Paris or inner-city New Delhi.
 
 > A = Ambiguity. The haziness of reality, the potential for misreads, and the mixed meanings of conditions; cause-and-effect confusion.
 

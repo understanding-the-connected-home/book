@@ -24,16 +24,18 @@ While this isn't hugely surprising, it's worth noting that even through consciou
 
 ## Special categories: routers, white goods
 
-Two types of things seem to warrant their own  categories as they might turn out to be special cases.
+Two types of things seem to warrant their own categories as they might turn out to be special cases.
 
-First, routers, which might turn out to be the hub that controls all our smart home infrastructure. It's not clear this is how it's going to play out, but it's a strong scenario. Google's new wifi router [On Hub](https://on.google.com/hub/) comes with all the protocols equipped, plus microphones and speakers.
+First, **routers,** which might turn out to be the hub that controls all our smart home infrastructure. It's not clear this is how it's going to play out, but it's a strong scenario. Google's new wifi router [On Hub](https://on.google.com/hub/) comes with all the protocols equipped, plus microphones and speakers.
 
-Second, white goods - dishwasher, fridge, washing machine - have been the connected fever dream of manufactures for years. (The internet-connected fridge has become a running joke by itself.[^3]) There might be something there. Assume for a second that a scenario where we have a home server in every house; a local cloud solution of sorts. It's a long shot, but the fridge might not be the worst place to house this device, or to double as a hub. 
+Second, **white goods** - dishwasher, fridge, washing machine - have been the connected fever dream of manufactures for years. (The internet-connected fridge has become a running joke by itself.) There might be something there. Assume for a second that a scenario where we have a home server in every house; a local cloud solution of sorts. It's a long shot, but the fridge might not be the worst place to house this device, or to double as a hub. 
 
 ## Key takeaways
 
 - We can derive valuable insights from re-examining the categories - the mental models - we sort the things in our apartments by.
 - The lines between categories are increasingly blurry.
 
-[3]: See the Tumblr [FuckYeahInternetFridge](http://fuckyeahinternetfridge.tumblr.com/)
+## Further reading
+
+[FuckYeahInternetFridge](http://fuckyeahinternetfridge.tumblr.com/) on Tumblr. 
 

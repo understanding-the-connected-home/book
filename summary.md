@@ -19,6 +19,8 @@ Understanding the Connected Home explores the questions, challenges and opportun
 
 By Peter Bihr and Michelle Thorne
 
+(example, in progress formatting)
+
 * [Introduction](readme.md)
 * [Who we are](bios.md)
 * [Ground rules](00B_Ground_rules.md)
@@ -90,26 +92,25 @@ By Peter Bihr and Michelle Thorne
 	* Honoring the infinite ways homes are 
 
 
-2. Managing Conflicts [P wrote. M to review]
+2. Managing Conflicts [M REVIEWED]
 	* Thing vs. Thing
 	* User vs. Thing
 	* User vs. User
 
 
-3. Who has root access to your home [P wrote. M to review]
+3. Who has root access to your home [M REVIEWED]
 	* Setting the stage of ownership
 	* Example of single-mother & car
 
 
-4. Factory Reset [P wrote. M to review]
+4. Factory Reset [[M REVIEWED]
 	* Generations of wear & tear
 	* Two people moving in together
 	* Two people separating
 	* Inheriting smart locks
 
 
-5. VUCA at home [P wrote]
-
+5. VUCA at home [M REVIEWED]
 
 6. Privacy
 	* What sensors are people ok with? 
@@ -119,12 +120,12 @@ By Peter Bihr and Michelle Thorne
 	* responsible data / algorithms 
 
 
-7. Augmentation not automation [P wrote]
+7. Augmentation not automation [M REVIEWED]
 	* Engelbart (explaining everything from first principles, what you're doing and why you're doing it)
 	* Beware of naming
 
 
-8. My personal info sphere [P wrote]
+8. My personal info sphere [M REVIEWED]
 	* Personal data is on you / with you
 	* You bring your own preferences in and out of spaces
 	* Managing and displaying your preferences: Do Not Track analogies, need to be machine-readable. 
@@ -144,7 +145,7 @@ By Peter Bihr and Michelle Thorne
 11. Designing for the unexpected
 
 
-12. Different kinds of things [P wrote]
+12. Different kinds of things [M REVIEWED]
 	* white goods
 	* smart phones
 	* consoles
@@ -152,7 +153,7 @@ By Peter Bihr and Michelle Thorne
 	* etc. 
 
 
-13. How do things communicate their expectations? [P wrote]
+13. How do things communicate their expectations? [M REVIEWED]
 	* How do objects show you that they are awaiting something from you, doing something for you, etc. 
 
 
@@ -174,7 +175,7 @@ By Peter Bihr and Michelle Thorne
 	* How do we hook up with it?
 
 
-17. Different Network models [P wrote]
+17. Different Network models [M REVIEWED]
 	* Network architecture reflects control models
 	* hub + spoke
 	* master / slave
@@ -229,7 +230,7 @@ By Peter Bihr and Michelle Thorne
 	* Selecting objects on more human critiera (aesethetic, function, sentiment, joy)
 
 
-26. Monitoring and Interfaces
+26. Monitoring and Interfaces [M to write]
 	* Ambient status, i.e. birdsong
 
 

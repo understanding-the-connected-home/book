@@ -12,7 +12,7 @@ This is legit, and in fact might play an important role - for example, [Philips 
 
 So upon entering your home, or room (in shared living arrangements), or hotel room/rental apartment (in temporary/travel housing), it would make sense to communicate your prefences to the building so it can adapt accordingly. 
 
-**We are surrounded by a sphere of personal data that moves through time and space with us, and might linger here and there.**
+**We are surrounded by a sphere of personal data that moves through time and space with us, and it might linger here and there.**
 
 **Currently, we don't have a universal mechanism to communicate our preferences to a building.** Of course, many home automation companies are working on just that, at varying degrees of standardization. 
 
@@ -24,11 +24,11 @@ So upon entering your home, or room (in shared living arrangements), or hotel ro
 
 Much more tricky is how we will deal with our preferences regarding various levels of scanning, sharing data, and (by extension) surveillance.
 
-On the web, our behavior is constantly tracked[^1] by advertising companies and other, even less savory organizations. This happens almost entirely without our consent, frequently under dubious ethical and legal practices, largely without recourse. 
+On the web, our behavior is constantly tracked by advertising companies and other, even less savory organizations. This happens almost entirely without our consent, frequently under dubious ethical and legal practices, largely without recourse. 
 
 On the web, the only means of protection are personal education in the matter (to at least understand what's going on) as well as technical measures, like ad & tracking blockers, as well as browser features/plug-ins like Do Not Track. **Between them, these measures provide a certain measure of privacy, but neither is this sufficient nor is it sufficiently easy.** We got to this point because for too long, the open nature of the web allowed bad players to foster a culture of tracking without recourse or penalties. 
 
-**For the context of the connected home, we may not commit these same mistakes: We need to establish standards, regulatory frameworks and a culture that respects the ethical dimensions of the safe place that is the home.**
+**For the context of the connected home, we may not commit these same mistakes. We need to establish standards, regulatory frameworks and a culture that respects the ethical dimensions of the safe place that is the home.**
 
 ## Ethics are implemented at the design level
 
@@ -45,15 +45,15 @@ The other aspect is the negotiating of agreements on a (semi-)automatic level. E
 
 CCTV cameras in the public space are *somewhat* controversial because they do not help prevent crimes but increase the level of surveillance; wifi sniffing trash cans (like implemented, [then abandoned](http://www.cnet.com/news/london-tosses-out-wi-fi-sniffing-smart-bins/), in London a few years back), crossed the line. This is a case-by-case negotation of what's acceptable in the public environment.
 
-In homes - both permanent and temporary - different, tougher rules apply. **Privacy is key, and strict privacy protection must be the default. We need opt-in, not opt-out, to the sharing of personal information.**
+In homes - both permanent and temporary - tougher rules should apply. **Privacy is key, and strict privacy protection must be the default. We need opt-in, not opt-out, to the sharing of personal information.**
 
 So what could that look like? What's the interface for negotiating these questions? What are the social norms going to be? What kind of recourse might there be for cases of abuse?
 
 We cannot yet answer these questions but can make some educated guesses:
 
-- **Social norms might solve many of these questions before they even become problematic.** Most home owners might turn down "sniffing" levels to the lowest default, while some early adopters turn it up; in both cases their friends and peer group would self-select, exactly like it happens today: Some people use CCTV cameras on their premises, others don't. Some have guns in their homes, others don't. Some play loud music, others don't. Not technological solution are at work here: Social self-selection, legal regulation and cultural norms are used to regulate these things.
+- **Social norms might solve many of these questions before they even become problematic.** Most home owners might turn down "sniffing" levels to the lowest default, while some early adopters turn it up; in both cases their friends and peer group would self-select, exactly like it happens today: Some people use CCTV cameras on their premises, others don't. Some have guns in their homes, others don't. Some play loud music, others don't. Not technological solution are at work here. Social self-selection, legal regulation and cultural norms are used to regulate these things.
 - **Design principles that honor privacy will win the market.** It makes sense to honor privacy in the home and to make it an overwhelmingly strong default, and the market might simply solve this as users vote with their money. Different regions/markets might produce different outcomes.
-- **Smart contracts could provide a technological backend.** Unlike in software and web services where users are routinely forced to accept (rationally often unacceptable) End User License Agreements (EULAs), there is a window of opportunity to create a better system for IoT in general and the connected home in particular. **Each person could store their personal agreements on a digital ID that negotiates a deal with the connected environment.** Say Alice the visitor is fine to be sniffed for wifi devices, refuses to be captured by CCTV, and doen't have a strong prefence around mood lighting, and Bob the home owner has similarly expressed his preferences; a relatively simple algorithm could match them up so that the camera stops recording, Bob's mood lighting preferences overrule Alice's (since she doesn't care anyway) and the system does connected to Alice's wifi devices because she agreed. For hightened security needs the blockchain could be used to verify these negotations. This might seem like overkill now, but might turn out to be relatively seemless and offer smooth sailing.
+- **Smart contracts could provide a technological backend.** Unlike in software and web services where users are routinely forced to accept (rationally often unacceptable) End User License Agreements (EULAs), there is a window of opportunity to create a better system for IoT in general and the connected home in particular. **Each person could store their personal agreements on a digital ID that negotiates a deal with the connected environment.** Say Alice the visitor is fine to be sniffed for wifi devices, refuses to be captured by CCTV, and doen't have a strong prefence around mood lighting. Bob the home owner has similarly expressed his preferences. A relatively simple algorithm could match them up so that the camera stops recording, Bob's mood lighting preferences overrule Alice's (since she doesn't care anyway) and the system does connected to Alice's wifi devices because she agreed. For hightened security needs the blockchain could be used to verify these negotations. This might seem like overkill now, but might turn out to be relatively seemless and offer smooth sailing.
 - **We need a Do Not Track for the physical space.** As a lowest-common denominator, we might need Do Not Track not just for connected homes, but especially for smart cities and connected retails spaces: A device of sorts that allows us to reliably opt out of marketing and advertising tracking.
 
 
@@ -67,8 +67,8 @@ We cannot yet answer these questions but can make some educated guesses:
 - We need to develop mechanisms to negotiate our agreements to various types of data-based interactions.
 - Rules and types of data-based interactions need to be human and machine readable.
 
+## Further reading
 
-
-[1]: We highly recommend Brett Gaylor's interactive documentary [Do Not Track](https://donottrack-doc.com/en/).
+We highly recommend Brett Gaylor's interactive documentary [Do Not Track](https://donottrack-doc.com/en/).
 
 
