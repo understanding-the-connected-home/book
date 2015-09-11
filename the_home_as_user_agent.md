@@ -8,7 +8,7 @@ There are likely three kinds of interactions in a connected home:
 
 Each of these interactions will require protocols and conflict resolution, as well as **layers of interpretation** that help each other understand what's going on and how to interact with it. 
 
-**Borrowing from the [three-tiered Creative Commons licensing structure](https://creativecommons.org/licenses)**, we'd like to explore a framework that is: 
+Borrowing from the **[three-tiered Creative Commons licensing structure](https://creativecommons.org/licenses)**, we'd like to explore a framework that is: 
 
 * human-readable
 * machine-readable
@@ -18,15 +18,17 @@ and then explore how this framework could position **the home as a trusted agent
 
 ## Human-readable
 
-This layer is about the humans in the home being able to read and understand what's going on. As much as possible, this layer should convey things in very simple iconography or text. 
+This layer is about the **humans in the home being able to read and understand what's going on**. As much as possible, this layer should convey things in very simple iconography or text. 
 
-The goal is that the users, regardless of their technical proficiency, will feel confident in understanding what the object or service is offering, how it proposes to interact with other humans and objects, and any other important information.  
+The goal is that the users, **regardless of their technical proficiency**, will feel confident in understanding what the object or service is offering, how it proposes to interact with other humans and objects, and any other important information.  
 
-There may be ways in which the other layers will guide and advise the user here. This could be preventing malicious software from being installed, or conveying to other devices and the outside world that the user does not want to be track. At the human-readable layer, the user should be able to understand that these actions have been taken on their behalf, and they should have the ability to modify or opt-out of those actions if they choose.  
+There may be ways in which the other layers will **guide and advise the user**. This could be preventing malicious software from being installed, or conveying to other devices and the outside world that the user does not want to be track. 
 
-In other words, wherever possible, this should not only be a read-only layer, but also one that the inhabitants in the home can write and execute. By being conveyed in a simple manner that is understandable to them, yet while offering the ability to modify it to suit their needs, the user gains greater control in their own dwelling. 
+**At the human-readable layer, the user should be able to understand that the actions taken on their behalf, and they should have the ability to modify or opt-out of those actions if they choose.**  
 
-This control is essential for people to live confidently and with dignity in their home. 
+In other words, wherever possible, this should not only be a read-only layer, but also one that the inhabitants in the home **can write and execute.** By being conveyed in a simple manner that is understandable to them, yet while offering the ability to modify it to suit their needs, the user gains greater control in their own dwelling. 
+
+This control is essential for people **to live confidently and with dignity** in their home. 
 
 ## Machine-readable
 
