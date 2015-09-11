@@ -46,10 +46,12 @@ The question now is that if you fill an environment with humans and connected ob
 
 We'd argue there is a need for a layer of interpretation that can advocate on the user's behalf. This might be software or some device that that articulates the users' interests, ensures they are respected by the machines in the environment, and also communicates back what the machines are saying and doing. 
 
-This layer could function like the web browser does today when surfing online. As a user moves through connected environments, there's a layer helping interpret or render that environment for the user. It is a protective layer, sometimes taking action on the user's behalf, such as blocking malware or spam. It is also communicating preferences to the devices and connected environment. It might also be where conflcits are brought to the attention of the user, who can parse and override the machines' decisions. 
+This layer could function like the web browser does today when surfing online. As a user moves through connected environments, there's a layer helping interpret or render that environment for the user. It is a protective layer, sometimes taking action on the user's behalf, such as blocking malware or spam. 
+
+This interpretation layer is also communicating preferences to the devices and connected environment. It might also be where conflicts among devices and preferences are brought to the attention of the user, who can parse and override certain decisions. This could also be the interface for the user to express themselves, either to machines in the environment or to other users.
 
 This layer seems the most ambiguous at the moment, but it's potentially very important to get right. 
 
 ## Key takeaways
 
-To facilitate interactions among users, machines and their connected environments, we need different layers that can be read and modified by those actors. We can adapt a model pioneered by Creative Commons to define these layers. The newest layer, home-readable, is still greatly undefined, but it could be imagine as an advocate for the home's user, similar to a modern web browser.  
+To facilitate interactions among users, machines and their connected environments, we need different layers that can be read and modified by those actors. We can adapt a model pioneered by Creative Commons to define these layers. The newest layer, environment-readable, is still greatly undefined, but it could be imagined as an important advocate for the user, similar to a modern web browser.  
