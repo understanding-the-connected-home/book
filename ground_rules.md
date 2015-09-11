@@ -18,8 +18,10 @@ How would any of these things be communicated? As things stand today, we usually
 
 An overt approach would be labeling: A set of icons that indicate what is collecting data, what is transmitting data, what is analyzing data. What reacts, what just does its thing without requiring our oversights. Which spaces in the apartment are "dead zones" of perfect privacy.
 
-<p><img src="http://www.thewavingcat.com/wp-content/uploads/2015/07/icons.png" alt="icons" width="540" height="158" class="aligncenter size-full wp-image-6753" />
-<em>"Does this thing listen or watch? Does it share data to the cloud?" Some possible connected device engagement icons. Source: Noun Project (eye by <a href="https://thenounproject.com/search/?q=eye&amp;i=6186">Thomas Le Bas</a>, ear by <a href="https://thenounproject.com/search/?q=ear&amp;i=6200">Søren Michelsen</a>, cloud by <a href="https://thenounproject.com/search/?q=wifi&amp;i=123908">Aaron K. Kim</a>).</em></p>
+![icons](https://github.com/understanding-the-connected-home/book/img/icons.png)
+
+_The blunt approach of labeling: A set of icons that indicate what is collecting data, what is transmitting data, what is analyzing data. "Does this thing listen or watch? Does it share data to the cloud?" Some possible connected device engagement icons. Source: Noun Project (eye by <a href="https://thenounproject.com/search/?q=eye&amp;i=6186">Thomas Le Bas</a>, ear by <a href="https://thenounproject.com/search/?q=ear&amp;i=6200">Søren Michelsen</a>, cloud by <a href="https://thenounproject.com/search/?q=wifi&amp;i=123908">Aaron K. Kim</a>)._
+
 
 Labeling does not, of course, scale in the least. It is inelegant, entirely undesirable and takes too much active consideration to be practical in day to day life. It is not, in other words, legible enough to serve its purpose: Just like a legal contract offers all relevant information but isn't really, truly "human-readable", this wouldn't quite do the trick.
 
