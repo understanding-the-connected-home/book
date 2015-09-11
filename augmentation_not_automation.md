@@ -24,7 +24,8 @@ Which brings us back to Doug Engelbart. One of his most famous moments is the fi
 
 That demo went down in the history books (in the interaction design history books at least) as [The Mother of All Demos (video playlist)](https://www.youtube.com/playlist?list=PL76DBC8D6718B8FD3&feature=plcp).
 
-![Doug Engelbart's human-computer interface with mouse](img/dougengelbart_demo.jpg)
+![Doug Engelbart's human-computer interface with mouse](https://github.com/understanding-the-connected-home/book/blob/master/img/dougengelbart_demo.jpg)
+
 _Human-computer interface with mouse. Photo: Doug Engelbart Institute_
 
 If you watch Engelbart's demo (which you should, it's both brilliant and entertaining), you will note that he has to start pretty much with first principles:
@@ -48,7 +49,6 @@ This is a communications challenge on one hand. But more importantly it's a litm
 - Automation is just a first step.
 - The key is augmenting users to solve problems more easily, to give them super powers.
 - Introducing connectivity into a safe place like the home requires a clear value proposition and very good explanation.
-
 
 
 _Thanks to [Scott Jensen](http://www.jenson.org/) for the pointer to Engelbart's work for this context._
