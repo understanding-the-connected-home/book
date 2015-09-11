@@ -31,7 +31,7 @@ A good friend and excellent systems thinker and designer Louisa Heinrich articul
 
 Who moderates these conflicts? What happens when you - the master - are not at home? Here's [Louisa Heinrich](http://louisaheinrich.com) at NEXT14 (esp. starting around the 7min mark):
 
-<iframe src="//video.nextconf.eu/v.ihtml?photo%5fid=9802229" style="width:100%;" width="630" height="355" frameborder="0" border="0" scrolling="no" allowfullscreen="1" mozallowfullscreen="1" webkitallowfullscreen="1"></iframe>
+[![Louisa Heinrich at NEXT](https://github.com/understanding-the-connected-home/book/blob/master/img/talk_louisaheinrich.png)](http://video.nextconf.eu/v.ihtml?photo%5fid=9802229)
 
 The underlying question here is, of course, if automation is really that desirable - it strikes us as a low-hanging fruit and only a small part of the potential upside, but one fraught with downside (see the [Framing The Debate post](http://www.thewavingcat.com/2015/08/07/understanding-the-connected-home-framing-the-debate/) from this very series for more).
 
@@ -43,7 +43,7 @@ Or once more in [Louisa's words](http://www.louisaheinrich.com/2015/03/23/good-h
 
 We still need a bit of a framework to interrogate and explore these conflicts between the smart agents in our environment. Enter [Scott Smith](http://changeist.com) at [ThingsCon](http://thingscon.com) earlier this year and his (most excellent) research project [Thingclash](http://www.thingclash.com/), a framework for considering cross-impacts and implications of colliding technologies, systems, cultures and values around the IoT:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CjcJfGrWKNA" frameborder="0" allowfullscreen></iframe>
+[![Scott Smith at ThingsCon](https://github.com/understanding-the-connected-home/book/blob/master/img/talk_scottsmith.png)](https://www.youtube.com/embed/CjcJfGrWKNA)
 
 As Scott points out starting around the 27 min mark (but we strongly recommend watching the whole talk), it's crucial to think about the legacy of UX decisions, business models, etc., to explore the different cross-impacts, the implications.
 
