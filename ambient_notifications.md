@@ -32,9 +32,9 @@ This kind of **gentle and aesthetically pleasing visual notification** could be 
 
 Continuing on kinds of notifications, we've seen **motors and vibrations used to signal different information** as well. 
 
-The most common example perhaps is your phone, which can vibrate when it receives a call or message. This convention is showing up in wearable electronics, such as fitness trackers and smart watches, that vibrate for certain notifications as well. 
+The most common example perhaps is your phone, which can vibrate when it receives a call or message. **This convention is showing up in wearable electronics,** such as fitness trackers and smart watches, that vibrate for certain notifications as well. 
 
-We could also imagine vibrations being used in the connected home, for example in furniture or appliances that need to signal something. That could come in the form of an alert, or even just to verify that everything's okay. 
+We could also imagine vibrations being used in the connected home, for example in **furniture or appliances that need to signal something.** That could come in the form of an alert, or even just to verify that everything's okay. 
 
 It's still uncharted what information these various vibrations could convey, but Iskander Smit has done some **[thoughtful research and design dismystifying vibration notifications]((https://medium.com/the-startup-magazine-collection/design-for-timely-interactions-b7d7b3ef5d50)**, including the dimensions and range of these signals as well as what parts of the body or environment would convey what kind of information. 
 
