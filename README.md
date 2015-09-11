@@ -2,16 +2,31 @@
 
 <div>
     <img class="left" src="http://www.thewavingcat.com/wp-content/uploads/2014/10/Nina-Zimmermann-IMG_5259-3-300x200.jpg" alt="peter-bihr">
+    <h3>Peter Bihr. <a href="https://twitter.com/peterbihr">@peterbihr</a></h3>
     <p>
-        Peter Bihr. TK
+    Peter Bihr explores the impact of emerging technologies. He founded <a href="http://www.thewavingcat.com">The Waving Cat</a> to help apply the insights through consulting, R&D, conferences and publications.
+    </p>
+    <p>
+    As a strategy advisor, he helps organizations large and small excel in an environment shaped by digitization, connectedness and rapid change.
+    </p>
+    <p>
+    He has co-founded and chaired many acclaimed emerging technology conferences including <a href="http://thingscon.com/">ThingsCon</a>, UIKonf and Cognitive Cities Conference, and serves as co-chair of Interaction16.
     </p>
 </div>
 
 <div>
     <img class="left" src="http://michellethorne.cc/wp-content/uploads/thorne-profile-300-x-200.jpg" alt="michelle-thorne">
+    <h3>Michelle Thorne. <a href="https://twitter.com/thornet">@thornet</a></h3>
     <p>
-        Michelle Thorne. TK
+    Michelle wants to challenge the power structures of the past by making and teaching technology differently. She explores the <a href="http://woft.org/">web of things</a> at the <a href="https://2015.mozillafestival.org/">annual Mozilla Festival</a>, in a co-authored blog, <a href="http://webwiththings.tumblr.com/">Web with Things,</a> as well as <a href="http://michellethorne.cc/2015/06/thingscon-takeaways/">facilitating workshops.</a> 
     </p>
+    <p>
+    As Mozilla's Director of Web Literacy Programs, Michelle designs volunteer-led programs to cultivate leaders who teach and advocate for the web. Through a network of <a href="https://teach.mozilla.org/clubs/">local learning clubs,</a> grassroots teaching campaigns and annual festivals, she's served thousands of mentors teaching the web around the world.  
+    </p>
+    <p>
+    Michelle has a long interest in open design, contributing to <a href="http://opendesignnow.org/"></a>Open Design Now</a>, curating the <a href="http://www.od10beta.info/dmy-maker-lab/">DMY Maker Lab</a> and co-authoring the book <a href="http://en.flossmanuals.net/an-open-web/">An Open Web.</a>  
+    </p>
+
 </div>
 
 <hr>
