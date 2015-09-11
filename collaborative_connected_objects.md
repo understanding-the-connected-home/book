@@ -1,24 +1,9 @@
-# Collaborative connected objects 
+# Shared connected objects 
 
 
 > On the whole, you find wealth much more in use than in ownership. — Aristotle
 
-## The value of use over ownership
-
-The value of sharing resources goes back a long way. Practices like barn raising or the rise of cooperative individualism from the Great Depression are just a few examples. 
-
-The understanding is that the right to use a resource can be just as valuable (or more) than owning the resource. Ownership comes with liability, insurance, maintenance, and storage. This  can make it more costly to own rather than use the resource. 
-
-Nowadays, thanks to networks, we should be able it share resources better. In the last few years, we've seen the rise of businesses who offer on-demand rides, homes, tools, services and more. 
-
-These businesses tend to give access to certain resources in a timely, location-specific way. But they don't always serve well the rights of consumers and laborers in their businesses. 
-
-
-## Characteristics of sharing objects
-
-So, can we distill any important characteristics of Collaborative Consumption? What are the rules of the game? 
-
-Here’s a start.
+## Characteristics of shared connected objects 
 
 * **Critical Mass.** Firstly, you need enough goods or services on offer to make the platform attractive enough for users. Supply draws more demand. Couchsurfing isn’t going to work with two couches on offer.
 
@@ -29,7 +14,6 @@ Here’s a start.
 * **Trust.** This is one of the most important pillars of collaborative consumption. Without trust, you don’t have continued and meaningful participation and growth. Trust has to be cultivated and facilitated. It’s not just available instantly, but grows organically through the service and positive experiences. Clearly defined boundaries of who’s participating and a way to key at bay trolls, spammers, and frauds, and other elements that harm the community. This requires effective monitoring and reputation management, plus graduated sanctions for people who violate community rules.
 
 ## Designing shared objects
-
 
 Building upon these principles and characteristics, I want to offer you a few design challenges.
 
@@ -53,9 +37,3 @@ Building upon these principles and characteristics, I want to offer you a few de
 [Property and Ownership](http://plato.stanford.edu/entries/property/) by Stanford Encyclopedia of Philosophy
 
 [Designing for collaborative consumption](http://michellethorne.cc/2010/12/designing-for-collaborative-consumption/) by Michelle Thorne
-
-
-
-
----- 
-
