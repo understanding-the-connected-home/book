@@ -44,11 +44,11 @@ If done correctly, the machine-readable layer can be incredibly powerful. Howeve
  
 The question now is that if you fill an environment with humans and connected objects, is there a layer that helps the humans navigate everything and to facilitate between humans and machines?
 
-We'd argue there is a need  what does that system need to act as a good advocate for the user? If and what layers should be built so that the users' interests are enacted, much like the web browser does today when surfing online? 
+We'd argue there is a need for a layer of interpretation that can advocate on the user's behalf. This might be software or some device that that articulates the users' interests, ensures they are respected by the machines in the environment, and also communicates back what the machines are saying and doing. 
 
-The home layer (or more generically environment layer) will have to parse what interactions are happening among machines, what the user has indicated as preferences, and perhaps also do some pro-active protection or advocacy on the users' behalf. That could be blocking malicious software or telling devices not to track the home's inhabitants, if they've asked not to be. 
+This layer could function like the web browser does today when surfing online. As a user moves through connected environments, there's a layer helping interpret or render that environment for the user. It is a protective layer, sometimes taking action on the user's behalf, such as blocking malware or spam. It is also communicating preferences to the devices and connected environment. It might also be where conflcits are brought to the attention of the user, who can parse and override the machines' decisions. 
 
-This layer seems the most ambigious at the moment, but it's potentially very important to get right. 
+This layer seems the most ambiguous at the moment, but it's potentially very important to get right. 
 
 ## Key takeaways
 
