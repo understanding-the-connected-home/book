@@ -1,11 +1,11 @@
 # Intro
 
-In May 2015, Science Fiction author Bruce Sterling gave a keynote at ThingsCon[^1], a conference about the internet of things and maker culture that Peter co-organizes in Berlin. In his talk, Bruce introduced a new project he had been working on with his partner Jasmina Tesanovic: Casa Jasmina[^2], the open source connected home of the future. It's a unique research project, an open source investigation of the connected home.
+In May 2015, Science Fiction author Bruce Sterling gave a keynote at [ThingsCon](http://thingscon.com), a conference about the internet of things and maker culture that Peter co-organizes in Berlin. In his [talk](https://www.youtube.com/watch?v=6vtwoUugXrQ), Bruce introduced a new project he had been working on with his partner Jasmina Tesanovic: [Casa Jasmina](http://casajasmina.arduino.cc)[^1], the open source connected home of the future. It's a unique research project, an open source investigation of the connected home.
 
 > It's time to live the life. Just go ahead and build the products and see if you can survive being in a room with them. This is our test bed.
 -- Bruce Sterling at ThingsCon
 
-A few weeks later, in June 2015, we flew to Turin, Italy, along with [Alexandra Deschamps-Sonsino](http://designswarm.com), to visit Casa Jasmina and spend some time with the team, and to see how it would be to live in this home of the future. Because that is what the Casa aims to be: A live-in lab that lets visitors live in the future for a few days, and see what works and what needs fixing: to see if they can survive being in a room with connected products. For that reason, visitors are also invited to bring connected things. We brought a family of Alexandra's Good Night Lamps[^3] (and knew from experience that you cannot just survive being in a room with them, but that it is in fact quite lovely).
+A few weeks later, in June 2015, we flew to Turin, Italy, along with [Alexandra Deschamps-Sonsino](http://designswarm.com), to visit Casa Jasmina and spend some time with the team, and to see how it would be to live in this home of the future. Because that is what the Casa aims to be: A live-in lab that lets visitors live in the future for a few days, and see what works and what needs fixing: to see if they can survive being in a room with connected products. For that reason, visitors are also invited to bring connected things. We brought a family of Alexandra's [Good Night Lamps](http://goodnightlamp.com) (and knew from experience that you cannot just survive being in a room with them, but that it is in fact very lovely).
 
 Ever since [visiting Casa Jasmina](http://www.thewavingcat.com/2015/07/22/visiting-casa-jasmina/) one question we discussed there wouldn't leave us alone - there literally hasn't been a day where the topic hasn't come up, where we haven't been trying to get closer to figuring out answers, or at least better questions: How do we interact with a connected home? How does the space, and the things in it, communicate what's expected of the person, what the ground rules are, what requires interaction and what doesn't? How, in other word, do we know how connected a home is, and in which way?
 
@@ -17,7 +17,7 @@ And yet, we know that connectivity increasingly makes its way into our living ro
 
 Casa Jasmina is a ground breaking lab for exactly these questions, and we're very grateful we got to experience it so early on. 
 
-This publication kicks off an exploration of various aspects of the connected home as well as a large number of questions. It started out as a series of blogposts[^4], but it became obvious early on that we would need to increase the scope sooner rather than later. So in a one week book sprint we aimed to lay the ground work for an ongoing research project. 
+This publication kicks off an exploration of various aspects of the connected home as well as a large number of questions. It started out as a [series of blogposts](http://www.thewavingcat.com/tag/understandingtheconnectedhome/), but it became obvious early on that we would need to increase the scope sooner rather than later. So in a one week book sprint we aimed to lay the ground work for an ongoing research project. 
 
 This collection of content - we consider it a 0.9 version of a book that is still in beta - will help us map out the terrain, and start conversations with future collaborators. It also serves as a pool of content (that is still under development, and will be so for a while to come), a word mine if you will.
 
@@ -27,13 +27,11 @@ We keep writing this in public on Gitbook, and license the content under Creativ
 
 
 
-Peter Bihr & Michelle Thorne
+Peter Bihr & Michelle Thorne  
 Berlin, September 2015
 
-[^1] To learn more and watch ThingsCon talks, visit [thingscon.com](http://thingscon.com)
+  
+  
 
-[^2] Casa Jasmina is a joint research project by Bruce Sterling and Jasmina Tesanovic as well as the Arduino team, represented by Lorenzo Romagnoli and Massimo Banzi. To learn more about Casa Jasmina visit [casajasmina.arduino.cc](http://casajasmina.arduino.cc)
+[^1] Casa Jasmina is a joint research project by Bruce Sterling and Jasmina Tesanovic as well as the Arduino team, represented by Lorenzo Romagnoli and Massimo Banzi. To learn more about Casa Jasmina visit [casajasmina.arduino.cc](http://casajasmina.arduino.cc)
 
-[^3] Check out Good Night Lamp at [goodnightlamp.com](http://goodnightlamp.com)
-
-[^4] See Understanding the Connected Home on [thewavingcat.com](http://www.thewavingcat.com/tag/understandingtheconnectedhome/)
