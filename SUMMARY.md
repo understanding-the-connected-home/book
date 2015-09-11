@@ -27,7 +27,7 @@ By Peter Bihr and Michelle Thorne
     * [How do things communicate their expectations?](how_do_things_communicate_their_expectations.md)
     * [VUCA in your home](vuca_in_your_home.md)
     * [Collaborative connected objects](collaborative_connected_objects.md)
-    * [Ambient Notifications](ambient_notifications.md)
+    * [Ambient notifications](ambient_notifications.md)
     * [The home as user agent](the_home_as_user_agent.md)
 
 * [Conclusion](conclusion.md)
