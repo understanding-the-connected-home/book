@@ -1,3 +1,3 @@
 # Conclusion
 
-What what covered and where from here. How to contirbute to this book. 
+Wherein we summarize what was explored thus far and anticipate how the reflections can continue with your input as well. 
