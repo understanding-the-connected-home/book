@@ -10,16 +10,20 @@ Be it the TV remote, a book, the dining room table, or even the dishes, the conn
 
 What will these shared, connected objects be like? What characteristics will define them? 
 
-Furthermore, when we imagine objects being shared, what if we think about them being used not only within one household, but with neighbors, friends and even the broader world? 
+Furthermore, when we imagine objects being shared, what if we think about them being used not only within one household, but with neighbors, friends and even the broader world? Even at the same time? 
+Normally, **physical objects are "rival goods."** That means if one person has it, no one else can have it. For example, I'm reading a paperback book, and unless you're comfortable reading over someone's shoulder, it's not possible for you to read the book at the same time. 
 
-Normally, physical objects are "rival goods." That means if one person has it, no one else can have it. For example, I'm reading a paperback book, and unless you're comfortable reading over someone's shoulder, it's not possible for you to read the book at the same time. 
+However, **digital things are often "non-rival goods."** That means if I'm reading a digital copy of this book, you can also have a copy on your device that you're reading at the same time. 
 
-However, with digital things, these are "non-rival goods." That means if I'm reading a digital copy of this book, you can also have a copy on your device that you're reading at the same time. 
+**When we add connectivity to an object, could we start to use physical resources in a non-rival way?**
+
+This seems like an incredible opportunity for allocating resources and using them in a responsible and sustainable way. 
+
+How can we build and use objects in the connected home so that others can use them as well? 
+
+## Personalization
 
 
-## Characteristics of shared connected objects 
-
-If this stage of climate change has taught us anything, it's that we should design for things to be used (and reused) to their fullest. That means we have the opportunity to think afresh about objects.
 
 
 * **Personalize shared objects.** Are you familiar with these phones that hold multiple SIM cards? Those are really common in places like Africa where one device is used by multiple people. But each person inserts their own SIM card and all their address books and personal settings are ready for them. The personalization follows the user, not the device. Can we apply this to other devices and services? Cars, printers, refrigerator, coffee machines, or even drills?
