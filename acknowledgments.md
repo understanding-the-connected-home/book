@@ -8,5 +8,7 @@ Grazie mille to the whole Arduino team especially **Lorenzo Romagnoli  and David
 
 It's also such a pleasure to think about and tinker with the connected home together with **Jon Rogers** from the University of Dundee. From faciliating workshops, to inviting us to Fife, and to always bringing a collaborative, open spirit to everything he does, we can't wait to keep exploring the future with you. 
 
+A big thank you for lovely, inspiring and informative chats to **Matt Webb**, **Matt Biddulph** and **Tom Coates**.
+
 A big shoutout to the **Max Kruger, Simon Höher, and Emanuel Schwarz** as fellow conference chairs of ThingsCon. You all are always thinking about how to make great events around this topic. It's amazing working with you. 
 
