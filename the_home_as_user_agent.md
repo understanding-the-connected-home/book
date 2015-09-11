@@ -12,7 +12,7 @@ Borrowing from the **[three-tiered Creative Commons licensing structure](https:/
 
 * human-readable
 * machine-readable
-* home-readable
+* environment-readable
 
 and then explore how this framework could position **the home as a trusted agent that advocates for and protects its user(s).** 
 
@@ -40,9 +40,11 @@ There is a lot of technical work to be done designing this layer well. Through d
 
 If done correctly, the machine-readable layer can be incredibly powerful. However, since it is hard for most people to read it directly, we need to ensure that there are ways to trust and verify what is happening at the machine-to-machine level. That way devices can honor what the user wants and cooperates well with other devices, datasets and systems. 
 
-## Home-readable
+## Environment-readable
  
-The question now is that if you fill an environment with humans and connected objects, is there a system or server that helps to manage and support everything? If so, what does that system need to act as a good advocate for the user? If and what layers should be built so that the users' interests are enacted, much like the web browser does today when surfing online? 
+The question now is that if you fill an environment with humans and connected objects, is there a layer that helps the humans navigate everything and to facilitate between humans and machines?
+
+We'd argue there is a need  what does that system need to act as a good advocate for the user? If and what layers should be built so that the users' interests are enacted, much like the web browser does today when surfing online? 
 
 The home layer (or more generically environment layer) will have to parse what interactions are happening among machines, what the user has indicated as preferences, and perhaps also do some pro-active protection or advocacy on the users' behalf. That could be blocking malicious software or telling devices not to track the home's inhabitants, if they've asked not to be. 
 
