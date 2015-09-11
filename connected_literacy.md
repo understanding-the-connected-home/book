@@ -8,7 +8,7 @@ There are 2.3 billion internet users today, and another billion coming online so
 
 What skills and competencies needed to wield the web in this way? 
 
-Through an open consultation stewarded by the Mozilla Foundation, a group of educational and technology stakeholders created the [Web Literacy Map.](https://teach.mozilla.org/teach-like-mozilla/web-literacy/)
+Through an open consultation stewarded by the Mozilla Foundation, a group of educational and technology stakeholders created the [Web Literacy Map](https://teach.mozilla.org/teach-like-mozilla/web-literacy/).
 
 The goal of defining and teaching web literacy is to help people become critical consumers, contributors and participants on the Web. If people experience the web as critical to their learning, work and social lives they will better understand their role in helping the Web remain open, accessible and a resource for all. 
 
@@ -16,7 +16,7 @@ The goal of defining and teaching web literacy is to help people become critical
 
 The Web Literacy Map is an agreed ‘map of the territory’ from which to build resources and curricula to teach the web. This is a descriptive rather than prescriptive map. That is to say people and organizations can align with it no matter what context they are working in - and no matter what level they are working at. 
 
-The whitepaper ["Why Mozilla cares about Web Literacy"](https://mozilla.github.io/webmaker-whitepaper/) explains[^1]:   
+The whitepaper ["Why Mozilla cares about Web Literacy"](https://mozilla.github.io/webmaker-whitepaper/) explains:  
 
 > Other candidate terms such as ‘digital literacy’ and ‘information literacy’ seem too wide-ranging and ambiguous to adequately cover the web. Possible alternatives such as ‘media literacy’ and ‘computational thinking’ certainly overlap with web literacy, but there is something sufficiently unique about ‘web literacy’ to be worth of attention.
 
@@ -113,19 +113,3 @@ Lessig, L. (1999). Code and Other Laws of Cyberspace. New York: Basic Books.
 New London Group. (1996). A pedagogy of multiliteracies: Designing social futures. Harvard Education Review 66(1), 60–92.
 
     In this classic article, a collection of academics known as New London Group present a new approach that they call "multiliteracies."
-
-
--------
-
-[1]: Web Literacy whitepaper: https://mozilla.github.io/webmaker-whitepaper/ 
-
-
-
-
-
----
-
-
-Connected learning is based on research that people learn best if they can combine their personal passions with rigorous academic scaffolding and to make projects with friends, peers and educators. Open networks make this learning possible.
-
-We unified our efforts in education in the Mozilla Learning Network. We serve our mission by teaching digital skills in local communities through interest-driven learning and making.

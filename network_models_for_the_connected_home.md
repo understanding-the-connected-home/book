@@ -8,8 +8,6 @@ This is as much a philosophical question as one of maintenance and business mode
 
 They also represent control in the literal sense, and hence power: Depending on the model, different actors (hardware manufacturers, software developers, standards) are allowed to have more or less power over the network - and hence our homes. Which makes this a key question.
 
-Of course all of these are just theoretical models, so they can be implemented more or less "pure". Hybrids are possible and likely to happen.
-
 ## Master/slave
 
 In a master/slave scenario, there's a centralized control unit (the master) that coordinates what's going on in the network. This could be built into the router or be a smart phone app. It's clearly top-down.
@@ -27,6 +25,8 @@ Google's architecture tends to be also relatively centralized, but not quite as 
 Then there's the mesh, the counterpoint to master/slave architecture in that is fully decentralized. Every node in the network helps distribute and coordinate the flow of data. This is what traditionally the open source community would favor. 
 
 It is the most open in that new nodes can be added at any time, that every node has to strictly adhere to standards to play along but there is no central integrator at play. A mesh or peer-to-peer style architecture is both the messiest, and the most resilient.
+
+Of course all of these are just theoretical models, so they can be implemented more or less "pure". Hybrids are possible and likely to happen.
 
 ## Key takeaways
 

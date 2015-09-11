@@ -40,7 +40,7 @@ As for adaption of connectivity inside our homes, we have no doubt that it will 
 
 We assume that the ways this will happen will seem odd for a while, and that it will happen not along the lines of well-established metaphors like automation or personalization: These will likely seem as quirky and ridiculous in hindsight as the futuristic computerized kitchen did in the 1950s (both in terms of gender roles and the technological aspects):
 
-[![retro future kitchen](https://github.com/understanding-the-connected-home/book/blob/master/img/retrofuturekitchenvideo.png)](https://www.youtube.com/embed/hZG36dhhbx0)
+[![retro future kitchen](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/retrofuturekitchenvideo.png)](https://www.youtube.com/embed/hZG36dhhbx0)
 
 Rather, the smart will manifest in ways both banal and novel, and the vector will (hopefully, and most likely) be smarts that are "on the user", in whichever way. If we had to guess, we'd say they will be probably fairly low-tech, bottom up interventions that just make things a little easier, more interesting, more useful: **A connected home should help us be more human, more ourselves.**
 

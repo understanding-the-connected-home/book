@@ -20,7 +20,7 @@ All that said, as a guest, you certainly have some rights or courtesies afforded
 
 What does etiquette look like from the host's perspective?
 
-* **Communicate your connectivity preferences.** Just like your guests, it's good for you to communicate your preferences in advance and then again upon arrival as a reminder. This could mean asking for certain kinds of objects or sensors to be turned off or not brought into the home.[^1] It could be the opposite, and a request for them to bring a certain kind of connectivity because you need it to prepare the meal or heat the home or some other function. 
+* **Communicate your connectivity preferences.** Just like your guests, it's good for you to communicate your preferences in advance and then again upon arrival as a reminder. This could mean asking for certain kinds of objects or sensors to be turned off or not brought into the home. (We saw this dynamic play out with Google Glass nicely over the last couple of years.) It could be the opposite, and a request for them to bring a certain kind of connectivity because you need it to prepare the meal or heat the home or some other function. 
 * **Prepare a guest information pack.** We've all experienced what it's like to ask someone for the wifi password in their home. You can prepare an info pack in advance or leave one in a prominent location in your home so that your guests have all the access info they need. This could be guest passwords to your home server, instructions for changing the settings on certain objects, or other advice and logins for your connected home. 
 * **Allow guests to opt-out.** That said, it's always good form to allow your guests to have the option of opting out. Your role is to make them feel comfortable and welcome. If you have different preferences for going about connected spaces, give them a graceful way to not take part. 
 * **Anticipate needs.** It's an amazing feeling to have a host that provides something even before you realized you needed it. Carry that forward and think of what your guest might want or need during their visit and plan accordingly. This could be food, toiletries, and linens. Or it could providing enough power outlets for them to recharge their devices or lending them the adapters they might need.
@@ -43,5 +43,3 @@ Nevertheless, the connected home will pose new ways we'll have to navigate these
 [How to Be the Perfect Host in the 21st Century](http://lifehacker.com/5606282/how-to-be-the-perfect-host-in-the-21st-century) by Jason Fitzpatrick
 
 [Casa Jasmina: How to be a guest in an open source connected home](http://michellethorne.cc/2015/07/casa-jasmina-how-to-be-a-guest-in-an-open-source-connected-home/) by Michelle Thorne
-
-[1]: We saw this dynamic play out with Google Glass nicely over the last couple of years.
