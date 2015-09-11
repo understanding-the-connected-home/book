@@ -1,14 +1,14 @@
-# About the authors
+<h1> About the authors </h1>
 
 <div>
-    <img src="http://www.thewavingcat.com/wp-content/uploads/2014/10/Nina-Zimmermann-IMG_5259-3-300x200.jpg">
+    <img class="left" src="http://www.thewavingcat.com/wp-content/uploads/2014/10/Nina-Zimmermann-IMG_5259-3-300x200.jpg" alt="peter-bihr">
     <p>
         Peter Bihr. TK
     </p>
 </div>
 
 <div>
-    <img src="http://michellethorne.cc/wp-content/uploads/thorne-profile-300-x-200.jpg">
+    <img class="left" src="http://michellethorne.cc/wp-content/uploads/thorne-profile-300-x-200.jpg" alt="michelle-thorne">
     <p>
         Michelle Thorne. TK
     </p>
@@ -41,7 +41,7 @@ This collection of content - we consider it a 0.9 version of a book that is stil
 
 We don't know yet where it will lead us, but we invite you to come along for the ride and join the conversation. 
 
-We keep writing this in public on Gitbook, and license the content under Creative Commons (by-nc-sa), so you can adapt and re-use the content, too. If you'd like to get more heavily involved, please get in touch.
+We keep writing this in public on Gitbook, and license the content under a [Creative Commons Attribution Non-Commercial license (BY-NC)](http://creativecommons.org/licenses/by-nc/4.0/), so you can adapt and re-use the content, too. If you'd like to get more heavily involved, please get in touch.
 
 
 
