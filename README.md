@@ -38,7 +38,7 @@ In May 2015, the science fiction author Bruce Sterling gave a keynote at [Things
 > It's time to live the life. Just go ahead and build the products and see if you can survive being in a room with them. This is our test bed.
 -- Bruce Sterling at ThingsCon
 
-A few weeks later, in June 2015, we flew to Turin, Italy, along with [Alexandra Deschamps-Sonsino](http://designswarm.com), to visit this live-in lab Casa Jasmina and spend some time with the team. We were curious to see how it would be to live in and contribute to this home of the future. 
+A few weeks later, in June 2015, we flew to Turin, Italy, along with [Alexandra Deschamps-Sonsino](http://designswarm.com), to visit this live-in lab Casa Jasmina and spend some time with the team. We were curious to see how it would be to live in and contribute to this home of the future. Casa Jasmina is a ground breaking lab for exactly these questions, and we're very grateful we got to experience it so early on. 
 
 Ever since [visiting](http://michellethorne.cc/2015/07/casa-jasmina-how-to-be-a-guest-in-an-open-source-connected-home/) [Casa Jasmina](http://www.thewavingcat.com/2015/07/22/visiting-casa-jasmina/), there are questions that wouldn't leave us alone. There hasn't been a day where the "connected home" hasn't come up, where we haven't been trying to get closer to figuring out answers, or at least better questions. 
 
@@ -49,8 +49,6 @@ We asked a great number of smart and experienced people for their thoughts. It s
 We know that connectivity increasingly makes its way into our living rooms, kitchens and bedrooms. Into our smoke detectors, lights, door locks, kitchen scales and ovens. We bring in more connectivity through fitness tracking wristbands and our phones and tablets, and take it along when we get into the driving computers that are our cars.
 
 **Understanding the connected home - how it can be structured it, how it can be designed, how we can engage with it and turn it off - these questions will be essential for living in this century.**
-
-Casa Jasmina is a ground breaking lab for exactly these questions, and we're very grateful we got to experience it so early on. 
 
 This publication kicks off an exploration of various aspects of the connected home. It started out as a [series of blogposts](http://www.thewavingcat.com/tag/understandingtheconnectedhome/), but it became clear that we would want to increase the scope. So in a one week book sprint, we put down the ground work for an ongoing research project. 
 
