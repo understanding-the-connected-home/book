@@ -37,25 +37,25 @@ If we have pseudo-non-rival goods being shared, how do we facilitate trust? It m
 
 We'll have to build ways to delineate to whom you grant permission to use your objects. There will be ways to protect those objects from spam and fraud, as well as monitoring usage so that you can ensure it's been treated well. 
 
+## Modularity
 
-## Designing shared objects
+Because shared connected objects will get a lot of usage (hopefully), they should be built in a way that makes it easy to repair them. 
 
-Building upon these principles and characteristics, I want to offer you a few design challenges.
+[Fairphone](https://www.fairphone.com/) is a great example of a device that uses its modular design to enable repair and upgrades without having to toss out the whole thing. 
 
-* **Create open layers.** Think about interoperability across key components. How can you use open standards to enable remix, modification, and improvements across products? How can open layers be applied to motors, power cords, outlets, connectors, joints, nibs for maximal customization and range of use?
+We should foster this kind of modular design, as it will help make more sustainable objects as well as objects that are more shareable. 
 
-* **Build modularity.** Relatedly, shared objects should be easy to repair and amend. You shouldn’t have to throw away your entire phone because it’s scratched. Building modularity means fostering generativity.
+## Value added through usage.
 
-* **Value added through usage.** I think this is one of the most powerful design challenges. Think about an object that doesn’t depreciate with use, but is instead improved by it. One example is a baseball mitt. When you first buy it, it’s very stiff and hard to catch a ball with. Over time, with use, it becomes more flexible and a better product.
+Could we make shared objects that don't depreciate with use, but are instead improved by it? 
 
-* **[Data usage.]** That’s just on the physical layer. What about value added on a data layer? Think about how objects can learn from behaviors the more they’re used. Like by collecting more data points. Or where the user contributes metadata, like marginalia, reviews, and fact checking for books.
+There are examples of this behavior in some traditional rival goods. Take for example the baseball mitt. When you first buy it, it’s very stiff and hard to catch a ball with. Over time, with use, it becomes more flexible and a better product.
 
-
-
-* **Diversify Libraries.** Libraries are not just for books. Think about other ways to pool resources, be it for commercial or community aims. You could have tool libraries, or ones for electronics, cooking appliances, moving boxes/materials, jewelry and accessories, holiday decorations, toys, you name it.
-
+When we make and use connected objects, how could they improve over time? How could sharing be incentivised, so that there's not as much idling capacity and that objects are being put to full use?  
 
 ## Key takeaways
+
+Shared connected objects offer a way to use physical good in a non-rivaling way. Through personalization and modularity, we can design and prepare for fuller shared usage, and with trust management better navigate who can use what object. In turn, we can imagine how shared objects gain value the more they are used, which could lead to a more sustainable appreciation of physical goods. 
 
 ## Further reading
 
