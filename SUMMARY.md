@@ -28,7 +28,7 @@ By Peter Bihr and Michelle Thorne
     * [VUCA in your home](vuca_in_your_home.md)
     * [Collaborative connected objects](collaborative_connected_objects.md)
     * [Ambient Notifications](ambient_notifications.md)
-    * [Human, machines and homes knowing how to read](human_machines_and_homes_knowing_how_to_read.md)
+    * [The home as user agent](the_home_as_user_agent.md)
 
 * [Conclusion](conclusion.md)
     * [Where from here](where_from_here.md)
