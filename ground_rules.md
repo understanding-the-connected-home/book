@@ -18,7 +18,7 @@ How would any of these things be communicated? As things stand today, we usually
 
 An overt approach would be labeling: A set of icons that indicate what is collecting data, what is transmitting data, what is analyzing data. What reacts, what just does its thing without requiring our oversights. Which spaces in the apartment are "dead zones" of perfect privacy.
 
-![icons](https://github.com/understanding-the-connected-home/book/img/icons.png)
+![icons](https://github.com/understanding-the-connected-home/book/tree/master/img/icons.png)
 
 _The blunt approach of labeling: A set of icons that indicate what is collecting data, what is transmitting data, what is analyzing data. "Does this thing listen or watch? Does it share data to the cloud?" Some possible connected device engagement icons. Source: Noun Project (eye by <a href="https://thenounproject.com/search/?q=eye&amp;i=6186">Thomas Le Bas</a>, ear by <a href="https://thenounproject.com/search/?q=ear&amp;i=6200">Søren Michelsen</a>, cloud by <a href="https://thenounproject.com/search/?q=wifi&amp;i=123908">Aaron K. Kim</a>)._
 

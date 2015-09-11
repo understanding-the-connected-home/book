@@ -16,7 +16,7 @@ There are three aspects to this:
 
 The first aspect might be tackled through increased labeling to make the situation more human-readable: A set of icons to indicate active engagement v passive sensing, for example. This is not very elegant and a stop-gap measure at best. On the machine-readable side of things this might work ok, if we can find standards that make all smart things compatible reliably. From today's point of view, that's still some way off.
 
-![icons](https://github.com/understanding-the-connected-home/book/img/icons.png)
+![icons](https://github.com/understanding-the-connected-home/book/tree/master/img/icons.png)
 
 _The blunt approach of labeling: A set of icons that indicate what is collecting data, what is transmitting data, what is analyzing data. "Does this thing listen or watch? Does it share data to the cloud?" Some possible connected device engagement icons. Source: Noun Project (eye by <a href="https://thenounproject.com/search/?q=eye&amp;i=6186">Thomas Le Bas</a>, ear by <a href="https://thenounproject.com/search/?q=ear&amp;i=6200">Søren Michelsen</a>, cloud by <a href="https://thenounproject.com/search/?q=wifi&amp;i=123908">Aaron K. Kim</a>)._
 
