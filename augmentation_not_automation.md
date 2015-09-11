@@ -24,7 +24,7 @@ Which brings us back to Doug Engelbart. One of his most famous moments is the fi
 
 That demo went down in the history books (in the interaction design history books at least) as [The Mother of All Demos (video playlist)](https://www.youtube.com/playlist?list=PL76DBC8D6718B8FD3&feature=plcp).
 
-![Doug Engelbart's human-computer interface with mouse](https://github.com/understanding-the-connected-home/book/blob/master/img/dougengelbart_demo.jpg)
+![Doug Engelbart's human-computer interface with mouse](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/dougengelbart_demo.jpg)
 
 _Human-computer interface with mouse. Photo: Doug Engelbart Institute_
 

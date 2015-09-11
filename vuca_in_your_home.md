@@ -47,7 +47,7 @@ With those come complex interrelations and dependencies, and in turn challenges 
 
 > A = Ambiguity. The haziness of reality, the potential for misreads, and the mixed meanings of conditions; cause-and-effect confusion.
 
-Loads of it. Tons of it. By inviting not just human actors but also algorithmic agents into our homes, we will see conflicts and ambiguous demands/requirements/wishes/agendas play out constantly. (See also [Managing Conflict](TK: INTERNAL LINK).)
+Loads of it. Tons of it. By inviting not just human actors but also algorithmic agents into our homes, we will see conflicts and ambiguous demands/requirements/wishes/agendas play out constantly.
 
 Let's use our window of opportunity to anticipate as many of these potential issues and come up with good, sustainable ways of handling them.
 
