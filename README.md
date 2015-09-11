@@ -1,9 +1,9 @@
 <h1> About the authors </h1>
 
 <div>
-    
+    <img class="left" src="http://www.thewavingcat.com/wp-content/uploads/2014/10/Nina-Zimmermann-IMG_5259-3-300x200.jpg" alt="peter-bihr">
     <h3>Peter Bihr | <a href="https://twitter.com/peterbihr">@peterbihr</a></h3>
-    <p><img class="left" src="http://www.thewavingcat.com/wp-content/uploads/2014/10/Nina-Zimmermann-IMG_5259-3-300x200.jpg" alt="peter-bihr">
+    <p>
     Peter Bihr explores the impact of emerging technologies. He founded <a href="http://www.thewavingcat.com">The Waving Cat</a> to help apply the insights through consulting, R&D, conferences and publications.
     </p>
     <p>
@@ -15,9 +15,9 @@
 </div>
 
 <div>
-    
+    <img class="left" src="http://michellethorne.cc/wp-content/uploads/thorne-profile-300-x-200.jpg" alt="michelle-thorne">
     <h3>Michelle Thorne | <a href="https://twitter.com/thornet">@thornet</a></h3>
-    <p><img class="left" src="http://michellethorne.cc/wp-content/uploads/thorne-profile-300-x-200.jpg" alt="michelle-thorne">
+    <p>
     Michelle wants to challenge the power structures of the past by making and teaching technology differently. She explores the <a href="http://woft.org/">web of things</a> at the <a href="https://2015.mozillafestival.org/">annual Mozilla Festival</a>, in a <a href="http://webwiththings.tumblr.com/">co-authored blog with Jon Rogers</a> and by <a href="http://michellethorne.cc/2015/06/thingscon-takeaways/">facilitating workshops.</a> 
     </p>
     <p>
