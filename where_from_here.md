@@ -8,5 +8,5 @@ That's the fun of writing something like this.
 
 Over the coming years, we anticipate many ways to continue these reflections. Be it organizing events like **ThingsCon** and **Mozfest**, to **facilitating workshops** and **designing curriculum**, to **further writing and prototyping**, we're excited to make and learn with a growing community of people interested in the connected home. 
 
-As for yourself, what aspects of the connected home interest you the most? Where do you see the biggest challenges? In what ways do you see youself and your loved ones engaging with and learning about these future living spaces? What could you be doing today that prepares for building and understanding a more humane, connected home?
+As for yourself, what aspects of the connected home interest you the most? **Where do you see the biggest challenges?** In what ways do you **see yourself and your loved ones** engaging with and learning about these future living spaces? **What could you be doing today** that prepares for building and understanding a more humane, connected home?
 
