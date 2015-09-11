@@ -1,3 +1,21 @@
+# About the authors
+
+<div>
+    <img src="http://www.thewavingcat.com/wp-content/uploads/2014/10/Nina-Zimmermann-IMG_5259-3-300x200.jpg">
+    <p>
+        Peter Bihr. TK
+    </p>
+</div>
+
+<div>
+    <img src="http://michellethorne.cc/wp-content/uploads/thorne-colorful-profile.jpg" size="300px">
+    <p>
+        Michelle Thorne. TK
+    </p>
+</div>
+
+<hr>
+
 # Intro
 
 In May 2015, Science Fiction author Bruce Sterling gave a keynote at [ThingsCon](http://thingscon.com), a conference about the internet of things and maker culture that Peter co-organizes in Berlin. In his [talk](https://www.youtube.com/watch?v=6vtwoUugXrQ), Bruce introduced a new project he had been working on with his partner Jasmina Tesanovic: [Casa Jasmina](http://casajasmina.arduino.cc)[^1], the open source connected home of the future. It's a unique research project, an open source investigation of the connected home.
