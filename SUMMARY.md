@@ -13,6 +13,7 @@ Data and Infrastructure
 * [Who has root access to your home](who_has_root_access_to_your_home.md)
 * [Personal data sphere](personal_data_sphere.md)
 * [Network models for the connected home](network_models_for_the_connected_home.md)
+* [Different kinds of things](different_kinds_of_things.md)
 * [Factory reset](factory_reset.md)
 
 Behavior and Know-How
@@ -25,15 +26,18 @@ Behavior and Know-How
 
 Design and Interaction
 
+* [Augmentation not automation](augmentation_not_automation.md)
 * [How do things communicate their expectations?](how_do_things_communicate_their_expectations.md)
 * [VUCA in your home](vuca_in_your_home.md)
+* [Collaborative connected objects](collaborative_connected_objects.md)
 * [Ambient Notifications](ambient_notifications.md)
 * [Human, machines and homes knowing how to read](human_machines_and_homes_knowing_how_to_read.md)
-* [Collaborative connected objects](collaborative_connected_objects.md)
-* [Augmentation not automation](augmentation_not_automation.md)
-* [Different kinds of things](different_kinds_of_things.md)
 
+Conclusion
 
+* [Where from here](tbd.md)
+* [Acknowledgements](acknowledgements.md)
+* [How to contribute to this book](how_to_contribute_to_this_book.md)
 
 
 
