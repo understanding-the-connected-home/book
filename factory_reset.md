@@ -14,7 +14,7 @@ Most failure situations in a connected home are likely to be variations of:
 
 Those siutations are dire enough. But what happens in case of a more fundamental crash? What does the [blue screen of death](https://en.wikipedia.org/wiki/Blue_Screen_of_Death) look like for a home?
 
-<a href="https://commons.wikimedia.org/wiki/File:Windows_9X_BSOD.png#/media/File:Windows_9X_BSOD.png"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Windows_9X_BSOD.png" alt="Windows 9X BSOD.png"></a><br>"<a href="https://commons.wikimedia.org/wiki/File:Windows_9X_BSOD.png#/media/File:Windows_9X_BSOD.png">Licensed under Public Domain via <a href="https://commons.wikimedia.org/wiki/">Commons</a>.
+<a href="https://commons.wikimedia.org/wiki/File:Windows_9X_BSOD.png#/media/File:Windows_9X_BSOD.png"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Windows_9X_BSOD.png" alt="Windows 9X BSOD.png"></a><br>"<a href="https://commons.wikimedia.org/wiki/File:Windows_9X_BSOD.png#/media/File:Windows_9X_BSOD.png">Licensed under Public Domain via Commons</a>.
 
 Can you reboot your apartment? How? Have you tried turning it off and on again?
 
