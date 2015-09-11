@@ -1,7 +1,8 @@
 # Shared connected objects 
 
-
 > On the whole, you find wealth much more in use than in ownership. — Aristotle
+
+As anyone who's lived in a shared household can attest, there will be objects that you share with others. Be it the TV remote, the dining room table, or even the dishes, the connected home will not doubt be filled with objects that will be used by multiple people, sometimes simultaneously and sometimes even without the owners permission.  
 
 ## Characteristics of shared connected objects 
 
