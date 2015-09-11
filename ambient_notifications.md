@@ -1,9 +1,8 @@
 # Ambient Notifications
 
-As you go about your day in your connected home, it'd be a bit nightmarish to have a million blinking lights and glowing displays conveying to you the status of every possible device. 
+As you go about your day in your connected home, it'd be **a bit nightmarish to have a million blinking lights** and glowing displays conveying to you the status of every possible device. 
 
 Instead, how can we design less intrusive and more aesthetically pleasing notifications? 
-
 
 ## Soundscapes
 
