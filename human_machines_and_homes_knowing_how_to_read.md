@@ -1,6 +1,6 @@
-# Humans, machines and homes knowing how to read
+# The home as a user agent
 
-As outlined elewhere [TK LINK], there are likely three kinds of interactions in a connected home: 
+There are likely three kinds of interactions in a connected home: 
 
 * user-to-user
 * user-to-machine
