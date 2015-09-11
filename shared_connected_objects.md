@@ -23,16 +23,20 @@ How can we build and use objects in the connected home so that others can use th
 
 ## Personalization
 
+If we're going to be sharing connected objects, we may want to personalize them when we're using them. 
 
+How can we design objects that support multiple users, for example managing different preferences or appearances depending on who's using it. 
 
+Even if you have one person using a connected object, they may want to switch between different user personas. Today it's common to see phones with two SIM cards. This allows the user to toggle the phone plan and operator, plus other preferences, that suit them. 
 
-* **Personalize shared objects.** Are you familiar with these phones that hold multiple SIM cards? Those are really common in places like Africa where one device is used by multiple people. But each person inserts their own SIM card and all their address books and personal settings are ready for them. The personalization follows the user, not the device. Can we apply this to other devices and services? Cars, printers, refrigerator, coffee machines, or even drills?
+Could we apply this kind of personalization to other devices and services, like household appliances, furniture and even environmental controls? 
 
-**Idling Capacity.** This is about spare cycles. All the unused, material surplus that bolsters collaborative consumption. And it not just about products that sit unused on storage shelves, but also untapped skills, times, spaces. These resources have to be available, like in the drill example, and sharable.
+## Trust management
 
-**Commons Governance.** For these platforms to work, you need appropriate mechanisms for collaboration within legal, social and technical frameworks. There are great tools for this, and definitely the potential to develop more. Conflict resolution has to be cheap and easy, and resource providers need ways to participate in the decision-making process.
+If we have pseudo-non-rival goods being shared, how do we facilitate trust? It might be easy to trust your family living in the home with you, but what if you lend your connected drill to a friend of a friend, or offer it in a neighbor tool forum? 
 
-**Trust.** This is one of the most important pillars of collaborative consumption. Without trust, you don’t have continued and meaningful participation and growth. Trust has to be cultivated and facilitated. It’s not just available instantly, but grows organically through the service and positive experiences. Clearly defined boundaries of who’s participating and a way to key at bay trolls, spammers, and frauds, and other elements that harm the community. This requires effective monitoring and reputation management, plus graduated sanctions for people who violate community rules.
+We'll have to build ways to delineate to whom you grant permission to use your objects. There will be ways to protect those objects from spam and fraud, as well as monitoring usage so that you can ensure it's been treated well. 
+
 
 ## Designing shared objects
 
