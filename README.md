@@ -8,7 +8,7 @@
 </div>
 
 <div>
-    <img src="http://michellethorne.cc/wp-content/uploads/thorne-colorful-profile.jpg" size="300px">
+    <img src="http://michellethorne.cc/wp-content/uploads/thorne-profile-300-x-200.jpg">
     <p>
         Michelle Thorne. TK
     </p>
