@@ -10,5 +10,7 @@ It's also such a pleasure to think about and tinker with the connected home toge
 
 A big thank you for lovely, inspiring and informative chats to **Matt Webb**, **Matt Biddulph** and **Tom Coates**.
 
-A big shoutout to the **Max Kruger, Simon Höher, and Emanuel Schwarz** as fellow conference chairs of ThingsCon. You all are always thinking about how to make great events around this topic. It's amazing working with you. 
+**Louisa Heinrich** and **Scott Smith** have been doing tremendous work in this field, and conversations with them, as well as their massive output, have been priceless. Thank you! Please read & watch everything they produce. 
+
+A big shoutout to the **Max Krüger, Simon Höher, and Emanuel Schwarz** as fellow conference chairs of ThingsCon. You all are always thinking about how to make great events around this topic. It's amazing working with you. 
 
