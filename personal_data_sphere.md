@@ -10,7 +10,7 @@ Lots of current scenarios for smart buildings advertise personalization and adap
 
 This is legit, and in fact might play an important role - for example, [Philips research suggests](http://www.newscenter.philips.com/main/standard/news/press/2015/20150318-philips-calls-for-a-rethink-of-office-lighting-to-meet-the-needs-of-an-ageing-workforce.wpd) that older workforce requires much brighter light than younger workforce, and that the brightness of light at the workplace has serious impact on well-being.
 
-So upon entering your home, or room (in shared living arrangements), or hotel room/rental apartment (in temporary/travel housing), it would make sense to communicate your prefences to the building so it can adapt accordingly. 
+So upon entering your home, or room (in shared living arrangements), or hotel room/rental apartment (in temporary/travel housing), it would make sense to communicate your preferences to the building so it can adapt accordingly. 
 
 **We are surrounded by a sphere of personal data that moves through time and space with us, and it might linger here and there.**
 
