@@ -43,7 +43,7 @@ One key aspect to this happens at the product design level, where designers of c
 
 The other aspect is the negotiating of agreements on a (semi-)automatic level. Even more than on the web, in the physical space we need to be in control of our privacy. 
 
-CCTV cameras in the public space are *somewhat* controversial because they do not help prevent crimes but increase the level of surveillance; wifi sniffing trash cans (like implemented, [then abandoned](http://www.cnet.com/news/london-tosses-out-wi-fi-sniffing-smart-bins/), in London a few years back), crossed the line. This is a case-by-case negotation of what's acceptable in the public environment.
+CCTV cameras in the public space are *somewhat* controversial because they do not help prevent crimes but increase the level of surveillance; wifi sniffing trash cans (like implemented, [then abandoned](http://www.cnet.com/news/london-tosses-out-wi-fi-sniffing-smart-bins/), in London a few years back), crossed the line. This is a case-by-case negotiation of what's acceptable in the public environment.
 
 In homes - both permanent and temporary - tougher rules should apply. **Privacy is key, and strict privacy protection must be the default. We need opt-in, not opt-out, to the sharing of personal information.**
 
