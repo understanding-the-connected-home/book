@@ -26,7 +26,7 @@ This also means it was time to revisit the essays. For this new and updated vers
 
 As always, we look forward to hearing about your thinking and hope to talk to you online or face-to-face.
 
-[1]: http://designswarm.com
+[1]: [http://designswarm.com](http://designswarm.com)
 [2]: http://thegoodhome.org
 [3]: http://iohanna.com
 [4]: http://interaction16.ixda.org
