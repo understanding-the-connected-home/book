@@ -12,10 +12,10 @@ Our lense is that of experience, insight and soft influence - we are involved in
 
 For us, this book has also been the starting point for a number of projects & conversations. Since the publication of v1 we have had plenty of opportunities to further our thinking and following up on some of the threads and questions we addressed before: 
 
-- September 2015: In collaboration with [Alexandra Deschamps-Sonsino] [1], Peter launched [The Good Home Project] [2] to explore the same set of questions this book addresses through design proposals
+- September 2015: In collaboration with Alexandra Deschamps-Sonsino [^1], Peter launched The Good Home Project [^2] to explore the same set of questions this book addresses through design proposals
 - January 2016: Michelle took on a new role at Mozilla Foundation as Director of the Open IoT Studio
 - March 2016: Peter co-chaired Interaction16[4], a conference that gathered the global interaction design community in Helskinki where many questions of designing connected experiences, services and products were discussed indepth
-- April 2016: The Good Home Project, with contributions from [Iohanna Nicenboim] [3] and Michelle  exhibited at Fuori Salone in Milan
+- April 2016: The Good Home Project, with contributions from Iohanna Nicenboim[^3] and Michelle  exhibited at Fuori Salone in Milan
 - April 2016: Michelle initiated a series of design sprints around privacy and the connected home starting with the [Mozilla Open IoT Design Sprint Berlin in April 2016] [5]
 - April 2016: A research report and set of policy recommendations that Peter co-authored with Prof. Dr. Christoph Bieber for the German government on smart cities and their implications for citizens was [published] [7]
 - The whole time, [ThingsCon] [6] (a conference series Peter co-founded in 2014) spawned numerous local community events that explore the techniques, design and ethics of connected products and services.
