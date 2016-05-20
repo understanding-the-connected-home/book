@@ -22,11 +22,15 @@ One exploration of simplified privacy interfaces was a direct result of our work
 [1]: http://thegoodhome.org/projects/privacy-dimmer/
 
 
-TK: PHOTO OF PRIVACY DIMMER
+![Privacy Dimmer at The Good Home Milan](/img/thegoodhome_privacydimmer1.jpg)
+_The Privacy Dimmer at The Good Home. Milan, April 2016._
 
-For the [Milan installment of The Good Home project] [2], we created a series of explorations. The exhibition consisted of a number of speculative designs and conceptual prototypes, two of them directly relevant to how we could think about privacy and UX.
+![Privacy Dimmer at The Good Home Milan](/img/thegoodhome_privacydimmer2.jpg)
+_The Privacy Dimmer at The Good Home. Milan, April 2016._
 
-[2]: http://thegoodhome.org/milan/
+For the Milan installment of The Good Home project [^2], we created a series of explorations. The exhibition consisted of a number of speculative designs and conceptual prototypes, two of them directly relevant to how we could think about privacy and UX.
+
+[^2]: http://thegoodhome.org/milan/
 
 **The Privacy Dimmer: Privacy isn't binary, it's a spectrum**
 Just like a light dimmer does not just allow to switch on or off the light but to turn it down gradually, a Privacy Dimmer would give more gradual control over the amount of sensing/smartness/data processing going on in the home at any given time. Privacy is a spectrum, and it is highly contextual. 
@@ -55,15 +59,15 @@ For example, we might choose as a default to agree to a minimum of sensing, say 
 **Privacy Machines: Exploring privacy through the metaphor of time**
 At the Mozilla Open IoT design sprint in Berlin, my group worked on Privacy Machines Inc, a fictional company's privacy products.[^3] 
 
-privacy_machines_poster.jpg
+![Privacy Machines at the Mozilla Open IoT design sprint](/img/privacy_machines_poster.jpg)
 _Privacy Machines at the Mozilla Open IoT design sprint, Berlin April 2016._
 
 One of these machines was the Wayback Machine: A little box that explored privacy and control over privacy in the home through the metaphor of time. Concretely, it would switch off various media-related technologies one by one - much like the privacy dimmer - in reverse chronological order in which they were introduced: Go back to 2013 and most smart home products would have stopped working; turn the dial back to 2004 and you would have lost access to Youtube, Facebook, Twitter. Go back to 1996 and your internet access might be turned off.
 
-privacy_machines_top.jpg
+![Privacy Machines at the Mozilla Open IoT design sprint](/img/privacy_machines_top.jpg)
 _Privacy Machines at the Mozilla Open IoT design sprint, Berlin April 2016._
 
-privacy_machines_front.jpg
+![Privacy Machines at the Mozilla Open IoT design sprint](/img/privacy_machines_front.jpg)
 _Privacy Machines at the Mozilla Open IoT design sprint, Berlin April 2016._
 
 The Wayback Machine plays with two notions: 
