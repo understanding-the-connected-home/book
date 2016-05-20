@@ -30,6 +30,7 @@ By Peter Bihr and Michelle Thorne
     * [Shared connected objects](shared_connected_objects.md)
     * [Ambient notifications](ambient_notifications.md)
     * [The home as user agent](the_home_as_user_agent.md)
+    * [The UX of privacy](ux_of_privacy.md)
 
 * [Conclusion](conclusion.md)
     * [Where from here](where_from_here.md)
