@@ -1,9 +1,5 @@
 # The UX of privacy
 
-	*** [REMOVE] Gitbook layout test. Is this how you create a box?
-	
-
-
 Privacy is complex, contextual, cultural, fuzzy. It is hard to get right, especially in the context of connected things. Really hard. 
 
 Our vocabulary has not evolved as quickly as technological and societal change has, and so we are essentially stuck - for now - with crutches, metaphorically speaking: We try to describe and solve problems of connected privacy with terminology and metaphors from non-connected privacy. This is as tricky and often misleading as trying to depict a 4-dimenstional figure in 3-dimensional space: It's possible to a degree but we simply are not, as a society, fluent in doing it.
@@ -57,11 +53,20 @@ Like the Privacy Dimmer, the keyfob would also map preferences to types of servi
 For example, we might choose as a default to agree to a minimum of sensing, say our presence by registering our phone's wifi signal. But in a close friend's home, we might not mind their smart home hub listening in on the conversation, so we might adjust our privacy settings after a little alarm signal there rather than leave. On the other hand, if we are in a retail space or in, say, a colleague's or client's apartment we might not want to share too much and adjust the keyfob setting accordingly to know when sensing takes place.
 
 **Privacy Machines: Exploring privacy through the metaphor of time**
-At the Mozilla Open IoT design sprint in Berlin, my group worked on Privacy Machines Inc, a fictional company's privacy products[^3].[^4] One of these machines was the Wayback Machine: A little box that explored privacy and control over privacy in the home through the metaphor of time. Concretely, it would switch off various media-related technologies one by one - much like the privacy dimmer - in reverse chronological order in which they were introduced: Go back to 2013 and most smart home products would have stopped working; turn the dial back to 2004 and you would have lost access to Youtube, Facebook, Twitter. Go back to 1996 and your internet access might be turned off.
+At the Mozilla Open IoT design sprint in Berlin, my group worked on Privacy Machines Inc, a fictional company's privacy products.[^3] 
 
-TK: PHOTO OF PRIVACY MACHINE
+privacy_machines_poster.jpg
+_Privacy Machines at the Mozilla Open IoT design sprint, Berlin April 2016._
 
-This plays with two notions: 
+One of these machines was the Wayback Machine: A little box that explored privacy and control over privacy in the home through the metaphor of time. Concretely, it would switch off various media-related technologies one by one - much like the privacy dimmer - in reverse chronological order in which they were introduced: Go back to 2013 and most smart home products would have stopped working; turn the dial back to 2004 and you would have lost access to Youtube, Facebook, Twitter. Go back to 1996 and your internet access might be turned off.
+
+privacy_machines_top.jpg
+_Privacy Machines at the Mozilla Open IoT design sprint, Berlin April 2016._
+
+privacy_machines_front.jpg
+_Privacy Machines at the Mozilla Open IoT design sprint, Berlin April 2016._
+
+The Wayback Machine plays with two notions: 
 
 First, the time angle makes it immensely relatable. While there are many issues with this - it fosters nostalgia, it's technologically and historically tricky, it doesn't necessarily make a lot of sense - it does help start great discussions. Because it removes the technological barriers and works with simple metaphors and examples we found that most people would much more happily engage in this kind of debate than if you approached from a perspective of privacy, policy, or surveillance.
 
@@ -77,6 +82,4 @@ As these products are build, our policies need to adjust as well. Rather than pl
 In the mean time, the brunt of the burden is on the shoulders of UX designers: As a group, they might be the only ones with both the skill set and the mandate to ensure users are empowered to control their own privacy.
 
 
-[^3]: Our group consisted of Rachel Uwa, Martin Skelly, Vladan Joler and Peter Bihr. You can find photos and more descriptions of the various fictional privacy machines at http://www.thewavingcat.com/2016/04/25/privacy-machines/
-
-[^4]: How [about](http://wtf.com) including an external link in a footnote?
+[^3]: Our group consisted of Rachel Uwa, Martin Skelly, Vladan Joler and Peter Bihr. You can find photos and more descriptions of the various fictional privacy machines at [http://www.thewavingcat.com/2016/04/25/privacy-machines/](http://www.thewavingcat.com/2016/04/25/privacy-machines/)
