@@ -17,7 +17,7 @@ We see two things we need to address the issue of navigating privacy better:
 
 ### Dimmers and other metaphors
 
-One exploration of simplified privacy interfaces was a direct result of our work on the first version of this book: [The Privacy Dimmer] [^1].
+One exploration of simplified privacy interfaces was a direct result of our work on the first version of this book: The Privacy Dimmer [^1].
 
 ![Privacy Dimmer at The Good Home Milan](/img/thegoodhome_privacydimmer1.jpg)
 
@@ -87,7 +87,6 @@ The Wayback Machine plays with two notions:
 First, the time angle makes it immensely relatable. While there are many issues with this - it fosters nostalgia, it's technologically and historically tricky, it doesn't necessarily make a lot of sense - it does help start great discussions. Because it removes the technological barriers and works with simple metaphors and examples we found that most people would much more happily engage in this kind of debate than if you approached from a perspective of privacy, policy, or surveillance.
 
 Second, it underlines that media and communications technologies have evolved from one-way (broadcasting) to two-way (phone) to systems that are two-way and tracking the users' behaviors (through cookies, traffic analysis, meta data, etc.). Media and communications infrastructure since the advent of the  modern web has turned from something watched or consumed into a system that stares right back at the user. Connected homes are extending this right into our living rooms.
-
 
 
 ### What's next?
