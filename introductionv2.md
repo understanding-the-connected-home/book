@@ -14,11 +14,11 @@ For us, this book has also been the starting point for a number of projects & co
 
 - September 2015: In collaboration with Alexandra Deschamps-Sonsino [^1], Peter launched The Good Home Project [^2] to explore the same set of questions this book addresses through design proposals
 - January 2016: Michelle took on a new role at Mozilla Foundation as Director of the Open IoT Studio
-- March 2016: Peter co-chaired Interaction16[^4], a conference that gathered the global interaction design community in Helskinki where many questions of designing connected experiences, services and products were discussed indepth
-- April 2016: The Good Home Project, with contributions from Iohanna Nicenboim[^3] and Michelle  exhibited at Fuori Salone in Milan
-- April 2016: Michelle initiated a series of design sprints around privacy and the connected home starting with the [Mozilla Open IoT Design Sprint Berlin in April 2016] [5]
-- April 2016: A research report and set of policy recommendations that Peter co-authored with Prof. Dr. Christoph Bieber for the German government on smart cities and their implications for citizens was [published] [7]
-- The whole time, [ThingsCon] [6] (a conference series Peter co-founded in 2014) spawned numerous local community events that explore the techniques, design and ethics of connected products and services.
+- March 2016: Peter co-chaired Interaction16 [^3], a conference that gathered the global interaction design community in Helskinki where many questions of designing connected experiences, services and products were discussed indepth
+- April 2016: The Good Home Project, with contributions from Iohanna Nicenboim [^4] and Michelle  exhibited at Fuori Salone in Milan
+- April 2016: Michelle initiated a series of design sprints around privacy and the connected home starting with the [Mozilla Open IoT Design Sprint Berlin in April 2016] [^5]
+- April 2016: A research report and set of policy recommendations that Peter co-authored with Prof. Dr. Christoph Bieber for the German government on smart cities and their implications for citizens was [published] [^6]
+- The whole time, [ThingsCon] [^7] (a conference series Peter co-founded in 2014) spawned numerous local community events that explore the techniques, design and ethics of connected products and services.
 
 It has, in other words, been a busy and productive year with countless touch points that are directly relevant to Understanding the Connected Home.
 
@@ -28,8 +28,8 @@ As always, we look forward to hearing about your thinking and hope to talk to yo
 
 [^1]: [http://designswarm.com](http://designswarm.com)
 [^2]: http://thegoodhome.org
-[^3]: http://iohanna.com
-[^4]: http://interaction16.ixda.org
+[^3]: http://interaction16.ixda.org
+[^4]: http://iohanna.com
 [^5]: http://www.thewavingcat.com/2016/04/25/privacy-machines/
-[^6]: http://thingscon.com
-[^7]: http://www.thewavingcat.com/2016/04/25/smart-cities-in-the-21c-humanity-on-the-move-the-transformative-power-of-cities/
+[^6]: http://www.thewavingcat.com/2016/04/25/smart-cities-in-the-21c-humanity-on-the-move-the-transformative-power-of-cities/
+[^7]: http://thingscon.com

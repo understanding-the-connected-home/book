@@ -17,10 +17,7 @@ We see two things we need to address the issue of navigating privacy better:
 
 ### Dimmers and other metaphors
 
-One exploration of simplified privacy interfaces was a direct result of our work on the first version of this book: [The Privacy Dimmer] [1].
-
-[1]: http://thegoodhome.org/projects/privacy-dimmer/
-
+One exploration of simplified privacy interfaces was a direct result of our work on the first version of this book: [The Privacy Dimmer] [^1].
 
 ![Privacy Dimmer at The Good Home Milan](/img/thegoodhome_privacydimmer1.jpg)
 
@@ -31,8 +28,6 @@ _The Privacy Dimmer at The Good Home. Milan, April 2016._
 _The Privacy Dimmer at The Good Home. Milan, April 2016._
 
 For the Milan installment of The Good Home project [^2], we created a series of explorations. The exhibition consisted of a number of speculative designs and conceptual prototypes, two of them directly relevant to how we could think about privacy and UX.
-
-[^2]: http://thegoodhome.org/milan/
 
 
 ## Privacy is a spectrum
@@ -73,9 +68,6 @@ For example, we might choose as a default to agree to a minimum of sensing, say 
 ### Privacy Machines: Exploring privacy through the metaphor of time
 At the Mozilla Open IoT design sprint in Berlin, my group worked on Privacy Machines Inc, a fictional company's privacy products.[^3] 
 
-[^3]: Our group consisted of Rachel Uwa, Martin Skelly, Vladan Joler and Peter Bihr. You can find photos and more descriptions of the various fictional privacy machines at [http://www.thewavingcat.com/2016/04/25/privacy-machines/](http://www.thewavingcat.com/2016/04/25/privacy-machines/)
-
-
 ![Privacy Machines at the Mozilla Open IoT design sprint](/img/privacy_machines_poster.jpg)
 
 _Privacy Machines at the Mozilla Open IoT design sprint, Berlin April 2016._
@@ -104,3 +96,9 @@ All of these examples are speculative, non-functional prototypes. We do believe 
 As these products are build, our policies need to adjust as well. Rather than playing catch-up (and failing to do their job well as they shoot at a moving target) or killing off innovation through over-regulation (which would likely just drive the development of connected home products outside our jurisdictions into less-strictly regulated regions), these policies need to be sensible and forward-looking. This is no easy task, and law makers will need all of our support.
 
 In the mean time, the brunt of the burden is on the shoulders of UX designers: As a group, they might be the only ones with both the skill set and the mandate to ensure users are empowered to control their own privacy.
+
+
+[^1]: http://thegoodhome.org/projects/privacy-dimmer/
+[^2]: http://thegoodhome.org/milan/
+[^3]: Our group consisted of Rachel Uwa, Martin Skelly, Vladan Joler and Peter Bihr. You can find photos and more descriptions of the various fictional privacy machines at [http://www.thewavingcat.com/2016/04/25/privacy-machines/](http://www.thewavingcat.com/2016/04/25/privacy-machines/)
+
