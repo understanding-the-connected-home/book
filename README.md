@@ -1,4 +1,6 @@
 <h1> v2 - in progress </h1>
+Please note: We are in the process of revising the book in preparation for version 2. The new version will be available here by early June; until then, please refer to [this archived version 1 (PDF)](https://www.dropbox.com/s/4yp9delbrw9l0wu/20150911%20understanding-the-connected-home.pdf?dl=0).
+
 <h1> About the authors </h1>
 <div>
     <img class="left" src="http://www.thewavingcat.com/wp-content/uploads/2014/10/Nina-Zimmermann-IMG_5259-3-300x200.jpg" alt="peter-bihr">

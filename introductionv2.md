@@ -1,6 +1,4 @@
-# UCH: Intro
-
-Welcome to v2 of Understanding the Connected Home
+# Welcome to v2 of Understanding the Connected Home
 
 It has been about 9 months since we published version 1 of [Understanding the Connected Home](http://theconnectedhome.org). This collection of essays and thoughts about the implications of the ever-increasing connectedness of our homes could not have been more timely: Just about every major tech company has entered the field of connected homes with a smart home hub, a wifi-enabled light bulb, a thermostat or some other gadget. 
 
