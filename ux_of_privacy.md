@@ -23,30 +23,44 @@ One exploration of simplified privacy interfaces was a direct result of our work
 
 
 ![Privacy Dimmer at The Good Home Milan](/img/thegoodhome_privacydimmer1.jpg)
+
 _The Privacy Dimmer at The Good Home. Milan, April 2016._
 
 ![Privacy Dimmer at The Good Home Milan](/img/thegoodhome_privacydimmer2.jpg)
+
 _The Privacy Dimmer at The Good Home. Milan, April 2016._
 
 For the Milan installment of The Good Home project [^2], we created a series of explorations. The exhibition consisted of a number of speculative designs and conceptual prototypes, two of them directly relevant to how we could think about privacy and UX.
 
 [^2]: http://thegoodhome.org/milan/
 
-**The Privacy Dimmer: Privacy isn't binary, it's a spectrum**
+
+## Privacy is a spectrum
 Just like a light dimmer does not just allow to switch on or off the light but to turn it down gradually, a Privacy Dimmer would give more gradual control over the amount of sensing/smartness/data processing going on in the home at any given time. Privacy is a spectrum, and it is highly contextual. 
 
-The dimmer would accommodate this gradual dimming by mapping the various systems and subsystems (sensors, analytics, etc.) that make up a connected home to settings on the privacy spectrum: If the privacy was turned up to the max, nothing would sense or process activity in the house - the house would be "dumb" again, ie. in a state like all homes until 10 years ago. Turned all the way the other direction, all tracking, sensing, processing would be active, whatever this might mean for any given smart home.
+![Privacy is a spectrum](/img/privacy_scales.png)
+
+_Privacy is a spectrum. We need to explore how to best express and refer to this spectrum._
+
+### The Privacy Dimmer
+The Privacy Dimmer would accommodate this gradual dimming by mapping the various systems and subsystems (sensors, analytics, etc.) that make up a connected home to settings on the privacy spectrum: If the privacy was turned up to the max, nothing would sense or process activity in the house - the house would be "dumb" again, ie. in a state like all homes until 10 years ago. Turned all the way the other direction, all tracking, sensing, processing would be active, whatever this might mean for any given smart home.
+
+![Privacy dimmer sketch](/img/privacy_dimmer_sketch.png)
+
+_The Privacy Dimmer allows for a gradual dimming of privacy vs sensing/tracking._
 
 For example, if your home had pressure sensors in the floor, movement tracking for the automatic light switches, a facial recognition video system for home security, a smart thermostat that tracks your presence through a smartphone app and an Amazon Echo that listens for your voice commands, you might want all these systems on in the morning when you get ready for work and the kids ready for school: That way the temperature would be just perfect, the lights on, the weather and traffic predictions at the ready. The smart home would do what it's built to do: Make your life easier through automation. However, in the evening you might want to enjoy a quiet dinner with your partner: Over dinner and a glass of wine you might not want any alerts and notifications, any lights switching on and off, any device listening to you, waiting for orders. Turning up the privcacy dimmer would switch off all of these systems one by one. Starting with the Amazon Echo, the security camera, the movement sensors, even the smart thermostat. You'd have full privacy once more.
 
 The dimmer is installed in the house or room; it's immobile. But what happens if you move about? You still should be able to make informed decision about your privacy.
 
-**The privacy keyfob: Controlling your privacy while out and about** 
+### The privacy keyfob: Controlling your privacy while out and about
 Just like the dimmer would let a user control privacy in the context of their own home, we should have the means to control - or at least make informed decisions about - our privacy while we are out and about.
 
 Imagine a keyfob as the on-the-go counterpart of the Privacy Dimmer: A little device you carry on yourself at all times. Rather than switching on or off any systems in its environment (which would be hugely invasive and aggressive), it reads a signal from the connected home (or retail space, or public space...) and compares the amount and types of sensing and data processing against your personal preferences as stated in that keyfob. 
 
-TK: IMAGE OF KEYFOB OR POSTER
+![The privacy dimmer and keyfob in action](/img/privacy_dimmer_in_action.png)
+
+_How the dimmer and keyfob would work together._
 
 If the environment's sensing and tracking is compatible with your privacy preferences, the keyfob might give a subtle visual cue that everything's ok. If more sensing takes place than the wearer is comfortable with, it gives an alarm signal.
 
@@ -56,18 +70,24 @@ Like the Privacy Dimmer, the keyfob would also map preferences to types of servi
 
 For example, we might choose as a default to agree to a minimum of sensing, say our presence by registering our phone's wifi signal. But in a close friend's home, we might not mind their smart home hub listening in on the conversation, so we might adjust our privacy settings after a little alarm signal there rather than leave. On the other hand, if we are in a retail space or in, say, a colleague's or client's apartment we might not want to share too much and adjust the keyfob setting accordingly to know when sensing takes place.
 
-**Privacy Machines: Exploring privacy through the metaphor of time**
+### Privacy Machines: Exploring privacy through the metaphor of time
 At the Mozilla Open IoT design sprint in Berlin, my group worked on Privacy Machines Inc, a fictional company's privacy products.[^3] 
 
+[^3]: Our group consisted of Rachel Uwa, Martin Skelly, Vladan Joler and Peter Bihr. You can find photos and more descriptions of the various fictional privacy machines at [http://www.thewavingcat.com/2016/04/25/privacy-machines/](http://www.thewavingcat.com/2016/04/25/privacy-machines/)
+
+
 ![Privacy Machines at the Mozilla Open IoT design sprint](/img/privacy_machines_poster.jpg)
+
 _Privacy Machines at the Mozilla Open IoT design sprint, Berlin April 2016._
 
 One of these machines was the Wayback Machine: A little box that explored privacy and control over privacy in the home through the metaphor of time. Concretely, it would switch off various media-related technologies one by one - much like the privacy dimmer - in reverse chronological order in which they were introduced: Go back to 2013 and most smart home products would have stopped working; turn the dial back to 2004 and you would have lost access to Youtube, Facebook, Twitter. Go back to 1996 and your internet access might be turned off.
 
 ![Privacy Machines at the Mozilla Open IoT design sprint](/img/privacy_machines_top.jpg)
+
 _Privacy Machines at the Mozilla Open IoT design sprint, Berlin April 2016._
 
 ![Privacy Machines at the Mozilla Open IoT design sprint](/img/privacy_machines_front.jpg)
+
 _Privacy Machines at the Mozilla Open IoT design sprint, Berlin April 2016._
 
 The Wayback Machine plays with two notions: 
@@ -78,12 +98,9 @@ Second, it underlines that media and communications technologies have evolved fr
 
 
 
-**What's next?**
+### What's next?
 All of these examples are speculative, non-functional prototypes. We do believe they might offer valid starting points for real products and services. As connected homes become a mainstream reality, we need to design and build products that make it easy to make informed decision, to empower users to control their privacy rather than relying purely on algorithmic recommendations and systems.
 
 As these products are build, our policies need to adjust as well. Rather than playing catch-up (and failing to do their job well as they shoot at a moving target) or killing off innovation through over-regulation (which would likely just drive the development of connected home products outside our jurisdictions into less-strictly regulated regions), these policies need to be sensible and forward-looking. This is no easy task, and law makers will need all of our support.
 
 In the mean time, the brunt of the burden is on the shoulders of UX designers: As a group, they might be the only ones with both the skill set and the mandate to ensure users are empowered to control their own privacy.
-
-
-[^3]: Our group consisted of Rachel Uwa, Martin Skelly, Vladan Joler and Peter Bihr. You can find photos and more descriptions of the various fictional privacy machines at [http://www.thewavingcat.com/2016/04/25/privacy-machines/](http://www.thewavingcat.com/2016/04/25/privacy-machines/)
