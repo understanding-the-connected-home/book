@@ -1,12 +1,8 @@
 # The UX of privacy
 
- 	*** NOTES: UX of privacy (dimmer, privacy machines) (P)
-	- where from here? mass consumer product?
+	*** [REMOVE] Gitbook layout test. Is this how you create a box?
 	
-	
-	*** Gitbook layout test. Is this how you create a box?
-	
-***
+
 
 Privacy is complex, contextual, cultural, fuzzy. It is hard to get right, especially in the context of connected things. Really hard. 
 
@@ -25,11 +21,16 @@ We see two things we need to address the issue of navigating privacy better:
 
 ### Dimmers and other metaphors
 
-One exploration of simplified privacy interfaces was a direct result of our work on the first version of this book: The Privacy Dimmer.[1]
+One exploration of simplified privacy interfaces was a direct result of our work on the first version of this book: [The Privacy Dimmer] [1].
+
+[1]: http://thegoodhome.org/projects/privacy-dimmer/
+
 
 TK: PHOTO OF PRIVACY DIMMER
 
-For the Milan installment of The Good Home project[2], we created a series of explorations. The exhibition consisted of a number of speculative designs and conceptual prototypes, two of them directly relevant to how we could think about privacy and UX.
+For the [Milan installment of The Good Home project] [2], we created a series of explorations. The exhibition consisted of a number of speculative designs and conceptual prototypes, two of them directly relevant to how we could think about privacy and UX.
+
+[2]: http://thegoodhome.org/milan/
 
 **The Privacy Dimmer: Privacy isn't binary, it's a spectrum**
 Just like a light dimmer does not just allow to switch on or off the light but to turn it down gradually, a Privacy Dimmer would give more gradual control over the amount of sensing/smartness/data processing going on in the home at any given time. Privacy is a spectrum, and it is highly contextual. 
@@ -56,7 +57,7 @@ Like the Privacy Dimmer, the keyfob would also map preferences to types of servi
 For example, we might choose as a default to agree to a minimum of sensing, say our presence by registering our phone's wifi signal. But in a close friend's home, we might not mind their smart home hub listening in on the conversation, so we might adjust our privacy settings after a little alarm signal there rather than leave. On the other hand, if we are in a retail space or in, say, a colleague's or client's apartment we might not want to share too much and adjust the keyfob setting accordingly to know when sensing takes place.
 
 **Privacy Machines: Exploring privacy through the metaphor of time**
-At the Mozilla Open IoT design sprint in Berlin, my group worked on Privacy Machines Inc, a fictional company's privacy products[3]. One of these machines was the Wayback Machine: A little box that explored privacy and control over privacy in the home through the metaphor of time. Concretely, it would switch off various media-related technologies one by one - much like the privacy dimmer - in reverse chronological order in which they were introduced: Go back to 2013 and most smart home products would have stopped working; turn the dial back to 2004 and you would have lost access to Youtube, Facebook, Twitter. Go back to 1996 and your internet access might be turned off.
+At the Mozilla Open IoT design sprint in Berlin, my group worked on Privacy Machines Inc, a fictional company's privacy products[^3].[^4] One of these machines was the Wayback Machine: A little box that explored privacy and control over privacy in the home through the metaphor of time. Concretely, it would switch off various media-related technologies one by one - much like the privacy dimmer - in reverse chronological order in which they were introduced: Go back to 2013 and most smart home products would have stopped working; turn the dial back to 2004 and you would have lost access to Youtube, Facebook, Twitter. Go back to 1996 and your internet access might be turned off.
 
 TK: PHOTO OF PRIVACY MACHINE
 
@@ -76,6 +77,6 @@ As these products are build, our policies need to adjust as well. Rather than pl
 In the mean time, the brunt of the burden is on the shoulders of UX designers: As a group, they might be the only ones with both the skill set and the mandate to ensure users are empowered to control their own privacy.
 
 
-[1]: http://thegoodhome.org/projects/privacy-dimmer/
-[2]: http://thegoodhome.org/milan/
-[3]: Our group consisted of Rachel Uwa, Martin Skelly, Vladan Joler and Peter Bihr. You can find photos and more descriptions of the various fictional privacy machines at http://www.thewavingcat.com/2016/04/25/privacy-machines/
+[^3]: Our group consisted of Rachel Uwa, Martin Skelly, Vladan Joler and Peter Bihr. You can find photos and more descriptions of the various fictional privacy machines at http://www.thewavingcat.com/2016/04/25/privacy-machines/
+
+[^4]: How [about](http://wtf.com) including an external link in a footnote?
