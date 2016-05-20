@@ -1,5 +1,5 @@
+<h1> v2 - in progress </h1>
 <h1> About the authors </h1>
-
 <div>
     <img class="left" src="http://www.thewavingcat.com/wp-content/uploads/2014/10/Nina-Zimmermann-IMG_5259-3-300x200.jpg" alt="peter-bihr">
     <h3>Peter Bihr | <a href="https://twitter.com/peterbihr">@peterbihr</a></h3>
