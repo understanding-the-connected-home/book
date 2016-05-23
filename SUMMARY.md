@@ -16,6 +16,7 @@ By Peter Bihr and Michelle Thorne
     * [Network models for the connected home](network_models_for_the_connected_home.md)
     * [Different kinds of things](different_kinds_of_things.md)
     * [Factory reset](factory_reset.md)
+    * [Context matters: a smart home in the smart city](context_matters_smart_home_in_the_smart_city.md)
 
 * [Behavior and Know-How](behavior_and_know-how.md)
     * [What to invite in your home](what_to_invite_in_your_home.md)
