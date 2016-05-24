@@ -20,7 +20,7 @@
    * [Connected literacy](connected_literacy.md)
 * [Scenarios](scenarios.md)
    * [What to invite in your home](what_to_invite_in_your_home.md)
-   * [Etiquette in the connected home](etiquette_in_the_connected_home.md)
+   * [how to be a good guest and host](etiquette_in_the_connected_home.md)
    * Family
        * [Root access]
    * Roommates
