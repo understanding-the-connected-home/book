@@ -1,5 +1,8 @@
 # Human-readable
 
+## WRITTEN?
+## PROOFED?
+
 These are layers that humans can, or should be able to, read.  [diagram?]
 
 ## Understanding "readability"
