@@ -17,43 +17,24 @@
 
 ### Concepts
 * Interactions
-* Human-readable
-  * Human <> Human
-  * Human <> Machine
-  * Human <> Machines
-  * Humans <> Machines   
-* Machine-readable
-  * Machines <> Machines
-* Going forward
-
-#### New layers?
-
-    Possibly, given the complexity of these new interactions, there are new "readable" layers to consider. This book just outlines them. Such as: environment-readable (i.e. many sensors, users and connected devices), context-readable (i.e. time and location, from home to city), and network-readable (i.e. complex social data/relationships)?
-
-
-#### Mediating across layers
-
-    How can interactions and understanding be mediated across the human-readable and machine-readable layers? Here we discuss the idea of a "user agent" that translates and negotiates across the layers. Historically, this has been metaphor-based software (GUIs) like the browser or mobile operating system. It might look different going forward. 
-
-
-### What are smart, connected products
-
-    "Smart" means an object that senses (takes input from the environment), thinks (computes, often on the cloud) and then acts (carries out an action or signals for something to happen.). When these objects are physical and networked together and to other services via the internet, they are smart, connected products. 
-
-
-#### Sensing
-#### Thinking
-#### Acting
-
-
-### Connected literacy
-
-    We briefly define what "literacy" means in connected spaces and why it is essential. 
-
-
-#### Reading
-#### Writing
-#### Participating
+  * Human-readable
+    * Human <> Human
+    * Human <> Machine
+    * Human <> Machines
+    * Humans <> Machines   
+  * Machine-readable
+    * Machines <> Machines
+    * New layers?
+    * Going forward
+  * Mediating across layers
+* Smart, connected products
+  * Sensing
+  * Thinking
+  * Acting
+* Connected literacy
+  * Reading
+  * Writing
+  * Participating
 
 ## Scenarios
 
