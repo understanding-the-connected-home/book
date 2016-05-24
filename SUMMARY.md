@@ -16,6 +16,7 @@
        * [Human-readable](human-readable.md)
        * [Machine-readable](machine-readable.md)
        * Mediating across layers
+       * New layers?
    * Smart, connected products
        * Sensing
        * Thinking
