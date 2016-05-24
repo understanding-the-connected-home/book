@@ -1,5 +1,8 @@
 # VUCA in the connected home
 
+## WRITTEN?
+## PROOFED?
+
 VUCA - volatility, uncertainty, complexity and ambiguity - is a framework to analyze military situations. It's since been adapted to management/strategic thinking as well as foresight. We'll make the case that VUCA can offer some valuable insight into the connected home.
 
 First, a look at the four components of VUCA as [explained by Wikipedia](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity):
