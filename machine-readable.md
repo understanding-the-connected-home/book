@@ -1,5 +1,8 @@
 # Machine-readable
 
+## WRITTEN?
+## PROOFED?
+
 How machines talk to each other is a place for a lot of technical research and standards building. This book lightly covers it. 
 
 Naturally, as connected devices enter the home, it is beneficial if they can talk to each and to devices in other connected spaces. That means there will need to be a layer of interpretation and interaction that is intended for machines to read. 
