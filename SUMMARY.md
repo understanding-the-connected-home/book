@@ -13,7 +13,7 @@
    * [New territory and unintended consequences](new_territory_and_unintended_consequences.md)
 * [Concepts](concepts.md)
    * Interactions
-       * Human-readable
+       * [Human-readable](human-readable.md)
            * Human <> Human
            * Human <> Machine
            * Human <> Machines
