@@ -37,7 +37,7 @@
    * [Research](research.md)
        * [VUCA in your home]
    * Other questions, areas and ideas
-       * [...]
+   * [Conclusion](conclusion.md)
 * [Version 1 Archive](version1_archive.md)
    * V1 articles to still review for V2:
        * [Ground rules](ground_rules.md)
@@ -49,7 +49,6 @@
        * [Augmentation not automation](augmentation_not_automation.md)
        * [How do things communicate their expectations?](how_do_things_communicate_their_expectations.md)
        * [The home as user agent](the_home_as_user_agent.md)
-       * [Conclusion](conclusion.md)
        * [Where from here](where_from_here.md)
        * [Acknowledgments](acknowledgments.md)
        * [How to contribute to this book](how_to_contribute_to_this_book.md)
