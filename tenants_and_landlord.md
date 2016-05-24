@@ -6,6 +6,9 @@
 A look at moving (factory reset), maintaining a home (home sweet) and buying a home. 
 
 ## Moving in
+
+**[add Home Totem example]**
+
 Let's consider for a moment that a home full of sensors and network infrastructure is basically a computer we live in. 
 
 That means we need to consider implications of security and control, [as Cory Doctorow does here](http://www.wired.co.uk/magazine/archive/2015/07/features/stop-spies). It also means we need to think about technical failure and personal data.
