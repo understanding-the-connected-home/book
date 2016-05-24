@@ -1,93 +1,77 @@
 # Summary
 
-### Introduction 
+* [Introduction](README.md)
 * Introduction
-  * [Version 2 Readme](README.md)
-  * [What's new in this edition?](introductionv2.md)
-
-### Principles
-* Principles
-  * Protection of personal data
-  * Read/Write/Participate
-  * Open practices
-
-### Context
+   * [What's new in this edition?](introductionv2.md)
+* [Principles](principles.md)
+   * Protection of personal data
+   * Read/Write/Participate
+   * Open practices
 * Context
-  * In the past
-  * Now and the future
-  * New territory and unintended consequences
-
-### Concepts
+   * In the past
+   * Now and the future
+   * New territory and unintended consequences
 * Concepts
-  * Interactions
-    * Human-readable
-      * Human <> Human
-      * Human <> Machine
-      * Human <> Machines
-      * Humans <> Machines   
-    * Machine-readable
-      * Machines <> Machines
-      * New layers?
-      * Going forward
-    * Mediating across layers
-  * Smart, connected products
-    * Sensing
-    * Thinking
-    * Acting
-  * Connected literacy
-    * Reading
-    * Writing
-    * Participating
-
-### Scenarios
+   * Interactions
+       * Human-readable
+           * Human <> Human
+           * Human <> Machine
+           * Human <> Machines
+           * Humans <> Machines
+       * Machine-readable
+           * Machines <> Machines
+           * New layers?
+           * Going forward
+       * Mediating across layers
+   * Smart, connected products
+       * Sensing
+       * Thinking
+       * Acting
+   * Connected literacy
+       * Reading
+       * Writing
+       * Participating
 * Scenarios
-  * What to invite into your home
-  * Host and guest(s) [how to be a good host]
-    * Hospitality
-    * Gift-giving
-    * Comfort
-  * Family
-    * [Root access]
-  * Roommates
-    * Sharing
-      * [Shared connected objects]
-    * Privacy
-    * Decision-making
-  * Tenant(s) and landlord
-    * Moving
-      * [Factory Reset]
-    * Maintaining
-      * [Home Sweet]
-    * Buying
-  * Neighbor and neighbor
-    * Socializing
-    * Helping
-    * Resolving
-  * Neighborhoods
-    * Playing
-    * Monitoring
-      * [Ambient Notifications]
-    * Developing
-      * [Community Data...]
-      * [Retail? Civics? City?...]
-
-### Methodologies and case studies
-
+   * What to invite into your home
+   * Host and guest(s) [how to be a good host]
+       * Hospitality
+       * Gift-giving
+       * Comfort
+   * Family
+       * [Root access]
+   * Roommates
+       * Sharing
+           * [Shared connected objects]
+       * Privacy
+       * Decision-making
+   * Tenant(s) and landlord
+       * Moving
+           * [Factory Reset]
+       * Maintaining
+           * [Home Sweet]
+       * Buying
+   * Neighbor and neighbor
+       * Socializing
+       * Helping
+       * Resolving
+   * Neighborhoods
+       * Playing
+       * Monitoring
+           * [Ambient Notifications]
+       * Developing
+           * [Community Data...]
+           * [Retail? Civics? City?...]
 * Methodologies and case studies
-  * Prototyping
-    * [The UX of privacy](ux_of_privacy.md)
-  * Policy
-    * [Smart Cities...]
-    * [Surveillance...]
-
-### Explore further
+   * Prototyping
+       * [The UX of privacy](ux_of_privacy.md)
+   * Policy
+       * [Smart Cities...]
+       * [Surveillance...]
 * Explore further
-  * Research
-    * [VUCA in your home]
-  * Other questions, areas and ideas
-    * [...]    
-
-### Version 1 Archive 
+   * Research
+       * [VUCA in your home]
+   * Other questions, areas and ideas
+       * [...]
 * [Version 1 Archive](version1_archive.md)
    * [Ground rules](ground_rules.md)
    * [Framing the debate](framing_the_debate.md)
