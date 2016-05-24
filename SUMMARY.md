@@ -54,6 +54,7 @@
 * [Version 1 Archive](version1_archive.md)
    * V1 articles partially reused in V2:
        * [Who has root access to your home](who_has_root_access_to_your_home.md)
+       * [Shared connected objects](shared_connected_objects.md)
    * [Ground rules](ground_rules.md)
    * [Framing the debate](framing_the_debate.md)
    * [Data and Infrastructure](data_and_infrastructure.md)
@@ -67,7 +68,6 @@
    * [Augmentation not automation](augmentation_not_automation.md)
    * [How do things communicate their expectations?](how_do_things_communicate_their_expectations.md)
    * [VUCA in your home](vuca_in_your_home.md)
-   * [Shared connected objects](shared_connected_objects.md)
    * [Ambient notifications](ambient_notifications.md)
    * [The home as user agent](the_home_as_user_agent.md)
    * [Conclusion](conclusion.md)
