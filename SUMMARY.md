@@ -23,7 +23,7 @@
    * [How to be a good guest and host](how_to_be_a_good_guest_and_host.md)
    * [Family](family.md)
    * [Roommates](roommates.md)
-   * Tenant(s) and landlord
+   * [Tenant(s) and landlord](tenants_and_landlord.md)
        * Moving
            * [Factory Reset]
        * Maintaining
