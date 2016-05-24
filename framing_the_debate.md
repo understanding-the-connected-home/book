@@ -52,9 +52,7 @@ The way we will get used to the technologies, and where we will thus also develo
 
 ## Negotiating data engagements
 
-**Whenever we enter or leave a connected environment, some type of data engagement will take place.** Whether it is opt-in or opt-out or something more granular, whether it is an all-or-nothing, binary choice like a EULA, or something negotiated between humans or software agents: **We need to find ways to make this type of interaction and exchange understandable, human- and machine-readable, and negotiable.**
-
-It seems better to discuss today how to get this right, or at least how to ask the right questions that will arise tomorrow.
+[moved to Context > Interactions]
 
 ## Vectors for further inquiry
 
