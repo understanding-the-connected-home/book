@@ -5,75 +5,70 @@
 * [What's new in this edition?](introductionv2.md)
 
 ### Principles
-* Protection of personal data
-* Read/Write/Participate
-* Open practices
+* Principles
+  * Protection of personal data
+  * Read/Write/Participate
+  * Open practices
 
 ### Context
-* In the past
-* Now and the future
-* New territory
-* Unintended consequences
+* Context
+  * In the past
+  * Now and the future
+  * New territory and unintended consequences
 
 ### Concepts
-* Interactions
-  * Human-readable
-    * Human <> Human
-    * Human <> Machine
-    * Human <> Machines
-    * Humans <> Machines   
-  * Machine-readable
-    * Machines <> Machines
-    * New layers?
-    * Going forward
-  * Mediating across layers
-* Smart, connected products
-  * Sensing
-  * Thinking
-  * Acting
-* Connected literacy
-  * Reading
-  * Writing
-  * Participating
+* Concepts
+  * Interactions
+    * Human-readable
+      * Human <> Human
+      * Human <> Machine
+      * Human <> Machines
+      * Humans <> Machines   
+    * Machine-readable
+      * Machines <> Machines
+      * New layers?
+      * Going forward
+    * Mediating across layers
+  * Smart, connected products
+    * Sensing
+    * Thinking
+    * Acting
+  * Connected literacy
+    * Reading
+    * Writing
+    * Participating
 
-## Scenarios
-
-    These scenarios bring the concepts to life and surface opportunities for innovation and possible conflicts.
-
-
-### [What to invite into your home]
-
-    How do you know what objects to bring into your home. 
-
-
-### Host and guest(s) [how to be a good host]
+### Scenarios
+* Scenarios
+  * What to invite into your home
+  * Host and guest(s) [how to be a good host]
     * Hospitality
     * Gift-giving
     * Comfort
-### Family
+  * Family
     * [Root access]
-### Roommates
+  * Roommates
     * Sharing
-        - [Shared connected objects]
+      * [Shared connected objects]
     * Privacy
     * Decision-making
-### Tenant(s) and landlord
+  * Tenant(s) and landlord
     * Moving
-        - [Factory Reset]
+      * [Factory Reset]
     * Maintaining
-        - [Home Sweet]
+      * [Home Sweet]
     * Buying
-### Neighbor and neighbor
+  * Neighbor and neighbor
     * Socializing
     * Helping
     * Resolving
-### Neighborhoods
+  * Neighborhoods
     * Playing
     * Monitoring
-        - [Ambient Notifications]
+      * [Ambient Notifications]
     * Developing
-        - [Community Data...]
-        - [Retail? Civics? City?...]
+      * [Community Data...]
+      * [Retail? Civics? City?...]
 
 ## Methodologies and case studies
 
