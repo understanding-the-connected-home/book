@@ -25,7 +25,7 @@
    * [Roommates](roommates.md)
    * [Tenant(s) and landlord](tenants_and_landlord.md)
    * [Neighbor and neighbor](neighbor_and_neighbor.md)
-   * Neighborhoods
+   * [Neighborhoods](neighborhoods.md)
 * Methodologies and case studies
    * Prototyping
        * [The UX of privacy](ux_of_privacy.md)
