@@ -1,5 +1,9 @@
 # Where from here
 
+## WRITTEN?
+## PROOFED?
+
+
 This book kicks off what we hope will be an **on-going research project** about the connected home. 
 
 This book opened a lot of lines of inquiry. Some we may see answers to in a short while. Others might be **laughable in a decade from now** when many of these technologies will have settled in and **become quotidian**. 
