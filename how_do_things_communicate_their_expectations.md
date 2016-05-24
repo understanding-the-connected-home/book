@@ -1,5 +1,7 @@
 # How do things communicate their expectations?
 
+## [Move to Concepts > Interactions > Human-Readable sections]
+
 The connected home can be a mysterious, opaque place: Unless we already happen to know the connected devices ("Oh look, a Nest thermostat!") we can't tell what's going on.
 
 **The connected home is not yet human-readable.** 
