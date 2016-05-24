@@ -26,7 +26,7 @@
    * [Tenant and landlord](tenant_and_landlord.md)
    * [Neighbor and neighbor](neighbor_and_neighbor.md)
    * [Neighborhoods](neighborhoods.md)
-* [Methodologies and case studies](methodologies_and_case_studies.md)
+* [Approaches](approaches.md)
    * [Prototyping](prototyping.md)
        * [The UX of privacy](ux_of_privacy.md)
        * [VUCA in your home](vuca_in_your_home.md)
