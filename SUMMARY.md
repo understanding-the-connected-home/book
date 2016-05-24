@@ -16,7 +16,7 @@
        * [Machine-readable](machine-readable.md)
        * [Mediating across layers](mediating_across_layers.md)
        * [New layers?](new_layers.md)
-   * [Smart, connected products](smart,_connected_products.md)
+   * [Smart, connected products](smart_connected_products.md)
    * [Connected literacy](connected_literacy.md)
 * [Scenarios](scenarios.md)
    * [What to invite in your home](what_to_invite_in_your_home.md)
