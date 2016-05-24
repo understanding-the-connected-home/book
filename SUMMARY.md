@@ -1,8 +1,9 @@
 # Summary
 
 ### Introduction 
-* [Version 2 Readme](README.md)
-* [What's new in this edition?](introductionv2.md)
+* Introduction
+  * [Version 2 Readme](README.md)
+  * [What's new in this edition?](introductionv2.md)
 
 ### Principles
 * Principles
