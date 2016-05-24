@@ -1,4 +1,4 @@
-# Methodologies and case studies
+# Approaches
 
 ## WRITTEN?
 ## PROOFED?
