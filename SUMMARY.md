@@ -19,7 +19,7 @@
    * [Smart, connected products](smart_connected_products.md)
    * [Connected literacy](connected_literacy.md)
 * [Scenarios](scenarios.md)
-   * [What to invite in your home](what_to_invite_in_your_home.md)
+   * [What to invite in your home](what_to_invite.md)
    * [How to be a good guest and host](how_to_be_a_good_guest_and_host.md)
    * [Family](family.md)
    * [Roommates](roommates.md)
