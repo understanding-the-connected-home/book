@@ -30,6 +30,8 @@
 * [Approaches](approaches.md)
    * [Prototyping](prototyping.md)
        * [VUCA in your home](vuca.md)
+       * Sprint as format
+       * Exhibition as format
    * [Policy](policy.md)
        * [Context Matters: Smart Home in the Smart City](smart_city.md)
        * [State of Surveillance](surveillance.md)
