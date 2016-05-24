@@ -42,6 +42,8 @@
        * [Who has root access to your home](who_has_root_access_to_your_home.md)
        * [Shared connected objects](shared_connected_objects.md)
        * [Factory reset](factory_reset.md)
+       * [Ambient notifications](ambient_notifications.md)
+   * V1 articles no longer needed:
    * [Ground rules](ground_rules.md)
    * [Framing the debate](framing_the_debate.md)
    * [Data and Infrastructure](data_and_infrastructure.md)
@@ -54,7 +56,6 @@
    * [Augmentation not automation](augmentation_not_automation.md)
    * [How do things communicate their expectations?](how_do_things_communicate_their_expectations.md)
    * [VUCA in your home](vuca_in_your_home.md)
-   * [Ambient notifications](ambient_notifications.md)
    * [The home as user agent](the_home_as_user_agent.md)
    * [Conclusion](conclusion.md)
    * [Where from here](where_from_here.md)
