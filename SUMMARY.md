@@ -29,7 +29,7 @@
 * [Approaches](approaches.md)
    * [Prototyping](prototyping.md)
        * [The UX of privacy](ux_of_privacy.md)
-       * [VUCA in your home](vuca_in_your_home.md)
+       * [VUCA in your home](vuca.md)
    * [Policy](policy.md)
        * [Context Matters: Smart Home in the Smart City](smart_city.md)
        * [State of Surveillance](surveillance.md)
