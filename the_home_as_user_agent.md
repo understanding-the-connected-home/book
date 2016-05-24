@@ -6,13 +6,7 @@ There are likely three kinds of interactions in a connected home:
 * user-to-machine
 * machine-to-machine
 
-Each of these interactions will require protocols and conflict resolution, as well as **layers of interpretation** that help each other understand what's going on and how to interact with it. 
-
-Borrowing from the **[three-tiered Creative Commons licensing structure](https://creativecommons.org/licenses)**, we'd like to explore a framework that is: 
-
-* human-readable
-* machine-readable
-* environment-readable
+[partially moved to Concepts > Interactions]
 
 and then explore how this framework could position **the home as a trusted agent that advocates for and protects its user(s).** 
 
