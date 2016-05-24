@@ -41,7 +41,6 @@
 * [Version 1 Archive](version1_archive.md)
    * V1 articles to still review for V2:
        * [Ground rules](ground_rules.md)
-       * [Framing the debate](framing_the_debate.md)
        * [Personal data sphere](personal_data_sphere.md)
        * [Network models for the connected home](network_models_for_the_connected_home.md)
        * [Different kinds of things](different_kinds_of_things.md)
@@ -57,6 +56,7 @@
        * [Shared connected objects](shared_connected_objects.md)
        * [Factory reset](factory_reset.md)
        * [Ambient notifications](ambient_notifications.md)
+       * [Framing the debate](framing_the_debate.md)
    * V1 articles no longer needed:
        * [Data and Infrastructure](data_and_infrastructure.md)
        * [Behavior and Know-How](behavior_and_know-how.md)
