@@ -1,5 +1,7 @@
 # Network models for the connected home 
 
+## [move to Explore Further > Prototyping?]
+
 How do we handle connectivity in the connected home? This is not just a question of networking standards and protocols but also one of architecture: Which network model - or more concretely, which logical network topology - is the best fit?
 
 ## Network models are models of control
