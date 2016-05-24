@@ -19,18 +19,18 @@ In other words, wherever possible, this should not only be a read-only layer, bu
 
 This control is essential for people **to live confidently and with dignity** in their home. 
 
-## Human <> Human
+## Human-to-human
 
 This is the most common interaction upon which all of society is based. A home is full of human <> human interaction. 
 
-## Human <> Machine
+## Human-to-machine
 
 This is an interaction used most commonly when thinking of products. Single user, single machine. Example: a toaster. 
 
-## Human <> Machines
+## Human-to-machines
 
 Increasingly, humans are interacting with multiple machines, or more accurately, systems. 
 
-## Humans <> Machines
+## Humans-to-machines
 
 With further complexity are interactions among multiple people and complex systems. Think shared living spaces with many devices, services and user preferences.
