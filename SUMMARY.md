@@ -23,7 +23,7 @@
    * [How to be a good guest and host](guest_and_host.md)
    * [Family](family.md)
    * [Roommates](roommates.md)
-   * [Tenant(s) and landlord](tenants_and_landlord.md)
+   * [Tenant and landlord](tenant_and_landlord.md)
    * [Neighbor and neighbor](neighbor_and_neighbor.md)
    * [Neighborhoods](neighborhoods.md)
 * [Methodologies and case studies](methodologies_and_case_studies.md)
