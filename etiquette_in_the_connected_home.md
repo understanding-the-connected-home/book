@@ -1,5 +1,8 @@
 # How to be a good guest and host
 
+## WRITTEN?
+## PROOFED?
+
 Being a house guest and host in a connected home will of course in many ways be similar to how humans have socialized for centuries. 
 
 But there will also be aspects that are new, or that need to be negotiated. What might that look like?
