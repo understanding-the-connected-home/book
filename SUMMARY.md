@@ -48,7 +48,6 @@
        * [Managing conflict](managing_conflict.md)
        * [Augmentation not automation](augmentation_not_automation.md)
        * [How do things communicate their expectations?](how_do_things_communicate_their_expectations.md)
-       * [The home as user agent](the_home_as_user_agent.md)
        * [Where from here](where_from_here.md)
    * V1 articles partially reused in V2:
        * [Who has root access to your home](who_has_root_access_to_your_home.md)
@@ -56,6 +55,7 @@
        * [Factory reset](factory_reset.md)
        * [Ambient notifications](ambient_notifications.md)
        * [Framing the debate](framing_the_debate.md)
+       * [The home as user agent](the_home_as_user_agent.md)
    * V1 articles no longer needed:
        * [Data and Infrastructure](data_and_infrastructure.md)
        * [Behavior and Know-How](behavior_and_know-how.md)
