@@ -5,7 +5,6 @@ Understanding the Connected Home explores the questions, challenges and opportun
 
 By Peter Bihr and Michelle Thorne
 
-
 * [Version 1 ARCHIVE](README.md)
     * [What's new in this edition?](introductionv2.md)	
     * [Ground rules](ground_rules.md)
