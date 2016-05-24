@@ -30,7 +30,7 @@ And that's _very_ interesting. Because everybody agrees there's a huge market in
 
 ## How will the connected home start?
 
-[moved to Context]
+[moved to Context > Now and the Future]
 
 ## Vectors
 
@@ -40,7 +40,7 @@ The way we will get used to the technologies, and where we will thus also develo
 
 ## Negotiating data engagements
 
-[moved to Context > Interactions]
+[moved to Concepts > Interactions]
 
 ## Vectors for further inquiry
 
