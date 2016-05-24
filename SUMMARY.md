@@ -12,7 +12,7 @@
    * [Now and the future](now_and_the_future.md)
    * [New territory and unintended consequences](new_territory_and_unintended_consequences.md)
 * [Concepts](concepts.md)
-   * Interactions
+   * [Interactions](interactions.md)
        * [Human-readable](human-readable.md)
            * Human <> Human
            * Human <> Machine
