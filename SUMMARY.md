@@ -24,7 +24,7 @@
    * [Family](family.md)
    * [Roommates](roommates.md)
    * [Tenant(s) and landlord](tenants_and_landlord.md)
-   * Neighbor and neighbor
+   * [Neighbor and neighbor](neighbor_and_neighbor.md)
    * Neighborhoods
        * Playing
        * Monitoring
