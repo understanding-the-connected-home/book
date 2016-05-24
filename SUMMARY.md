@@ -31,7 +31,7 @@
        * Reading
        * Writing
        * Participating
-* Scenarios
+* [Scenarios](scenarios.md)
    * What to invite into your home
    * Host and guest(s) [how to be a good host]
        * Hospitality
