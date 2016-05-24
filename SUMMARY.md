@@ -21,10 +21,7 @@
    * [Connected literacy](connected_literacy.md)
 * [Scenarios](scenarios.md)
    * [What to invite in your home](what_to_invite_in_your_home.md)
-   * Host and guest(s) [how to be a good host]
-       * Hospitality
-       * Gift-giving
-       * Comfort
+   * [Etiquette in the connected home](etiquette_in_the_connected_home.md)
    * Family
        * [Root access]
    * Roommates
@@ -70,7 +67,6 @@
    * [Different kinds of things](different_kinds_of_things.md)
    * [Factory reset](factory_reset.md)
    * [Behavior and Know-How](behavior_and_know-how.md)
-   * [Etiquette in the connected home](etiquette_in_the_connected_home.md)
    * [Managing conflict](managing_conflict.md)
    * [Design and Interaction](design_and_interaction.md)
    * [Augmentation not automation](augmentation_not_automation.md)
