@@ -32,7 +32,7 @@
    * [Policy](policy.md)
        * Smart Cities
        * Surveillance
-* Explore further
+* [Explore further](explore_further.md)
    * Research
        * [VUCA in your home]
    * Other questions, areas and ideas
