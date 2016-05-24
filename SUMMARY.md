@@ -31,7 +31,7 @@
        * [The UX of privacy](ux_of_privacy.md)
        * [VUCA in your home](vuca_in_your_home.md)
    * [Policy](policy.md)
-       * [Context Matters: Smart Home in the Smart City](context_matters_smart_home_in_the_smart_city.md)
+       * [Context Matters: Smart Home in the Smart City](smart_city.md)
        * [State of Surveillance](state_of_surveillance.md)
 * [Explore further](explore_further.md)
    * [Research](research.md)
