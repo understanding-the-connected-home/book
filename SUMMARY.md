@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [What's new in this edition?](introductionv2.md)
 * [Principles](principles.md)
-   * [Protection of personal data](protection_of_personal_data.md)
+   * [Protection of personal data](personal_data.md)
    * [Read/Write/Participate](readwriteparticipate.md)
    * [Open practices](open_practices.md)
 * [Context](context.md)
@@ -38,6 +38,7 @@
    * [Conclusion](conclusion.md)
    * [Where from here](where_from_here.md)
    * [Acknowledgments](acknowledgments.md)
+___________
 * [Version 1 Archive](version1_archive.md)
    * V1 articles to still review and/or port into V2:
        * [Ground rules](ground_rules.md)
