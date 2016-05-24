@@ -1,5 +1,8 @@
 # Roommates
 
+## WRITTEN?
+## PROOFED?
+
 A look at sharing connected objects, how to manage privacy from co-inhabitants, and making decisons together. 
 
 Shared connected objects offer a way to use physical good in a non-rivaling way. Through personalization and modularity, we can design and prepare for fuller shared usage, and with trust management better navigate who can use what object. In turn, we can imagine how shared objects gain value the more they are used, which could lead to a more sustainable appreciation of physical goods. 
