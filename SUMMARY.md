@@ -7,7 +7,7 @@
    * [Protection of personal data](protection_of_personal_data.md)
    * [Read/Write/Participate](readwriteparticipate.md)
    * [Open practices](open_practices.md)
-* Context
+* [Context](context.md)
    * In the past
    * Now and the future
    * New territory and unintended consequences
