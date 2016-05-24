@@ -26,12 +26,6 @@
    * [Tenant(s) and landlord](tenants_and_landlord.md)
    * [Neighbor and neighbor](neighbor_and_neighbor.md)
    * Neighborhoods
-       * Playing
-       * Monitoring
-           * [Ambient Notifications]
-       * Developing
-           * [Community Data...]
-           * [Retail? Civics? City?...]
 * Methodologies and case studies
    * Prototyping
        * [The UX of privacy](ux_of_privacy.md)
