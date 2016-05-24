@@ -2,6 +2,7 @@
 
 Now we're seeing the rise of plurals: multiple users and multiple machines. These form complex, connected systems, experiences, and data sets. 
 
+
 ## There aren't many connected homes
 
 Over the last few months, we've made a point of asking a lot of people which connected objects they have in their houses (not counting smartphones, tablets, laptops). It wasn't many. 
@@ -32,3 +33,4 @@ We assume that the ways this will happen will seem odd for a while, and that it 
 [![retro future kitchen](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/retrofuturekitchenvideo.png)](https://www.youtube.com/embed/hZG36dhhbx0)
 
 Rather, the smart will manifest in ways both banal and novel, and the vector will (hopefully, and most likely) be smarts that are "on the user", in whichever way. If we had to guess, we'd say they will be probably fairly low-tech, bottom up interventions that just make things a little easier, more interesting, more useful: **A connected home should help us be more human, more ourselves.**
+
