@@ -14,7 +14,7 @@
 * [Concepts](concepts.md)
    * [Interactions](interactions.md)
        * [Human-readable](human-readable.md)
-       * Machine-readable
+       * [Machine-readable](machine-readable.md)
        * Mediating across layers
    * Smart, connected products
        * Sensing
