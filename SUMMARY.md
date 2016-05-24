@@ -14,7 +14,7 @@
 * [Concepts](concepts.md)
    * [Interactions](interactions.md)
        * [Human-readable](human-readable.md)
-           * Human <> Human
+           * [Human <> Human] (human-readable.md#human<>human)
            * Human <> Machine
            * Human <> Machines
            * Humans <> Machines
