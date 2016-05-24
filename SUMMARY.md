@@ -15,9 +15,6 @@
    * [Interactions](interactions.md)
        * [Human-readable](human-readable.md)
        * Machine-readable
-           * Machines <> Machines
-           * New layers?
-           * Going forward
        * Mediating across layers
    * Smart, connected products
        * Sensing
