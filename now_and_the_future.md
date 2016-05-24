@@ -2,6 +2,20 @@
 
 Now we're seeing the rise of plurals: multiple users and multiple machines. These form complex, connected systems, experiences, and data sets. 
 
+## There aren't many connected homes
+
+Over the last few months, we've made a point of asking a lot of people which connected objects they have in their houses (not counting smartphones, tablets, laptops). It wasn't many. 
+
+Even in this almost ludicrously biased-towards-early-adopters group We talked to you hardly find any connectedness: Some game consoles and smart TVs, yes. Some NEST thermostats, a Philips Hue lightbulb here and there, sure. But that was about it. (In our home, there are some bluetooth speakers and we had a set of Alex's lovely [Good Night Lamp](http://goodnightlamp.com) before we brought them to [Casa Jasmina](http://casajasmina.arduino.cc) as house warming gifts. That's just about it.)
+
+The reasons are simple, and even this group of early adopters - many of who design connected products and services for a living - everybody has been blunt about it: The current offerings offer (mostly) fairly marginal value, or aren't compatible with either other technical platforms or (more interestingly) social norms. 
+
+**If we had to summarize the overall response in one sentence, it'd be: "I just don't need it."**
+
+And that's _very_ interesting. Because everybody agrees there's a huge market in connecting the home, and most would simultaneously agree that as a user the things offered don't make a whole lot of sense at least to the wider public.
+
+<strong>The home is first and foremost a safe space. A place of retreat and relaxation. A space that must never be challenging, but supportive. If we add any complexity or complication to the home, we chip away at its core functionality.</strong>
+
 
 ## How will the connected home start?
 
