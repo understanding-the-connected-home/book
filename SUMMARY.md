@@ -18,9 +18,6 @@
        * [Mediating across layers](mediating_across_layers.md)
        * [New layers?](new_layers.md)
    * [Smart, connected products](smart,_connected_products.md)
-       * Sensing
-       * Thinking
-       * Acting
    * Connected literacy
        * Reading
        * Writing
