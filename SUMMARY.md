@@ -1,14 +1,9 @@
 # Summary
 
-Understanding the Connected Home explores the questions, challenges and opportunities around increasingly connected homes.
-
-By Peter Bihr and Michelle Thorne
-
 * [Version 2 Readme](README.md)
 * [What's new in this edition?](introductionv2.md)
 * [The UX of privacy](ux_of_privacy.md)
-
-* [Version 1 Archive](version_1_archive.md)
+* [Version 1 Archive](version1_archive.md)
    * [Ground rules](ground_rules.md)
    * [Framing the debate](framing_the_debate.md)
    * [Data and Infrastructure](data_and_infrastructure.md)
@@ -33,5 +28,4 @@ By Peter Bihr and Michelle Thorne
    * [Where from here](where_from_here.md)
    * [Acknowledgments](acknowledgments.md)
    * [How to contribute to this book](how_to_contribute_to_this_book.md)
-
 
