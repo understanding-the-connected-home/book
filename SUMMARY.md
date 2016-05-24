@@ -4,7 +4,7 @@
    * [What's new in this edition?](introductionv2.md)
 * [Principles](principles.md)
    * [Protection of personal data](personal_data.md)
-   * [Read/Write/Participate](readwriteparticipate.md)
+   * [Read/Write/Participate](read_write_participate.md)
    * [Open practices](open_practices.md)
 * [Context](context.md)
    * [In the past](in_the_past.md)
