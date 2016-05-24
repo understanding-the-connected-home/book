@@ -14,10 +14,6 @@
 * [Concepts](concepts.md)
    * [Interactions](interactions.md)
        * [Human-readable](human-readable.md)
-           * [Human <> Human] (concepts/interactions/human-readable.md#human<>human)
-           * Human <> Machine
-           * Human <> Machines
-           * Humans <> Machines
        * Machine-readable
            * Machines <> Machines
            * New layers?
