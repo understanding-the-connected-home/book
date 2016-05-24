@@ -1,5 +1,7 @@
 # Ground rules
 
+## [move some content to Context > Now and Future and some to Scenarios]
+
 Five years from now the moment we enter a home might require some decisions from us: It might be a transition into a connected space, and it might not be obvious how connected it is, and in which ways. Yet, these are essential things to know to make an informed decision.
 
 Consider some of the following scenes. (Please note that many of examples used here might be framed rather more extreme than we might encounter in real life, in order to provoke some thoughts and jog our creativity.)
