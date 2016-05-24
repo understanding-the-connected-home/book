@@ -13,7 +13,7 @@ There is a lot of technical work to be done designing this layer well. Through d
 
 If done correctly, the machine-readable layer can be incredibly powerful. However, since it is hard for most people to read it directly, we need to ensure that there are ways to trust and verify what is happening at the machine-to-machine level. That way devices can honor what the user wants and cooperates well with other devices, datasets and systems. 
 
-## Machines <> Machines
+## Machines-to-machines
 
 There are considerations around metadata that conveys humans' preferences, ways for machines to talk better with one another, and ways of structuring the network to facilitate this. [principle to include here: humans should have the ability to still see/manipulate what's going on here]
 
