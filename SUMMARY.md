@@ -21,7 +21,7 @@
 * [Scenarios](scenarios.md)
    * [What to invite in your home](what_to_invite_in_your_home.md)
    * [How to be a good guest and host](how_to_be_a_good_guest_and_host.md)
-   * Family
+   * [Family](family.md)
        * [Root access]
    * Roommates
        * Sharing
