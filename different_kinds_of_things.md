@@ -1,5 +1,7 @@
 # Different kinds of things
 
+## [Move to Concepts > Smart, Connected Objects and to Explore > Research]
+
 The home is full of things that fall into various categories: furniture, lamps, appliances, gadgets, etc. For the connected home, we might need to re-examine these categories. 
 
 Which categorization scheme might lead us to interesting insights? Let's explore a few.
