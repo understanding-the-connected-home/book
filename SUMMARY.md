@@ -27,7 +27,7 @@
    * [Neighbor and neighbor](neighbor_and_neighbor.md)
    * [Neighborhoods](neighborhoods.md)
 * [Methodologies and case studies](methodologies_and_case_studies.md)
-   * Prototyping
+   * [Prototyping](prototyping.md)
        * [The UX of privacy](ux_of_privacy.md)
    * Policy
        * [Smart Cities...]
