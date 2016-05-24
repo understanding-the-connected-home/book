@@ -1,5 +1,8 @@
 # Tenant(s) and landlord
 
+## WRITTEN?
+## PROOFED?
+
 A look at moving (factory reset), maintaining a home (home sweet) and buying a home. 
 
 ## Moving in
