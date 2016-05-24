@@ -1,5 +1,7 @@
 # Augmentation not automation 
 
+## [Move Engelbart to Context > In the Past] 
+
 A pioneer in human-machine interfaces and a solver of unusual problems, Doug Engelbart - inventor of the computer mouse, among other things - had a mantra: _augmentation not automation_. 
 
 Engelbart's work focused on the human intellect and how to improve it. Yet, his [framework conceptual for augmenting the human intellect](http://www.dougengelbart.org/pubs/augment-3906.html) can guide our exploration of the connected home, too. 
