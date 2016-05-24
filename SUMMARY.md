@@ -8,7 +8,7 @@
    * [Read/Write/Participate](readwriteparticipate.md)
    * [Open practices](open_practices.md)
 * [Context](context.md)
-   * In the past
+   * [In the past](in_the_past.md)
    * Now and the future
    * New territory and unintended consequences
 * Concepts
