@@ -83,7 +83,7 @@ od# Summary
 * To explore further
   * Research
     * [VUCA in your home]
-* Other questions, areas and ideas
+  * Other questions, areas and ideas
     * [...]    
 
 ### Version 1 Archive 
