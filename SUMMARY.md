@@ -32,7 +32,7 @@
        * [VUCA in your home](vuca_in_your_home.md)
    * [Policy](policy.md)
        * [Context Matters: Smart Home in the Smart City](smart_city.md)
-       * [State of Surveillance](state_of_surveillance.md)
+       * [State of Surveillance](surveillance.md)
 * [Explore further](explore_further.md)
    * [Research](research.md)
    * [Conclusion](conclusion.md)
