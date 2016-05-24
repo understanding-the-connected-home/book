@@ -1,4 +1,4 @@
-# Summary
+od# Summary
 
 ### Introduction 
 * [Version 2 Readme](README.md)
@@ -70,30 +70,23 @@
       * [Community Data...]
       * [Retail? Civics? City?...]
 
-## Methodologies and case studies
+### Methodologies and case studies
 
-    Here we show case some ways we've explored these topics in the last months, focusing on the insights and resources that can help others in their own investigations. 
-
-
-### Prototyping
-    * [UX of privacy]
-    * [Methodologies]
-### Policy
+* Methodologies and case studies
+  * Prototyping
+    * [The UX of privacy](ux_of_privacy.md)
+  * Policy
     * [Smart Cities...]
     * [Surveillance...]
 
-## To explore further
-
-    And there are ways to take these ideas forward, through research, further publications, and other considerations. 
-
-
-### Research
+### To explore further
+* To explore further
+  * Research
     * [VUCA in your home]
-### Other questions, areas and ideas
+* Other questions, areas and ideas
     * [...]    
 
-
-* [The UX of privacy](ux_of_privacy.md)
+### Version 1 Archive 
 * [Version 1 Archive](version1_archive.md)
    * [Ground rules](ground_rules.md)
    * [Framing the debate](framing_the_debate.md)
