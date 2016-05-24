@@ -15,7 +15,7 @@
    * [Interactions](interactions.md)
        * [Human-readable](human-readable.md)
        * [Machine-readable](machine-readable.md)
-       * Mediating across layers
+       * [Mediating across layers](mediating_across_layers.md)
        * New layers?
    * Smart, connected products
        * Sensing
