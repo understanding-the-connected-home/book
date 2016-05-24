@@ -1,5 +1,7 @@
 # My personal data sphere
 
+## [moved some content to Scenarios > host/guest and Scenarios > tenant/landlord. some content to Principles. some to Concepts > Mediating]
+
 Through our smartphones, we have instant access to all our data. A personal cloud of data that travels with us. 
 
 But even though we know that (meta-)data about us and our whereabouts is constantly sent back to various entities - tech & advertising companies, government agencies, telcos - context-triggered data exchanges beyond the most basic level are still relatively rare. Despite all the efforts of Google Now, Siri, Cortana & co, most of the time we need to actively seek out the data/app/info we are looking for. That's not a bad thing in and of itself, but it might change for the connected home.
