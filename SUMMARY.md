@@ -79,8 +79,8 @@ od# Summary
     * [Smart Cities...]
     * [Surveillance...]
 
-### To explore further
-* To explore further
+### Explore further
+* Explore further
   * Research
     * [VUCA in your home]
   * Other questions, areas and ideas
