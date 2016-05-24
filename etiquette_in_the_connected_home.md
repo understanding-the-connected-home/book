@@ -1,10 +1,10 @@
-# Etiquette in the connected home
+# How to be a good guest and host
 
 Being a house guest and host in a connected home will of course in many ways be similar to how humans have socialized for centuries. 
 
 But there will also be aspects that are new, or that need to be negotiated. What might that look like?
 
-## How to be a good guest
+## A good guest
 
 If someone invites you to their connected home, there might be some things for you, as a guest, to consider. 
 
@@ -16,7 +16,7 @@ If someone invites you to their connected home, there might be some things for y
 
 All that said, as a guest, you certainly have some rights or courtesies afforded to you. For example, you should be able to ask the host what monitoring is going on in the home. 
 
-## How to be a good host
+## A good host
 
 What does etiquette look like from the host's perspective?
 
