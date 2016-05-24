@@ -25,9 +25,6 @@
    * [Roommates](roommates.md)
    * [Tenant(s) and landlord](tenants_and_landlord.md)
    * Neighbor and neighbor
-       * Socializing
-       * Helping
-       * Resolving
    * Neighborhoods
        * Playing
        * Monitoring
