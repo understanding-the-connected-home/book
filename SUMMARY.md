@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Introduction
    * [What's new in this edition?](introductionv2.md)
 * [Principles](principles.md)
    * [Protection of personal data](protection_of_personal_data.md)
