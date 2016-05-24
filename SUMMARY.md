@@ -39,7 +39,7 @@
    * [Where from here](where_from_here.md)
    * [Acknowledgments](acknowledgments.md)
 * [Version 1 Archive](version1_archive.md)
-   * V1 articles to still review for V2:
+   * V1 articles to still review and/or port into V2:
        * [Ground rules](ground_rules.md)
        * [Personal data sphere](personal_data_sphere.md)
        * [Network models for the connected home](network_models_for_the_connected_home.md)
