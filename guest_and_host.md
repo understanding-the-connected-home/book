@@ -1,4 +1,4 @@
-# How to be a good guest and host
+# Guest and host
 
 ## WRITTEN?
 ## PROOFED?
