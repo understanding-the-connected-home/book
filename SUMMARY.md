@@ -18,10 +18,7 @@
        * [Mediating across layers](mediating_across_layers.md)
        * [New layers?](new_layers.md)
    * [Smart, connected products](smart,_connected_products.md)
-   * Connected literacy
-       * Reading
-       * Writing
-       * Participating
+   * [Connected literacy](connected_literacy.md)
 * [Scenarios](scenarios.md)
    * What to invite into your home
    * Host and guest(s) [how to be a good host]
@@ -76,7 +73,6 @@
    * [What to invite in your home](what_to_invite_in_your_home.md)
    * [Etiquette in the connected home](etiquette_in_the_connected_home.md)
    * [Managing conflict](managing_conflict.md)
-   * [Connected literacy](connected_literacy.md)
    * [Design and Interaction](design_and_interaction.md)
    * [Augmentation not automation](augmentation_not_automation.md)
    * [How do things communicate their expectations?](how_do_things_communicate_their_expectations.md)
