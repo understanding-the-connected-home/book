@@ -24,11 +24,6 @@
    * [Family](family.md)
    * [Roommates](roommates.md)
    * [Tenant(s) and landlord](tenants_and_landlord.md)
-       * Moving
-           * [Factory Reset]
-       * Maintaining
-           * [Home Sweet]
-       * Buying
    * Neighbor and neighbor
        * Socializing
        * Helping
