@@ -1,5 +1,7 @@
 # Managing conflict
 
+## [move some content into Concepts > Interactions > Mediating]
+
 When we introduce connectedness into infrastructure like buildings - into our homes - we stitch a technological network into, or better: onto, our lives. And with it we introduce smart agents of sorts: Software that has more or less its own goals and agendas.
 
 For example, a Nest thermostat's primary goal might be to achieve and maintain a certain temperature in the living room; a secondary goal might be to save energy.
