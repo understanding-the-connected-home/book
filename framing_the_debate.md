@@ -24,7 +24,7 @@ But an interstitial step _to where_? That's hard to predict, and figuring that o
 
 ## Vectors
 
-[moved to Context > Now and the Future]
+[moved to Context > New territory]
 
 ## Negotiating data engagements
 
