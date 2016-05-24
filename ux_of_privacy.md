@@ -1,5 +1,8 @@
 # The UX of privacy
 
+## WRITTEN?
+## PROOFED?
+
 Privacy is complex, contextual, cultural, fuzzy. It is hard to get right, especially in the context of connected things. Really hard. 
 
 Our vocabulary has not evolved as quickly as technological and societal change has, and so we are essentially stuck - for now - with crutches, metaphorically speaking: We try to describe and solve problems of connected privacy with terminology and metaphors from non-connected privacy. This is as tricky and often misleading as trying to depict a 4-dimenstional figure in 3-dimensional space: It's possible to a degree but we simply are not, as a society, fluent in doing it.
