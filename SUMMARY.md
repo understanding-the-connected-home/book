@@ -5,8 +5,12 @@ Understanding the Connected Home explores the questions, challenges and opportun
 
 By Peter Bihr and Michelle Thorne
 
+* [What's new in this edition?](introductionv2.md)	
+* [The UX of privacy](ux_of_privacy.md)
+
+
+ 
 * [Version 1 ARCHIVE](README.md)
-    * [What's new in this edition?](introductionv2.md)	
     * [Ground rules](ground_rules.md)
     * [Framing the debate](framing_the_debate.md)
     * [Data and Infrastructure](data_and_infrastructure.md)
@@ -27,7 +31,6 @@ By Peter Bihr and Michelle Thorne
     * [Shared connected objects](shared_connected_objects.md)
     * [Ambient notifications](ambient_notifications.md)
     * [The home as user agent](the_home_as_user_agent.md)
-    * [The UX of privacy](ux_of_privacy.md)
     * [Conclusion](conclusion.md)
     * [Where from here](where_from_here.md)
     * [Acknowledgments](acknowledgments.md)
