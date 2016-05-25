@@ -5,7 +5,7 @@
 * [Principles](principles.md)
    * [Protection of personal data](personal_data.md)
    * [Read/Write/Participate](read_write_participate.md)
-   * [Open practices](open_practices.md)
+   * [Openness](open_practices.md)
 * [Context](context.md)
    * [Past](past.md)
    * [Present](present.md)
