@@ -49,3 +49,8 @@ If, for example, a person chooses not to have or use the device or app that tran
 Currently, these are all just questions: A kind of stream of consciousness that sounds banal at best and creepy at worst. None of these scenarios sound desirable. Before we can focus on the opportunities that a connected home can offer - for ways a smart home can help us be more human, more ourselves - we might need to evolve a vocabulary for all the many types of interactions we will be increasingly facing. Otherwise our questions and answers are bound not to fit the challenges we want to consider.
 
 To understand and communicate the ground rules for the connected home, we need to find the words to describe them.
+
+## Privacy as opportunity
+
+* compliance with EU General Data Protection Regulation = big opportunity to innovate
+* more privacy in products = path to unique selling point
