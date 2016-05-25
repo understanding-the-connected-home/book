@@ -7,7 +7,7 @@
 * Specifically, that means building in: strong privacy default settings, consent, plans for data breaches, options to delete data, and data portability.
 * These will have to be backed by responsibility and accountability by industries, data service provides, and controllers. 
 
-## Privacy by Design
+## Privacy by design
 
    > * Proactive not reactive; Preventative not remedial
 * Privacy as the default setting
@@ -19,7 +19,9 @@
 
 https://en.wikipedia.org/wiki/Privacy_by_design
 
-## Privacy settings are set at a high level by default.
+## Strong privacy defaults.
+
+Settings, etc. start off set high. 
 
 ## Consent
 
