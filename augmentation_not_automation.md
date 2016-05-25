@@ -12,13 +12,7 @@ Let's veer away from the human intellect and focus on the role of technology in 
 
 ## Automation is a natural first step
 
-The connected home products we see on the market today (or judging by conversations with many manufacturers and designers working in the field, on the way to market) focus to a large degree on home automation. There's nothing wrong with it, it's a natural first step. It's (comparatively) simple and offers a clear value (if done right), so it's (again, comparatively) low-hanging fruit.
-
-Inarguably, there's a lot to be gained for users from home automation. Nobody would argue with the convenience and time savings of a laundry machine, a dishwasher or a vacuum cleaner. 
-
-The same will hold true for many connected home appliances. The true automation magic might, however, not happen at the device level. Everyone who ever had to install one smartphone app per connected home device - thermostat, lightbulb, smart lock - will agree, the trick might turn out to be smart integration at the software layer: One app to rule them all. 
-
-Maybe more importantly, automation does not require a lot of explanation: _I used to regulate my heater by hand, now it self-regulates._ Simple to understand, no explanation needed.
+[moved to Context > Present]
 
 ## Explaining a new home
 
