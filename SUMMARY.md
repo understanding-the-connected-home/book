@@ -43,7 +43,6 @@
    * [Acknowledgments](acknowledgments.md)
 * [Version 1 Archive](version1_archive.md)
    * V1 articles to still review and/or port into V2:
-       * [Personal data sphere](personal_data_sphere.md)
        * [Network models for the connected home](network_models_for_the_connected_home.md)
        * [Different kinds of things](different_kinds_of_things.md)
        * [Managing conflict](managing_conflict.md)
@@ -57,6 +56,7 @@
        * [Framing the debate](framing_the_debate.md)
        * [The home as user agent](the_home_as_user_agent.md)
        * [Ground rules](ground_rules.md)
+       * [Personal data sphere](personal_data_sphere.md)
    * V1 articles no longer needed:
        * [Data and Infrastructure](data_and_infrastructure.md)
        * [Behavior and Know-How](behavior_and_know-how.md)
