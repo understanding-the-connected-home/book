@@ -1,4 +1,4 @@
-# New layers?
+# New layers
 
 ## WRITTEN?
 ## PROOFED?
