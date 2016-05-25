@@ -16,7 +16,7 @@
        * [Machine-readable](machine_readable.md)
        * [Mediating across layers](mediating_across_layers.md)
        * [New layers?](new_layers.md)
-   * [Smart, connected products](smart_connected_products.md)
+   * [Smart connected objects](smart_connected_objects.md)
    * [The UX of privacy](ux_of_privacy.md)
    * [Connected literacy](connected_literacy.md)
 * [Scenarios](scenarios.md)
@@ -43,7 +43,6 @@
    * [Acknowledgments](acknowledgments.md)
 * [Version 1 Archive](version1_archive.md)
    * V1 articles to still review and/or port into V2:
-       * [Different kinds of things](different_kinds_of_things.md)
        * [Managing conflict](managing_conflict.md)
        * [Augmentation not automation](augmentation_not_automation.md)
        * [How do things communicate their expectations?](how_do_things_communicate_their_expectations.md)
@@ -57,6 +56,7 @@
        * [Ground rules](ground_rules.md)
        * [Personal data sphere](personal_data_sphere.md)
        * [Network models for the connected home](network_models_for_the_connected_home.md)
+       * [Different kinds of things](different_kinds_of_things.md)
    * V1 articles no longer needed:
        * [Data and Infrastructure](data_and_infrastructure.md)
        * [Behavior and Know-How](behavior_and_know-how.md)
