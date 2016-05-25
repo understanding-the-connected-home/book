@@ -34,7 +34,7 @@
        * Exhibition as format
    * [Policy](policy.md)
        * [Context Matters: Smart Home in the Smart City](smart_city.md)
-       * [State of Surveillance](surveillance.md)
+       * [Surveillance & tracking in the home and internet of things](surveillance.md)
 * [Explore further](explore_further.md)
    * [Research](research.md)
    * [References](references.md)
