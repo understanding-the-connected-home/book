@@ -1,4 +1,4 @@
-# New territory and unintended consequences
+# Future
 
 ## WRITTEN?
 ## PROOFED?
@@ -7,6 +7,7 @@ This means there's new things to explore: How users interact with each other and
 
 Implications and unintended consequences. Examples of how this has looked in the past and possible "threats" now. This highlights the urgency of figuring these questions out. 
 
+## New territory and unintended consequences
 
 ## Vectors
 
