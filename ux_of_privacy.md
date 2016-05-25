@@ -1,6 +1,6 @@
 # The UX of privacy
 
-## WRITTEN?
+## WRITTEN by Peter
 ## PROOFED?
 
 Privacy is complex, contextual, cultural, fuzzy. It is hard to get right, especially in the context of connected things. Really hard. 
