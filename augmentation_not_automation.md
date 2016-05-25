@@ -22,7 +22,7 @@ Maybe more importantly, automation does not require a lot of explanation: _I use
 
 ## Explaining a new home
 
-[moved to Concepts > Past]
+[moved to Context > Past]
 
 ## Key takeaways
 
