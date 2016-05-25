@@ -37,3 +37,12 @@ We assume that the ways this will happen will seem odd for a while, and that it 
 
 Rather, the smart will manifest in ways both banal and novel, and the vector will (hopefully, and most likely) be smarts that are "on the user", in whichever way. If we had to guess, we'd say they will be probably fairly low-tech, bottom up interventions that just make things a little easier, more interesting, more useful: **A connected home should help us be more human, more ourselves.**
 
+Much more tricky is how we will deal with our preferences regarding various levels of scanning, sharing data, and (by extension) surveillance.
+
+## Our homes must respect us
+
+On the web, our behavior is constantly tracked by advertising companies and other, even less savory organizations. This happens almost entirely without our consent, frequently under dubious ethical and legal practices, largely without recourse. 
+
+On the web, the only means of protection are personal education in the matter (to at least understand what's going on) as well as technical measures, like ad & tracking blockers, as well as browser features/plug-ins like Do Not Track. **Between them, these measures provide a certain measure of privacy, but neither is this sufficient nor is it sufficiently easy.** We got to this point because for too long, the open nature of the web allowed bad players to foster a culture of tracking without recourse or penalties. 
+
+**For the context of the connected home, we may not commit these same mistakes. We need to establish standards, regulatory frameworks and a culture that respects the ethical dimensions of the safe place that is the home.**
