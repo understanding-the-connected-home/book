@@ -1,4 +1,4 @@
-# In the past
+# Past
 
 ## WRITTEN?
 ## PROOFED?
