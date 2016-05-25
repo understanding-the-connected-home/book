@@ -75,7 +75,6 @@ While the journey might not be easy, this is an endevour worth fighting for.
 
 [^2] For details, refer to this 2015 study by [Pew Research](http://www.pewresearch.org/fact-tank/2015/04/14/why-some-americans-have-not-changed-their-privacy-and-security-behaviors/)
 
-
 [^3] See WIRED (2012) at [https://www.wired.com/2012/03/petraeus-tv-remote/](https://www.wired.com/2012/03/petraeus-tv-remote/)
 
 [^4] See The Guardian (2016) at [https://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper](https://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper)
