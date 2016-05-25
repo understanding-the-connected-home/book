@@ -1,5 +1,8 @@
 # What things to invite into your home
 
+## WRITTEN?
+## PROOFED?
+
 
 ## Mindful owernship
 

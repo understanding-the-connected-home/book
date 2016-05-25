@@ -1,11 +1,7 @@
-
 # Summary
 
-Understanding the Connected Home explores the questions, challenges and opportunities around increasingly connected homes.
-
-By Peter Bihr and Michelle Thorne
-
 * [Introduction](README.md)
+<<<<<<< HEAD
     * [What's new in this edition?](introductionv2.md)	
     * [Ground rules](ground_rules.md)
     * [Framing the debate](framing_the_debate.md)
@@ -55,4 +51,66 @@ By Peter Bihr and Michelle Thorne
 
 
 
+=======
+   * [What's new in this edition?](introductionv2.md)
+* [Principles](principles.md)
+   * [Protection of personal data](personal_data.md)
+   * [Read/Write/Participate](read_write_participate.md)
+   * [Openness](openness.md)
+* [Context](context.md)
+   * [Past](past.md)
+   * [Present](present.md)
+   * [Future](future.md)
+* [Concepts](concepts.md)
+   * [Interactions](interactions.md)
+       * [Human-readable](human_readable.md)
+       * [Machine-readable](machine_readable.md)
+       * [New layers](new_layers.md)
+   * [Mediating across layers](mediating_across_layers.md)
+   * [Smart connected objects](smart_connected_objects.md)
+   * [The UX of privacy](ux_of_privacy.md)
+   * [Connected literacy](connected_literacy.md)
+* [Scenarios](scenarios.md)
+   * [What to invite in your home](what_to_invite.md)
+   * [Guest and host](guest_and_host.md)
+   * [Family](family.md)
+   * [Roommates](roommates.md)
+   * [Tenant and landlord](tenant_and_landlord.md)
+   * [Neighbor and neighbor](neighbor_and_neighbor.md)
+   * [Neighborhoods](neighborhoods.md)
+* [Approaches](approaches.md)
+   * [Prototyping](prototyping.md)
+       * [VUCA in your home](vuca.md)
+       * Sprint as format
+       * Exhibition as format
+   * [Policy](policy.md)
+       * [Context Matters: Smart Home in the Smart City](smart_city.md)
+       * [State of Surveillance](surveillance.md)
+* [Explore further](explore_further.md)
+   * [Research](research.md)
+   * [References](references.md)
+   * [Conclusion](conclusion.md)
+   * [Where from here](where_from_here.md)
+   * [Acknowledgments](acknowledgments.md)
+* [Version 1 Archive](version1_archive.md)
+   * V1 articles repurposed in V2:
+       * [Who has root access to your home](who_has_root_access_to_your_home.md)
+       * [Shared connected objects](shared_connected_objects.md)
+       * [Factory reset](factory_reset.md)
+       * [Ambient notifications](ambient_notifications.md)
+       * [Framing the debate](framing_the_debate.md)
+       * [The home as user agent](the_home_as_user_agent.md)
+       * [Ground rules](ground_rules.md)
+       * [Personal data sphere](personal_data_sphere.md)
+       * [Network models for the connected home](network_models_for_the_connected_home.md)
+       * [Different kinds of things](different_kinds_of_things.md)
+       * [Managing conflict](managing_conflict.md)
+       * [Augmentation not automation](augmentation_not_automation.md)
+       * [How do things communicate their expectations?](how_do_things_communicate_their_expectations.md)
+   * V1 articles no longer needed:
+       * [Data and Infrastructure](data_and_infrastructure.md)
+       * [Behavior and Know-How](behavior_and_know-how.md)
+       * [Design and Interaction](design_and_interaction.md)
+       * [How to contribute to this book](how_to_contribute_to_this_book.md)
+>>>>>>> origin/master
 

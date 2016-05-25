@@ -1,5 +1,8 @@
 # Connected literacy 
 
+## WRITTEN?
+## PROOFED?
+
 The web is where our personal, civic, and economic lives connect. Knowing how to wield the web is essential to success today. Tomorrow, we will need web literacy for connected environments. To understand how this might be tackled, let's consider how web literacy works and than apply this model to the connected home.
 
 ## Why web literacy

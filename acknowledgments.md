@@ -1,5 +1,8 @@
 # Acknowledgments
 
+## WRITTEN?
+## PROOFED?
+
 **Alexandra Deschamps-Sonsino** has been blogging about and building products for the internet of things for over ten years. There's no one to whom we're more indebted for helping us understand the connected home and the current challenges and trends. 
 
 A huge thank you to **Jasmina Tesanovic and Bruce Sterling** for their kind hospitality at Casa Jasmina and truly inspiring project. We are so grateful to be a part of it.
