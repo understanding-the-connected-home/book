@@ -43,7 +43,6 @@
    * [Acknowledgments](acknowledgments.md)
 * [Version 1 Archive](version1_archive.md)
    * V1 articles to still review and/or port into V2:
-       * [Augmentation not automation](augmentation_not_automation.md)
        * [How do things communicate their expectations?](how_do_things_communicate_their_expectations.md)
    * V1 articles reused in V2:
        * [Who has root access to your home](who_has_root_access_to_your_home.md)
@@ -57,6 +56,7 @@
        * [Network models for the connected home](network_models_for_the_connected_home.md)
        * [Different kinds of things](different_kinds_of_things.md)
        * [Managing conflict](managing_conflict.md)
+       * [Augmentation not automation](augmentation_not_automation.md)
    * V1 articles no longer needed:
        * [Data and Infrastructure](data_and_infrastructure.md)
        * [Behavior and Know-How](behavior_and_know-how.md)
