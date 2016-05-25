@@ -5,6 +5,10 @@
 
 We believe that the connected home should be based on foundational principles. These are not new, but they are important to include at the beginning, as they guide what should and could be built. 
 
+## Value-sensitive design 
+
+Take human values into account in a well-defined manner throughout the whole process, like privacy by design. 
+
 ## Ethics implmented at design level
 
 One key aspect to this happens at the product design level, where designers of connected home products and services will need to invest extraordinary efforts into aspects like:
