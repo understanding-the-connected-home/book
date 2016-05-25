@@ -19,8 +19,7 @@ Your home is yours alone. And unless you share the key with someone, only you ha
 
 Let's consider the following, loosely sorted in order of ascending maliciousness:
 
-
-3. **Who has root to your home?** [Root access](https://en.wikipedia.org/wiki/Superuser) is what we call full, unfettered access - including the rights to shut out other users or delete all data. Who are the parties who have this kind of access to your home? Is it going to be you? The landlord, owner, or renter? What about assisted living situations - is it the resident or the care facility? This is a situation we'll need to tackle at least partially through social norms, but also through some kind of legal framework so we can make sure the residents are in charge of their home. 
+**Who has root to your home?** [Root access](https://en.wikipedia.org/wiki/Superuser) is what we call full, unfettered access - including the rights to shut out other users or delete all data. Who are the parties who have this kind of access to your home? Is it going to be you? The landlord, owner, or renter? What about assisted living situations - is it the resident or the care facility? This is a situation we'll need to tackle at least partially through social norms, but also through some kind of legal framework so we can make sure the residents are in charge of their home. 
 
 It's the cases around root access that we find most interesting and threatening. It's likely that all kinds of parties will try to leverage control over an apartment against its residents. To mention just a few examples of how this could go all kinds of wrong, consider the following scenarios:
 
