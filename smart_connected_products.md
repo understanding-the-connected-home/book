@@ -1,4 +1,4 @@
-# Smart, connected objects
+# Smart connected objects
 
 ## WRITTEN?
 ## PROOFED?
