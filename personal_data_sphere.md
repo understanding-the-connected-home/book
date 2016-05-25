@@ -24,13 +24,7 @@ So upon entering your home, or room (in shared living arrangements), or hotel ro
 
 ## Our homes need to honor our needs and rights
 
-Much more tricky is how we will deal with our preferences regarding various levels of scanning, sharing data, and (by extension) surveillance.
-
-On the web, our behavior is constantly tracked by advertising companies and other, even less savory organizations. This happens almost entirely without our consent, frequently under dubious ethical and legal practices, largely without recourse. 
-
-On the web, the only means of protection are personal education in the matter (to at least understand what's going on) as well as technical measures, like ad & tracking blockers, as well as browser features/plug-ins like Do Not Track. **Between them, these measures provide a certain measure of privacy, but neither is this sufficient nor is it sufficiently easy.** We got to this point because for too long, the open nature of the web allowed bad players to foster a culture of tracking without recourse or penalties. 
-
-**For the context of the connected home, we may not commit these same mistakes. We need to establish standards, regulatory frameworks and a culture that respects the ethical dimensions of the safe place that is the home.**
+[moved to Context > Present]
 
 ## Ethics are implemented at the design level
 
