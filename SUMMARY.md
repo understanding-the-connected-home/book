@@ -37,11 +37,10 @@
        * [State of Surveillance](surveillance.md)
 * [Explore further](explore_further.md)
    * [Research](research.md)
-   * References
+   * [References](references.md)
    * [Conclusion](conclusion.md)
    * [Where from here](where_from_here.md)
    * [Acknowledgments](acknowledgments.md)
-___________
 * [Version 1 Archive](version1_archive.md)
    * V1 articles to still review and/or port into V2:
        * [Personal data sphere](personal_data_sphere.md)
