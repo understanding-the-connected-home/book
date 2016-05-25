@@ -30,8 +30,6 @@ But even though we know that (meta-)data about us and our whereabouts is constan
 - We need to develop mechanisms to negotiate our agreements to various types of data-based interactions.
 - Rules and types of data-based interactions need to be human and machine readable.
 
-## Further reading
 
-We highly recommend Brett Gaylor's interactive documentary [Do Not Track](https://donottrack-doc.com/en/).
 
 
