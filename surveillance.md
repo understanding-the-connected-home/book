@@ -71,7 +71,7 @@ While the journey might not be easy, this is an endevour worth fighting for.
 
 
 
-[^1]: The study is available online in full at [ntia.doc.gov](https://www.ntia.doc.gov/blog/2016/lack-trust-internet-privacy-and-security-may-deter-economic-and-other-online-activities), the [Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2016/05/13/new-government-data-shows-a-staggering-number-of-americans-have-stopped-basic-online-activities/) has a quick-to-read summary of the results.
+[^1] The study is available online in full at [ntia.doc.gov](https://www.ntia.doc.gov/blog/2016/lack-trust-internet-privacy-and-security-may-deter-economic-and-other-online-activities), the [Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2016/05/13/new-government-data-shows-a-staggering-number-of-americans-have-stopped-basic-online-activities/) has a quick-to-read summary of the results.
 
 [^2] For details, refer to this 2015 study by [Pew Research](http://www.pewresearch.org/fact-tank/2015/04/14/why-some-americans-have-not-changed-their-privacy-and-security-behaviors/)
 
@@ -79,7 +79,7 @@ While the journey might not be easy, this is an endevour worth fighting for.
 
 [^4] See The Guardian (2016) at [https://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper](https://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper)
 
-[^5]: The full study "Don't Panic: Making Progresson the 'Going Dark' Debate'" by the Berkman Center (2016) is available online (PDF): [https://cyber.law.harvard.edu/pubrelease/dont-panic/Dont_Panic_Making_Progress_on_Going_Dark_Debate.pdf](https://cyber.law.harvard.edu/pubrelease/dont-panic/Dont_Panic_Making_Progress_on_Going_Dark_Debate.pdf)
+[^5] The full study "Don't Panic: Making Progresson the 'Going Dark' Debate'" by the Berkman Center (2016) is available online (PDF): [https://cyber.law.harvard.edu/pubrelease/dont-panic/Dont_Panic_Making_Progress_on_Going_Dark_Debate.pdf](https://cyber.law.harvard.edu/pubrelease/dont-panic/Dont_Panic_Making_Progress_on_Going_Dark_Debate.pdf)
 
 [^6] The search engine Shodan indexes thousands of unsecured web-connected devices, incl. webcams and more: [https://www.shodan.io/](https://www.shodan.io/)
 
