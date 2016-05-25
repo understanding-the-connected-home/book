@@ -1,6 +1,6 @@
 # My personal data sphere
 
-## [moved some content to Scenarios > host/guest and Scenarios > tenant/landlord. some content to Principles. some to Concepts > Mediating]
+[moved Concepts > Mediating, Context, etc]
 
 Through our smartphones, we have instant access to all our data. A personal cloud of data that travels with us. 
 
