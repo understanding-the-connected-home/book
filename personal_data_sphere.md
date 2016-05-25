@@ -8,7 +8,7 @@ But even though we know that (meta-)data about us and our whereabouts is constan
 
 ## Bringing data & preferences along
 
-[moved to Human <> Machines]
+[moved to Concepts > Interactions > Human-readable]
 
 ## Our homes need to honor our needs and rights
 
