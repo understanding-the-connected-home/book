@@ -58,7 +58,7 @@ As part of our smart city report we drafted some guidelines that could serve as 
 
 These guidelines, in turn, are inspired by the *de facto* principles that shaped the open web in its early days:  open source, openness, decentralization, bottom-up innovation. 
 
-For connected homes, these same principles might apply, with one difference: Most likely there should be a stronger focus on privacy and data protection.
+For connected homes, these same principles might apply, with one difference: There should be a stronger focus on privacy and data protection.
 
 
 
