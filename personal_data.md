@@ -3,7 +3,11 @@
 ## WRITTEN?
 ## PROOFED?
 
-We advocate for considering data consent, portability, accountability, etc.
+We advocate the privacy must be a value that's considered throughout the design, manufacture, usage and end of a connected product or service. 
+
+Specifically, that means building in: strong privacy default settings, consent, plans for data breaches, options to delete data, and data portability.
+
+These will have to be backed by responsibility and accountability by industries, data service provides, and controllers. 
 
 ## Privacy by Design
 
