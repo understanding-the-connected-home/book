@@ -5,6 +5,16 @@
 
 human <> machine interaction was based on a single user interacting with a single machine. 
 
+## Augmentation not Automation
+
+A pioneer in human-machine interfaces and a solver of unusual problems, Doug Engelbart - inventor of the computer mouse, among other things - had a mantra: _augmentation not automation_. 
+
+Engelbart's work focused on the human intellect and how to improve it. Yet, his [framework conceptual for augmenting the human intellect](http://www.dougengelbart.org/pubs/augment-3906.html) can guide our exploration of the connected home, too. 
+
+He aimed to increase a human's capability to approach a complex problem situation, meaning "more-rapid comprehension, better comprehension, the possibility of gaining a useful degree of comprehension in a situation that previously was too complex, **speedier solutions, better solutions, and the possibility of finding solutions to problems that before seemed insoluble.**" (emphasis ours)
+
+Let's veer away from the human intellect and focus on the role of technology in general, and in the connected home in particular. Technology - and the various pieces of tech in the connected home - should aim to augment us as well, to help us be more human, more ourselves. It should offer us speedier, better solutions, and solve problems that previously seems insoluble.
+
 ## New fields 
 
 Which brings us back to Doug Engelbart. One of his most famous moments is the first demo of the mouse: A groundbreaking, absolutely novel human-computer interface. ([The origin story of the mouse](http://www.dougengelbart.org/firsts/mouse.html) makes for a great read.) 
@@ -30,3 +40,5 @@ There's a long passage in which Engelbart riffs on typing up a shopping list and
 **Introducing connectivity into our homes requires a lot of explanation:** What is being introduced, why is it worth it, what does it help us do better? What are the implications, use cases, and limits? **Why might it be worth fundamentally changing your notion of your own home for this new thing?**
 
 This is a communications challenge on one hand. But more importantly it's a litmus test that designers and developers can apply to new ideas: Can the thing you are considering pass this filter? Will it be worth radically redefining what we mean traditionally mean by "home"?
+
+_Thanks to [Scott Jensen](http://www.jenson.org/) for the pointer to Engelbart's work for this context._
