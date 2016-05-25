@@ -37,7 +37,7 @@
        * [State of Surveillance](surveillance.md)
 * [Explore further](explore_further.md)
    * [Research](research.md)
-   * [References]
+   * References
    * [Conclusion](conclusion.md)
    * [Where from here](where_from_here.md)
    * [Acknowledgments](acknowledgments.md)
