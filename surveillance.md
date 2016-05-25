@@ -80,7 +80,7 @@ While the journey might not be easy, this is an endevour worth fighting for.
 
 [^4] See The Guardian (2016) at [https://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper](https://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper)
 
-[^5]: The full study "Don't Panic: Making Progresson the 'Going Dark' Debate'" by the Berkman Center (2016) is available online (PDF): [https://cyber.law.harvard.edu/pubrelease/dont-panic/Dont_Panic_Making_Progress_on_Going_Dark_Debate.pdf](https://cyber.law.harvard.edu/pubrelease/dont-panic/Dont_Panic_Making_Progress_on_Going_Dark_Debate.pdf
+[^5]: The full study "Don't Panic: Making Progresson the 'Going Dark' Debate'" by the Berkman Center (2016) is available online (PDF): [https://cyber.law.harvard.edu/pubrelease/dont-panic/Dont_Panic_Making_Progress_on_Going_Dark_Debate.pdf](https://cyber.law.harvard.edu/pubrelease/dont-panic/Dont_Panic_Making_Progress_on_Going_Dark_Debate.pdf)
 
 [^6] The search engine Shodan indexes thousands of unsecured web-connected devices, incl. webcams and more: [https://www.shodan.io/](https://www.shodan.io/)
 
