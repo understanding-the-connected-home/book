@@ -61,6 +61,8 @@ It looks like the list of actively listening things is about to take a sharp upt
 
 How user acceptance of these services will develop we don't know yet as the number of available systems is still small, the perceived value of the systems not yet as clear. Device makers certainly are making a big bet that consumers will flock to smart home hubs and other voice-controlled appliances. Just about every major tech company or home appliance manufacturer has some sort of smart play in the market.
 
+How much so? At CES 2016, Samsung president BK Yoon announced that all Samsung televisions will be IoT devices by 2017, and within five years all Samsung hardware will be IoT-ready.[^1] This is not outrageous or even surprising - adding computation and network capabilities to consumer and home devices is getting so cheap it hardly makes sense to leave it out if even just a marginal improvement of the product is to be expected.
+
 
 ## Special categories (for now)
 
@@ -78,3 +80,4 @@ But also, what about the parts of a home we usually don't associate with anythin
 
 Fourth, **truly new stuff**. The unknown unknowns we can only speculate about today but that will inevitably emerge - and likely sooner rather than later. This is the category that's both most speculative and most exciting; it's also the one to most likely cause major friction. We'll be watching with interest over the next five to twenty-five years.
 
+[^1] See AV Interaction (Jan 2016): [http://www.avinteractive.com/news/samsung-announces-plans-to-make-all-tvs-iot-devices-by-2017-06-01-2016/](http://www.avinteractive.com/news/samsung-announces-plans-to-make-all-tvs-iot-devices-by-2017-06-01-2016/)
