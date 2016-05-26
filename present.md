@@ -3,8 +3,12 @@
 ## WRITTEN?
 ## PROOFED?
 
-Now we're seeing the rise of plurals: multiple users and multiple machines. These form complex, connected systems, experiences, and data sets. 
-
+* Rise of the plurals: multiple users and multiple machines
+* These form complex, connected systems, experiences, and data sets. 
+* Nevertheless, there aren't many connected homes right now
+* How will it start?
+* Automation is the first step
+* Our homes must respect us
 
 ## There aren't many connected homes
 
