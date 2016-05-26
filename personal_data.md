@@ -6,6 +6,7 @@
 * We advocate the privacy must be a value that's considered throughout the design, manufacture, usage and end of a connected product or service. 
 * Specifically, that means building in: strong privacy default settings, consent, plans for data breaches, options to delete data, and data portability.
 * These will have to be backed by responsibility and accountability by industries, data service provides, and controllers. 
+* Security included here, too: different lifespans of homes vs. IoT devices, no homegrown crypto, security patches and how to ship regularly, (HT Ame)
 
 ## Privacy by design
 
