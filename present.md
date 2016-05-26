@@ -1,5 +1,4 @@
 # Present
-
 ## WRITTEN?
 ## PROOFED?
 
@@ -12,11 +11,7 @@
 
 
 ---- 
-* These form complex, connected systems, experiences, and data sets. 
-* Nevertheless, there aren't many connected homes right now
-* How will it start?
-* Automation is the first step
-* Our homes must respect us
+
 
 * Innovator's challenge: you have to create understanding of a field / furture user need before it's well known. Engelbart: "If ease of use was the only valid criterion, people would stick to tricycles and never try bicycles."
 
