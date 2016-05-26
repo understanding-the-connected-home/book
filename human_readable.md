@@ -68,11 +68,11 @@ In order to get there, we might need to evolve a vocabulary for all these types 
 
 This is the most common interaction upon which all of society is based. A home is full of human <> human interaction. 
 
-## Human-to-computer
+## Human-to-machine
 
 This is an interaction used most commonly when thinking of products. Single user, single machine. Example: a toaster. 
 
-## Human-to-computers
+## Human-to-machines
 
 Increasingly, humans are interacting with multiple machines, or more accurately, systems. 
 
@@ -92,6 +92,6 @@ So upon entering your home, or room (in shared living arrangements), or hotel ro
 
 **How do we transmit personal data to our environment?** What are the models to transfer all these types of data (preferences, settings, etc.)? Should this happen through the cloud? Through apps and our phones? Should we carry one piece of digital ID (built into the phone or wearables) that just serves as an identifier to then download our things from the internet, or should it all be stored locally? **What do the interaction models look like?**
 
-## Humans-to-computers
+## Humans-to-machines
 
 With further complexity are interactions among multiple people and complex systems. Think shared living spaces with many devices, services and user preferences.
