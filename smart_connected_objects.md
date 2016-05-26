@@ -5,22 +5,15 @@
 
 ## Characteristics of a connected object
 
-The terms *smart* and *connected* get thrown around a lot, and there's not necessarily one definition that captures all the various meanings and implications. 
+Depending on the field, the terms *smart* and *connected* are used largely interchangeably. For the purposes of this book, we'll primarily use the term *connected*. 
 
-We consider the terms *connected* and *smart* to be largely interchangable, but we'll preferably be using the term *connected*.
+A connected object is one that:
 
-For the purpose of this book we propose a pragmatic approach: 
+- senses (i.e. takes input from the environment or a user) 
+- thinks (i.e. computes and analyzes, often on the cloud)
+- and then acts (i.e. makes something happen)
 
-A connected objects is one that
-
-- senses, ie. takes input from the environment 
-- thinks, ie. computes, often on the cloud) and then
-- acts, ie. carries out an action or signals for something to happen
-
-When these systems have a physical component and are networked with one another or to other services (via the internet or local networks), we consider them  connected products and/or services. 
-
-In even simpler terms, if there is a data transfer aspect at the core of the thing performing its role, it most likely fits the bill.
-
+A connected object has a physical component. It can interact with the physical world either through its input or output, or both. A connected object is likely networked to other connected objects or digital services via the internet or local networks. 
 
 ### Sensing
 
