@@ -5,7 +5,7 @@
 
 * Past models of interaction were single user to single machine.
 * Automation has been the main paradigm of connected products. 
-* Lifespans of the stuff around us was slow. 
+* Lifespans of the stuff around us were slow (LONG rather than SLOW). 
 
 
 
