@@ -42,3 +42,7 @@ There's a long passage in which Engelbart riffs on typing up a shopping list and
 This is a communications challenge on one hand. But more importantly it's a litmus test that designers and developers can apply to new ideas: Can the thing you are considering pass this filter? Will it be worth radically redefining what we mean traditionally mean by "home"?
 
 _Thanks to [Scott Jensen](http://www.jenson.org/) for the pointer to Engelbart's work for this context._
+
+## Different lifespans
+
+* buildings vs. IoT devices (poses security risks) 
