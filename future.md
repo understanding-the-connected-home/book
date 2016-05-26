@@ -3,11 +3,13 @@
 ## WRITTEN?
 ## PROOFED?
 
-* This means there's new things to explore: How users interact with each other and these systems, how preferences are negotiated, and how conflicts are resolved. 
-* Implications and unintended consequences. Examples of how this has looked in the past and possible "threats" now. 
-* This highlights the urgency of figuring these questions out.
-* Need new vocabulary 
-* Privacy is an opportunity
+* If smartphones are a sign of the speed of innovation to come, that means the lifecycles of what is in our homes will change rapidly. 
+* Buildings move slow, but infrastructure, appliances & devices, and now digital services will be quickly changing. 
+* That means risks: security updates, companies that go broke or get acquired, devices that are no longer serviced or are breached. 
+* There's an urgency to figure out these issues. 
+* And huge opportunity to innvoate: we need updated vocabularies, literacies, ways to negotiated and resolve conflicts (of data/preferences). 
+
+
 
 ## New territory and unintended consequences
 
