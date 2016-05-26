@@ -5,7 +5,7 @@
 
 * Past models of interaction were single user to single machine. 
 * Augmentation is more important than automation
-* Innovator's challenge: you have to create understanding of a field / furture user need before it's well known.
+* Innovator's challenge: you have to create understanding of a field / furture user need before it's well known. Engelbart: "If ease of use was the only valid criterion, people would stick to tricycles and never try bicycles."
 * Lifespans of the stuff around us as a scale of time: buildings, interiors (i.e. furniture), devices & appliances, digital service. 
 
 ## Augmentation not automation
