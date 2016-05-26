@@ -3,12 +3,23 @@
 ## WRITTEN?
 ## PROOFED?
 
-* Rise of the plurals: multiple users and multiple machines
+* Today we see the rise of the plurals: multiple users and multiple machines.
+* These form complex systems, interactions and data sets. 
+* The promise of IoT will be more augmentation than automation. 
+* Yet most of what we're seeing in IoT showcases is more "Internet of Shit". Why? 
+* There aren't many connected homes now. That is changing. 
+* People's first IoT device is probably their smartphone. 
+
+
+---- 
 * These form complex, connected systems, experiences, and data sets. 
 * Nevertheless, there aren't many connected homes right now
 * How will it start?
 * Automation is the first step
 * Our homes must respect us
+
+* Innovator's challenge: you have to create understanding of a field / furture user need before it's well known. Engelbart: "If ease of use was the only valid criterion, people would stick to tricycles and never try bicycles."
+
 
 ## There aren't many connected homes
 
