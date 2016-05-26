@@ -3,7 +3,9 @@
 ## WRITTEN?
 ## PROOFED?
 
-Prior to the rise of connected devices, human-to-machine interaction was primarily based on a single user interacting with a single machine. Now, in the connected home, there are multiple users interacting with multiple machines, sometimes separated by physical distance, time and preferences. 
+Prior to the rise of connected devices, human-to-computer interaction was primarily based on a single user interacting with a single computer. Now, in the connected home, there are multiple users interacting with multiple computers, sometimes separated by physical distance, time and preferences. 
+
+> * multimodality rather than unimodality, intelligent adaptive interfaces rather than command/action based ones, and finally active rather than passive interfaces
 
 These are complex interactions, with opportunities for innovation and possible unintended consequences. 
 
