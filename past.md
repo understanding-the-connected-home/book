@@ -3,9 +3,12 @@
 ## WRITTEN?
 ## PROOFED?
 
-human <> machine interaction was based on a single user interacting with a single machine. 
+* Past models of interaction were single user to single machine. 
+* Augmentation is more important than automation
+* Innovator's challenge: you have to create understanding of a field / furture user need before it's well known.
+* Lifespans of the stuff around us as a scale of time: buildings, interiors (i.e. furniture), devices & appliances, digital service. 
 
-## Augmentation not Automation
+## Augmentation not automation
 
 A pioneer in human-machine interfaces and a solver of unusual problems, Doug Engelbart - inventor of the computer mouse, among other things - had a mantra: _augmentation not automation_. 
 
@@ -15,7 +18,7 @@ He aimed to increase a human's capability to approach a complex problem situatio
 
 Let's veer away from the human intellect and focus on the role of technology in general, and in the connected home in particular. Technology - and the various pieces of tech in the connected home - should aim to augment us as well, to help us be more human, more ourselves. It should offer us speedier, better solutions, and solve problems that previously seems insoluble.
 
-## New fields 
+## Pioneering  
 
 Which brings us back to Doug Engelbart. One of his most famous moments is the first demo of the mouse: A groundbreaking, absolutely novel human-computer interface. ([The origin story of the mouse](http://www.dougengelbart.org/firsts/mouse.html) makes for a great read.) 
 
