@@ -5,10 +5,10 @@
 
 * Today we see the rise of the plurals: multiple users and multiple machines.
 * These form complex systems, interactions and data sets. 
-* The promise of IoT will be more augmentation than automation. 
-* Yet most of what we're seeing in IoT showcases is more "Internet of Shit". Why? 
-* There aren't many connected homes now. That is changing. 
-* People's first IoT device is probably their smartphone. 
+* The promise of IoT will be leveraging these complex systems; the potential is more in augmentation than automation. 
+* Yet most of what we're seeing in IoT showcases is more "Internet of Shit" -- automation that seems to serve the privileged 
+* People's first IoT device in fact will probably not be smart lightbulbs or fridges, but their smartphone. 
+* There aren't many connected homes now. But we're all carrying computational devices with us. 
 
 
 ---- 
