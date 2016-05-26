@@ -51,6 +51,15 @@ It's still uncharted what information these various vibrations could convey, but
    * [Community Data...]
    * [Retail? Civics? City?...]
 
+### Computer-Supported Cooperative Work
+
+> "how collaborative activities and their coordination can be supported by means of computer systems."... 
+> Awareness: individuals working together need to be able to gain some level of shared knowledge about each other's activities.[5]
+    Articulation work: cooperating individuals must somehow be able to partition work into units, divide it amongst themselves and, after the work is performed, reintegrate it.[6][7]
+    Appropriation (or tailorability): how an individual or group adapts a technology to their own particular situation; the technology may be appropriated in a manner completely unintended by the designers.[8][9][10]
+
+https://en.wikipedia.org/wiki/Computer-supported_cooperative_work
+
 ## Key takeaways
 
 The connected home doesn't have to be filled with obnoxious blimps and beeps. Instead, we can design subtle notifications using soundscapes, glanceable technology and even vibrations to convey a rich amount of data in an unobtrusive way. 
