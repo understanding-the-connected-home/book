@@ -72,6 +72,10 @@ This is the most common interaction upon which all of society is based. A home i
 
 This is an interaction used most commonly when thinking of products. Single user, single machine. Example: a toaster. 
 
+### End user customization
+
+> End-user development studies how ordinary users could routinely tailor applications to their own needs and use this power to invent new applications based on their understanding of their own domains. With their deeper knowledge of their own knowledge domains, users could increasingly be important sources of new applications at the expense of generic systems programmers (with systems expertise but low domain expertise).
+
 ## Human-to-machines
 
 Increasingly, humans are interacting with multiple machines, or more accurately, systems. 
@@ -95,3 +99,7 @@ So upon entering your home, or room (in shared living arrangements), or hotel ro
 ## Humans-to-machines
 
 With further complexity are interactions among multiple people and complex systems. Think shared living spaces with many devices, services and user preferences.
+
+### Embedded computation
+
+> Computation is passing beyond computers into every object for which uses can be found. Embedded systems make the environment alive with little computations and automated processes, from computerized cooking appliances to lighting and plumbing fixtures to window blinds to automobile braking systems to greeting cards. To some extent, this development is already taking place. The expected difference in the future is the addition of networked communications that will allow many of these embedded computations to coordinate with each other and with the user. Human interfaces to these embedded devices will in many cases be very different from those appropriate to workstations.
