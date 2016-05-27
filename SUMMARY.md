@@ -29,7 +29,6 @@
    * [Neighborhoods](neighborhoods.md)
 * [Approaches](approaches.md)
    * [Prototyping](prototyping.md)
-       * [VUCA in your home](vuca.md)
        * Sprint as format
        * Exhibition as format
    * [Policy](policy.md)
@@ -41,6 +40,7 @@
    * [Conclusion](conclusion.md)
    * [Where from here](where_from_here.md)
    * [Acknowledgments](acknowledgments.md)
+* [VUCA in your home](vuca.md)
 * [Version 1 Archive](version1_archive.md)
    * V1 articles repurposed in V2:
        * [Who has root access to your home](who_has_root_access_to_your_home.md)
