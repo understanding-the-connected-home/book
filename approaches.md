@@ -1,6 +1,8 @@
 # Approaches
 
-## WRITTEN?
+_Over the last year we experimented with various ways of exploring the questions surroundings the connected home._
+
+## WRITTEN by p
 ## PROOFED?
 
-Here we show case some ways we've explored these topics in the last months, focusing on the insights and resources that can help others in their own investigations. 
+There are many way of exploring the manyfold questions surrounding the connected home. Over the last year we have experimented with a few of them and are happy to share these experiences. We hope that this can be useful to others in their own investigations.

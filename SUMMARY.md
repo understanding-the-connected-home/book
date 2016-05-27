@@ -29,14 +29,14 @@
    * [Neighborhoods](neighborhoods.md)
 * [Approaches](approaches.md)
    * [Prototyping](prototyping.md)
-       * [VUCA in your home](vuca.md)
-       * Sprint as format
-       * Exhibition as format
+       * [Sprint as format](proto_sprint.md)
+       * [Exhibition as format](proto_exhibition.md)
    * [Policy](policy.md)
        * [Context Matters: Smart Home in the Smart City](smart_city.md)
        * [Surveillance & tracking in the home and internet of things](surveillance.md)
 * [Explore further](explore_further.md)
    * [Research](research.md)
+   	* [VUCA in your home](vuca.md)
    * [References](references.md)
    * [Conclusion](conclusion.md)
    * [Where from here](where_from_here.md)
