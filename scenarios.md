@@ -1,10 +1,12 @@
 # Scenarios
 
-## WRITTEN?
+*Explore scenarios that bring the concepts to life and surface opportunities for innovation and possible conflicts.*
+
+## WRITTEN by peter
 ## PROOFED?
 
-These scenarios bring the concepts to life and surface opportunities for innovation and possible conflicts.
+The following scenarios bring the concepts to life and surface opportunities for innovation and possible conflicts.
 
-The connected home should primarily be a place that fosters human-to-human interactions. This is the lens we'll use to explore everything else. These scenarios are all important human-to-human relationships that inform the way we think about the connected home.  
+We believe that the home - connected or not - should primarily be a place that fosters human-to-human interactions. It is through this lense that we'll  explore everything else. Hence these scenarios are all based on important human-to-human relationships.  
 
 
