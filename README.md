@@ -98,7 +98,7 @@ We have been writing this in public on Gitbook, and license the content under a 
 
 
 Peter Bihr & Michelle Thorne  
-Berlin, September 2015
+Berlin, June 2016
   
 
 [^1]: ThingsCon is a conference about the internet of things and maker culture that Peter co-founded and has been running with Simon Höher, Max Krüger and Emanuel Schwarz since 2014 in Berlin. Learn more about ThingsCon at [thingscon.com](http://thingscon.com)
