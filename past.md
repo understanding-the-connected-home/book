@@ -3,21 +3,10 @@
 ## WRITTEN?
 ## PROOFED?
 
-* Past models of interaction were single user to single machine.
-* Automation has been the main paradigm of connected products. 
-* Lifespans of the stuff around us were slow (LONG rather than SLOW). 
+*In the past, human-to-machine interaction was modeled primarily on a single user interacting with a single machine. The lifespans of our built environment was long. And many visions for the "home of the future" were about automation.* 
 
 
 
-## Augmentation not automation
-
-A pioneer in human-machine interfaces and a solver of unusual problems, Doug Engelbart - inventor of the computer mouse, among other things - had a mantra: _augmentation not automation_. 
-
-Engelbart's work focused on the human intellect and how to improve it. Yet, his [framework conceptual for augmenting the human intellect](http://www.dougengelbart.org/pubs/augment-3906.html) can guide our exploration of the connected home, too. 
-
-He aimed to increase a human's capability to approach a complex problem situation, meaning "more-rapid comprehension, better comprehension, the possibility of gaining a useful degree of comprehension in a situation that previously was too complex, **speedier solutions, better solutions, and the possibility of finding solutions to problems that before seemed insoluble.**" (emphasis ours)
-
-Let's veer away from the human intellect and focus on the role of technology in general, and in the connected home in particular. Technology - and the various pieces of tech in the connected home - should aim to augment us as well, to help us be more human, more ourselves. It should offer us speedier, better solutions, and solve problems that previously seems insoluble.
 
 ## Pioneering  
 
@@ -50,3 +39,13 @@ _Thanks to [Scott Jensen](http://www.jenson.org/) for the pointer to Engelbart's
 ## Different lifespans
 
 * buildings vs. IoT devices (poses security risks) 
+
+## Augmentation not automation
+
+A pioneer in human-machine interfaces and a solver of unusual problems, Doug Engelbart - inventor of the computer mouse, among other things - had a mantra: _augmentation not automation_. 
+
+Engelbart's work focused on the human intellect and how to improve it. Yet, his [framework conceptual for augmenting the human intellect](http://www.dougengelbart.org/pubs/augment-3906.html) can guide our exploration of the connected home, too. 
+
+He aimed to increase a human's capability to approach a complex problem situation, meaning "more-rapid comprehension, better comprehension, the possibility of gaining a useful degree of comprehension in a situation that previously was too complex, **speedier solutions, better solutions, and the possibility of finding solutions to problems that before seemed insoluble.**" (emphasis ours)
+
+Let's veer away from the human intellect and focus on the role of technology in general, and in the connected home in particular. Technology - and the various pieces of tech in the connected home - should aim to augment us as well, to help us be more human, more ourselves. It should offer us speedier, better solutions, and solve problems that previously seems insoluble.
