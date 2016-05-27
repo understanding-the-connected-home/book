@@ -62,19 +62,29 @@ _Kitchen of an Indian home. Ahmedabad, India By Laura de Reynal. [CC BY-NC 2.0](
 
 ## Automation in the home 
 
-A pioneer in human-machine interfaces and a solver of unusual problems, Doug Engelbart - inventor of the computer mouse, among other things - had a mantra: _augmentation not automation_. 
+There is also a rich history of "homes of the future." These visions say much about the time in which they were created. What were the power dynamics? The sense of self and of collectives? The relationship to domestic practices? To other humans? The role of technology? Who created this vision, who profits from it, and who is excluded?
 
-Engelbart's work focused on the human intellect and how to improve it. Yet, his [framework conceptual for augmenting the human intellect](http://www.dougengelbart.org/pubs/augment-3906.html) can guide our exploration of the connected home, too. 
+The technique of imaging a future home has been used extensively in advertising. Two well-known American examples are the Monsanto House of the Future (1957) in Disneyland[^5] and Frigidaire's "Kitchen of the Future" featured in General Motor's Design for Dreaming (1956) industry short film.[^6]      
 
-He aimed to increase a human's capability to approach a complex problem situation, meaning "more-rapid comprehension, better comprehension, the possibility of gaining a useful degree of comprehension in a situation that previously was too complex, **speedier solutions, better solutions, and the possibility of finding solutions to problems that before seemed insoluble.**" (emphasis ours)
+These ads showcase the companies' products and capture what these industries believed was useful and desirable at the time. 
 
-Let's veer away from the human intellect and focus on the role of technology in general, and in the connected home in particular. Technology - and the various pieces of tech in the connected home - should aim to augment us as well, to help us be more human, more ourselves. It should offer us speedier, better solutions, and solve problems that previously seems insoluble.
+There are notable similarities to how connected products are pitched today. 
+
+In the past, just as now, these product showcases promise time-saving, ease of mind, and more leisure. The home is viewed as a place of domestic labor and where efficiency is needed. Therefore, much of the focus is given to automation. 
+
+Here we return to Engelbart. He noticed this emphasis on automation in human-machine interaction, to which he responded: _Augmentation not automation_.[^7] 
+
+There is great opportunity for technology to augment human intellect. However, challenges remain as we move into a new era of human-machine interaction, where computing is  ubiquitious, where it more rapidly affects our built environment, and where corporations vie to shape our domestic lives. 
+
+Now is the moment to go beyond automation and determine what augmentation we desire. 
 
 [^1] Card, Stuart K.; Thomas P. Moran; Allen Newell (July 1980). "The keystroke-level model for user performance time with interactive systems". Communications of the ACM 23 (7): 396–410. doi:[10.1145/358886.358895](http://dl.acm.org/citation.cfm?doid=358886.358895)
 [^2] http://www.dougengelbart.org/firsts/mouse.html
 [^3] [The Mother of All Demos (video playlist)](https://www.youtube.com/playlist?list=PL76DBC8D6718B8FD3&feature=plcp).
 [^4] https://en.wikipedia.org/wiki/Moore's_law
+[^5] https://en.wikipedia.org/wiki/Monsanto_House_of_the_Future 
+[^6] https://en.wikipedia.org/wiki/Design_for_Dreaming
+[^7] http://www.dougengelbart.org/pubs/augment-3906.html
 
-
-_Thanks to [Scott Jensen](http://www.jenson.org/) for the pointer to Engelbart's work for this context and to [Ame Elliot](https://simplysecure.org/blog/lessons-from-architecture-school-1) for articulating the differences in lifespans for architecture, connected objects and digital services.
+_Thanks to [Scott Jensen](http://www.jenson.org/) for the pointer to Engelbart's work for this context, to [Ame Elliot](https://simplysecure.org/blog/lessons-from-architecture-school-1) for articulating the differences in lifespans for architecture, connected objects and digital services and to Alexandra Deschamps-Sonsino for the critique of past "homes of the future."_
 
