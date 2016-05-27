@@ -35,39 +35,12 @@ That's a lot of explaining for just one small, novel device.
 
 Engelbart's demo shows us what it must be like for today's product designers making objects for the connected home. Not only do they have to describe what the object is and why its useful, they are also defining an entirely new field, with new layers of interaction and more complex systems than we've ever seen in our homes before. 
 
-## Pioneering  
 
-Which brings us back to Doug Engelbart. One of his most famous moments is the first demo of the mouse: A groundbreaking, absolutely novel human-computer interface. ([The origin story of the mouse](http://www.dougengelbart.org/firsts/mouse.html) makes for a great read.) 
-
-That demo went down in the history books (in the interaction design history books at least) as [The Mother of All Demos (video playlist)](https://www.youtube.com/playlist?list=PL76DBC8D6718B8FD3&feature=plcp).
-
-![Doug Engelbart's human-computer interface with mouse](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/dougengelbart_demo.jpg)
-
-_Human-computer interface with mouse. Photo: Doug Engelbart Institute_
-
-If you watch Engelbart's demo (which you should, it's both brilliant and entertaining), you will note that he has to start pretty much with first principles:
-
-**When introducing the mouse, Engelbart doesn't just introduce a new computer peripheral. He also introduces a new paradigm of human-machine interaction.**
-
-That means he doesn't just need to explain how the mouse works, but also needs to elaborate on...
-
-- what it is
-- what it is for (which problems it helps solve)
-- how it makes its users' lives better (why is it worth engaging with)
-
-There's a long passage in which Engelbart riffs on typing up a shopping list and sorting it, clustering items by category and shopping aisle, thanks to copy & paste as well as his handy new pointing device, the mouse. That's a lot of explaining for just one small device. Smart home device manufacturers beware!
-
-**Introducing connectivity into our homes requires a lot of explanation:** What is being introduced, why is it worth it, what does it help us do better? What are the implications, use cases, and limits? **Why might it be worth fundamentally changing your notion of your own home for this new thing?**
-
-This is a communications challenge on one hand. But more importantly it's a litmus test that designers and developers can apply to new ideas: Can the thing you are considering pass this filter? Will it be worth radically redefining what we mean traditionally mean by "home"?
-
-_Thanks to [Scott Jensen](http://www.jenson.org/) for the pointer to Engelbart's work for this context._
-
-## Different lifespans
+## Long lifespans
 
 * buildings vs. IoT devices (poses security risks) 
 
-## Augmentation not automation
+## Automation 
 
 A pioneer in human-machine interfaces and a solver of unusual problems, Doug Engelbart - inventor of the computer mouse, among other things - had a mantra: _augmentation not automation_. 
 
@@ -80,3 +53,6 @@ Let's veer away from the human intellect and focus on the role of technology in 
 [^1] Card, Stuart K.; Thomas P. Moran; Allen Newell (July 1980). "The keystroke-level model for user performance time with interactive systems". Communications of the ACM 23 (7): 396–410. doi:[10.1145/358886.358895](http://dl.acm.org/citation.cfm?doid=358886.358895)
 [^2] http://www.dougengelbart.org/firsts/mouse.html
 [^3] [The Mother of All Demos (video playlist)](https://www.youtube.com/playlist?list=PL76DBC8D6718B8FD3&feature=plcp).
+
+
+_Thanks to [Scott Jensen](http://www.jenson.org/) for the pointer to Engelbart's work for this context._
