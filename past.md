@@ -3,7 +3,7 @@
 ## WRITTEN?
 ## PROOFED?
 
-*In the past, human-to-machine interaction was modeled primarily on a single user interacting with a single machine. The lifespans of our built environment was long. And many visions for the "home of the future" were about automation.* 
+*In the past, human-to-machine interaction was modeled primarily on a single user interacting with a single machine. The lifespans of our built environment were long. And most use cases for the "home of the future" were about automation.* 
 
 ## Single user, single machine
 
@@ -38,9 +38,14 @@ Engelbart's demo shows us what it must be like for today's product designers mak
 
 ## Long lifespans
 
-* buildings vs. IoT devices (poses security risks) 
 
-## Automation 
+![Pieter de Hooch, 1670. “Man Handing a Letter to a Woman in the Entrance Hall of a House.”](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/dehooch1670.jpg)
+
+_Pieter de Hooch, 1670. “Man Handing a Letter to a Woman in the Entrance Hall of a House.” Image: Rijksmuseum_
+
+
+
+## Automation in the home 
 
 A pioneer in human-machine interfaces and a solver of unusual problems, Doug Engelbart - inventor of the computer mouse, among other things - had a mantra: _augmentation not automation_. 
 
@@ -55,4 +60,4 @@ Let's veer away from the human intellect and focus on the role of technology in 
 [^3] [The Mother of All Demos (video playlist)](https://www.youtube.com/playlist?list=PL76DBC8D6718B8FD3&feature=plcp).
 
 
-_Thanks to [Scott Jensen](http://www.jenson.org/) for the pointer to Engelbart's work for this context._
+_Thanks to [Scott Jensen](http://www.jenson.org/) for the pointer to Engelbart's work for this context and to [Ame Elliot](https://simplysecure.org/blog/lessons-from-architecture-school-1) for articulating the differences in lifespans for architecture, connected objects and digital services.
