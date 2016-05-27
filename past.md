@@ -15,23 +15,25 @@ Engelbart and his team radically altered people's understanding of how humans co
 
 The team went on to invent a number of foundational interaction technologies, known somewhat affectionately today as "The Mother of All Demos."[^3]
 
-
 ![Doug Engelbart's human-computer interface with mouse](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/dougengelbart_demo.jpg)
 
 _Human-computer interface with mouse. Photo: Doug Engelbart Institute_
 
 If you watch Engelbart's demo (which you should, it's both brilliant and entertaining), you will note that he has to start pretty much with first principles:
 
-**When introducing the mouse, Engelbart doesn't just introduce a new computer peripheral. He also introduces a new paradigm of human-machine interaction.**
+**When introducing the mouse, Engelbart doesn't just introduce a new connected object. He also introduces a new paradigm of human-machine interaction.**
 
-That means he doesn't just need to explain how the mouse works, but also needs to elaborate on...
+That means he doesn't just need to explain how the mouse works, but also needs to elaborate on:
 
-- what it is
-- what it is for (which problems it helps solve)
-- how it makes its users' lives better (why is it worth engaging with)
+- what the object is
+- what it's for
+- how it makes people's lives better 
 
-There's a long passage in which Engelbart riffs on typing up a shopping list and sorting it, clustering items by category and shopping aisle, thanks to copy & paste as well as his handy new pointing device, the mouse. That's a lot of explaining for just one small device. Smart home device manufacturers beware!
+For example, there's a long passage in the demo in which Engelbart describes typing up a shopping list. To do that, he also has to set up how and why you would sort and cluster the list, how you could copy & paste text, and why the mouse makes it easier to do so. 
 
+That's a lot of explaining for just one small, novel device. 
+
+Engelbart's demo shows us what it must be like for today's product designers making objects for the connected home. Not only do they have to describe what the object is and why its useful, they are also defining an entirely new field, with new layers of interaction and more complex systems than we've ever seen in our homes before. 
 
 ## Pioneering  
 
