@@ -38,18 +38,27 @@ Engelbart's demo shows us what it must be like for today's product designers mak
 
 ## Long lifespans
 
+Human-to-machine interaction changes quite quickly. In recent years, we've seen major improvements to interfaces such as touch, voice and VR. Behind these innovations is the availability of ever-increasing computing power. 
 
-
-
-![Pieter de Hooch, 1670. “Man Handing a Letter to a Woman in the Entrance Hall of a House.”](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/dehooch1670.jpg)
-
-_Pieter de Hooch, 1670. “Man Handing a Letter to a Woman in the Entrance Hall of a House.” Image: Rijksmuseum_
-
+Since the 1970s, computing power has doubled every two years, following a rate of growth known as Moore's Law.[^4]  
 
 ![Moore's Law](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/mooreslaw.jpeg)
 
-_Moore's Law as illustrated by "A plot of CPU transistor counts against dates of introduction; note the logarithmic vertical scale; the line corresponds to exponential growth with transistor count doubling every two years. By Wgsimon - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15193542_
+_Moore's Law as illustrated by "A plot of CPU transistor counts against dates of introduction; note the logarithmic vertical scale; the line corresponds to exponential growth with transistor count doubling every two years. By Wgsimon - Own work licensed under [CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=15193542_)
 
+However, while our computing environment moves at such a rapid rate, our built environment--that of our homes, places of work and leisure, our streets and urban infrastructure--have historically changed at a much slower rate.
+
+Buildings can take years to construct and then stand for decades, if not centuries.  Renovating and retrofitting are important ways we maintain and repurpose our built environment. These are all relatively lengthy and costly processes, as compared to updating a digital service or even personal devices.   
+
+With that in mind, we have to consider how these different timescales and lifespans intersect. Buildings and their infrastructure move at slower rates than computing. That means new digital services and connected objects must play with structures that may be hundreds of years old. 
+
+![Kitchen of an Italian home](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/kitchen_casajasmina.jpg)
+
+_Kitchen of an Italian home. Casa Jasmina in Torino, Italy. By Peter Bihr. [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)_
+
+![Kitchen of an Indian home](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/kitchen_ahmedabad.jpg)
+
+_Kitchen of an Indian home. Ahmedabad, India By Laura de Reynal. [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)_
 
 ## Automation in the home 
 
@@ -64,6 +73,7 @@ Let's veer away from the human intellect and focus on the role of technology in 
 [^1] Card, Stuart K.; Thomas P. Moran; Allen Newell (July 1980). "The keystroke-level model for user performance time with interactive systems". Communications of the ACM 23 (7): 396–410. doi:[10.1145/358886.358895](http://dl.acm.org/citation.cfm?doid=358886.358895)
 [^2] http://www.dougengelbart.org/firsts/mouse.html
 [^3] [The Mother of All Demos (video playlist)](https://www.youtube.com/playlist?list=PL76DBC8D6718B8FD3&feature=plcp).
+[^4] https://en.wikipedia.org/wiki/Moore's_law
 
 
 _Thanks to [Scott Jensen](http://www.jenson.org/) for the pointer to Engelbart's work for this context and to [Ame Elliot](https://simplysecure.org/blog/lessons-from-architecture-school-1) for articulating the differences in lifespans for architecture, connected objects and digital services.
