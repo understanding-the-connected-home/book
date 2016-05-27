@@ -1,5 +1,7 @@
 # Connected things
 
+*We defined a connected object as one that senses, thinks, and acts - but different rules might apply to different categories of connected things.*
+
 ## WRITTEN by peter
 ## PROOFED?
 
@@ -51,7 +53,7 @@ There are examples that are easy to match into categories, but often the lines c
 For example, an Amazon Echo listens actively for commands; so does your Android phone if you set it up to react to the trigger word "OK Google". Yet, this processing of the trigger word is, to a large degree, processed locally. Once triggered, the devices fires up a connection to a server farm and gets ready. But how do we consider a hybrid active/passive filter like a geofence that triggers an action once we approach, say, our home with our phone? That system doesn't *listen* for audio cues, but it does track our behavior and switches from *kind of* passive to fully active. What about a motion sensor that is connected to the internet? What about a learning algorithm that doesn't act in a visible way at all but learns about and adapts to our behaviors?
 
 
-## User acceptance
+### User acceptance
 
 User acceptance varies wildly between different types of sensors in the home environment. For example, carbon monoxide detectors might be perceived as perfectly harmless whereas a microphone or camera is usually considered an invasion of privacy - or at least traditionally has been, even though this might be about to change.
 
