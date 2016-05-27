@@ -4,7 +4,7 @@
 ## PROOFED?
 
 
-## Mindful owernship
+## Mindful ownership
 
 "You are what you eat," the saying goes. In the same spirit, you are what you own.
 
