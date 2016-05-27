@@ -1,6 +1,6 @@
 # Past
 
-## WRITTEN?
+## WRITTEN 
 ## PROOFED?
 
 *In the past, human-to-machine interaction was modeled primarily on a single user interacting with a single machine. The lifespans of our built environment were long. And most use cases for the "home of the future" were about automation.* 
