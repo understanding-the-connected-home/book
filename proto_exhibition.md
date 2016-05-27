@@ -1,4 +1,4 @@
-# Prototyping
+# Exhibitions
 
 ## WRITTEN?
 ## PROOFED?
