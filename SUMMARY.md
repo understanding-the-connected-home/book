@@ -16,7 +16,7 @@
        * [Machine-readable](machine_readable.md)
        * [New layers](new_layers.md)
    * [Mediating across layers](mediating_across_layers.md)
-   * [Smart connected objects](smart_connected_objects.md)
+   * [Connected things](connected_things.md)
    * [The UX of privacy](ux_of_privacy.md)
    * [Connected literacy](connected_literacy.md)
 * [Scenarios](scenarios.md)
