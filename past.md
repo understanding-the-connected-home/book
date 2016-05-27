@@ -39,10 +39,16 @@ Engelbart's demo shows us what it must be like for today's product designers mak
 ## Long lifespans
 
 
+
+
 ![Pieter de Hooch, 1670. “Man Handing a Letter to a Woman in the Entrance Hall of a House.”](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/dehooch1670.jpg)
 
 _Pieter de Hooch, 1670. “Man Handing a Letter to a Woman in the Entrance Hall of a House.” Image: Rijksmuseum_
 
+
+![Moore's Law](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/mooreslaw.jpeg)
+
+_Moore's Law as illustrated by "A plot of CPU transistor counts against dates of introduction; note the logarithmic vertical scale; the line corresponds to exponential growth with transistor count doubling every two years. By Wgsimon - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15193542_
 
 
 ## Automation in the home 
@@ -61,3 +67,4 @@ Let's veer away from the human intellect and focus on the role of technology in 
 
 
 _Thanks to [Scott Jensen](http://www.jenson.org/) for the pointer to Engelbart's work for this context and to [Ame Elliot](https://simplysecure.org/blog/lessons-from-architecture-school-1) for articulating the differences in lifespans for architecture, connected objects and digital services.
+
