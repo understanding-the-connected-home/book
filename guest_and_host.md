@@ -1,5 +1,7 @@
 # Guest and host
 
+_The ground rules of being a good guest or host will remain the same in the 21st century, but the ways they will manifest are likely to change._
+
 ## WRITTEN by peter
 ## PROOFED?
 
