@@ -55,6 +55,10 @@ We know that connectivity increasingly makes its way into our living rooms, kitc
 
 **Understanding the connected home - how it can be designed, how we can engage with it and turn it off, how we can live with it and still have control over our privacy - these questions will be essential for living in this century.**
 
+Getting connected homes and their many facets right -  incl. interactions, privacy, empowerment - is a core challenge for designers, developers, entrepreneurs and policy makers for decades to come. 
+
+**Connected homes will directly impact the lives of hundreds of millions - maybe billions - of people around the globe. We have to get this right.**
+
 ## Welcome to version 2
 
 We published version 1 of [Understanding the Connected Home](http://theconnectedhome.org) a few months after our visit to Turin, in the fall of 2015. [^6] Turns out this collection of essays and thoughts about the implications of the ever-increasing connectedness of our homes could not have been more timely: Just about every major tech company has entered the field of connected homes with a smart home hub, a wifi-enabled light bulb, a thermostat or some other gadget. 
