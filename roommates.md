@@ -1,25 +1,25 @@
 # Roommates
 
+_How do roommates share connected objects, manage privacy with co-inhabitants, and make decisons together?_
+
 ## WRITTEN?
 ## PROOFED?
 
 A look at sharing connected objects, how to manage privacy from co-inhabitants, and making decisons together. 
 
-Shared connected objects offer a way to use physical good in a non-rivaling way. Through personalization and modularity, we can design and prepare for fuller shared usage, and with trust management better navigate who can use what object. In turn, we can imagine how shared objects gain value the more they are used, which could lead to a more sustainable appreciation of physical goods. 
+Shared connected objects offer a way to use physical good in a non-rivaling (or at least _less rivaling_) way. Through personalization and modularity, we can design and prepare for fuller shared usage, and with trust management better navigate who can use what object. In turn, we can imagine how shared objects gain value the more they are used, which could lead to a more sustainable appreciation of shared physical goods. 
 
 ## Shared connected objects
 
 As anyone who's lived in a shared household can attest, there will be objects that you share with others. 
 
-Be it the TV remote, a book, the dining room table, or even the dishes, the connected home will not doubt be **filled with objects that will be used by multiple people,** sometimes simultaneously and sometimes even without the owners permission.  
+Be it the TV remote, a book, the dining room table, or the dishes, the connected home will not doubt be **filled with objects that will be used by multiple people,** sometimes simultaneously and sometimes even without the owner's permission.  
 
 > On the whole, you find wealth much more in use than in ownership. — Aristotle
 
 ### Rival vs. non-rival goods
 
-What will these shared, connected objects be like? What characteristics will define them? 
-
-Furthermore, when we imagine objects being shared, what if we think about them being used not only within one household, but with neighbors, friends and even the broader world? **Even at the same time?**
+What will these shared, connected objects be like? What characteristics will define them? When we imagine objects being shared, what if we think about them being used not only within one household, but with neighbors, friends and even the broader world? **Even at the same time?**
 
 Normally, **physical objects are "rival goods."** That means if one person has it, no one else can have it. For example, I'm reading a paperback book, and unless you're comfortable reading over someone's shoulder, it's not possible for you to read the book at the same time. 
 
