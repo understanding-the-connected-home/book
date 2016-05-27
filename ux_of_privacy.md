@@ -1,5 +1,7 @@
 # The UX of privacy
 
+_Privacy is complex, contextual, cultural, fuzzy, and we need to develop our vocabulary and metaphors to put people in control of their privacy._
+
 ## WRITTEN by Peter
 ## PROOFED?
 
