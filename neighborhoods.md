@@ -60,6 +60,11 @@ It's still uncharted what information these various vibrations could convey, but
 
 https://en.wikipedia.org/wiki/Computer-supported_cooperative_work
 
+
+## Socializing
+## Helping
+## Resolving
+
 ## Key takeaways
 
 The connected home doesn't have to be filled with obnoxious blimps and beeps. Instead, we can design subtle notifications using soundscapes, glanceable technology and even vibrations to convey a rich amount of data in an unobtrusive way. 
