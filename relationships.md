@@ -1,6 +1,6 @@
 # Relationships
 
-*Explore scenarios that bring the concepts to life and surface opportunities for innovation and possible conflicts.*
+*As the home is defined by relationships, we explore how connectedness changes relationships and power dynamics to surface opportunities for innovation and possible conflicts.*
 
 ## WRITTEN by peter
 ## PROOFED?
