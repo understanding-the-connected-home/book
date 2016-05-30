@@ -66,6 +66,8 @@ There is also a rich history of "homes of the future." These visions say much ab
 
 The technique of imaging a future home has been used extensively in advertising. Two well-known American examples are the Monsanto House of the Future (1957) in Disneyland[^5] and Frigidaire's "Kitchen of the Future" featured in General Motor's Design for Dreaming (1956) industry short film.[^6]      
 
+[![retro future kitchen](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/retrofuturekitchenvideo.png)](https://www.youtube.com/embed/hZG36dhhbx0)
+
 These ads showcase the companies' products and capture what these industries believed was useful and desirable at the time. 
 
 There are notable similarities to how connected products are pitched today. 
