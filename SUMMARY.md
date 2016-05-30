@@ -19,7 +19,7 @@
    * [Connected things](connected_things.md)
    * [The UX of privacy](ux_of_privacy.md)
    * [Connected literacy](connected_literacy.md)
-* [Scenarios](scenarios.md)
+* [Relationships](scenarios.md)
    * [Guest and host](guest_and_host.md)
    * [Family](family.md)
    * [Roommates](roommates.md)
@@ -29,20 +29,16 @@
    * [What to invite in your home](what_to_invite.md)
 * [Approaches](approaches.md)
    * [Prototyping](prototyping.md)
-<<<<<<< HEAD
        * [Sprint as format](proto_sprint.md)
        * [Exhibition as format](proto_exhibition.md)
-=======
        * Sprint as format
        * Exhibition as format
->>>>>>> origin/master
    * [Policy](policy.md)
        * [Context Matters: Smart Home in the Smart City](smart_city.md)
        * [Surveillance & tracking in the home and internet of things](surveillance.md)
 * [Explore further](explore_further.md)
    * [VUCA in your home](vuca.md)
    * [Research](research.md)
-   	* [VUCA in your home](vuca.md)
    * [References](references.md)
    * [Conclusion](conclusion.md)
    * [Where from here](where_from_here.md)
