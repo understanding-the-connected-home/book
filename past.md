@@ -1,6 +1,6 @@
 # Past
 
-## WRITTEN?
+## WRITTEN M
 ## PROOFED?
 
 *In the past, human-to-machine interaction was modeled primarily on a single user interacting with a single machine. The lifespans of our built environment were long. And most use cases for the "home of the future" were about automation.* 
@@ -38,26 +38,53 @@ Engelbart's demo shows us what it must be like for today's product designers mak
 
 ## Long lifespans
 
+Human-to-machine interaction changes quite quickly. In recent years, we've seen major improvements to interfaces such as touch, voice and VR. Behind these innovations is the availability of ever-increasing computing power. 
 
-![Pieter de Hooch, 1670. “Man Handing a Letter to a Woman in the Entrance Hall of a House.”](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/dehooch1670.jpg)
+Since the 1970s, computing power has doubled every two years, following a rate of growth known as Moore's Law.[^4]  
 
-_Pieter de Hooch, 1670. “Man Handing a Letter to a Woman in the Entrance Hall of a House.” Image: Rijksmuseum_
+![Moore's Law](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/mooreslaw.jpeg)
 
+_Moore's Law as illustrated by "A plot of CPU transistor counts against dates of introduction; note the logarithmic vertical scale; the line corresponds to exponential growth with transistor count doubling every two years. By Wgsimon - Own work licensed under [CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=15193542_)
 
+However, while our computing environment moves at such a rapid rate, our built environment--that of our homes, places of work and leisure, our streets and urban infrastructure--have historically changed at a much slower rate.
+
+Buildings can take years to construct and then stand for decades, if not centuries.  Renovating and retrofitting are important ways we maintain and repurpose our built environment. These are all relatively lengthy and costly processes, as compared to updating a digital service or even personal devices.   
+
+With that in mind, we have to consider how these different timescales and lifespans intersect. Buildings and their infrastructure move at slower rates than computing. That means new digital services and connected objects must play with structures that may be hundreds of years old. 
+
+![Kitchen of an Italian home](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/kitchen_casajasmina.jpg)
+
+_Kitchen of an Italian home. Casa Jasmina in Torino, Italy. By Peter Bihr. [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)_
+
+![Kitchen of an Indian home](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/kitchen_ahmedabad.jpg)
+
+_Kitchen of an Indian home. Ahmedabad, India By Laura de Reynal. [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)_
 
 ## Automation in the home 
 
-A pioneer in human-machine interfaces and a solver of unusual problems, Doug Engelbart - inventor of the computer mouse, among other things - had a mantra: _augmentation not automation_. 
+There is also a rich history of "homes of the future." These visions say much about the time in which they were created. What were the power dynamics? The sense of self and of collectives? The relationship to domestic practices? To other humans? The role of technology? Who created this vision, who profits from it, and who is excluded?
 
-Engelbart's work focused on the human intellect and how to improve it. Yet, his [framework conceptual for augmenting the human intellect](http://www.dougengelbart.org/pubs/augment-3906.html) can guide our exploration of the connected home, too. 
+The technique of imaging a future home has been used extensively in advertising. Two well-known American examples are the Monsanto House of the Future (1957) in Disneyland[^5] and Frigidaire's "Kitchen of the Future" featured in General Motor's Design for Dreaming (1956) industry short film.[^6]      
 
-He aimed to increase a human's capability to approach a complex problem situation, meaning "more-rapid comprehension, better comprehension, the possibility of gaining a useful degree of comprehension in a situation that previously was too complex, **speedier solutions, better solutions, and the possibility of finding solutions to problems that before seemed insoluble.**" (emphasis ours)
+These ads showcase the companies' products and capture what these industries believed was useful and desirable at the time. 
 
-Let's veer away from the human intellect and focus on the role of technology in general, and in the connected home in particular. Technology - and the various pieces of tech in the connected home - should aim to augment us as well, to help us be more human, more ourselves. It should offer us speedier, better solutions, and solve problems that previously seems insoluble.
+There are notable similarities to how connected products are pitched today. 
+
+In the past, just as now, these product showcases promise time-saving, ease of mind, and more leisure. The home is viewed as a place of domestic labor and where efficiency is needed. Therefore, much of the focus is given to automation. 
+
+Here we return to Engelbart. He noticed this emphasis on automation in human-machine interaction, to which he responded: _Augmentation not automation_.[^7] 
+
+There is great opportunity for technology to augment human intellect. However, challenges remain as we move into a new era of human-machine interaction, where computing is  ubiquitious, where it more rapidly affects our built environment, and where corporations vie to shape our domestic lives. 
+
+Now is the moment to go beyond automation and determine what augmentation we desire. 
 
 [^1] Card, Stuart K.; Thomas P. Moran; Allen Newell (July 1980). "The keystroke-level model for user performance time with interactive systems". Communications of the ACM 23 (7): 396–410. doi:[10.1145/358886.358895](http://dl.acm.org/citation.cfm?doid=358886.358895)
 [^2] http://www.dougengelbart.org/firsts/mouse.html
 [^3] [The Mother of All Demos (video playlist)](https://www.youtube.com/playlist?list=PL76DBC8D6718B8FD3&feature=plcp).
+[^4] https://en.wikipedia.org/wiki/Moore's_law
+[^5] https://en.wikipedia.org/wiki/Monsanto_House_of_the_Future 
+[^6] https://en.wikipedia.org/wiki/Design_for_Dreaming
+[^7] http://www.dougengelbart.org/pubs/augment-3906.html
 
+_Thanks to [Scott Jensen](http://www.jenson.org/) for the pointer to Engelbart's work for this context, to [Ame Elliot](https://simplysecure.org/blog/lessons-from-architecture-school-1) for articulating the differences in lifespans for architecture, connected objects and digital services and to Alexandra Deschamps-Sonsino for the critique of past "homes of the future."_
 
-_Thanks to [Scott Jensen](http://www.jenson.org/) for the pointer to Engelbart's work for this context and to [Ame Elliot](https://simplysecure.org/blog/lessons-from-architecture-school-1) for articulating the differences in lifespans for architecture, connected objects and digital services.
