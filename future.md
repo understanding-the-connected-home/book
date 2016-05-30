@@ -58,3 +58,11 @@ To understand and communicate the ground rules for the connected home, we need t
 
 * compliance with EU General Data Protection Regulation = big opportunity to innovate
 * more privacy in products = path to unique selling point
+
+## Our homes must respect us
+
+On the web, our behavior is constantly tracked by advertising companies and other, even less savory organizations. This happens almost entirely without our consent, frequently under dubious ethical and legal practices, largely without recourse. 
+
+On the web, the only means of protection are personal education in the matter (to at least understand what's going on) as well as technical measures, like ad & tracking blockers, as well as browser features/plug-ins like Do Not Track. **Between them, these measures provide a certain measure of privacy, but neither is this sufficient nor is it sufficiently easy.** We got to this point because for too long, the open nature of the web allowed bad players to foster a culture of tracking without recourse or penalties. 
+
+**For the context of the connected home, we may not commit these same mistakes. We need to establish standards, regulatory frameworks and a culture that respects the ethical dimensions of the safe place that is the home.**
