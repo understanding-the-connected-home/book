@@ -25,7 +25,9 @@ And while as consumers in the digital ecosystem we need to raise media literacy,
 
 "Retailers such as Apple and Amazon market digital media to consumers using the familiar language of product ownership, including phrases like “buy now,” “own,” and “purchase.” Consumers may understandably associate such language with strong personal property rights. But the license agreements and terms of use associated with these transactions tell a different story. They explain that ebooks, mp3 albums, digital movies, games, and software are not sold, but merely licensed. The terms limit consumers' ability to resell, lend, transfer, and even retain possession of the digital media they acquire. Moreover, unlike physical media products, access to digital media is contingent — it depends on shifting business models, the success and failure of platforms, and often on the maintenance and availability of DRM authentication systems years after the consumer clicked “buy now.”"
 
-Now we have to assume that similar challenges will arise around the connected home
+Now we have to assume that similar challenges will arise around the connected home: Only there, the effect would be compounded. 
+
+Let me be blunt: DRM for domestic infrastructure - Residential Rights Management if you will - should under no circumstance become part of our homes.
 
 
 
