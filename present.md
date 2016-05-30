@@ -6,8 +6,11 @@
 
 ## Multiple users, multiple machines
 
+
+
 * Many users now using many devices
-  * [stat]
+  * multimodality: multimodality describes communication practices in terms of the textual, aural, linguistic, spatial, and visual resources - or modes - used to compose messages.
+  * leading to "multiliteracy"
 * Lots of data is being generated. 
   * The world's technological per-capita capacity to store information has roughly doubled every 40 months since the 1980s;[7] as of 2012[update], every day 2.5 exabytes (2.5×1018) of data is created.[8] 
 * A lot of research and opportunity around how data is collected, processed and decisions made based on it. 
