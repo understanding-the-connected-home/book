@@ -4,7 +4,13 @@
 
 *Today, multiple users interact with multiple machines to form complex computational networks. Through simple physical interfaces, IoT can offer users better understanding and control. The foundation of this augmentation is already in the hands of billions of people thanks to their first IoT device: a smartphone.* 
 
-## There aren't many connected homes
+## Multiple users, multiple machines
+
+## Physical interfaces to complex systems
+
+## A smartphone as an entry point for augmentation
+
+### There aren't many connected homes
 
 Over the last few months, we've made a point of asking a lot of people which connected objects they have in their houses (not counting smartphones, tablets, laptops). It wasn't many. 
 
@@ -19,7 +25,7 @@ And that's _very_ interesting. Because everybody agrees there's a huge market in
 <strong>The home is first and foremost a safe space. A place of retreat and relaxation. A space that must never be challenging, but supportive. If we add any complexity or complication to the home, we chip away at its core functionality.</strong>
 
 
-## How will the connected home start?
+### How will the connected home start?
 
 In a recent conversation a software developer friend asked where we see the smart home going, where we were standing on the issue: It's hard to tell. 
 
@@ -30,8 +36,6 @@ So the way we're approaching this whole field is with as much of a beginner's mi
 As for adaption of connectivity inside our homes, we have no doubt that it will happen. Not out of some techno-deterministic world view, but because we learned over the last couple of decades that connectivity & data add value to all parts of our lives if done right. 
 
 We assume that the ways this will happen will seem odd for a while, and that it will happen not along the lines of well-established metaphors like automation or personalization: These will likely seem as quirky and ridiculous in hindsight as the futuristic computerized kitchen did in the 1950s (both in terms of gender roles and the technological aspects):
-
-[![retro future kitchen](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/retrofuturekitchenvideo.png)](https://www.youtube.com/embed/hZG36dhhbx0)
 
 Rather, the smart will manifest in ways both banal and novel, and the vector will (hopefully, and most likely) be smarts that are "on the user", in whichever way. If we had to guess, we'd say they will be probably fairly low-tech, bottom up interventions that just make things a little easier, more interesting, more useful: **A connected home should help us be more human, more ourselves.**
 
