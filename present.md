@@ -41,7 +41,7 @@ Rather, the smart will manifest in ways both banal and novel, and the vector wil
 
 Much more tricky is how we will deal with our preferences regarding various levels of scanning, sharing data, and (by extension) surveillance.
 
-## Automation is a natural first step
+### Automation is a natural first step
 
 The connected home products we see on the market today (or judging by conversations with many manufacturers and designers working in the field, on the way to market) focus to a large degree on home automation. There's nothing wrong with it, it's a natural first step. It's (comparatively) simple and offers a clear value (if done right), so it's (again, comparatively) low-hanging fruit.
 
@@ -51,10 +51,3 @@ The same will hold true for many connected home appliances. The true automation 
 
 Maybe more importantly, automation does not require a lot of explanation: _I used to regulate my heater by hand, now it self-regulates._ Simple to understand, no explanation needed.
 
-## Our homes must respect us
-
-On the web, our behavior is constantly tracked by advertising companies and other, even less savory organizations. This happens almost entirely without our consent, frequently under dubious ethical and legal practices, largely without recourse. 
-
-On the web, the only means of protection are personal education in the matter (to at least understand what's going on) as well as technical measures, like ad & tracking blockers, as well as browser features/plug-ins like Do Not Track. **Between them, these measures provide a certain measure of privacy, but neither is this sufficient nor is it sufficiently easy.** We got to this point because for too long, the open nature of the web allowed bad players to foster a culture of tracking without recourse or penalties. 
-
-**For the context of the connected home, we may not commit these same mistakes. We need to establish standards, regulatory frameworks and a culture that respects the ethical dimensions of the safe place that is the home.**
