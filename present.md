@@ -6,19 +6,17 @@
 
 ## Multiple users, multiple machines
 
+The era of the single user interacting with a single machine is over. 
 
+Today, we use machines that are networked with one another and enable us to interact with millions if not billions of people. Digital services today are served through our laptops, smartphones, transport kiosks, banking terminals and countless other forms of physical peripherals and digital interfaces. 
 
-* Many users now using many devices
-  * multimodality: multimodality describes communication practices in terms of the textual, aural, linguistic, spatial, and visual resources - or modes - used to compose messages.
-  * leading to "multiliteracy"
-* Lots of data is being generated. 
-  * The world's technological per-capita capacity to store information has roughly doubled every 40 months since the 1980s;[7] as of 2012[update], every day 2.5 exabytes (2.5×1018) of data is created.[8] 
-* A lot of research and opportunity around how data is collected, processed and decisions made based on it. 
-  * Volume. The quantity of generated and stored data
-  * Variety. The type and nature of the data. 
-  * Velocity. The speed at which the data is generated and processed to meet the demands and challenges that lie in the path of growth and development. 
+We participate in real-time communication and collaboration across great distances. We can view and modify complex online systems, changing our user profiles across platforms, chat in communication threads weaving through many channels, and make decisions and purchases based on the analysis of huge data sets. 
 
+Now is an era of multimodality. Thanks to our pervasive and powerful computing environments, we communicate with each other and to machines across text, sound, image and languages. We are increasingly multiliterate. We know how to shift between these modes and understand the affordances and limitations of each.     
 
+Through these interactions, enormous amounts of data are being produced. Already in 2012, 2.5 billion gigabytes of data was generated every day, according to IBM.[^1]
+
+There is a lot opportunity in the volume, variety and velocity of processing all of this data. When we think about the connected home, we see it as an integral part of these complex computational systems, with our interactions calling upon and contributing to these massive datasets.  
 
 
 ## Physical interfaces to complex systems
@@ -81,3 +79,5 @@ Maybe more importantly, automation does not require a lot of explanation: _I use
 
 Shortcoming: 
 > the decisions based on the analysis of big data are inevitably "informed by the world as it was in the past, or, at best, as it currently is".
+
+[^1] http://www-01.ibm.com/software/data/bigdata/what-is-big-data.html
