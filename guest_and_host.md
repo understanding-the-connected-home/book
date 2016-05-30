@@ -2,8 +2,8 @@
 
 _The ground rules of being a good guest or host will remain the same in the 21st century, but the ways they will manifest are likely to change._
 
-## WRITTEN by peter
-## PROOFED?
+## WRITTEN by michelle, rewritten by peter
+## PROOFED? (to be proofed by M)
 
 Being a house guest and host in a connected home will in many ways be similar to how humans have socialized for centuries. But we expect there will also be some crucial aspects that are new, or that need to be negotiated. What might that look like?
 
