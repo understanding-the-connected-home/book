@@ -2,19 +2,7 @@
 ## WRITTEN?
 ## PROOFED?
 
-* Today we see the rise of the plurals: multiple users and multiple machines.
-* These form complex systems, interactions and data sets. 
-* The promise of IoT will be leveraging these complex systems; the potential is more in augmentation than automation. 
-* Yet most of what we're seeing in IoT showcases is more "Internet of Shit" -- automation that seems to serve the privileged [i'd challenge this as here you seem to collate two different things. automation isn't automatically shit, nor is it inherently shit if you start with a privilaged market and then later it starts becoming more accessible: shit is shit and a market segment can be just a first step. also, might be worth mentioning that automation is one big trend, but so is "contextual assistance" in its various forms]
-* People's first IoT device in fact will probably not be smart lightbulbs or fridges, but their smartphone. [note: yes, strong point; but not "will be" but "has been"]
-* There aren't many connected homes now. But we're all carrying computational devices with us. 
-
-
----- 
-
-
-* Innovator's challenge: you have to create understanding of a field / furture user need before it's well known. Engelbart: "If ease of use was the only valid criterion, people would stick to tricycles and never try bicycles."
-
+*Today, multiple users interact with multiple machines to form complex computational networks. Through simple physical interfaces, IoT can offer users better understanding and control. The foundation of this augmentation is already in the hands of billions of people thanks to their first IoT device: a smartphone.* 
 
 ## There aren't many connected homes
 
