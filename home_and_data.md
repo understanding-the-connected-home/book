@@ -1,4 +1,4 @@
-# Home & Data
+# Home and data
 
 ## WRITTEN?
 ## PROOFED?
