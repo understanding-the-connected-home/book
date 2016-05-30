@@ -24,7 +24,6 @@
    * [Family](family.md)
    * [Roommates](roommates.md)
    * [Tenant and landlord](tenant_and_landlord.md)
-   * [Neighbor and neighbor](neighbor_and_neighbor.md)
    * [Neighborhoods](neighborhoods.md)
    * [What to invite in your home](what_to_invite.md)
 * [Approaches](approaches.md)
