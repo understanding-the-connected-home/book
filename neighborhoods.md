@@ -3,17 +3,18 @@
 ## WRITTEN?
 ## PROOFED?
 
-A look at neighborhoods (multiple users and connected systems) as a means for play, monitoring such as through ambient notifications, and developing a region. 
+_A look at the neighborhood level as a focal point for play, monitoring, ambient notifications, and development._
 
 ## Playing
 ## Monitoring
-#### Ambient Notifications
 
-As you go about your day in your connected home, it'd be **a bit nightmarish to have a million blinking lights** and glowing displays conveying to you the status of every possible device. 
+## Ambient Notifications
+
+As you go about your day in your connected home, it would be **nightmare to have a million blinking lights** and glowing displays conveying to you the status of every possible device: Another red circle that shows "224 unread notifications"? No thank you.
 
 Instead, how can we design **less intrusive and more aesthetically pleasing notifications**? 
 
-#### Soundscapes
+### Soundscapes
 
 **Sound is a common element in notifications.** Your phone rings when you get a call, your email pings when you receive a new message, and your doorbell chimes when you have a visitor. 
 
@@ -25,7 +26,7 @@ One idea would be to create **soundscapes that could convey a lot of information
 
 What if we used a **similar layering of sounds in the home?** And one were attuned to what they indicated? This would not have to be garish or extremely loud; instead, subtle updates using **birdsong or the sound of falling rain** could indicate the status of your home. 
 
-#### Glanceables 
+### Glanceables 
 
 Visual notifications are another way to convey information. 
 
@@ -37,7 +38,7 @@ The [Good Night Lamp](http://goodnightlamp.com/) is another example of **a beaut
 
 This kind of **gentle and aesthetically pleasing visual notification** could be applied to many objects and scenarios.   
 
-#### Vibrations
+### Vibrations
 
 Continuing on kinds of notifications, we've seen **motors and vibrations used to signal different information** as well. 
 
