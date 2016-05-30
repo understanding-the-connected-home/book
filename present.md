@@ -6,9 +6,34 @@
 
 ## Multiple users, multiple machines
 
+* Many users now using many devices
+  * [stat]
+* Lots of data is being generated. 
+  * The world's technological per-capita capacity to store information has roughly doubled every 40 months since the 1980s;[7] as of 2012[update], every day 2.5 exabytes (2.5×1018) of data is created.[8] 
+* A lot of research and opportunity around how data is collected, processed and decisions made based on it. 
+  * Volume. The quantity of generated and stored data
+  * Variety. The type and nature of the data. 
+  * Velocity. The speed at which the data is generated and processed to meet the demands and challenges that lie in the path of growth and development. 
+
+
+
+
 ## Physical interfaces to complex systems
 
-## A smartphone as an entry point for augmentation
+* IoT = physicality. A simple interface to bigger computational systems. 
+* Making these systems visible can change behavior, like Toyota Prius. 
+
+ 
+    Techniques for analyzing data, such as A/B testing, machine learning and natural language processing
+    Big Data technologies, like business intelligence, cloud computing and databases
+    Visualization, such as charts, graphs and other displays of the data
+
+Support machine learning:
+> "Field of study that gives computers the ability to learn without being explicitly programmed".[2] Machine learning explores the study and construction of algorithms that can learn from and make predictions on data.[3] 
+
+> Real or near-real time information delivery is one of the defining characteristics of big data analytics. 
+> 
+## The smartphone is an entry point to augmentation
 
 ### There aren't many connected homes
 
@@ -51,3 +76,5 @@ The same will hold true for many connected home appliances. The true automation 
 
 Maybe more importantly, automation does not require a lot of explanation: _I used to regulate my heater by hand, now it self-regulates._ Simple to understand, no explanation needed.
 
+Shortcoming: 
+> the decisions based on the analysis of big data are inevitably "informed by the world as it was in the past, or, at best, as it currently is".
