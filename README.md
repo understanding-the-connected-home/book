@@ -2,20 +2,20 @@
 Please note: We are in the process of revising the book in preparation for version 2. Until this revision is done, the text online is going to look messy with many lose ends. The new version will be available here by early June; until then, please refer to [this archived version 1 (PDF)](https://www.dropbox.com/s/4yp9delbrw9l0wu/20150911%20understanding-the-connected-home.pdf?dl=0).
 
 ## WRITTEN by peter
-## PROOFED?
+## PROOFED by Michelle
 
 <h1> About the authors </h1>
 <div>
     <img class="left" src="http://www.thewavingcat.com/wp-content/uploads/2014/10/Nina-Zimmermann-IMG_5259-3-300x200.jpg" alt="peter-bihr">
     <h3>Peter Bihr | <a href="https://twitter.com/peterbihr">@peterbihr</a></h3>
     <p>
-    Peter Bihr explores the impact of emerging technologies. He founded <a href="http://www.thewavingcat.com">The Waving Cat</a> to help apply the insights through consulting, R&D, conferences and publications.
+    Peter Bihr explores the impact of emerging technologies. He founded <a href="http://www.thewavingcat.com">The Waving Cat</a> to apply these insights through consulting, R&D, conferences and publications.
     </p>
     <p>
-    As a strategy advisor, he helps organizations large and small excel in an environment shaped by digitization, connectedness and rapid change.
+    As a strategy advisor, he helps organizations large and small to excel in an environment shaped by digitization, connectedness and rapid change.
     </p>
     <p>
-    He has co-founded and chaired many acclaimed emerging technology conferences including <a href="http://thingscon.com/">ThingsCon</a>, UIKonf and Cognitive Cities Conference, and serves as co-chair of Interaction16.
+    He co-founded many emerging technology conferences including <a href="http://thingscon.com/">ThingsCon</a>, UIKonf and Cognitive Cities Conference and co-chaired <a href="http://interaction16.ixda.org/">Interaction16.</a>
     </p>
 </div>
 
@@ -23,13 +23,13 @@ Please note: We are in the process of revising the book in preparation for versi
     <img class="left" src="http://michellethorne.cc/wp-content/uploads/thorne-profile-300-x-200.jpg" alt="michelle-thorne">
     <h3>Michelle Thorne | <a href="https://twitter.com/thornet">@thornet</a></h3>
     <p>
-    Michelle wants to challenge the power structures of the past by making and teaching technology differently. She explores the <a href="http://woft.org/">web of things</a> at the <a href="https://2015.mozillafestival.org/">annual Mozilla Festival</a>, in a <a href="http://webwiththings.tumblr.com/">co-authored blog with Jon Rogers</a> and by <a href="http://michellethorne.cc/2015/06/thingscon-takeaways/">facilitating workshops.</a> 
+    Michelle leads <a href="https://wiki.mozilla.org/Open_IoT"> Mozilla's exploration of the Internet of Things.</a> She serves a professional learning community seeking to shape IoT with openness and user empowerment. 
     </p>
     <p>
-    As Mozilla's Director of Web Literacy Programs, Michelle creates volunteer-led programs that cultivate leaders who teach and advocate for the web. Through a network of <a href="https://teach.mozilla.org/clubs/">local learning clubs,</a> grassroots teaching campaigns and annual leadership development events, she's served thousands of professional educators and activists.
+    Previously, as Mozilla's Director of Web Literacy Programs, she supported thousands of professional educators and activists to teach and advocate for the web.
     </p>
     <p>
-    Michelle has a dedicated interest in open practices and design, contributing to <a href="http://opendesignnow.org/">Open Design Now</a>, curating Berlin's <a href="http://www.od10beta.info/dmy-maker-lab/">DMY Maker Lab</a> and co-authoring the book <a href="http://en.flossmanuals.net/an-open-web/">An Open Web.</a>  
+    Michelle has a dedicated interest in open practices and design, curating <a href="https://mozillafestival.org/">the Mozilla Festival</a>, exhibiting with <a href="http://thegoodhome.org/">The Good Home</a>, writing for <a href="http://www.opendesignnow.org/">Open Design Now</a> and co-authoring the book <a href="http://en.flossmanuals.net/an-open-web/">An Open Web.</a>  
     </p>
 
 </div>
@@ -38,59 +38,65 @@ Please note: We are in the process of revising the book in preparation for versi
 
 # Intro
 
-In May 2015, science fiction author Bruce Sterling gave a keynote at ThingsCon [^1]. In his talk [^2] he introduced a new project he had been working on with his partner Jasmina Tesanovic: Casa Jasmina [^3], the open source connected home of the future. It's a unique research project, an open source investigation of the connected home.
+In May 2015, science fiction author Bruce Sterling gave a keynote at ThingsCon [^1]. In his talk [^2] he introduced a new research project he and his partner Jasmina Tesanovic have been working on: Casa Jasmina [^3], the open source connected home of the future. 
 
-> It's time to live the life. Just go ahead and build the products and see if you can survive being in a room with them. This is our test bed.
+> It's time to live the life. Just go ahead and build the products and see if you can survive being in a room with them. Casa Jasmina is our test bed.
 -- Bruce Sterling at ThingsCon
 
-A few weeks later, in June, we flew to Turin, Italy, along with Alexandra Deschamps-Sonsino [^4] to visit this live-in lab Casa Jasmina and spend some time with the team. We were curious to see how it would be to live in and contribute to this home of the future. Casa Jasmina is a ground breaking lab for exactly these questions, and we're very grateful we got to experience it so early on. 
+A few weeks later in June 2015, we flew to Turin, Italy along with Alexandra Deschamps-Sonsino [^4] to visit Casa Jasmina and spend some time with the team. 
 
-Ever since visiting [^5] Casa Jasmina, some questions that wouldn't leave us alone. There hasn't been a day where the topic of *connected homes* hadn't come up, where we haven't been trying to get closer to figuring out answers, or at least better questions. 
+We were curious to see how it would be to live in and contribute to this home of the future, and we're very grateful we got to experience it so early on. 
 
-> How do we interact with a connected home? How does the space, and the things in it, communicate what's expected of the person who live there? What are the ground rules and who has permission to change them? What objects require interaction and what doesn't? How, in other word, do we know how to build and live in a connected home?
+Ever since visiting [^5] Casa Jasmina, some questions wouldn't leave us alone. There hasn't been a day where the topic of *connected homes* hadn't come up, where we haven't been trying to get closer to figuring out answers, or at least asking better questions. 
 
-We asked a great number of smart and experienced people for their thoughts. It slowly emerged that it's an area that might just not be fully explored yet. An area that in fact we collectively have just begun to explore at all.
+> How do we interact with a connected home? How does a space communicate what's expected of the people who live in it? What are the ground rules and who has permission to change them? What objects require interaction and what don't? How do we know how to build and live in a connected home?
 
-We know that connectivity increasingly makes its way into our living rooms, kitchens and bedrooms. Into our smoke detectors, lights, door locks, kitchen scales and ovens. We bring in more connectivity through fitness tracking wristbands and our phones and tablets, and take it along when we get into the driving computers that are our cars.
+We asked a great number of smart and experienced people for their thoughts. It slowly emerged that "the connected home" is an area that's not understood yet--it is so new, with so many unanswered questions and with so few connected homes actually in use.
 
-**Understanding the connected home - how it can be designed, how we can engage with it and turn it off, how we can live with it and still have control over our privacy - these questions will be essential for living in this century.**
+We know that connectivity increasingly makes its way into our living rooms, kitchens and bedrooms. The internet is coming into our smoke detectors, lights, door locks, kitchen scales and ovens. We bring in more connectivity through fitness tracking wristbands and our phones and tablets, and take it along when we get into the driving computers that are our cars.
 
-Getting connected homes and their many facets right -  incl. interactions, privacy, empowerment - is a core challenge for designers, developers, entrepreneurs and policy makers for decades to come. 
+**Understanding the connected home--how it can be designed, how we can engage with it and control it, how we can live with it and still have agency over our data--twill be essential to address.**
 
-**Connected homes will directly impact the lives of hundreds of millions - maybe billions - of people around the globe. We have to get this right.**
+Connected homes will impact the lives of hundreds of millions people around the globe.
+
+There are many challenges ahead, including designing interactions, privacy, user empowerment in this new field. We hope this modest exploration will be of use to designers, developers, entrepreneurs and policy makers as we figure this out together over the decades to come. 
 
 ## Welcome to version 2
 
-We published version 1 of [Understanding the Connected Home](http://theconnectedhome.org) a few months after our visit to Turin, in the fall of 2015. [^6] Turns out this collection of essays and thoughts about the implications of the ever-increasing connectedness of our homes could not have been more timely: Just about every major tech company has entered the field of connected homes with a smart home hub, a wifi-enabled light bulb, a thermostat or some other gadget. 
+We published version 1 of [Understanding the Connected Home](http://theconnectedhome.org) a few months after our visit to Turin, in the fall of 2015. [^6] 
 
-**We believe that understanding connected homes is even more timely and relevant now.**
+It turns out this collection of essays could not have been more timely. Just about every major tech company has now entered the field of connected homes with a smart home hub, a wifi-enabled light bulb or thermostat or some other gadget. 
 
-While there has been great progress in terms of UX, manufacturing and technology, there has not been all that much reflection about the implication of the connected homes for our lives: How will ubiquitous connectedness and data change our domestic lives? And more importantly, how can we shape that change to be a net positive?
+**We believe that understanding connected homes is even more urgent and relevant now.**
 
-We wrote this book with practitioners in mind: The people who make the connected home happen. The "official" hats practitioners in this field wear include a wide range including designers, developers, strategists, entrepreneurs, researchers, activists, educators and many more. 
+While there has been great progress in terms of user experience, manufacturing and technology, there has not been much reflection about the implication of the connected homes for our lives. How will ubiquitous connectedness and data change our domestic lives? What are the powers currently shaping this landscape and what do they have to gain? And more importantly, how can we as practitioners shape IoT to be a net positive for society?
 
-Our lense is that of experience, insight and soft influence - we are involved in many of the conversations in the field, but don't have to follow a strong commercial agenda. Instead, we understand ourselves as part of a professional peer-learning community. A globally distributed, diverse network of informal exchange driven by passion and collaborations that collectively evolves the conversation and state of the art.
+We wrote this book with practitioners in mind. We hope the people who read this will be the people who make connected homes happen. That could include designers, developers, strategists, entrepreneurs, researchers, activists, educators and many more. 
+
+The lens we bring is that of experience working with fellow IoT practitioners. We are involved in many of IoT conversations, and we're learning as we go, just like everyone in this field.  
+
+In this way, we see ourselves as part of **a professional peer-learning community.** It's an informal, global network of designers, technologists, activists and more who collaborate with one another and exchange insights and best practices so that collectively we can evolve the IoT conversation and influence the state of the art.
 
 ## What's new in this version?
 
-For us, the initial publication of this book has also been the starting point for a number of projects & conversations. Since then we have had plenty of opportunities to further our thinking and following up on some of the threads and questions we addressed before: 
+The initial publication of this book coincided with the start of a number of projects & conversations. Since then, we have developed our thinking and followed up on some of the questions we addressed in version 1: 
 
-- September 2015: In collaboration with Alexandra Deschamps-Sonsino [^7], Peter launched The Good Home Project [^8] to explore the same set of questions this book addresses through design proposals
-- January 2016: Michelle took on a new role at Mozilla Foundation as Director of the Open IoT Studio
-- March 2016: Peter co-chaired Interaction16 [^9], a conference that gathered the global interaction design community in Helskinki where many questions of designing connected experiences, services and products were discussed indepth
-- April 2016: The Good Home Project, with contributions from Iohanna Nicenboim [^10] and Michelle  exhibited at Fuori Salone in Milan
-- April 2016: Michelle initiated a series of design sprints around privacy and the connected home starting with the Mozilla Open IoT Design Sprint Berlin in April 2016 [^11]
-- April 2016: A research report and set of policy recommendations that Peter co-authored with Prof. Dr. Christoph Bieber for the German government on smart cities and their implications for citizens was published [^12]
-- The whole time, ThingsCon spawned numerous local community events that explore the techniques, design and ethics of connected products and services.
+- September 2015: In collaboration with Alexandra Deschamps-Sonsino [^7], Peter launched The Good Home Project [^8] to explore the same set of questions this book addresses through design proposals and exhibits.
+- January 2016: Michelle took on a new role at Mozilla Foundation, leading the Open IoT Studio with Jon Rogers, Professor of Creative Technology at the University of Dundee.[^9]
+- March 2016: Peter co-chaired Interaction16 [^10], a conference that gathered the global interaction design community in Helskinki where many questions of designing connected experiences, services and products were discussed indepth.
+- April 2016: The Good Home Project exhibited at Fuori Salone in Milan with Iohanna Nicenboim [^11] and Michelle.
+- April 2016: Michelle curated a series of design sprints around privacy and the connected home, notably the Mozilla Open IoT Design Sprint in Berlin.[^12]
+- April 2016: The German government published a research report and set of policy recommendations that Peter co-authored with Prof. Dr. Christoph Bieber on smart cities and their implications for citizens. [^13]
+- And throughout, ThingsCon hosted numerous local community events that explore the techniques, design and ethics of connected products and services.
 
-It has, in other words, been a busy and productive year with countless touch points that are directly relevant to Understanding the Connected Home.
+It has been a busy and productive year, with many touch points that are directly relevant to Understanding the Connected Home. All of those activities evolved our thinking. That meant, it was time to revisit the book. 
 
-This also means it was time to revisit the essays. For this new and updated version of our book we revisited the old essays and updated, edited, cut ideas that seemed dated; we restructured a bit; and we added new chapters, especially around the meta level of frameworks and methods for exploring these ideas.
+For this new and updated version, we edited the old essays and restructured the content. We hope this makes for more accessible reading. New chapters were added to bring the book up to date, offering fresh content for readers of the first version. 
 
 As always, we look forward to hearing about your thinking and hope to talk to you online or face-to-face.
 
 
-## How to use this content
+## How to use this book
 
 We laid the ground for this book in a one-week content sprint. Since then, it has become an ongoing research project. You can find the results both here and outside the scope of this book in other areas of our work.
 
@@ -109,9 +115,10 @@ Berlin, June 2016
 [^6]: Version 1 is available in the archives as a PDF: [https://www.dropbox.com/s/4yp9delbrw9l0wu/20150911%20understanding-the-connected-home.pdf?dl=0](https://www.dropbox.com/s/4yp9delbrw9l0wu/20150911%20understanding-the-connected-home.pdf?dl=0)
 [^7]: [http://designswarm.com](http://designswarm.com)
 [^8]: http://thegoodhome.org
-[^9]: http://interaction16.ixda.org
-[^10]: http://iohanna.com
-[^11]: http://www.thewavingcat.com/2016/04/25/privacy-machines/
-[^12]: http://www.thewavingcat.com/2016/04/25/smart-cities-in-the-21c-humanity-on-the-move-the-transformative-power-of-cities/
+[^9]: Learn more about Jon on his university website [http://www.dundee.ac.uk/djcad/staff/jonrogers/](http://www.dundee.ac.uk/djcad/staff/jonrogers/) and follow him on Twitter [@ileddigital](http://twitter.com/ileddigital). 
+[^10]: http://interaction16.ixda.org
+[^11]: http://iohanna.com
+[^12]: http://www.thewavingcat.com/2016/04/25/privacy-machines/
+[^13]: http://www.thewavingcat.com/2016/04/25/smart-cities-in-the-21c-humanity-on-the-move-the-transformative-power-of-cities/
 
 
