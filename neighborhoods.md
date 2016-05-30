@@ -1,71 +1,34 @@
 # Neighborhoods
 
-## WRITTEN?
+## reWRITTEN by peter?
 ## PROOFED?
 
-_A look at the neighborhood level as a focal point for play, monitoring, ambient notifications, and development._
+_How can connected homes contribute to a healthier neighborhood, and how can it offer residents a better ambient understanding of what's happening in the neighborhood?_
 
-## Playing
-## Monitoring
+Connected homes seem to hold tremendous potential to improve the neighborhood, and to allow residents to be more present.
 
-## Ambient Notifications
+We see great potential especially around the following areas:
 
-As you go about your day in your connected home, it would be **nightmare to have a million blinking lights** and glowing displays conveying to you the status of every possible device: Another red circle that shows "224 unread notifications"? No thank you.
+**Increasing ambient awareness**
+What kind of information and data about their neighborhood would be useful for residents? Traffic, crime statistics, peaks and valleys of energy consumption? Increase and decrease in the flow of people in the streets? Sharp changes in the number of tweets sent or photos shared online? Local weather data like temperature changes and rainfall? 
 
-Instead, how can we design **less intrusive and more aesthetically pleasing notifications**? 
+How can we communicate these types of data to increase ambient awareness without the blunt instrument of screens? How about ambient sounds like birdsong, glowing lights, water sloshing in a tank, a Tempescope [^1], a Good Night Lamp [^2], a fan spinning faster, a cookoo clock, a vibration [^3] through jewelry or the armchair?
 
-### Soundscapes
+What are the most useful, least intrusive models of notification? Should these alerts - be they ever so subtle - be sent when something changes (*state change*), when something is wrong (*alert*) or continues to be ok (*affirmation*), when cartain milestones are reached (*positive notification*), or continuously as an ongoing background ambient awareness system (*monitoring*)?  
 
-**Sound is a common element in notifications.** Your phone rings when you get a call, your email pings when you receive a new message, and your doorbell chimes when you have a visitor. 
+**Contributing data to the commons**
+What types of data are both useful and safe to share with the neighborhood and city beyond? What services can be built on top of data like that to save energy, reduce waste, increase production of energy, enable more rich social interactions?
 
-How can we use sounds in a connected home, **especially if a lot of devices and sensors are at work simultaneously?** 
+What levels of community data are there (building, street, neighborhood, zip code...) and what frameworks would be most appropriate to apply? We need to figure out models to use community and neighborhood data to build better services for citizens while protecting privacy and security, and with inclusivity and diversity in mind.
 
-One idea would be to create **soundscapes that could convey a lot of information.** 
+**Retail and commercial use**
+Traditionally, private business has been very data savvy in terms of value extraction and creation. There is huge potential value for retail and commercial uses of data from homes, buildings, and neighborhoods. What kind of services improve lives of citizens, tourists, and other stakeholders? What kind of obligations should be tied to using these types of data commercially? What does that mean for transparency, APIs, licensing, policy and political work?
 
-**We often find this in nature.** For example, a jungle soundscape you can hear the weather (rain? wind?). You can hear what animals are nearby (the crunch of the leaves, the swish of some vines, the chattering of little mammals). If you are attuned to it, you can pick out individual species and sometimes even understand what they are communicating, like when birds send each other warnings if a predator is approaching.
-
-What if we used a **similar layering of sounds in the home?** And one were attuned to what they indicated? This would not have to be garish or extremely loud; instead, subtle updates using **birdsong or the sound of falling rain** could indicate the status of your home. 
-
-### Glanceables 
-
-Visual notifications are another way to convey information. 
-
-We could also imagine displays and objects that tell you something in a subtle and pleasing way. 
-
-For example, **[the Tempescope](http://www.tempescope.com/) is a connected object that sits on your shelf and creates a contained weather environment.** It can read weather conditions and forecasts from the internet and generate that environment within the object, complete with clouds, lightning and more. 
-
-The [Good Night Lamp](http://goodnightlamp.com/) is another example of **a beautiful object that notifies you in ambient way.** A family of lamps are set up in different locations, and if the larger lamp is turned on, it will signal to the smaller lamps to turn on as well. 
-
-This kind of **gentle and aesthetically pleasing visual notification** could be applied to many objects and scenarios.   
-
-### Vibrations
-
-Continuing on kinds of notifications, we've seen **motors and vibrations used to signal different information** as well. 
-
-The most common example perhaps is your phone, which can vibrate when it receives a call or message. **This convention is showing up in wearable electronics,** such as fitness trackers and smart watches, that vibrate for certain notifications as well. 
-
-We could also imagine vibrations being used in the connected home, for example in **furniture or appliances that need to signal something.** That could come in the form of an alert, or even just to verify that everything's okay. 
-
-It's still uncharted what information these various vibrations could convey, but Iskander Smit has done some **[thoughtful research and design dismystifying vibration notifications]((https://medium.com/the-startup-magazine-collection/design-for-timely-interactions-b7d7b3ef5d50)**, including the dimensions and range of these signals as well as what parts of the body or environment would convey what kind of information. 
-
-## Developing
-   * [Community Data...]
-   * [Retail? Civics? City?...]
-
-### Computer-Supported Cooperative Work
-
-> "how collaborative activities and their coordination can be supported by means of computer systems."... 
-> Awareness: individuals working together need to be able to gain some level of shared knowledge about each other's activities.[5]
-    Articulation work: cooperating individuals must somehow be able to partition work into units, divide it amongst themselves and, after the work is performed, reintegrate it.[6][7]
-    Appropriation (or tailorability): how an individual or group adapts a technology to their own particular situation; the technology may be appropriated in a manner completely unintended by the designers.[8][9][10]
-
-https://en.wikipedia.org/wiki/Computer-supported_cooperative_work
+**Foster stronger social relationships**
+How can connected homes and the data systems surrounding them help residents have a richer social life? Can residents be empowered to more easily meet or help each other, or to resolve problems or social tensions? Can it be a tool for networked social action and participation?
 
 
-## Socializing
-## Helping
-## Resolving
 
-## Key takeaways
-
-The connected home doesn't have to be filled with obnoxious blimps and beeps. Instead, we can design subtle notifications using soundscapes, glanceable technology and even vibrations to convey a rich amount of data in an unobtrusive way. 
+[^1]: [The Tempescope](http://www.tempescope.com/) is a connected object that sits on your shelf and creates a contained weather environment. It can read weather conditions and forecasts from the internet and generate that environment within the object, complete with clouds, lightning and more.
+[^2]: Alexandra Deschamps-Sonsino's [Good Night Lamp](http://goodnightlamp.com/) is a family of lamps set up in different locations: If the larger lamp is turned on, it will signal to the smaller lamps to turn on as well. They are beautiful objects that send an ambient social signal.
+[^3]: What information these various vibrations could best convey is still somewhat uncharted territory, but Iskander Smit has done some [thoughtful research and design dismystifying vibration notifications]((https://medium.com/the-startup-magazine-collection/design-for-timely-interactions-b7d7b3ef5d50), including the dimensions and range of these signals as well as what parts of the body or environment would convey what kind of information. 
