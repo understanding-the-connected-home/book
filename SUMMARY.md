@@ -19,7 +19,7 @@
    * [Connected things](connected_things.md)
    * [The UX of privacy](ux_of_privacy.md)
    * [Connected literacy](connected_literacy.md)
-* [Relationships](scenarios.md)
+* [Relationships](relationships.md)
    * [Guest and host](guest_and_host.md)
    * [Family](family.md)
    * [Roommates](roommates.md)
