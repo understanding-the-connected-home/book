@@ -23,6 +23,7 @@
    * [Living together](living_together.md)
    * [Neighborhoods](neighborhoods.md)
    * [Shared connected objects](sharedobjects.md)
+   * [Home and data](home_and_data.md)
    * [Residential Rights Management: Who controls your home?](rightsmanagement.md)
    * [What to invite in your home](what_to_invite.md)
 * [Approaches](approaches.md)
