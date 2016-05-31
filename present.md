@@ -37,6 +37,13 @@ As we continue to explore this field, we will consider how users might observe c
 
 ## The smartphone is an entry point to augmentation
 
+The foundation of this kind of augmentation is already in the hands of billions of people thanks to their first IoT device: a smartphone.
+
+According to GSMA, 2.4 billion people are online via a mobile phone.[^3] These phones have the ability to sense the environment around them: location, acceleration, sound, etc. And they can connect to the internet, and therefore tap into large, computational networks. In this way, we're getting a glimpse of what widespread augmentation could be. 
+
+The smartphone is an entry point to augmentation. Increasingly, we're seeing appliances and peripherals that connect to your phone. Think wearables like fitness trackers or more advanced tools like virtual reality equipment. When augmentation in the home becomes more widespread, it will likely be built primarily in compatibility with smartphones. 
+
+
 ### There aren't many connected homes
 
 Over the last few months, we've made a point of asking a lot of people which connected objects they have in their houses (not counting smartphones, tablets, laptops). It wasn't many. 
@@ -84,4 +91,5 @@ Shortcoming:
 * Train devices with machine learning: the ability to learn without being explicitly programmed. algorithms that can learn from and make predictions on data.
 
 [^1] http://www-01.ibm.com/software/data/bigdata/what-is-big-data.html
-[^2] Thanks to Ame Elliot for the example of the Toyota Prius teaching users about emissions and how that changed their driving behavior. https://simplysecure.org/blog/lessons-from-architecture-school-3
+[^2] Thanks to Ame Elliot for the example of the Toyota Prius teaching users about energy consumption and how that changed their driving behavior. https://simplysecure.org/blog/lessons-from-architecture-school-3
+[^3] http://www.gsma.com/mobilefordevelopment/programmes/connected-society
