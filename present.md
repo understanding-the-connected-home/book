@@ -1,5 +1,5 @@
 # Present
-## WRITTEN?
+## WRITTEN M
 ## PROOFED?
 
 *Today, multiple users interact with multiple machines to form complex computational networks. Through simple physical interfaces, IoT can offer users better understanding and control of data. The foundation of this kind of augmentation is already in the hands of billions of people thanks to their first IoT device: a smartphone.* 
