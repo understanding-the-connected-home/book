@@ -3,15 +3,21 @@
 ## WRITTEN?
 ## PROOFED?
 
-* If smartphones are a sign of the speed of innovation to come, that means the lifecycles of what is in our homes will change rapidly (Yes! software-driven and processor-driven release cycles). 
-* Buildings move slow, but infrastructure, appliances & devices, and now digital services will be quickly changing. 
+_Smartphones are a sign of the speed of innovation that our homes may soon face. These rapid lifecyles bring risks, such as secruity vulnerabilities and broken devices. There's an urgency to address these issues now, and to ensure throughout that the home remains a place that puts humans first._  
+
+## The speed of change
+
+* Smartphones are a sign of the speed of innovation to come
+* The lifecycles of what is in our homes will change rapidly
+
+## The risks
+
 * That means risks: security updates, companies that go broke or get acquired, devices that are no longer serviced or are breached. 
-* There's an urgency to figure out these issues. 
-* And huge opportunity to innovate: we need updated vocabularies, literacies, ways to negotiate and resolve conflicts (of data/preferences). 
 
+## Humans first
 
-
-## New territory and unintended consequences
+* There's an urgency to figure out these issues, and huge opportunity to innovate: we need updated vocabularies, literacies, ways to negotiate and resolve conflicts (of data/preferences). 
+* And above all else, a home is a home. 
 
 ## Vectors
 
