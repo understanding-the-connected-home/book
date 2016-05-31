@@ -23,7 +23,7 @@ There is a lot opportunity in the volume, variety and velocity of processing all
 
 When these complex systems are visible and modifiable for everyday users, we learn about about how they work. This visibility can lead us to knowingly change our own behavior to get the outcomes we want. Rather than building vast surveillance machines, let's employ this to build a learning cycle as a tool of user empowerment.
 
-For example, let's take a look at Toyota's hybrid electric car, the Prius. It offers drivers a dashboard showing how the car uses and stores energy. Most users would be unfamiliar with how electric car engines worked, let alone how their driving behavior affects energy consumption. However, by reading this simplified real-time information, people can observe how their behavior changes the system and adjust their driving accordingly.[^1]  
+The Toyota Prius' dashboardis a useful example of a simple, actionable display of complex data. It shows how the car uses and stores energy. Most users would be unfamiliar with how electric car engines worked, let alone how their driving behavior affects energy consumption. However, by reading this simplified real-time information, people can observe how their behavior changes the system and adjust their driving accordingly.[^1]  
 
 ![Toyota Prius dashboard](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/prius_dashboard.jpg)
 
@@ -35,9 +35,9 @@ As we continue to explore this field, we will consider how users might observe c
 
 ## The smartphone is an entry point to augmentation
 
-The foundation of this kind of augmentation is already in the hands of billions of people thanks to their first IoT device: a smartphone.
+The foundation of this kind of augmentation is already in the hands of billions of people. We tend to think of it as a communications device[^3] or portable computer, but it is also most people's entrypoints to the world of IoT: their smartphone.
 
-Smartphones are becoming the default channel to access information online.[^3] These phones generally have the ability to sense the environment around them: location, acceleration, sound and more. They also connect to the internet, and therefore tap into large, computational networks.  
+Smartphones sense the environment around them: location, acceleration, sound and more. They also connect to the internet, and therefore tap into large, computational networks.  
 
 Because of the smartphone's inherent connectivity, its computational power and its pervasiveness, we're increasingly seeing appliances and peripherals that connect to the phone. Think wearables like fitness trackers or more advanced tools like virtual reality equipment or even medical devices like blood pressure monitors. Many of the important players in the connected home field are manufacturers of smartphones and/or provide operating systems for them. 
 
