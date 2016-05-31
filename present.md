@@ -33,7 +33,7 @@ _Toyota Prius dashboard. By [It's Our City](https://www.flickr.com/photos/its_ou
 
 Now looking beyond digital displays, the Internet of Things has the potential to not only offer simple visual interfaces, but physical ones. Connected objects can enable this kind of user empowerment and feedback loop. 
 
-As we continue to explore this field, we will consider how users might observe complex systems and make modifications. We'll look at the affordances of physical objects, such as touch, sound, movement and light, as "human-readable" channels of interaction, and in this way, how IoT might deepen or complement the digital displays we already have around us. 
+As we continue to explore this field, we will consider how users might observe complex systems and make modifications. We'll look at the affordances of physical objects, such as touch, sound, movement and light, as "human-readable" interaction. And we'll examine how IoT might extend or even replace the digital displays we have around us, further augmenting our computational abilities while maintaining the users' understanding and control of the system.  
 
 ## The smartphone is an entry point to augmentation
 
