@@ -3,7 +3,7 @@
 ## WRITTEN?
 ## PROOFED?
 
-_Smartphones are a sign of the speed of innovation that our homes may soon face. These rapid lifecyles bring risks, such as secruity vulnerabilities and broken devices. There's an urgency to address these issues now, and to ensure throughout that the home remains a place that puts humans first._  
+_Smartphones are a sign of the speed of innovation that our homes may soon face. These rapid lifecyles bring risks, such as security vulnerabilities and broken devices. There's an urgency to address these issues now, and to ensure throughout that the home remains a place that puts humans first._  
 
 ## The speed of change
 
@@ -21,7 +21,7 @@ If anything, the last decade shows us how quickly new technologies can be picked
 
 While today's connected objects can be clunky and exploratory, there will be some iconic releases or "must have" devices that change how people see this space. 
 
-After this threshhold, there will be electronics and connectivity in many of our everday objects. At this stage, the speed of change of our built environment will start to resemble that of our computing environment. The lifecycle of things in our homes will be shortened. 
+After this threshold, there will be electronics and connectivity in many of our everyday objects. At this stage, the speed of change of our built environment will start to resemble that of our computing environment. The lifecycle of things in our homes will be shortened. 
 
 Software will need to be patched. Devices will be incompatible and obsolete. Entire services will rise and fall in months. 
 
@@ -29,7 +29,17 @@ Our homes will move at the speed of our smartphones--or faster.
 
 ## The risks
 
-* That means risks: security updates, companies that go broke or get acquired, devices that are no longer serviced or are breached. 
+With this speed of innovation comes volatility and unpredictability. It will generate lots of waste and exploitation. There will be vulnerabilities and breaches. These patterns are pretty much inevitable--predicted by many waves of technological advances before them. 
+
+With that knowledge, we can approach the connected home with some understanding of what is to come. 
+
+For example, let's look at security. As our built environment begins to change at the speed of software, our homes may experience new kinds of security vulnerabilities. 
+
+A smart lock system is installed in your front door. The company who makes the locks goes broke. There is no longer a support service to maintain your locks. At some point, your lock gets jammed, or hacked or incompatible with your smartphone's latest update. You can no longer patch security bugs in your smart lock. And the lock on your front door is no longer in your control.    
+
+These scenarios abound. As we make and use connected objects, we must consider how security must gracefully accompany the objects throughout their lifecycle--from installment, to use and maintenance, to upgrading, to uninstalling and dismantling.  
+
+[...]
 
 ## Humans first
 
