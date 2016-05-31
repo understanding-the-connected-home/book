@@ -29,7 +29,7 @@ It offers drivers a dashboard showing how the car uses and stores energy. Most u
 
 ![Toyota Prius dashboard](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/prius_dashboard.jpg)
 
-_Toyota Prius dashboard. By [It's Our City](https://www.flickr.com/photos/its_our_city/2838668732), licensed [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)._
+_Toyota Prius dashboard. By It's Our City, licensed CC BY 2.0.[^3]_
 
 Now looking beyond digital displays, the Internet of Things has the potential to not only offer simple visual interfaces, but physical ones. Connected objects can enable this kind of user empowerment and feedback loop. 
 
@@ -47,6 +47,7 @@ Therefore, when connected homes become more prevalent, it will likely be built p
 
 Today we have a glimpse of what widespread augmentation looks like. And it's already in our pockets. 
 
-[^1] http://www-01.ibm.com/software/data/bigdata/what-is-big-data.html
-[^2] Thanks to Ame Elliot for the example of the Toyota Prius teaching users about energy consumption and how that changed their driving behavior. https://simplysecure.org/blog/lessons-from-architecture-school-3
-[^3] http://www.gsma.com/mobilefordevelopment/programmes/connected-society
+[^1]: http://www-01.ibm.com/software/data/bigdata/what-is-big-data.html
+[^2]: Thanks to Ame Elliot for the example of the Toyota Prius teaching users about energy consumption and how that changed their driving behavior. https://simplysecure.org/blog/lessons-from-architecture-school-3
+[^3]: _Toyota Prius dashboard. By It's Our City: https://www.flickr.com/photos/its_our_city/2838668732, licensed CC BY 2.0: https://creativecommons.org/licenses/by/2.0._
+[^4]: http://www.gsma.com/mobilefordevelopment/programmes/connected-society
