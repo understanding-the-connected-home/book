@@ -54,4 +54,4 @@ Shared connected objects offer a great opportunity for designers and technologis
 [^3]: See Michelle's 2010 post [Designing for collaborative consumption](http://michellethorne.cc/2010/12/designing-for-collaborative-consumption/) for an overview.
 [^4]: The [Fairphone](https://www.fairphone.com/) is a great example of a device that uses modular design to enable repair and upgrades without having to toss out the whole thing. We should foster this kind of modular design, as it will help make more sustainable objects as well as objects that are more shareable.
 [^5]: Totally a technical term. 
-[^6]: With his Needy Toasters project, creative technologist Simone Rebaudengo explored this in a playful way: When his connected toasters felt under-utilized, they tweeted publicly to find a new owner who would use them more frequently.
+[^6]: With his [Addicted Toasters](http://addictedproducts.com) project, creative technologist [Simone Rebaudengo](http://simonerebaudengo.com) explored this in a playful way: When his connected toasters felt under-utilized, they tweeted publicly to find a new owner who would use them more frequently.
