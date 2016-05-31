@@ -13,6 +13,10 @@ These touchscreen phones represent a threshold in the evolution and adoption of 
 
 Since the advent of the iPhone and Android, we've seen entire industries and social practices boom. App stores, smartphone accessories, the rise of mobile photography, messaging, payment and more.  
 
+![HTC Dream](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/htc_dream.jpg)
+
+_HTC Dream mobile phone with AZERTY keyboard for French market. ByAkela NDE, CC BY-SA 3.0 [^1]_
+
 If anything, the last decade shows us how quickly new technologies can be picked up and become mundane in their ubiquity. We anticipate a similar trajectory for the connected home. 
 
 While today's connected objects can be clunky and exploratory, there will be some iconic releases or "must have" devices that change how people see this space. 
@@ -105,3 +109,5 @@ Maybe more importantly, automation does not require a lot of explanation: _I use
 
 Shortcoming: 
 > the decisions based on the analysis of big data are inevitably "informed by the world as it was in the past, or, at best, as it currently is".
+
+[^1]: By Akela NDE: https://commons.wikimedia.org/wiki/User:Akela_NDE, Own work. Licensed [CC BY-SA 3.0: http://creativecommons.org/licenses/by-sa/3.0/, available at https://commons.wikimedia.org/w/index.php?curid=6680413.
