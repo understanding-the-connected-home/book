@@ -1,6 +1,6 @@
 # Neighborhoods
 
-## reWRITTEN by peter?
+## reWRITTEN by peter
 ## PROOFED?
 
 _How can connected homes contribute to a healthier neighborhood, and how can it offer residents a better ambient understanding of what's happening in the neighborhood?_
