@@ -7,8 +7,21 @@ _Smartphones are a sign of the speed of innovation that our homes may soon face.
 
 ## The speed of change
 
-* Smartphones are a sign of the speed of innovation to come
-* The lifecycles of what is in our homes will change rapidly
+In 2007, Apple released the first iPhone and shortly thereafter in 2008, Google released its first Android device. At the time of writing, those milestones are just shy of a decade ago. 
+
+These touchscreen phones represent a threshold in the evolution and adoption of the smartphone. In the years prior, there had been a range of exploratory devices, such as Nokia's first clamshell phone and PDAs running PalmOS that one could interact with using a stylus.
+
+Since the advent of the iPhone and Android, we've seen entire industries and social practices boom. App stores, smartphone accessories, the rise of mobile photography, messaging, payment and more.  
+
+If anything, the last decade shows us how quickly new technologies can be picked up and become mundane in their ubiquity. We anticipate a similar trajectory for the connected home. 
+
+While today's connected objects can be clunky and exploratory, there will be some iconic releases or "must have" devices that change how people see this space. 
+
+After this threshhold, there will be electronics and connectivity in many of our everday objects. At this stage, the speed of change of our built environment will start to resemble that of our computing environment. The lifecycle of things in our homes will be shortened. 
+
+Software will need to be patched. Devices will be incompatible and obsolete. Entire services will rise and fall in months. 
+
+Our homes will move at the speed of our smartphones--or faster. 
 
 ## The risks
 
@@ -47,7 +60,6 @@ An overt approach would be labeling: A set of icons that indicate what is collec
 
 _The blunt approach of labeling: A set of icons that indicate what is collecting data, what is transmitting data, what is analyzing data. "Does this thing listen or watch? Does it share data to the cloud?" Some possible connected device engagement icons. Source: Noun Project (eye by <a href="https://thenounproject.com/search/?q=eye&amp;i=6186">Thomas Le Bas</a>, ear by <a href="https://thenounproject.com/search/?q=ear&amp;i=6200">Søren Michelsen</a>, cloud by <a href="https://thenounproject.com/search/?q=wifi&amp;i=123908">Aaron K. Kim</a>)._
 
-
 Labeling does not, of course, scale in the least. It is inelegant, entirely undesirable and takes too much active consideration to be practical in day to day life. It is not, in other words, legible enough to serve its purpose: Just like a legal contract offers all relevant information but isn't really, truly "human-readable", this wouldn't quite do the trick.
 
 Maybe a direct machine-to-machine approach might be more powerful: We set our personal preferences (pur own ground rules) that are saved in a device we always have on ourselves (phones, fitness tracker...) and the home transmits its own ground rules. Algorithmically, both negotiate what's going to happen based on ground rules that we have established as social norms. This is certainly interesting. But it also is a highly technical solution, which brings its own set of complications.
@@ -72,3 +84,24 @@ On the web, our behavior is constantly tracked by advertising companies and othe
 On the web, the only means of protection are personal education in the matter (to at least understand what's going on) as well as technical measures, like ad & tracking blockers, as well as browser features/plug-ins like Do Not Track. **Between them, these measures provide a certain measure of privacy, but neither is this sufficient nor is it sufficiently easy.** We got to this point because for too long, the open nature of the web allowed bad players to foster a culture of tracking without recourse or penalties. 
 
 **For the context of the connected home, we may not commit these same mistakes. We need to establish standards, regulatory frameworks and a culture that respects the ethical dimensions of the safe place that is the home.**
+
+As for adaption of connectivity inside our homes, we have no doubt that it will happen. Not out of some techno-deterministic world view, but because we learned over the last couple of decades that connectivity & data add value to all parts of our lives if done right. 
+
+We assume that the ways this will happen will seem odd for a while, and that it will happen not along the lines of well-established metaphors like automation or personalization: These will likely seem as quirky and ridiculous in hindsight as the futuristic computerized kitchen did in the 1950s (both in terms of gender roles and the technological aspects):
+
+Rather, the smart will manifest in ways both banal and novel, and the vector will (hopefully, and most likely) be smarts that are "on the user", in whichever way. If we had to guess, we'd say they will be probably fairly low-tech, bottom up interventions that just make things a little easier, more interesting, more useful: **A connected home should help us be more human, more ourselves.**
+
+Much more tricky is how we will deal with our preferences regarding various levels of scanning, sharing data, and (by extension) surveillance.
+
+### Automation is a natural first step
+
+The connected home products we see on the market today (or judging by conversations with many manufacturers and designers working in the field, on the way to market) focus to a large degree on home automation. There's nothing wrong with it, it's a natural first step. It's (comparatively) simple and offers a clear value (if done right), so it's (again, comparatively) low-hanging fruit.
+
+Inarguably, there's a lot to be gained for users from home automation. Nobody would argue with the convenience and time savings of a laundry machine, a dishwasher or a vacuum cleaner. 
+
+The same will hold true for many connected home appliances. The true automation magic might, however, not happen at the device level. Everyone who ever had to install one smartphone app per connected home device - thermostat, lightbulb, smart lock - will agree, the trick might turn out to be smart integration at the software layer: One app to rule them all. 
+
+Maybe more importantly, automation does not require a lot of explanation: _I used to regulate my heater by hand, now it self-regulates._ Simple to understand, no explanation needed.
+
+Shortcoming: 
+> the decisions based on the analysis of big data are inevitably "informed by the world as it was in the past, or, at best, as it currently is".
