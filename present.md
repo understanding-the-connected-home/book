@@ -2,38 +2,35 @@
 ## WRITTEN?
 ## PROOFED?
 
-*Today, multiple users interact with multiple machines to form complex computational networks. Through simple physical interfaces, IoT can offer users better understanding and control. The foundation of this augmentation is already in the hands of billions of people thanks to their first IoT device: a smartphone.* 
+*Today, multiple users interact with multiple machines to form complex computational networks. Through simple physical interfaces, IoT can offer users better understanding and control of data. The foundation of this kind of augmentation is already in the hands of billions of people thanks to their first IoT device: a smartphone.* 
 
 ## Multiple users, multiple machines
 
-The era of the single user interacting with a single machine is over. 
+The era of the single user interacting with a single machine is, for all intents and purposes, over. 
 
 Today, we use machines that are networked with one another and enable us to interact with millions if not billions of people. Digital services today are served through our laptops, smartphones, transport kiosks, banking terminals and countless other forms of physical peripherals and digital interfaces. 
 
-We participate in real-time communication and collaboration across great distances. We can view and modify complex online systems, changing our user profiles across platforms, chat in communication threads weaving through many channels, and make decisions and purchases based on the analysis of huge data sets. 
+We participate in real-time communication and collaboration across great distances. We can view and modify complex online systems by changing our user profiles across platforms, chatting in interwoven communication threads, and make decisions and purchases based on the analysis of huge data sets. 
 
 Now is an era of multimodality. Thanks to our pervasive and powerful computing environments, we communicate with each other and to machines across text, sound, image and languages. We are increasingly multiliterate. We know how to shift between these modes and understand the affordances and limitations of each.     
 
 Through these interactions, enormous amounts of data are being produced. Already in 2012, 2.5 billion gigabytes of data was generated every day, according to IBM.[^1]
 
-There is a lot opportunity in the volume, variety and velocity of processing all of this data. When we think about the connected home, we see it as an integral part of these complex computational systems, with our interactions calling upon and contributing to these massive datasets.  
+There is a lot opportunity in the volume, variety and velocity of processing all of this data. When we think about the connected home, we see it as an integral part of these complex computational systems. Our interactions can call upon and contribute to these massive data sets, if we make them in a way that is readable and writable to us.  
 
 
 ## Physical interfaces to complex systems
 
-* IoT = physicality. A simple interface to bigger computational systems. 
+The Internet of Things has the potential to offer simple, physical interfaces to these complex computational systems. 
+
+For example, 
+
+* the physical environment is one we know how to interact with
+* IoT = physicality. A simple, physical interface to bigger computational systems. 
 * Making these systems visible can change behavior, like Toyota Prius. 
-
- 
-    Techniques for analyzing data, such as A/B testing, machine learning and natural language processing
-    Big Data technologies, like business intelligence, cloud computing and databases
-    Visualization, such as charts, graphs and other displays of the data
-
-Support machine learning:
-> "Field of study that gives computers the ability to learn without being explicitly programmed".[2] Machine learning explores the study and construction of algorithms that can learn from and make predictions on data.[3] 
-
-> Real or near-real time information delivery is one of the defining characteristics of big data analytics. 
-> 
+* Real or near-real time information delivery 
+* Train devices with machine learning: the ability to learn without being explicitly programmed. algorithms that can learn from and make predictions on data.
+  
 ## The smartphone is an entry point to augmentation
 
 ### There aren't many connected homes
