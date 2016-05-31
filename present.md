@@ -19,18 +19,22 @@ Through these interactions, enormous amounts of data are being produced. Already
 There is a lot opportunity in the volume, variety and velocity of processing all of this data. When we think about the connected home, we see it as an integral part of these complex computational systems. Our interactions can call upon and contribute to these massive data sets, if we make them in a way that is readable and writable to us.  
 
 
-## Physical interfaces to complex systems
+## Simple interfaces to complex systems
 
-The Internet of Things has the potential to offer simple, physical interfaces to these complex computational systems. 
+When these complex systems are visible and modifiable for everyday users, we learn about about how they work. This visibility can lead us to knowingly change our own behavior to get the outcomes we want. This learning cycle can be a tool of user empowerment.
 
-For example, 
+For example, let's take a look at Toyota's hybrid electric car, the Prius. 
 
-* the physical environment is one we know how to interact with
-* IoT = physicality. A simple, physical interface to bigger computational systems. 
-* Making these systems visible can change behavior, like Toyota Prius. 
-* Real or near-real time information delivery 
-* Train devices with machine learning: the ability to learn without being explicitly programmed. algorithms that can learn from and make predictions on data.
-  
+It offers drivers a dashboard showing how the car uses and stores energy. Most users would be unfamiliar with how electric car engines worked, let alone how their driving behavior affects energy consumption. However, by reading real-time information, people can observe how their behavior changes the system and adjust their driving accordingly.[^2]  
+
+![Toyota Prius dashboard](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/prius_dashboard.jpg)
+
+_Toyota Prius dashboard. By [It's Our City](https://www.flickr.com/photos/its_our_city/2838668732), licensed [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)._
+
+Now looking beyond digital displays, the Internet of Things has the potential to not only offer simple visual interfaces, but physical ones. Connected objects can enable this kind of user empowerment and feedback loop. 
+
+As we continue to explore this field, we will consider how users might observe complex systems and make modifications. We'll look at the affordances of physical objects, such as touch, sound, movement and light, as "human-readable" channels of interaction, and in this way, how IoT might deepen or complement the digital displays we already have around us. 
+
 ## The smartphone is an entry point to augmentation
 
 ### There aren't many connected homes
@@ -77,4 +81,7 @@ Maybe more importantly, automation does not require a lot of explanation: _I use
 Shortcoming: 
 > the decisions based on the analysis of big data are inevitably "informed by the world as it was in the past, or, at best, as it currently is".
 
+* Train devices with machine learning: the ability to learn without being explicitly programmed. algorithms that can learn from and make predictions on data.
+
 [^1] http://www-01.ibm.com/software/data/bigdata/what-is-big-data.html
+[^2] Thanks to Ame Elliot for the example of the Toyota Prius teaching users about emissions and how that changed their driving behavior. https://simplysecure.org/blog/lessons-from-architecture-school-3
