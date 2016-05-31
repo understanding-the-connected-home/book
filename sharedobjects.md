@@ -1,9 +1,9 @@
 # Shared connected objects
 
-_A look at sharing connected objects, how to manage privacy from co-inhabitants, and making decisons together._
+_A look at sharing connected objects the design opportunities around them._
 
 
-# written?
+# rewritten by peter
 # proofed?
 
 > On the whole, you find wealth much more in use than in ownership. — Aristotle[^1]
