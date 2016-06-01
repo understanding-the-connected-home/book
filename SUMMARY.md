@@ -26,12 +26,9 @@
    * [Residential Rights Management: Who controls your home?](rightsmanagement.md)
    * [What to invite in your home](what_to_invite.md)
 * [Approaches](approaches.md)
-   * [Prototyping](prototyping.md)
-       * [Sprint as format](proto_sprint.md)
-       * [Exhibition as format](proto_exhibition.md)
-       * Sprint as format
-       * Exhibition as format
-   * [Policy matters: The connected home and the smart city](policy_smartcity.md)
+	* [Sprint as format](proto_sprint.md)
+	* [Exhibition as format](proto_exhibition.md)
+	* [Policy matters: The connected home and the smart city](policy_smartcity.md)
        * [Surveillance & tracking in the home and internet of things](surveillance.md)
 * [Explore further](explore_further.md)
    * [VUCA in your home](vuca.md)
