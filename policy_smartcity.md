@@ -1,4 +1,4 @@
-# Context matters: A smart home in the smart city
+# Policy matters: The connected home and the smart city
 
 _Connected homes exist within the larger framework of a smart city, and we need to design both services and policies to make this work for citizens._
 

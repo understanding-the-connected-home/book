@@ -31,8 +31,7 @@
        * [Exhibition as format](proto_exhibition.md)
        * Sprint as format
        * Exhibition as format
-   * [Policy](policy.md)
-       * [Context Matters: Smart Home in the Smart City](smart_city.md)
+   * [Policy matters: The connected home and the smart city](policy_smartcity.md)
        * [Surveillance & tracking in the home and internet of things](surveillance.md)
 * [Explore further](explore_further.md)
    * [VUCA in your home](vuca.md)
