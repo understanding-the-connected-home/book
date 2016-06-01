@@ -100,7 +100,7 @@ As always, we look forward to hearing about your thinking and hope to talk to yo
 
 We laid the ground for this book in a one-week content sprint. Since then, it has become an ongoing research project. You can find the results both here and outside the scope of this book in other areas of our work.
 
-We have been writing this in public on Gitbook, and license the content under a [Creative Commons Attribution Non-Commercial license (BY-NC)](http://creativecommons.org/licenses/by-nc/4.0/), so you can adapt and re-use the texts, too.
+We have been writing this in public on Gitbook, and license the content under a [Creative Commons Attribution Non-Commercial license (BY-NC)](http://creativecommons.org/licenses/by-nc/4.0/), so you can adapt and re-use the texts, too. If in doubt or if you have feedback, please get in touch (details in the [Contact section](contact.md)).
 
 
 Peter Bihr & Michelle Thorne  
