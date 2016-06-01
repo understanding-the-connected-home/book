@@ -3,29 +3,29 @@
 ## WRITTEN?
 ## PROOFED?
 
-_Smartphones are a sign of the speed of innovation that our homes may soon face. These rapid lifecyles bring risks, such as security vulnerabilities and broken devices. There's an urgency to address these issues now, and to ensure throughout that the home remains a place that puts humans first._  
+_Smartphones are a sign of the speed of change that our homes may soon face. These rapid lifecyles bring risks, such as security vulnerabilities and broken devices. There's an urgency to address these issues now, and to ensure throughout that the home remains a place that puts humans first._  
 
 ## The speed of change
 
-In 2007, Apple released the first iPhone and shortly thereafter in 2008, Google released its first Android device. At the time of writing, those milestones are just shy of a decade ago. 
+In 2007, Apple released the first iPhone. Shortly thereafter in 2008, Google released its first Android device. At the time of writing, those milestones are just shy of a decade ago. 
 
-These touchscreen phones represent a threshold in the evolution and adoption of the smartphone. In the years prior, there had been a range of exploratory devices, such as Nokia's first clamshell phone and PDAs running PalmOS that one could interact with using a stylus.
+These touchscreen smartphones represent a threshold in the evolution and spread of the phone. In the years prior, there had been a range of exploratory devices, such as Nokia's first clamshell phone and PDAs running PalmOS that one could interact with using a stylus.
 
-Since the advent of the iPhone and Android, we've seen entire industries and social practices boom. App stores, smartphone accessories, the rise of mobile photography, messaging, payment and more.  
+Since the advent of the iPhone and Android, we've seen entire industries and social practices boom. App stores, accessories, the rise of mobile photography, messaging, payment and more.  
 
 ![HTC Dream](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/htc_dream.jpg)
 
 _HTC Dream mobile phone with AZERTY keyboard for French market. ByAkela NDE, CC BY-SA 3.0 [^1]_
 
-If anything, the last decade shows us how quickly new technologies can be picked up and become mundane in their ubiquity. We anticipate a similar trajectory for the connected home. 
+If anything, the last decade shows us how quickly new technologies can be picked up,, shake things up and then become mundane in their ubiquity. We anticipate a similar trajectory for the connected home. 
 
-While today's connected objects can be clunky and exploratory, there will be some iconic releases or "must have" devices that change how people see this space. 
+While today's connected objects are often clunky and exploratory, there will be some iconic releases or "must have" developments that change how people see this space. 
 
-After this threshold, there will be electronics and connectivity in many of our everyday objects. At this stage, the speed of change of our built environment will start to resemble that of our computing environment. The lifecycle of things in our homes will be shortened. 
+After this threshold, there will be electronics and connectivity in many more of our everyday objects. Because these objects will be controlled by software, the speed of change of our built environment will start to resemble that of our other computing environments. The lifecycle of things in our homes will be shortened.  
 
-Software will need to be patched. Devices will be incompatible and obsolete. Entire services will rise and fall in months. 
+Firmware will need to be patched. Devices will be incompatible and obsolete. Entire services will rise and fall in months. 
 
-Our homes will move at the speed of our smartphones--or faster. 
+The era of the "disrupted home" is coming. 
 
 ## The risks
 
@@ -35,22 +35,29 @@ With that knowledge, we can approach the connected home with some understanding 
 
 For example, let's look at security. As our built environment begins to change at the speed of software, our homes may experience new kinds of security vulnerabilities. 
 
-A smart lock system is installed in your front door. The company who makes the locks goes broke. There is no longer a support service to maintain your locks. At some point, your lock gets jammed, or hacked or incompatible with your smartphone's latest update. You can no longer patch security bugs in your smart lock. And the lock on your front door is no longer in your control.    
+A smart lock system is installed in your front door. The company who makes the locks goes broke. There is no longer a support service to maintain your locks. At some point, your lock gets jammed, or hacked or incompatible with your smartphone's latest update. You can no longer patch security bugs in your smart lock. Some of your personal information is compromised. And the lock on your front door is no longer in your control.    
 
-These scenarios abound. As we make and use connected objects, we must consider how security must gracefully accompany the objects throughout their lifecycle--from installment, to use and maintenance, to upgrading, to uninstalling and dismantling.  
+These scenarios abound.[^2] As we make and use connected objects, we must take into account the lifecycles of these products and servces. How something ends is just as important as how it begins.[^3] Considerations such as security must be addressed not only at the moment of purpose, but in anticipation for how the object will be used for years to come. 
 
-[...]
+From installment, to use and maintenance, to upgrading, to uninstalling and dismantling, technology must be in service to humans and put our concerns and needs first.   
 
-## Humans first
+## The home is for humans
 
-* There's an urgency to figure out these issues, and huge opportunity to innovate: we need updated vocabularies, literacies, ways to negotiate and resolve conflicts (of data/preferences). 
-* And above all else, a home is a home. 
+There's an urgency to figure out these issues. A lot is at stake, from our personal data, to safety and the health of our relationships and interactions at home. 
 
-## Vectors
+As with the rise of smartphones, like many waves of technological change before it, with the rise of the connected home we will need updated vocabularies, literacies, ways to negotiate and resolve conflicts.
 
-As of today, we're working under the assumption that it will take another 10 years or so for most homes to cross some kind of "connectedness threshold" - with the notable exception (and we're painting in broad strokes here) of Asia's mega cities, where often large-scale network infrastructure is dropped right into the new buildings to a much higher degree than in many Western cities, where retro-fitting is a bigger thing.
+We will continue to explore concepts and scenarios that bring these risks and opportunities to life. And throughout, we will be guided by the understanding that above all else, no matter what technology can, the home is for the people living in it.   
 
-The way we will get used to the technologies, and where we will thus also develop the social norms around these kind of new interactions, is most likely through **the vectors of retail spaces, office buildings, and hotels**: Interstitial, transactional contexts where we engage much more openly with infrastructure due to the temporary nature of the interaction. Places where we are more accepting of privacy-diminishing interactions if they either come with a net gain or if they seem, frankly, simply unavoidable. Then, over time, these things will find their ways into our homes.
+## What will a connected home look like?
+
+There aren't many connected homes today. Similar to smartphone proliferation, it might take a decade for products to go from invention to widespread adoption. 
+
+Exceptions may be in some cities, such as in South Korea, where large-scale network infrastructure is being installed directly into the new buildings. In other places, retro-fitting will be a more common path to connectedness, and that will likely move at a slower pace. 
+
+For another glimpse of what the connected home may be like, we can examine the trajectories of other connected environments, such as **retail spaces, office buildings, and hotels.**  
+
+These spaces tend to be interstitial, transactional contexts. Due to the generally temporary nature of our interactions in those spaces, we tend to use them with less emotional investment and critical thinking than our homes. For example, in a high street store, we may be more accepting of privacy-diminishing interactions[^4] if they come with financial gain or if they seem, frankly, unavoidable.
 
 Five years from now the moment we enter a home might require some decisions from us: It might be a transition into a connected space, and it might not be obvious how connected it is, and in which ways. Yet, these are essential things to know to make an informed decision.
 
@@ -103,10 +110,6 @@ As for adaption of connectivity inside our homes, we have no doubt that it will 
 
 We assume that the ways this will happen will seem odd for a while, and that it will happen not along the lines of well-established metaphors like automation or personalization: These will likely seem as quirky and ridiculous in hindsight as the futuristic computerized kitchen did in the 1950s (both in terms of gender roles and the technological aspects):
 
-Rather, the smart will manifest in ways both banal and novel, and the vector will (hopefully, and most likely) be smarts that are "on the user", in whichever way. If we had to guess, we'd say they will be probably fairly low-tech, bottom up interventions that just make things a little easier, more interesting, more useful: **A connected home should help us be more human, more ourselves.**
-
-Much more tricky is how we will deal with our preferences regarding various levels of scanning, sharing data, and (by extension) surveillance.
-
 ### Automation is a natural first step
 
 The connected home products we see on the market today (or judging by conversations with many manufacturers and designers working in the field, on the way to market) focus to a large degree on home automation. There's nothing wrong with it, it's a natural first step. It's (comparatively) simple and offers a clear value (if done right), so it's (again, comparatively) low-hanging fruit.
@@ -121,3 +124,6 @@ Shortcoming:
 > the decisions based on the analysis of big data are inevitably "informed by the world as it was in the past, or, at best, as it currently is".
 
 [^1]: By Akela NDE: https://commons.wikimedia.org/wiki/User:Akela_NDE, Own work. Licensed [CC BY-SA 3.0: http://creativecommons.org/licenses/by-sa/3.0/, available at https://commons.wikimedia.org/w/index.php?curid=6680413.
+[^2]: For a recent example, learn more about how Google killswitched one of its home automation products, Revolv, and explained to customers how the warranty had expired: https://boingboing.net/2016/04/05/google-reaches-into-customers.html
+[^3]: For more thinking about how products and services should end, see Joe Macleod's Closure Experiences: http://www.closureexperiences.com/ 
+[^4]: EyeSee mannequins, for example, recognize retail customers' faces and record their movements in a store. http://www.theverge.com/2012/11/20/3670222/almax-eyesee-dummy-retail-facial-recognition-privacy
