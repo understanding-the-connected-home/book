@@ -87,7 +87,7 @@ Here we outline a few further categories of objects in the home and how they mig
 
 First, **routers** might turn out to be the hub that controls all our smart home infrastructure. It's not clear how it's going to play out, but it's a strong scenario. For example, Google's wifi router On Hub[^2] comes with all the protocols equipped, plus microphones and speakers, even though Google has a dedicated smart home hub in the market (Google Home). Routers are already at the core of home connectivity, but also notoriously tricky to configure and maintain. They might just be the least beloved of all tech objects in anyone's home. Do we want these as hubs? 
 
-### White good
+### White goods
 
 Second, **white goods** such as dishwashers, fridges, washing machines, and ovens have been the connected fever dream of manufactures for years. (The internet-connected fridge has become a running joke by itself.)[^3] There might be something there. Assume for a second that a scenario where we have a home server in every house; a local cloud solution of sorts. It's a long shot, but the fridge might not be the worst place to house this device, or to double as a hub if integrated smartly. 
 
