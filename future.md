@@ -1,22 +1,28 @@
 # Future
 
+<<<<<<< HEAD
 ## WRITTEN: M
 ## PROOFED: P
+=======
+## WRITTEN M
+## PROOFED?
+>>>>>>> origin/master
 
-_Smartphones are a sign of the speed of innovation that our homes may soon face. These rapid lifecyles bring risks, such as security vulnerabilities and broken devices. There's an urgency to address these issues now, and to ensure throughout that the home remains a place that puts humans first._  
+_Smartphones are a sign of the speed of change that our homes may soon face. These rapid lifecyles bring risks, such as security vulnerabilities and broken devices. There's an urgency to address these issues now, and to ensure throughout that the home remains a place that puts humans first._  
 
 ## The speed of change
 
-In 2007, Apple released the first iPhone and shortly thereafter in 2008, Google released its first Android device. At the time of writing, those milestones are just shy of a decade ago. 
+In 2007, Apple released the first iPhone. Shortly thereafter in 2008, Google released its first Android device. At the time of writing, those milestones are just shy of a decade ago. 
 
-These touchscreen phones represent a threshold in the evolution and adoption of the smartphone. In the years prior, there had been a range of exploratory devices, such as Nokia's first clamshell phone and PDAs running PalmOS that one could interact with using a stylus.
+These touchscreen smartphones represent a threshold in the evolution and spread of the phone. In the years prior, there had been a range of exploratory devices, such as Nokia's first clamshell phone and PDAs running PalmOS that one could interact with using a stylus.
 
-Since the advent of the iPhone and Android, we've seen entire industries and social practices boom. App stores, smartphone accessories, the rise of mobile photography, messaging, payment and more.  
+Since the advent of the iPhone and Android, we've seen entire industries and social practices boom. App stores, accessories, the rise of mobile photography, messaging, payment and more.  
 
 ![HTC Dream](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/htc_dream.jpg)
 
-_HTC Dream mobile phone with AZERTY keyboard for French market. ByAkela NDE, CC BY-SA 3.0 [^1]_
+_HTC Dream mobile phone with AZERTY keyboard for French market. By Akela NDE, CC BY-SA 3.0 [^1]_
 
+<<<<<<< HEAD
 If anything, the last decade shows us how quickly new technologies can spread and become mundane in their ubiquity. We anticipate a similar trajectory for the connected home. 
 
 While today's connected objects can be clunky and exploratory, there will be some iconic releases or "must have" devices that change how people see this space: The iPhone moment of the connected home.
@@ -26,6 +32,17 @@ After this threshold, there will be electronics and connectivity in many of our 
 Software will need to be patched, devices will be turned incompatible and obsolete. Entire services will rise and fall in months. 
 
 Our homes will move at the speed of our smartphones -or faster. 
+=======
+If anything, the last decade shows us how quickly new technologies can be picked up,, shake things up and then become mundane in their ubiquity. We anticipate a similar trajectory for the connected home. 
+
+While today's connected objects are often clunky and exploratory, there will be some iconic releases or "must have" developments that change how people see this space. 
+
+After this threshold, there will be electronics and connectivity in many more of our everyday objects. Because these objects will be controlled by software, the speed of change of our built environment will start to resemble that of our other computing environments. The lifecycle of things in our homes will be shortened.  
+
+Firmware will need to be patched. Devices will be incompatible and obsolete. Entire services will rise and fall in months. 
+
+The era of the "disrupted home" is coming. 
+>>>>>>> origin/master
 
 ## The risks
 
@@ -35,39 +52,58 @@ With that knowledge, we can approach the connected home with some understanding 
 
 For example, let's look at security. As our built environment begins to change at the speed of software, our homes may experience new kinds of security vulnerabilities. 
 
+<<<<<<< HEAD
 A smart lock system is installed in your front door. The company who makes the locks goes bankrupt: There is no longer a support service to maintain your locks. At some point, your locks might get jammed, or hacked, or incompatible with your smartphone's latest update. You can no longer patch security bugs in your smart lock. And the lock on your front door is no longer in your control.    
 
 These scenarios abound. As we make and use connected objects, we must consider how security can gracefully accompany the objects throughout their lifecycle - from installment to use and maintenance, to upgrading, to uninstalling and dismantling.  
 
+=======
+A smart lock system is installed in your front door. The company who makes the locks goes broke. There is no longer a support service to maintain your locks. At some point, your lock gets jammed, or hacked or incompatible with your smartphone's latest update. You can no longer patch security bugs in your smart lock. Some of your personal information is compromised. And the lock on your front door is no longer in your control.    
 
-## Humans first
+These scenarios abound.[^2] As we make and use connected objects, we must take into account the lifecycles of these products and servces. How something ends is just as important as how it begins.[^3] Considerations such as security must be addressed not only at the moment of purpose, but in anticipation for how the object will be used for years to come. 
 
+From installment, to use and maintenance, to upgrading, to uninstalling and dismantling, technology must be in service to humans and put our concerns and needs first.   
+>>>>>>> origin/master
+
+## The home is for humans
+
+<<<<<<< HEAD
 There's an urgency to figure out these issues, and huge opportunity to innovate. In order to succeed, we need updated vocabularies, literacies, and ways to negotiate and resolve conflicts around the often thorny issues of data and sharing preferences.
  
 Above all else, a home is a home. And as such, we need to approach all these issues not purely through a technological or design method but by putting humans first.
+=======
+There's an urgency to figure out these issues. A lot is at stake, from our personal data, to safety and the health of our relationships and interactions at home. 
+>>>>>>> origin/master
 
-## Vectors
+As with the rise of smartphones, like many waves of technological change before it, with the rise of the connected home we will need updated vocabularies, literacies, ways to negotiate and resolve conflicts.
 
+<<<<<<< HEAD
 As of today, we're working under the assumption that it will take another 10 years or so for most homes to cross some kind of "connectedness threshold" - with the notable exception (and we're painting in broad strokes here) of Asia's mega cities, where often large-scale network infrastructure is dropped right into new buildings to a much higher degree than in many Western cities, where retro-fitting is a bigger thing.
+=======
+We will continue to explore concepts and scenarios that bring these risks and opportunities to life. And throughout, we will be guided by the understanding that above all else, no matter what technology can, the home is for the people living in it.   
+>>>>>>> origin/master
 
-The way we will get used to the technologies, and where we will thus also develop the social norms around these kind of new interactions, is most likely through **the vectors of retail spaces, office buildings, and hotels**: Interstitial, transactional contexts where we engage much more openly with infrastructure due to the temporary nature of the interaction. Places where we are more accepting of privacy-diminishing interactions if they either come with a net gain or if they seem, frankly, simply unavoidable. Then, over time, these things will find their ways into our homes.
+## What will a connected home look like?
 
+<<<<<<< HEAD
 Five or ten years from now the moment we enter a home might require some decisions from us: It might be a transition into a connected space, and it might not be obvious how connected it is, and in which ways. Yet, these are essential things to know to make an informed decision.
+=======
+There aren't many connected homes today. Similar to smartphone proliferation, it might take a decade for products to go from invention to widespread adoption. 
+>>>>>>> origin/master
 
-Consider some of the following scenes. (Please note that many of examples used here might be framed rather more extreme than we might encounter in real life, in order to provoke some thoughts and jog our creativity.)
+Exceptions may be in some cities, such as in South Korea, where large-scale network infrastructure is being installed directly into the new buildings. In other places, retro-fitting will be a more common path to connectedness, and that will likely move at a slower pace. 
 
-- The moment we approach the door we might be scanned, visually via camera, or maybe for data transmissions: Do we get a say in this? Or will it be as commonplace as a ringer with a CCTV camera as we've been using them for years?
-- Once you step inside, will the smart home welcome us, or examine us more intrusively through a set of scans, say maybe by probing our vital signs, our digital ID or our data-transmitting devices? Will it be firewalled against virus-infections our phones might have that we are not even aware of?
-- Will a voice personally greet us inside, or will the home not be aware of who we are? Will be be able to have the home greet us in a way we personally prefer, even if it's not our own home but a friend's?
+For another glimpse of what the connected home may be like, we can examine the trajectories of other connected environments, such as **retail spaces, office buildings, and hotels.**  
 
-These are just some simple examples of a first encounter with a connected space: How will it be communicated what will happen? How can the house manage expectations? And can we opt out or is this a click-OK-end-the-end-of-the-EULA type situation? 
+These spaces tend to be interstitial, transactional contexts. Due to the generally temporary nature of our interactions in those spaces, we tend to use them with less emotional investment and critical thinking than our homes. For example, in a high street store, we may be more accepting of privacy-diminishing interactions[^4] if they come with financial gain or if they seem, frankly, unavoidable.
 
-Now zoom in, from this isometric outside view that considers the home as one unit, viewed from some distance. We're now in a friend's living room: How does the room convey to us what's going on, how do we convey to the room what we expect of it? 
+![Mannequins](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/mannequins.jpg)
 
-Zoom in even further and consider individual things: The vase on the table, the ebook on the sofa table, the lamp in the shelf, the digital picture frame on the wall. Which of these things are hooked up to a network? Which ones sense and collect data, which ones create or send data? Which ones are happy to just do their thing passively (maybe the vase measures carbon monoxide levels), which ones expect our interactions (maybe the picture frame offers us to share some of our own preferred images on it)? 
+_Mannequiner i en tøjbutik i Canada. By Colin Rose, CC BY 2.0 [^5]_
 
-How would any of these things be communicated? As things stand today, we usually invite smart objects into our lives only after a certain amount of deliberation, simply because they are the exception rather than the rule: If we buy a Nest thermostat, we more or less know what we are doing. Increasingly, as connectivity retreats more into the background, the fabric of our lives, we will see more subtle ways of interactions. It is very likely that we will not recognize any particular connected device simply because there will be so many more; they will just be around, maybe with little or no consideration.
+Our retail environments, as well as offices and transportation spaces, should communicate how connected they are and in which ways. We should be able to make an informed decision whether to enter and what information we consent to giving.
 
+<<<<<<< HEAD
 An overt approach would be labeling: A set of icons that indicate what is collecting data, what is transmitting data, what is analyzing data. What reacts, what just does its thing without requiring our oversights. Which spaces in the apartment are "dead zones" of perfect privacy.
 
 ![icons](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/icons.png)
@@ -123,3 +159,25 @@ The same will hold true for many connected home appliances. The true automation 
 [^2]: Source: Noun Project eye by [Thomas Le Bas](https://thenounproject.com/search/?q=eye&amp;i=6186), ear by [Søren Michelsen](https://thenounproject.com/search/?q=ear&amp;i=6200), cloud by [Aaron K. Kim](https://thenounproject.com/search/?q=wifi&amp;i=123908).
 [^3]: For an overview, see [Wikipedia](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
 [^4]: There is a growing number of apps and services to offer unified interfaces. San Francisco-based startup [Thington](http://thington.com/) offers a simple concierge-like interface that aims to bring all smart home devices into one app based on their APIs. It's an easy-to-use approach with intelligent, well-designed interactions. Other approaches that are even more explicitly conversational include the smart home hubs Amazon Echo and Google Home, both of which bring voice control into the home (and fold their respective mother companies' services right in).
+=======
+Increasingly, we will be faced with these decisions upon entering a home.  
+
+## Privacy as opportunity
+
+Already our behavior in many spaces is being tracked. As we move through the city, into stores and offices, in transit and on our devices, many systems are recording what we look at, what we click on and what we do. 
+
+On the web, advertising companies are particularly aggressive in how they track us. Through consumer education and browser tools like ad blockers and Do Not Track, we can mitigate these tracking measures a bit. However, it is basically an arms race in online advertising, where we as users get the short end of the stick: our privacy is increasingly eroded and our web experiences slowed down as ad companies try to ensure we are humans and serve us tailored ads.[^6] 
+
+**In our homes, we should not have to fight the same battles against trackers.** 
+
+For anyone making connected products today, there is a huge opportunity to build in better privacy. Companies can innovate by offering high default settings, better controls over how personal data is collected and shared, as well as assurances when data is deleted. These will be features that people increasingly seek out, as the prevailing practices of tracking in our online lives and in public spaces encroaches into our home. 
+
+The future is one that promises augmentation. But the only kind of connection and augmentation we want is one that we can fully read, control and participate in, and then, whenever we want, turn off.
+
+[^1]: By Akela NDE: https://commons.wikimedia.org/wiki/User:Akela_NDE, Own work. Licensed CC BY-SA 3.0: http://creativecommons.org/licenses/by-sa/3.0/, available at https://commons.wikimedia.org/w/index.php?curid=6680413.
+[^2]: For a recent example, learn more about how Google killswitched one of its home automation products, Revolv, and explained to customers how the warranty had expired: https://boingboing.net/2016/04/05/google-reaches-into-customers.html
+[^3]: For more thinking about how products and services should end, see Joe Macleod's Closure Experiences: http://www.closureexperiences.com/ 
+[^4]: EyeSee mannequins, for example, recognize retail customers' faces and record their movements in a store. http://www.theverge.com/2012/11/20/3670222/almax-eyesee-dummy-retail-facial-recognition-privacy
+[^5]: By Colin Rose: http://flickr.com/photos/73416633@N00 Licensed CC BY 2.0: http://creativecommons.org/licenses/by/2.0, availabled at: https://commons.wikimedia.org/w/index.php?curid=3214087
+[^6]: The documentary "Do Not Track" by Brett Gaylor explains the perils of tracking and practical measures to reducing it: https://donottrack-doc.com
+>>>>>>> origin/master

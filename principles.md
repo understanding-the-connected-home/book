@@ -1,6 +1,10 @@
 # Principles
 
+<<<<<<< HEAD
 ## WRITTEN by P
+=======
+## TO WRITE: M
+>>>>>>> origin/master
 ## PROOFED?
 
 We believe that the connected home should be based on foundational principles and values. These should guide the design and implementation process from beginning to end.
