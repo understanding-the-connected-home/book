@@ -1,6 +1,6 @@
 # Connected things
 
-*We defined a connected object as one that senses, thinks, and acts - but different rules might apply to different categories of connected things.*
+*We defined a connected object as one that senses, thinks, and acts. We assume different rules, and different levels of user acceptance, will apply to different categories of connected things.*
 
 ## WRITTEN by peter
 ## PROOFED?
