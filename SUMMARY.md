@@ -5,7 +5,7 @@
    * [Protection of personal data](personal_data.md)
    * [Read/Write/Participate](read_write_participate.md)
    * [Openness](openness.md)
-* [Context](context.md)
+* [Past, present & future: How changing about the connected home is changing over time](context.md)
    * [Past](past.md)
    * [Present](present.md)
    * [Future](future.md)
