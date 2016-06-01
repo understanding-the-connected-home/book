@@ -3,23 +3,21 @@
 ## WRITTEN?
 ## PROOFED?
 
-The web is where our personal, civic, and economic lives connect. Knowing how to wield the web is essential to success today. Tomorrow, we will need web literacy for connected environments. To understand how this might be tackled, let's consider how web literacy works and than apply this model to the connected home.
+The web is where our personal, civic, and economic lives connect. Knowing how to wield the web is essential to success and participation today. Tomorrow, we will need to extend our literacy to include how to navigate and interact with connected environments. 
+
+To understand how this might be tackled, let's consider how web literacy works and than apply this model to the connected home.
 
 ## Why web literacy
 
-There are 2.3 billion internet users today, and another billion coming online soon. It is critical that everyone knows how to read, write and participate in the digital world. 
+As we're headed towards getting the majority of the world's population online (and move almost all communication as well as economic and administrational interactions online in industrialized countries), it is critical that everyone knows how to read, write and participate in the digital world. 
 
-What skills and competencies needed to wield the web in this way? 
-
-Through an open consultation stewarded by the Mozilla Foundation, a group of educational and technology stakeholders created the [Web Literacy Map](https://teach.mozilla.org/teach-like-mozilla/web-literacy/).
-
-The goal of defining and teaching web literacy is to help people become critical consumers, contributors and participants on the Web. If people experience the web as critical to their learning, work and social lives they will better understand their role in helping the Web remain open, accessible and a resource for all. 
+What skills and competencies needed to wield the web in this way? Web literacy aims to help people become critical consumers, contributors and participants on the Web.[^1] If people experience the web as critical to their learning, work and social lives they will better understand their role in helping the Web remain open, accessible and a resource for all. 
 
 ## What does web literacy cover?
 
 The Web Literacy Map is an agreed ‘map of the territory’ from which to build resources and curricula to teach the web. This is a descriptive rather than prescriptive map. That is to say people and organizations can align with it no matter what context they are working in - and no matter what level they are working at. 
 
-The whitepaper ["Why Mozilla cares about Web Literacy"](https://mozilla.github.io/webmaker-whitepaper/) explains:  
+As the whitepaper explains: [^2]  
 
 > Other candidate terms such as ‘digital literacy’ and ‘information literacy’ seem too wide-ranging and ambiguous to adequately cover the web. Possible alternatives such as ‘media literacy’ and ‘computational thinking’ certainly overlap with web literacy, but there is something sufficiently unique about ‘web literacy’ to be worth of attention.
 
@@ -101,3 +99,8 @@ Lessig, L. (1999). Code and Other Laws of Cyberspace. New York: Basic Books.
 New London Group. (1996). A pedagogy of multiliteracies: Designing social futures. Harvard Education Review 66(1), 60–92.
 
     In this classic article, a collection of academics known as New London Group present a new approach that they call "multiliteracies."
+    
+    
+    
+[^1]: See Mozilla's [Web Literacy Map](https://teach.mozilla.org/teach-like-mozilla/web-literacy/)
+[^2]: See [Why Mozilla cares about Web Literacy](https://mozilla.github.io/webmaker-whitepaper/)
