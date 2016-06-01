@@ -85,11 +85,11 @@ Here we outline a few further categories of objects in the home and how they mig
 
 ### Routers
 
-First, **routers** might turn out to be the hub that controls all our smart home infrastructure. It's not clear how it's going to play out, but it's a strong scenario. For example, Google's wifi router [On Hub](https://on.google.com/hub/) comes with all the protocols equipped, plus microphones and speakers, even though Google has a dedicated smart home hub in the market (Google Home). Routers are already at the core of home connectivity, but also notoriously tricky to configure and maintain. They might just be the least beloved of all tech objects in anyone's home. Do we want these as hubs? 
+First, **routers** might turn out to be the hub that controls all our smart home infrastructure. It's not clear how it's going to play out, but it's a strong scenario. For example, Google's wifi router On Hub[^2] comes with all the protocols equipped, plus microphones and speakers, even though Google has a dedicated smart home hub in the market (Google Home). Routers are already at the core of home connectivity, but also notoriously tricky to configure and maintain. They might just be the least beloved of all tech objects in anyone's home. Do we want these as hubs? 
 
 ### White good
 
-Second, **white goods** such as dishwashers, fridges, washing machines, and ovens have been the connected fever dream of manufactures for years. ([The internet-connected fridge has become a running joke by itself.](http://fuckyeahinternetfridge.tumblr.com/)) There might be something there. Assume for a second that a scenario where we have a home server in every house; a local cloud solution of sorts. It's a long shot, but the fridge might not be the worst place to house this device, or to double as a hub if integrated smartly. 
+Second, **white goods** such as dishwashers, fridges, washing machines, and ovens have been the connected fever dream of manufactures for years. (The internet-connected fridge has become a running joke by itself.)[^3] There might be something there. Assume for a second that a scenario where we have a home server in every house; a local cloud solution of sorts. It's a long shot, but the fridge might not be the worst place to house this device, or to double as a hub if integrated smartly. 
 
 We believe it's more likely that appliances will end up with minimum connectivity but with voice-controls. A hands-free scenario is useful for cooking, whereas a fridge automatically ordering groceries seems somewhat invasive. 
 
@@ -109,4 +109,6 @@ The fourth category is **truly new stuff**. The unknown unknowns we can only spe
 
 We'll be watching with interest over the next five to twenty-five years as more connected objects, from fridges to kitchen tables, come online. 
 
-[^1] See AV Interaction (Jan 2016): [http://www.avinteractive.com/news/samsung-announces-plans-to-make-all-tvs-iot-devices-by-2017-06-01-2016/](http://www.avinteractive.com/news/samsung-announces-plans-to-make-all-tvs-iot-devices-by-2017-06-01-2016/)
+[^1]: See AV Interaction (Jan 2016): [http://www.avinteractive.com/news/samsung-announces-plans-to-make-all-tvs-iot-devices-by-2017-06-01-2016/](http://www.avinteractive.com/news/samsung-announces-plans-to-make-all-tvs-iot-devices-by-2017-06-01-2016/)
+[^2]: https://on.google.com/hub/
+[^3]: http://fuckyeahinternetfridge.tumblr.com/
