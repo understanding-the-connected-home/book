@@ -32,11 +32,9 @@
        * [Surveillance & tracking in the home and internet of things](surveillance.md)
  * [Conclusions](conclusions.md)
  * [Explore further](explore_further.md)
-   * [VUCA in your home](vuca.md)
    * [Neighborhoods](neighborhoods.md)
    * [Research](research.md)
    * [References](references.md)
- 
    * [Where from here](where_from_here.md)
    * [Acknowledgments](acknowledgments.md)
    * [Get in touch](contact.md)
@@ -61,4 +59,5 @@
        * [Behavior and Know-How](behavior_and_know-how.md)
        * [Design and Interaction](design_and_interaction.md)
        * [How to contribute to this book](how_to_contribute_to_this_book.md)
+       * [VUCA in your home](vuca.md)
 

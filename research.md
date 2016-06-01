@@ -1,48 +1,22 @@
 # Research
 
-## WRITTEN?
+## WRITTEN P
 ## PROOFED?
 
-Automation and personalization are just two possible vectors through which connectedness enters the connected home. We'd like to throw into the mix some other aspects - other vectors for further inquiry if you will. All of these aspects might have an impact on the way we live with our connected homes and vice versa:
+## What's beyond automation and personalization?
 
-So let's not forget about health, privacy, data ownership, citizenship, EULAs and consumer rights, data mobility, smart city, connected car, mobility, engagement with the urban fabric and with connected vehicles, layered services, identity, gender, research, analytics, insurance, accessibility, wellness, emotional states, context-based services, algorithms and AI, societal value, IP, openness, interoperability, robustness. To name just a few.
+Automation and personalization are just two possible vectors through which connectedness enters the connected home. We'd like to throw into the mix some other aspects - other vectors for further inquiry if you will. All of these aspects might have an impact on the way we live with our connected homes and vice versa. Let's not forget about: health, privacy, data ownership, citizenship, EULAs and consumer rights, data mobility, smart city, connected car, mobility, engagement with the urban fabric and with connected vehicles, layered services, identity, gender, research, analytics, insurance, accessibility, wellness, emotional states, context-based services, algorithms and AI, societal value, IP, openness, interoperability, robustness. To name just a few.
 
 ## Network models for the connected home 
 
-- Network models are models of control and power, so choose wisely.
-- Each model has its own strengths and weaknesses.
+How do we handle connectivity in the connected home? This is not just a question of networking standards and protocols but also one of architecture: Which network model - or more concretely, which logical network topology - is the best fit? Depending on the model, different actors (hardware manufacturers, software developers, standards) are allowed to have more or less power over the network - and hence our homes.
 
-How do we handle connectivity in the connected home? This is not just a question of networking standards and protocols but also one of architecture: Which network model - or more concretely, which logical network topology - is the best fit?
+Network models are models of control and power, so choose wisely. 
 
-### Network models are models of control
+## What are the social impacts of the connected home?
 
-This is as much a philosophical question as one of maintenance and business models, and each model comes with its own strengths and weaknesses.
+The home has always been a focal point of gender and power dynamics. What is the impact of connectedness and how can we use this transition phase to promote equality, diversity and inclusion?
 
-They also represent control in the literal sense, and hence power: Depending on the model, different actors (hardware manufacturers, software developers, standards) are allowed to have more or less power over the network - and hence our homes. Which makes this a key question.
+## Policy
 
-#### Master/slave
-
-In a master/slave scenario, there's a centralized control unit (the master) that coordinates what's going on in the network. This could be built into the router or be a smart phone app. It's clearly top-down.
-
-Apple tends to build this kind of architecture because it's easier to deliver a seamless experience if the whole system is integrated and hence under control. It's also a system that fosters lock-in: If nine devices are integrated into one system, it's harder to get a tenth from a different system into play.
-
-#### Hub and spokes
-
-The hub and spokes model is a variant of the master/slave model in that it also has a central unit. It differs in that it theoretically allows for instructions to flow "upstream" towards the central unit. It's not _as inherently_ top down as the master/slave model.
-
-Google's architecture tends to be also relatively centralized, but not quite as integrated as Apple's. So if we go by corporate stereotypes, this would most likely inform Google's approach.
-
-#### Mesh network
-
-Then there's the mesh, the counterpoint to master/slave architecture in that is fully decentralized. Every node in the network helps distribute and coordinate the flow of data. This is what traditionally the open source community would favor. 
-
-It is the most open in that new nodes can be added at any time, that every node has to strictly adhere to standards to play along but there is no central integrator at play. A mesh or peer-to-peer style architecture is both the messiest, and the most resilient.
-
-Of course all of these are just theoretical models, so they can be implemented more or less "pure". Hybrids are possible and likely to happen.
-
-
-## Further reading
-
-For a quick overview, see [Wikipedia's article on network topology](https://en.wikipedia.org/wiki/Network_topology#Topology)
-
-
+Policy makers are paying more attention to smart city policy, which is a good thing. But they are struggling to keep up with an industdy that pushes ahead quickly. We need to work with policy makers to create better poicies governing connectedness in its many facets.

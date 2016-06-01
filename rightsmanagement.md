@@ -2,7 +2,7 @@
 
 _As homes become more connected and software-based, the thorny issues of access and rights control become salient: Who controls your home's infrastructure?_
 
-#written by peter?
+#written by peter
 #proofed?
 
 When our homes become connected and hence more software-based, it will be software that grants or denies the rights to use and change everything that goes on inside the room. (At least everything that has a digital or data aspect to it.) This suggest that going forward, access and control over the home might work in a similar fashion as access and control over digital media content. 
