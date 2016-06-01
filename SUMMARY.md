@@ -26,10 +26,10 @@
    * [Residential Rights Management: Who controls your home?](rightsmanagement.md)
    * [What to invite in your home](what_to_invite.md)
 * [Approaches](approaches.md)
-	* [Sprint as format](proto_sprint.md)
-	* [Exhibition as format](proto_exhibition.md)
-	* [Policy matters: The connected home and the smart city](policy_smartcity.md)
-       * [Surveillance & tracking in the home and internet of things](surveillance.md)
+   * [Sprint as format](proto_sprint.md)
+   * [Exhibition as format](proto_exhibition.md)
+   * [Policy matters: The connected home and the smart city](policy_smartcity.md)
+   * [Surveillance & tracking in the home and internet of things](surveillance.md)
  * [Conclusions](conclusions.md)
  * [Explore further](explore_further.md)
    * [Neighborhoods](neighborhoods.md)
@@ -38,6 +38,8 @@
    * [Where from here](where_from_here.md)
    * [Acknowledgments](acknowledgments.md)
    * [Get in touch](contact.md)
+
+
 * [Version 1 Archive](version1_archive.md)
    * V1 articles repurposed in V2:
        * [Who has root access to your home](who_has_root_access_to_your_home.md)
