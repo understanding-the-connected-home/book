@@ -5,7 +5,7 @@
    * [Protection of personal data](personal_data.md)
    * [Read/Write/Participate](read_write_participate.md)
    * [Openness](openness.md)
-* [Past, present & future: How changing about the connected home is changing over time](context.md)
+* [The home as the next augmentative technology ](human_as_augmentation.md)
    * [Past](past.md)
    * [Present](present.md)
    * [Future](future.md)
