@@ -1,4 +1,4 @@
-# Shared connected objects
+# Sharing connected objects
 
 _A look at sharing connected objects the design opportunities around them._
 
