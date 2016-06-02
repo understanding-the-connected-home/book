@@ -21,7 +21,7 @@
 * [Relationships](relationships.md)
    * [Guest and host](guest_and_host.md)
    * [Living together](living_together.md)
-   * [Shared connected objects](sharedobjects.md)
+   * [Sharing connected objects](sharing_connected_objects.md)
    * [Home and data](home_and_data.md)
    * [Residential Rights Management: Who controls your home?](rightsmanagement.md)
    * [What to invite in your home](what_to_invite.md)
