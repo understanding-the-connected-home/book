@@ -1,6 +1,6 @@
 # Connected literacy 
 
-## WRITTEN?
+## TO WRITE: M
 ## PROOFED?
 
 The web is where our personal, civic, and economic lives connect. Knowing how to wield the web is essential to success and participation today. Tomorrow, we will need to extend our literacy to include how to navigate and interact with connected environments. 
