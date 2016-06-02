@@ -1,7 +1,9 @@
 # Interactions
 
-## WRITTEN?
+## TO WRITE: M
 ## PROOFED?
+
+* Collapse human-readable, machine-readable and new layers into one chapter. 
 
 Interactions take place across layers. Some are human-readable, some are machine-readable, and some are both. This book looks primarily at the human-readable layers. 
 
