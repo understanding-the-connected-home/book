@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Principles](principles.md)
+* [Values](values.md)
    * [Protection of personal data](personal_data.md)
    * [Read/Write/Participate](read_write_participate.md)
    * [Openness](openness.md)
