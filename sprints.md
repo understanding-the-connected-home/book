@@ -1,4 +1,4 @@
-# Content sprints
+# Sprints
 
 _Content sprints are a great way to do a first quick collaborative deep-dive into a topic as complex as connected homes._
 
