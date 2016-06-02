@@ -18,7 +18,7 @@
    * [Connected objects](connected_objects.md)
    * [The UX of privacy](ux_of_privacy.md)
    * [Connected literacy](connected_literacy.md)
-   * [Surveillance & tracking in the home and internet of things](surveillance.md)
+   * [Surveillance & tracking](surveillance.md)
 * [Relationships](relationships.md)
    * [Guest and host](guest_and_host.md)
    * [Living together](living_together.md)

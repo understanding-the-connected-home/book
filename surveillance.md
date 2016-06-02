@@ -1,4 +1,4 @@
-# Surveillance & tracking in the home and internet of things
+# Surveillance & tracking
 
 ## WRITTEN by Peter
 ## PROOFED?
