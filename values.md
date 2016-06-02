@@ -1,11 +1,16 @@
-# Principles
+# Values
 
-<<<<<<< HEAD
-## WRITTEN by P
-=======
 ## TO WRITE: M
->>>>>>> origin/master
 ## PROOFED?
+
+Include:
+
+## Privacy
+## Read, write and participate
+## Openness
+## Diversity and inclusivity
+## Security
+## Sustainability
 
 We believe that the connected home should be based on foundational principles and values. These should guide the design and implementation process from beginning to end.
 
