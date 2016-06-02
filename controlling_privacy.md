@@ -1,4 +1,4 @@
-# The UX of privacy
+# Controlling privacy
 
 _Privacy is complex, contextual, cultural, fuzzy, and we need to develop our vocabulary and metaphors to put people in control of their privacy._
 
@@ -13,7 +13,7 @@ Yet controlling your privacy and making informed decisions about the factors tha
 
 It might be helpful to think about privacy-related choices just as we think about *consent* rather than just preferences.
 
-### We need better pricacy UX & a new vocabulary
+### We need better privacy UX & a new vocabulary
 
 We see two things we need to address the issue of navigating privacy better:
 
