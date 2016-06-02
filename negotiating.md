@@ -1,4 +1,4 @@
-# Negotiation and mediation
+# Negotiating with connected systems
 
 ## WRITTEN?
 ## PROOFED?
