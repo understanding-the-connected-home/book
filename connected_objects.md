@@ -2,8 +2,7 @@
 
 *A connected object is one that senses, thinks, and acts. The home has categories of connected objects that tend not to be in other spaces, such as white goods and personal memorabilia.*
 
-## WRITTEN by peter
-## PROOFED by m
+## DONE
 
 ## What is a connected object
 
