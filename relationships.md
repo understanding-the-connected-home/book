@@ -2,7 +2,7 @@
 
 *As the home is defined by relationships, we explore how connectedness changes relationships and power dynamics to surface opportunities for innovation and possible conflicts.*
 
-## WRITTEN by peter
+## TO WRITE: P
 ## PROOFED?
 
 The following scenarios bring the concepts to life and surface opportunities for innovation and possible conflicts.
