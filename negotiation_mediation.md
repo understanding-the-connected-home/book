@@ -1,4 +1,4 @@
-# Mediating across layers
+# Negotiation and Mediation
 
 ## WRITTEN?
 ## PROOFED?
