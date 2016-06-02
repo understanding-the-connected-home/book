@@ -1,12 +1,9 @@
 # Future
 
-<<<<<<< HEAD
-## WRITTEN: M
+## TO CLEAN UP: M
 ## PROOFED: P
-=======
-## WRITTEN M
-## PROOFED?
->>>>>>> origin/master
+
+* Include opportunities
 
 _Smartphones are a sign of the speed of change that our homes may soon face. These rapid lifecyles bring risks, such as security vulnerabilities and broken devices. There's an urgency to address these issues now, and to ensure throughout that the home remains a place that puts humans first._  
 
