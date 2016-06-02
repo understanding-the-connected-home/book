@@ -20,7 +20,6 @@
    * [Controlling privacy](controlling_privacy.md)
 * [Relationships](relationships.md)
    * [Guest and host](guest_and_host.md)
-   * [Living together](living_together.md)
    * [Sharing connected objects](sharing_connected_objects.md)
    * [Home and data](home_and_data.md)
    * [Residential Rights Management: Who controls your home?](rightsmanagement.md)
