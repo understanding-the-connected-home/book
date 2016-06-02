@@ -1,7 +1,9 @@
-# Context
+# The home as the next augmentative technology  
 
 ## WRITTEN?
 ## PROOFED?
+
+* Augmentation over time. Mouse to smartphone to home. Tech's role to augment humans. 
 
 Prior to the rise of connected devices, human-to-computer interaction was primarily based on a single user interacting with a single computer. Now, in the connected home, there are multiple users interacting with multiple computers, sometimes separated by physical distance, time and preferences. 
 
