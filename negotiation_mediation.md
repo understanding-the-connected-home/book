@@ -1,4 +1,4 @@
-# Negotiation and Mediation
+# Negotiation and mediation
 
 ## WRITTEN?
 ## PROOFED?
