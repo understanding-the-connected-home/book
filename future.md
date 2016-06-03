@@ -2,7 +2,7 @@
 
 ## DONE
 
-_Smartphones are a sign of the speed of change that our homes may soon face. These rapid lifecyles bring risks, such as security vulnerabilities and broken devices. There's an urgency to address these issues now, and to ensure throughout that the home remains a place that puts humans first._  
+_Smartphones are a sign of the speed of change that our homes may soon face. These rapid lifecyles bring risks, such as security vulnerabilities and broken devices. There's an urgency to address these issues now, as well as innovation opportunities, to ensure throughout that the home remains a place that puts humans first._  
 
 ## The speed of change
 
