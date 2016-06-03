@@ -86,3 +86,15 @@ As Scott points out starting around the 27 min mark (but we strongly recommend w
 For now, just assume that putting several smart agents/appliances to work side by side might yield unintended consequences. These might not be devastating - most likely they're simply annoying, like lots of notifications on your phone or shutters that open and close seemingly at random. 
 
 **As connectivity becomes more deeply engrained in our physical environments - homes, vehicles, bodies, cities - we better figure out how to make all these agents work together smoothly: In our interests, by our standards, and to augment rather than simply automate.**
+
+....
+
+The question now is that if you fill an environment with humans and connected objects, is there a layer that helps the humans navigate everything and to facilitate between humans and machines?
+
+We'd argue there is a need for a layer of interpretation that can advocate on the user's behalf. This might be software or some device that that articulates the users' interests, ensures they are respected by the machines in the environment, and also communicates back what the machines are saying and doing. 
+
+This layer could function like the web browser does today when surfing online. As a user moves through connected environments, there's a layer helping interpret or render that environment for the user. It is a protective layer, sometimes taking action on the user's behalf, such as blocking malware or spam. 
+
+This interpretation layer is also communicating preferences to the devices and connected environment. It might also be where conflicts among devices and preferences are brought to the attention of the user, who can parse and override certain decisions. This could also be the interface for the user to express themselves, either to machines in the environment or to other users.
+
+This layer seems the most ambiguous at the moment, but it's potentially very important to get right. 
