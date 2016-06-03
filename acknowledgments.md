@@ -1,6 +1,7 @@
 # Acknowledgments
 
-## DONE
+# done
+
 
 **Alexandra Deschamps-Sonsino** has been blogging about and building products for the internet of things for over ten years. She has also instigated the Good Home project where we put the words from this book into action. There's no one to whom we're more indebted for helping us understand IoT and the connected home.
 
