@@ -12,7 +12,7 @@ Ethics need to be considered on the strategic level, and are implmented at desig
 **Openness**: Open practices lead to more open and robust, resilient, and participatory products. For creators of connected products, we advocate for open practices & technologies and learning together as a professional learning community.
 **Read, write, participate**: As a matter of empowerment, residents should be able to read, write and participate fully in their connected home.
 **Diversity and inclusivity**: The connected home is a safe space and must be designed with diversity and inclusivity in mind. This includes challenging assumptions about cultural context as much as taking into account socio-economic factors and gender.
-**Security**: ONE SENTENCE SUMMARY
+**Security**: Users and their data need to be protected from any party that might try to track, spy, or hack. Aggregate data needs to be anonymized in a way that guarantees that data cannot be traced back to identifiable users.
 **Sustainability**: ONE SENTENCE SUMMARY
 
 We find that designers, developers and strategists working on connected products often make decisions on the fly because they have somewhat vague briefings. This leads to a relatively high degree of autonomy that can be leveraged to tip the product ever so lightly into a better direction. Collectively, these changes should have a massive impact. 
