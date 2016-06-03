@@ -10,7 +10,7 @@ Ethics need to be considered on the strategic level, and are implmented at desig
 
 **Privacy**: We consider privacy a core value to be considered throughout the design, manufacture, usage and end of a connected product or service.
 **Openness**: Open practices lead to more open and robust, resilient, and participatory products. For creators of connected products, we advocate for open practices & technologies and learning together as a professional learning community.
-**Read, write, participate**: ONE SENTENCE SUMMARY
+**Read, write, participate**: As a matter of empowerment, residents should be able to read, write and participate fully in their connected home.
 **Diversity and inclusivity**: The connected home is a safe space and must be designed with diversity and inclusivity in mind. This includes challenging assumptions about cultural context as much as taking into account socio-economic factors and gender.
 **Security**: ONE SENTENCE SUMMARY
 **Sustainability**: ONE SENTENCE SUMMARY
