@@ -15,7 +15,7 @@ Please note: We are in the process of revising the book in preparation for versi
     As a strategy advisor, he helps organizations large and small to excel in an environment shaped by digitization, connectedness and rapid change.
     </p>
     <p>
-    He co-founded many emerging technology conferences including <a href="http://thingscon.com/">ThingsCon</a>, UIKonf and Cognitive Cities Conference and co-chaired <a href="http://interaction16.ixda.org/">Interaction16.</a>
+    He co-founded many emerging technology conferences including <a href="http://thingscon.com/">ThingsCon</a>, UIKonf and Cognitive Cities Conference and co-chaired <a href="http://interaction16.ixda.org/">Interaction16. He also co-founded <a href="http://thegoodhome.org">the Good Home Project</a>.</a>
     </p>
 </div>
 
