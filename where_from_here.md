@@ -3,15 +3,6 @@
 ## to write: P
 ## PROOFED?
 
-
-- include:
-- Just Things Foundation
-- ThingsCon
-- Moz design sprints
-- The Good Home
-
-
-
 This book kicks has turned into an on-going research project about the connected home. 
 
 It opened a lot of lines of inquiry. Some we may see answers to in a short while. Others might be laughable in a decade from now when many of these technologies will have settled in and become quotidian.
