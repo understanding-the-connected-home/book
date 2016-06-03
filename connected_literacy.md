@@ -3,33 +3,25 @@
 ## TO WRITE: M
 ## PROOFED?
 
-The web is where our personal, civic, and economic lives connect. Knowing how to wield the web is essential to success and participation today. Tomorrow, we will need to extend our literacy to include how to navigate and interact with connected environments. 
+*To be empowered in the connected home, we will need to learn certain skills and competencies so that we can fully read, write and participate in these technologies.* 
 
-To understand how this might be tackled, let's consider how web literacy works and than apply this model to the connected home.
+## Building on web literacy
 
-## Why web literacy
+Over the last few years, there's been a lot of research and advocacy around the skills required to be literate on the web. Notably, web literacy is not just about "learning to code," but rather how to become a critical consumer, contributor and participant online.  
 
-As we're headed towards getting the majority of the world's population online (and move almost all communication as well as economic and administrational interactions online in industrialized countries), it is critical that everyone knows how to read, write and participate in the digital world. 
+As a champion of user empowerment on the web, the Mozilla Foundation developed the Web Literacy Map to better define these skills and create curricula and programs to foster them.[^1]
 
-What skills and competencies needed to wield the web in this way? Web literacy aims to help people become critical consumers, contributors and participants on the Web.[^1] If people experience the web as critical to their learning, work and social lives they will better understand their role in helping the Web remain open, accessible and a resource for all. 
+![Web Literacy Map](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/web_literacy_map.png)
 
-## What does web literacy cover?
+_Mozilla's Web Literacy Map_
 
-The Web Literacy Map is an agreed ‘map of the territory’ from which to build resources and curricula to teach the web. This is a descriptive rather than prescriptive map. That is to say people and organizations can align with it no matter what context they are working in - and no matter what level they are working at. 
+The Web Literacy Map contains three main elements: 
 
-As the whitepaper explains: [^2]  
+* **Reading on the web** is a critical skill for engaging content online. They can be viewed as “exploring,” or “navigating the web.” Just as traditional reading requires knowledge of the text and concepts of print, reading online requires a basic understanding of web mechanics.
+* **Writing on the web** enables one to build and create content to make meaning. New genres that blend texts and tools have emerged on the open web and are often referred to as making. Learning through making involves constructing new content.
+* **Participating on the web** includes connecting with the communities that share, build, and sustain meaningful content online. A healthy online community requires knowledge of how to create, publish and link content, and an understanding of security in order to keep content, identity, and systems safe.
 
-> Other candidate terms such as ‘digital literacy’ and ‘information literacy’ seem too wide-ranging and ambiguous to adequately cover the web. Possible alternatives such as ‘media literacy’ and ‘computational thinking’ certainly overlap with web literacy, but there is something sufficiently unique about ‘web literacy’ to be worth of attention.
-
-Notably, web literacy is not just about "learning to code." In addition to covering code and scripting, the map also highlights competencies such as collaborating, privacy, navigation, design & accesibility, and more. 
-
-When the first versions of Web Literacy Map were published, it was acknowledged that it will evolve and mature along with the web itself.
-
-For example, there are also discussions about how to include ["21st Century Skills"](http://www.imls.gov/about/21st_century_skills_list.aspx) in our understanding of web literacy today. Amongst these skills are critical thinking and problem solving, scientific and numerical literacy, global awareness, environmental literacy, flexibility and adaptability, as well as financial and entrepreneurial literacy. 
-
-## Web literacy in connected environments
-
-Now with the rise of connected environments, with objects tapping into or building on top of the web and the increasing need for 21st Century skills, we should investigate how web literacy can be interpreted here. 
+Today as connectivity enters everyday objects and our physical environment in new ways, we'll examine how web literacy can offer a framework for understanding the skills and competencies needed to be empowered in the connected home and generally with IoT. 
 
 ### Reading the connected home
 
@@ -63,44 +55,4 @@ The "participating" strand of web literacy is about **sharing, collaborating, pa
 * To be literate in connected spaces, you'll want to explain the ways in which **unsolicited third parties can track you** across devices and environments. How will you **control metadata shared online,** or identify the rights retained and removed in user agreements? Also, there will definitely be a need to **manage online identities.** 
 * Perhaps essential in all of these skills in **an understanding of how and why to advocate for healthy ecosystems** and things that work for you, on your terms.
 
-## Key takeaways
-
-Mozilla's Web Literacy Map is a useful framing for what one needs to read, write and participate with the web. We can apply the map to better understand what products, resources and curricula are needed for users to feel empowered in their connected homes. 
-
-## Further reading
-
-American Library Association. (2007). Standards for the 21st Century Learner. http://www.ala.org/aasl/sites/ala.org.aasl/files/content/guidelinesandstandards/learningstandards/AASL_Learning_Standards_2007.pdf
-
-    A set of standards relating to information literacy for school-age children.
-
-
-
-boyd, d. & Hargittai, E. (2010). Facebook Privacy Settings: Who Cares? First Monday 15(8). http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/3086/2589.
-
-    A paper looking at results of a survey challenging assumptions that young people do not care about their online privacy.
-
-
-Coiro, J., Knobel, M., Lankshear, C. & Leu, D. J. (eds.) (2008). Handbook of research on new literacies. Philadelphia: Erlbaum.
-
-    An edited collection of original articles and papers situated at the intersection of literacy and technology. A useful reference.
-
-
-
-Ito, M., et al. (2009). Living and Learning with New Media: Summary of Findings from the Digital Youth Project. The John D. and Catherine T. MacArthur Foundation Reports on Digital Media and Learning. Cambridge, MA: The MIT Press. http://mitpress.mit.edu/sites/default/files/titles/free_download/9780262513654_Living_and_Learning.pdf
-
-    This report summarizes the results of a three-year study into how young people are living and learning with new media at home, in after school programs, and in online spaces.
-
-
-Lessig, L. (1999). Code and Other Laws of Cyberspace. New York: Basic Books.
-
-    This books establishes that both programmers' code and law matter when it comes to cyberspace. People can be governed by code which is legal or technological.
-
-
-New London Group. (1996). A pedagogy of multiliteracies: Designing social futures. Harvard Education Review 66(1), 60–92.
-
-    In this classic article, a collection of academics known as New London Group present a new approach that they call "multiliteracies."
-    
-    
-    
-[^1]: See Mozilla's [Web Literacy Map](https://teach.mozilla.org/teach-like-mozilla/web-literacy/)
-[^2]: See [Why Mozilla cares about Web Literacy](https://mozilla.github.io/webmaker-whitepaper/)
+[^1]: https://learning.mozilla.org/web-literacy
