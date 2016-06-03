@@ -1,4 +1,6 @@
-# The connected things in our homes
+# What to invite: The connected things in our homes
+
+_How do we choose which connected objects to invite into our homes?_
 
 ## WRITTEN: P
 ## PROOFED?
