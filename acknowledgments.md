@@ -12,7 +12,7 @@ It's also such a pleasure to think about and tinker with connected homes togethe
 
 A big thank you for lovely, inspiring and informative chats to **Matt Webb**, **Matt Biddulph** and **Tom Coates**.
 
-**Louisa Heinrich** and **Scott Smith** have been doing tremendous work in this field, and conversations with them, as well as their massive output, have been priceless. Please read & watch everything they produce. 
+**Louisa Heinrich** and **Scott Smith** have been doing tremendous work in this field. Conversations with them, as well as their massive output, have been priceless. Please read & watch everything they produce. 
 
 A big shoutout to the **Max Krüger, Simon Höher, and Emanuel Schwarz** as partners in crime for ThingsCon. You all are always thinking about how to make great events around this topic. An amazing bunch to work with.
 
