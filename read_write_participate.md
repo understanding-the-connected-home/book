@@ -35,6 +35,9 @@ Residents should be empowered to fully participate in connected home and the dat
 How can they distribute "connected home content" and data to others or contribute to data commons? How can they make informed choices about what platforms and tools to use for their homes, and contribute to as well as improve or modify these platforms? How does co-creation work in the connected home? How can residents control metadata shared online, be in control their rights retained or removed in user agreements, and manage their home-related online identities? How can they, in other words, contribute to and advocate for a healthy connected home ecosystems? 
 
 
+As the old motto of the open source movement says: If you can't open it, you don't own it. We should all be able to open the infrastructure that powers our homes.
+
+
 [^1]: We explore this in more depth in the article on [connected literacy](connected_literacy.md)
 
  
