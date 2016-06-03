@@ -8,8 +8,8 @@ We believe that the connected home should be based on foundational principles an
 
 Ethics need to be considered on the strategic level, and are implmented at design level. This where designers of connected home products and services need to invest extraordinary efforts to implement these values and pricinples:[^1]
 
-**Privacy**: ONE SENTENCE SUMMARY
-**Openness**: ONE SENTENCE SUMMARY
+**Privacy**: We consider privacy a core value to be considered throughout the design, manufacture, usage and end of a connected product or service.
+**Openness**: Open practices lead to more open and robust, resilient, and participatory products. For creators of connected products, we advocate for open practices & technologies and learning together as a professional learning community.
 **Read, write, participate**: ONE SENTENCE SUMMARY
 **Diversity and inclusivity**: ONE SENTENCE SUMMARY
 **Security**: ONE SENTENCE SUMMARY

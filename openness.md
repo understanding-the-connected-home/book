@@ -3,7 +3,7 @@
 ## WRITTEN by peter
 ## PROOFED???
 
-Open practices lead to more open and robust, resilient, and participatory products: For creators of connected products, we advocate for open practices & technologies and learning together as a professional learning community.
+Open practices lead to more open and robust, resilient, and participatory products. For creators of connected products, we advocate for open practices & technologies and learning together as a professional learning community.
 
 **Open practices lead to better connected products.**
 
