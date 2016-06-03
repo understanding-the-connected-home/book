@@ -2,9 +2,12 @@
 
 * [Introduction](README.md)
 * [Values](values.md)
-   * [Protection of personal data](personal_data.md)
+   * [Privacy](privacy.md)
    * [Read/Write/Participate](read_write_participate.md)
    * [Openness](openness.md)
+   * [Diversity and inclusivity](diversity_inclusivity.md)
+   * [Security](security.md)
+   * [Sustainability](sustainability.md)   
 * [The home as the next augmentative technology ](home_as_augmentation.md)
    * [Past](past.md)
    * [Present](present.md)

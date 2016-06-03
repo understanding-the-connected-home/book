@@ -1,4 +1,4 @@
-# Protection of personal data
+# Privacy
 
 ## WRITTEN?
 ## PROOFED?

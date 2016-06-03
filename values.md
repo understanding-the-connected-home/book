@@ -1,12 +1,12 @@
 # Values
 
-## TO WRITE: P
+## WRITTEN: P
 ## PROOFED?
 
 Include:
 
 ## Privacy
-## Read, write and participate
+## Read, write, participate
 ## Openness
 ## Diversity and inclusivity
 ## Security
@@ -22,4 +22,7 @@ Ethics need to be considered on the strategic level, and are implmented at desig
 - **Privacy by design:** No other parties may sniff the users data and share it with other parties.
 
 As we come to rely more and more on connected services in our daily lives, **user righs effectively start to equal citizen rights**. These rights need to be protected on the product level as well as the policy level.
+
+
+[^1 ]This list is likely to evolve over time as we come to explore more edge cases and scenarios. Additionally, as part of the Good Home project, we drafted a list of more concrete [design values](http://thegoodhome.org/values/) which we add here as a further inspiration: Networked, communal, interdependant, participatory, readable, open, humble, adaptable, hackable, diverse, resilient, respectful, sustainable, perfect imperfection, one size does not fit all, local, careful, provocative, post-capitalistic, constrictively critical.
 
