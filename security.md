@@ -11,7 +11,10 @@ Historically, because of the relatively low distribution of smart home devices, 
 
 We believe that tight security is absolutely essential. Users and their data need to be protected from any party that might try to track, spy, or hack, be it criminals, commercial entities or governments.[^2] Only then the home can be the safe space that is must be. 
 
-Security also means ensuring that even aggregate data is anonymized in a way that really guarantees that data cannot be traced back to identifiable users - not even when data sets are combined with others, or in future big data scenarios.
+Aggregate data needs to be anonymized in a way that really guarantees that data cannot be traced back to identifiable users - not even when data sets are combined with others, or in future big data scenarios.
+
+Wherever possible, data should not be tracked saved at all: The best way to prevent abuse of data is not to have it in the first place.
+
 
 
 
