@@ -1,7 +1,18 @@
 # Where from here
 
-## WRITTEN?
+## to write: P
 ## PROOFED?
+
+
+- include:
+- Just Things Foundation
+- ThingsCon
+- Moz design sprints
+- The Good Home
+
+
+
+
 
 
 This book kicks off what we hope will be an **on-going research project** about the connected home. 
