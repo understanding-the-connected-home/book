@@ -1,9 +1,9 @@
 # Privacy
 
-## WRITTEN?
+## WRITTEN: P
 ## PROOFED?
 
-We advocate the privacy must be a core value to be considered throughout the design, manufacture, usage and end of a connected product or service. 
+_We consider privacy a core value to be considered throughout the design, manufacture, usage and end of a connected product or service._
 
 Our home needs to be a safe space: *What happens at home needs to stay at home.* Data driven services put this safe space in serious danger, so we must build safeguards.
 
@@ -16,7 +16,7 @@ Specifically, that means building in safeguards like:
 - options to delete data, and data portability
 
 These will have to be backed by legal responsibility and accountability for the enabling industries like data service providers and technology companies. (As many connected home solutions are proposed by startups, it is especially important to also ensure that startups play by the same rules.)
- 
+
 
 **Privacy by design**
 Connected home systems should be private by design. [^1] Concretely, this means following ground rules like:
@@ -50,8 +50,7 @@ The data subject has the right to request erasure of personal data related to hi
 
 How this will workable within the context of aggregated data, big data sets, and shared data will have to be seen.
 
-**Data portability**
-In addition to data deletion, to give users control over their data and how it is used all connected home services should be built with data portability in mind. How to implement this is to be determined on a case-by-case basis, but users should at all times be able to move their data into and out a service - this means easy-to-access export functionality as much as strict adoption of standards.
+In addition to data deletion, to give users control over their data and how it is used all connected home services should be built with data portability in mind. How to implement this is to be determined on a case-by-case basis, but users should at all times be able to move their personal data into and out a service - this means easy-to-access export functionality as much as strict adoption of standards.
 
 
 
