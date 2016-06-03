@@ -1,4 +1,4 @@
-# Residential Rights Management: Who controls your home?
+# Who controls your home?
 
 _As homes become more connected and software-based, the thorny issues of access and rights control become salient: Who controls your home's infrastructure?_
 

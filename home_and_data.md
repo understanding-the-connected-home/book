@@ -1,6 +1,6 @@
 # Home and data
 
-_If we live inside a computer, how do we handle and maintain our data?_
+_If we live inside a computer, how do we handle and maintain our data? How does data change the way we live in a house or move in and out?_
  
 ## WRITTEN by peter
 ## PROOFED?
