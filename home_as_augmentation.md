@@ -1,14 +1,10 @@
 # The home as the next augmentative technology  
 
-## WRITTEN?
+## WRITTEN: M
 ## PROOFED?
 
-* Augmentation over time. Mouse to smartphone to home. Tech's role to augment humans. 
+In the past, human-to-machine interaction was modeled primarily on a single user interacting with a single machine. Inventions like the computer mouse signaled how computers would begin to augment our lives. Meanwhile, while computing technology changed rapidly, the lifespans of our built environment were still long. And most use cases for the "home of the future" were about automation, not augmentation. 
 
-Prior to the rise of connected devices, human-to-computer interaction was primarily based on a single user interacting with a single computer. Now, in the connected home, there are multiple users interacting with multiple computers, sometimes separated by physical distance, time and preferences. 
+Today, multiple users interact with multiple machines to form complex computational networks. Through simplified physical interfaces, the Internet of Things can offer users better understanding and control of data. Now the foundation of digital augmentation is in the hands of billions of people thanks to their first IoT device: a smartphone.
 
-> * multimodality rather than unimodality, intelligent adaptive interfaces rather than command/action based ones, and finally active rather than passive interfaces
-
-These are complex interactions, with opportunities for innovation and possible unintended consequences. 
-
-At the same time, we're looking at how our homes will be "updated" at very different time scales: from the building's architecture which is usually measured in decades, to the building infrastructure such as electricity, plumbing etc which is measured in years, to interior furniture and design in fewer years, to devices and appliances in 18-month cycles to digital services and apps which can be just months. 
+Smartphones are a sign of the speed of change that our homes may soon face. As our built environment enters the rapid lifecyles of software, it brings risks such as security vulnerabilities and broken devices. There's an urgency to address these issues now, as well as innovation opportunities, to ensure throughout that the home remains a place that puts humans first.
