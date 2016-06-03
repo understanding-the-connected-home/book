@@ -1,6 +1,6 @@
 # Connected literacy 
 
-## TO WRITE: M
+## WRITTEn: M
 ## PROOFED?
 
 *To be empowered in the connected home, we will need to learn certain skills and competencies so that we can fully read, write and participate in these technologies.* 
