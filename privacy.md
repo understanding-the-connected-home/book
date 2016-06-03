@@ -28,7 +28,7 @@ Connected home systems should be private by design. [^1] Concretely, this means 
 - End-to-end security – full lifecycle protection
 - Visibility and transparency – keep it open
 - Respect for user privacy – keep it user-centric
-
+- The best way of protecting data is to not collect it in the first place
 
 **Consent**
 Valid consent must be explicit for data collected and purposes data used. Consent must be verifiable. Data controllers must be able to prove "consent" (opt-in) and consent may be withdrawn at any time. 
