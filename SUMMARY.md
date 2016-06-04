@@ -19,7 +19,7 @@
    * [Negotiating with connected systems](negotiating.md)
    * [Controlling privacy](controlling_privacy.md)
 * [Relationships](relationships.md)
-   * [Hospitality](guest_and_host.md)
+   * [Hospitality](hospitality.md)
    * [Sharing connected objects](sharing_connected_objects.md)
    * [Home and data](home_and_data.md)
    * [Who controls your home?](who_controls_the_home.md)
