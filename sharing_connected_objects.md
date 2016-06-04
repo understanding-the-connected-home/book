@@ -1,6 +1,6 @@
 # Sharing connected objects
 
-_A look at sharing connected objects the design opportunities around them._
+_In a household, it's common to share lots of objects. From appliances to furniture to toys and media and more, what are the design opportunities that await when we share connected objects?_
 
 
 # rewritten by peter
@@ -8,13 +8,13 @@ _A look at sharing connected objects the design opportunities around them._
 
 > On the whole, you find wealth much more in use than in ownership. — Aristotle[^1]
 
-Living together means sharing objects. Under which circumstances we feel it's ok to share what differs: Different rules of sharing apply in families, partnerships, among roommates.
+Living together means sharing objects. The circumstances where we feel comfortable sharing depend on the relationship and personal preferences. Different rules apply among families, partnerships, roommates, etc. 
 
 Be it the TV remote, a book, the dining room table, or the dishes, the home is filled with objects that might be used by multiple people - sometimes simultaneously, sometimes asynchronously, sometimes even without the owner's permission.[^2]
 
-Once they are connected, the rules and implications of sharing change yet again:
+Here are some design opportunities:
 
-- Through personalization and modularity, we can design and prepare for fuller shared usage: By switching accounts (hopefully without requiring us to enter long unwieldy passwords) the software layer can adapt the object to our preferences. Think of the connected lamp/thermosthat/oven equivalent of a game console. 
+- Through personalization and modularity, we can prepare for more shared usage. By switching accounts, the software layer can adapt the object to our preferences. Think of the connected lamp/thermosthat/oven equivalent of a game console where you log in, and the systems has your customized space ready.
 - Trust management can help to better navigate who can use what object. 
 - Learning algorithms can start to mold objects to each of their users. The collected data can be used to improve the service that object renders both for the individual user and for the overall group of users. Increasingly it might even make sense to contribute usage data of some sort or another by sharing aggregate data back to the larger public, the data commons.
 
