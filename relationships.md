@@ -1,25 +1,22 @@
 # Relationships
 
-*As the home is defined by relationships, we explore how connectedness changes relationships and power dynamics to surface opportunities for innovation and possible conflicts.*
+## DONE
 
-## WRITTEN: P
-## PROOFED?
+We believe that a home, whether connected or not, should primarily serve the humans in it.
 
-We believe that the home - connected or not - should primarily be a place that fosters human-to-human interactions. But humen-to-human relationships are not the only ones that come to play in a connected home.
+Products and services we make should augment and respect human relationships. And, as more computation enters the home, we must be aware of how some human interactions and scenarios may take on new norms and considerations.  
 
-Relationships are shaped by power dynamics. Many are old and well established, for better or worse. Others take on a new meaning, or have a new twist, in a connected environment:
+**Hospitality.** How does hospitality change in a connected environment? Certainly there are timeless elements of etiquette. Nevertheless, there might be new ways we interact when we're a guest in someone's connected home. 
 
-**Guest & host:** How does hosting change in a connected environment? The ground rules of being a good guest or host will remain the same in the 21st century, but the ways they will manifest are likely to change.
+**Sharing connected objects.** In a household, it's common to share lots of objects. From appliances to furniture to toys and media and more, what are the design opportunities that await when we think about sharing connected objects?
 
-**Sharing connected objects:** How does data change the way we share domestic objects? A look at sharing connected objects the design opportunities around them.
+**Home & data.** The connected home is a computer. What happens to its data when we move? What does it look like for residents to use and maintain data about their home? What role does connectivity play when buying and selling a home?
 
-**Home & data:** The connected home is a computer. If we live inside a computer, how do we handle and maintain our data? How does data change the way we live in a house or move in and out?
+**Who has control?** As homes become more connected and software-based, questions around access and rights control become acute. Who controls your home's infrastructure? What rights does the city have, or the neighbors, or different members of a household? How are those permission levels negotiated?
 
-**Who has control?** As homes become more connected and software-based, the thorny issues of access and rights control become salient: Who controls your home's infrastructure?
+**The connected things we surround ourselves with.** What criteria do we use to decide what connected objects to invite into our homes? How do we evaluate when we want to own something or not?
 
-**The connected things we surround ourselves with:** What to invite: How do we choose which connected objects to invite into our homes?
-
-**The home in the focus of commercial tracking and government surveillance:** Surveilance and tracking are a serious problem for the internet of things and the connected home: We need to build safeguards against mass-surveillance through the connected appliances in our homes.
+**The home as a target for commercial tracking and government surveillance.** If a device has the ability to track and record you, it's likely that it will, even when you don't want it to. Advertisers, governments and criminals alike will use the Internet of Things to track our behavior to an even greater degree than today. We need to build safeguards against commerical and government surveillance and protections against abuse. 
 
 
 
