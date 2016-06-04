@@ -1,23 +1,20 @@
 # Values
 
-## WRITTEN:
-## PROOFED?
+## DONE
 
 
-We believe that the connected home should be based on foundational principles and values. These should guide the design and implementation process from beginning to end.
+We believe that the connected home should respect several foundational values: 
 
-Ethics need to be considered on the strategic level, and are implmented at design level. This where designers of connected home products and services need to invest extraordinary efforts to implement these values and pricinples:[^1]
+* **Privacy.** We consider privacy a core value to be included throughout the design, manufacture, usage and end of a connected product or service.
+* **Openness.** Openness leads to more robust, resilient, and participatory products. For creators of connected products, we advocate for open practices and technologies paired with open reflection and documentation that can serve professional communities learning how to make things with these values.
+* **Read, write, participate.** As a matter of empowerment, people should be able to read, write and participate fully in their connected home.
+* **Diversity and inclusion.** The connected home is a safe space and must be designed with diversity and inclusivity in mind. This includes challenging assumptions about cultural context as much as taking into account socio-economic factors, gender and other forms of identity.
+* **Security.** Users and their data need to be protected from any party that might try to track, spy, or hack. Aggregate data needs to be anonymized in a way that guarantees that data cannot be traced back to identifiable users.
+* **Sustainability.** Sustainable sourcing and manufacturing as well as designing for end-of-lifecycle are important ecological and social considerations as well as an opportunity to position a connected home company better in the market place while saving their customers money.
 
-**Privacy**: We consider privacy a core value to be considered throughout the design, manufacture, usage and end of a connected product or service.
-**Openness**: Open practices lead to more open and robust, resilient, and participatory products. For creators of connected products, we advocate for open practices & technologies and learning together as a professional learning community.
-**Read, write, participate**: As a matter of empowerment, residents should be able to read, write and participate fully in their connected home.
-**Diversity and inclusivity**: The connected home is a safe space and must be designed with diversity and inclusivity in mind. This includes challenging assumptions about cultural context as much as taking into account socio-economic factors and gender.
-**Security**: Users and their data need to be protected from any party that might try to track, spy, or hack. Aggregate data needs to be anonymized in a way that guarantees that data cannot be traced back to identifiable users.
-**Sustainability**: Sustainable sourcing and manufacturing as well as designing for end-of-lifecycle aren't just important ecological and social considerations but also a great opportunity to position a connected home company better in the market place while saving their customers money.
-
-We find that designers, developers and strategists working on connected products often make decisions on the fly because they have somewhat vague briefings. This leads to a relatively high degree of autonomy that can be leveraged to tip the product ever so lightly into a better direction. Collectively, these changes should have a massive impact. 
+These values can guide makers of connected products and services. By building these values directly into the products they make, designers and engineers can in aggregate positively shape the Internet of Things landscape.[^1]
 
 
 
-[^1]: This list is likely to evolve over time as we come to explore more edge cases and scenarios. Additionally, as part of the Good Home project, we drafted a list of more concrete [design values](http://thegoodhome.org/values/) which we add here as a further inspiration: Networked, communal, interdependant, participatory, readable, open, humble, adaptable, hackable, diverse, resilient, respectful, sustainable, perfect imperfection, one size does not fit all, local, careful, provocative, post-capitalistic, constrictively critical.
+[^1]: This set of values is likely to evolve over time as we explore more cases and scenarios. As part of the Good Home project, we drafted a list of more concrete design values, which we include here as a further inspiration: networked, communal, interdependent, participatory, readable, open, humble, adaptable, hackable, diverse, resilient, respectful, sustainable, perfect imperfection, one size does not fit all, local, careful, provocative, post-capitalistic, constrictively critical. See: http://thegoodhome.org/values/
 
