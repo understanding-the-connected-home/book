@@ -1,6 +1,6 @@
 # Exhibitions
 
-_Designing speculative prototypes is a worthwhile way to make complex, abstract issues more graspable, and an exhibition can provide helpful deadlines and a platfor to share your work with the public._
+_Designing speculative prototypes is a worthwhile way to make complex, abstract issues more graspable, and an exhibition can provide helpful deadlines and a platform to share your work with the public._
 
 ## DONE
 
@@ -18,7 +18,7 @@ This is an approach that inherently produces outcomes that are easy to criticize
 
 The fact that there's an exhibition date also means the team works against a hard deadline. This helps get things done, especially in contexts where the team is decentralized and has other, more commercially viable obligations. It also is fun, and the importance of that cannot be overstated in volunteer-driven projects.
 
-To give a few examples of the role of physical prototyping, the Good Home's Privacy Dimmer[^2] is both the basis for and the physical manifestation of the chapter on the [UX of privacy](ux_of_privacy.md) in this book and The Wayback Machine that emerged out of Mozilla's Open IoT Design Sprint[^3]. In both cases, questions of privacy in the connected home and the interactions surrounding privcacy control were explored by different collaborators, with their different background, and manifested in a speculative design object.
+To give a few examples of the role of physical prototyping, the Good Home's Privacy Dimmer[^2] is both the basis for and the physical manifestation of the chapter on the [UX of privacy](ux_of_privacy.md) in this book and The Wayback Machine that emerged out of Mozilla's Open IoT Design Sprint[^3]. In both cases, questions of privacy in the connected home and the interactions surrounding privacy control were explored by different collaborators, with their different background, and manifested in a speculative design object.
 
 These conceptual prototypes essentially serve as narrative devices. Narratives can help fill concepts as abstract and complex as privacy, empowerment, participation, or data protection with life. This in turn lowers the barrier of joining the conversation. If a debate is too abstract, technical, or just jargon-filled, many people will not feel like their contributions are welcome. This means not all voices are heard, and inclusivity and diversity are at the very core of what makes a home a home. 
 
@@ -27,6 +27,6 @@ We also see prototypes serving a community-building function. This approach is d
 We strongly urge anyone exploring these topics to prototype heavily and frequently and exhibit the results so others can engage with, and be inspired by, the results.
 
 
-[^1]: The Good Home Project is an inititive co-founded by Alexandra Deschamps-Sonsino and Peter Bihr that explores 21st century living to life through design solutions (both speculative and real) exhibited around the world. For all exhibitions and installments see [thegoodhome.org](http://thegoodhome.org).
+[^1]: The Good Home Project is an initiative co-founded by Alexandra Deschamps-Sonsino and Peter Bihr that explores 21st century living to life through design solutions (both speculative and real) exhibited around the world. For all exhibitions and installments see [thegoodhome.org](http://thegoodhome.org).
 [^2]: See [thegoodhome.org/projects/privacy-dimmer](http://thegoodhome.org/projects/privacy-dimmer/)
 [^3]: See [thewavingcat.com/2016/04/25/privacy-machines](http://www.thewavingcat.com/2016/04/25/privacy-machines/)
