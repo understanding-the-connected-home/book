@@ -17,7 +17,7 @@
    * [Sharing connected objects](sharing_connected_objects.md)
    * [Moving in and out of homes](moving.md)
    * [Who controls your home?](who_controls_the_home.md)
-   * [What to invite: The connected things in our homes](what_to_invite.md)
+   * [Inviting connected objects into our homes](what_to_invite.md)
    * [Surveillance & tracking](surveillance.md)
 * [Research approaches](approaches.md)
    * [Sprints](sprints.md)
