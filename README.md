@@ -41,7 +41,7 @@ Please note: We are in the process of revising the book in preparation for versi
 In May 2015, science fiction author Bruce Sterling gave a keynote at ThingsCon [^1]. In his talk [^2] he introduced a new research project he and his partner Jasmina Tesanovic have been working on: Casa Jasmina [^3], the open source connected home of the future. 
 
 > It's time to live the life. Just go ahead and build the products and see if you can survive being in a room with them. Casa Jasmina is our test bed.
--- Bruce Sterling at ThingsCon
+— Bruce Sterling at ThingsCon
 
 A few weeks later in June 2015, we flew to Turin, Italy along with Alexandra Deschamps-Sonsino [^4] to visit Casa Jasmina and spend some time with the team. 
 
@@ -51,11 +51,11 @@ Ever since visiting [^5] Casa Jasmina, some questions wouldn't leave us alone. T
 
 > How do we interact with a connected home? How does a space communicate what's expected of the people who live in it? What are the ground rules and who has permission to change them? What objects require interaction and what don't? How do we know how to build and live in a connected home?
 
-We asked a great number of smart and experienced people for their thoughts. It slowly emerged that "the connected home" is an area that's not understood yet--it is so new, with so many unanswered questions and with so few connected homes actually in use.
+We asked a great number of smart and experienced people for their thoughts. It slowly emerged that "the connected home" is an area that's not understood yet—it is so new, with so many unanswered questions and with so few connected homes actually in use.
 
 We know that connectivity increasingly makes its way into our living rooms, kitchens and bedrooms. The internet is coming into our smoke detectors, lights, door locks, kitchen scales and ovens. We bring in more connectivity through fitness tracking wristbands and our phones and tablets, and take it along when we get into the driving computers that are our cars.
 
-**Understanding the connected home--how it can be designed, how we can engage with it and control it, how we can live with it and still have agency over our data--twill be essential to address.**
+**Understanding the connected home—how it can be designed, how we can engage with it and control it, how we can live with it and still have agency over our data—twill be essential to address.**
 
 Connected homes will impact the lives of hundreds of millions people around the globe.
 

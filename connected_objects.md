@@ -40,7 +40,7 @@ Here we outline several categories to see if they yield any interesting insights
 
 One simple distinction of objects is connected or disconnected.
 
-It is binary--simply on/off. If we look at the last 10 years, this held up nicely. Lamp on, phone off, refrigerator running. 
+It is binary—simply on/off. If we look at the last 10 years, this held up nicely. Lamp on, phone off, refrigerator running. 
 
 Over the last few years, the lines have started to blur. Is the smart TV on or off, if its always listening in even when the screen isn't on? As more things come online, and their connectivity becomes more complex, the binary distinction might become more of a spectrum.
 
@@ -104,7 +104,7 @@ But also, what about the infrastructure in a home we usually don't associate wit
 
 ### New kinds of objects
 
-The fourth category is **truly new stuff**. The unknown unknowns we can only speculate about. This is the category that's most sketchy--with the most potential while also likely to cause major friction. 
+The fourth category is **truly new stuff**. The unknown unknowns we can only speculate about. This is the category that's most sketchy—with the most potential while also likely to cause major friction. 
 
 We'll be watching with interest over the next five to twenty-five years as more connected objects, from fridges to kitchen tables, come online. 
 

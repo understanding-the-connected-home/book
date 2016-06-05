@@ -109,7 +109,7 @@ Furthermore, how can people cultivate healthy relationships with the people they
 
 As our homes become more connected, we must preserve the ability to read, write and participate fully in them.
 
-An open source motto says: If you can't open it, you don't own it. We should all be able to open--and change--the things in our homes.
+An open source motto says: If you can't open it, you don't own it. We should all be able to open—and change—the things in our homes.
 
 
 ## Openness
@@ -193,7 +193,7 @@ Historically, because of the relatively low distribution of smart home devices, 
 
 Recently, with more and more reports of hacked internet-enabled baby phones, CCTV cameras and fridges turned into email spamming machines[^6], security became more of a priority both in the products' design process and communications.
 
-We believe that tight security is absolutely essential. Users and their data need to be protected from any party that might try to track, spy, or hack--be it criminals, commercial entities or governments.[^7] 
+We believe that tight security is absolutely essential. Users and their data need to be protected from any party that might try to track, spy, or hack—be it criminals, commercial entities or governments.[^7] 
 
 Only then the home can be the safe space that is must be. 
 
