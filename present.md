@@ -1,5 +1,4 @@
 # Present
-## DONE
 
 *Today, multiple users interact with multiple machines to form complex computational networks. Through simplified physical interfaces, IoT can offer users better understanding and control of data. The foundation piece of digital augmentation is already in the hands of billions of people thanks to their first IoT device: a smartphone.* 
 
@@ -22,7 +21,7 @@ There is a lot opportunity in the volume, variety and velocity of processing all
 
 When these complex systems are visible and modifiable for everyday users, we learn about about how they work. This visibility can lead us to knowingly change our own behavior to get the outcomes we want. Rather than building vast surveillance machines, let's employ this to build a learning cycle as a tool of user empowerment.
 
-The Toyota Prius' dashboardis a useful example of a simple, actionable display of complex data. It shows how the car uses and stores energy. Most users would be unfamiliar with how electric car engines worked, let alone how their driving behavior affects energy consumption. However, by reading this simplified real-time information, people can observe how their behavior changes the system and adjust their driving accordingly.[^1]  
+The Toyota Prius' dashboard is a useful example of a simple, actionable display of complex data. It shows how the car uses and stores energy. Most users would be unfamiliar with how electric car engines worked, let alone how their driving behavior affects energy consumption. However, by reading this simplified real-time information, people can observe how their behavior changes the system and adjust their driving accordingly.[^1]  
 
 ![Toyota Prius dashboard](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/prius_dashboard.jpg)
 
@@ -34,7 +33,7 @@ As we continue to explore this field, we will consider how users might observe c
 
 ## The smartphone is an entry point to augmentation
 
-The foundation of this kind of augmentation is already in the hands of billions of people. We tend to think of it as a communications device[^3] or portable computer, but it is also most people's entrypoints to the world of IoT: their smartphone.
+The foundation of this kind of augmentation is already in the hands of billions of people. We tend to think of it as a communications device[^3] or portable computer, but it is also most people's entry point to the world of IoT: their smartphone.
 
 Smartphones sense the environment around them: location, acceleration, sound and more. They also connect to the internet, and therefore tap into large, computational networks.  
 
@@ -47,6 +46,6 @@ The smartphone extends our *data selves*. We carry it constantly on ourselves. I
 And yet, it's not the most elegant interface going forward: It can feel like a bit of a kludge. IoT has the potential to move us beyond this black mirror and enable the next level of augmentation.
 
 
-[^1]: Thanks to Ame Elliot for the example of the Toyota Prius teaching users about energy consumption and how that changed their driving behavior: [https://simplysecure.org/blog/lessons-from-architecture-school-3](https://simplysecure.org/blog/lessons-from-architecture-school-3)
-[^2]: _Toyota Prius dashboard. By It's Our City: https://www.flickr.com/photos/its_our_city/2838668732, licensed CC BY 2.0: https://creativecommons.org/licenses/by/2.0._
-[^3]: Depending on how you slice and dice the data, current estimates of global smartphone usage range somewhere between 2bn ([statista](http://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide/)) and 2.4bn ([GSMA](http://www.gsma.com/mobilefordevelopment/programmes/connected-society)) smart phone users globally, with projections of around 6bn by 2020 ([Ericsson](http://www.ericsson.com/ericsson-mobility-report)).
+[^1]: Thanks to Ame Elliot for the example of the Toyota Prius teaching users about energy consumption and how that changed their driving behavior: [simplysecure.org/blog/lessons-from-architecture-school-3](https://simplysecure.org/blog/lessons-from-architecture-school-3)
+[^2]: _Toyota Prius dashboard. By It's Our City: [flickr.com/photos/its_our_city/2838668732](https://www.flickr.com/photos/its_our_city/2838668732), licensed CC BY 2.0: [creativecommons.org/licenses/by/2.0](https://creativecommons.org/licenses/by/2.0)._
+[^3]: Depending on how you slice and dice the data, current estimates of global smartphone usage range somewhere between 2bn estimated by statista ([statista.com/statistics/330695/number-of-smartphone-users-worldwide/](http://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide/)) and 2.4bn by GSMA ([gsma.com/mobilefordevelopment/programmes/connected-society](http://www.gsma.com/mobilefordevelopment/programmes/connected-society)) smart phone users globally, with projections of around 6bn by 2020 from Ericsson ([ericsson.com/ericsson-mobility-report](http://www.ericsson.com/ericsson-mobility-report)).
