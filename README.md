@@ -32,16 +32,16 @@
 
 # Intro
 
-In May 2015, science fiction author Bruce Sterling gave a keynote at ThingsCon [^1]. In his talk [^2] he introduced a new research project he and his partner Jasmina Tesanovic have been working on: Casa Jasmina [^3], the open source connected home of the future. 
+In May 2015, science fiction author Bruce Sterling gave a keynote at ThingsCon[^1]. In his talk[^2] he introduced a new research project he and his partner Jasmina Tesanovic have been working on: Casa Jasmina[^3], the open source connected home of the future. 
 
 > It's time to live the life. Just go ahead and build the products and see if you can survive being in a room with them. Casa Jasmina is our test bed.
 — Bruce Sterling at ThingsCon
 
-A few weeks later in June 2015, we flew to Turin, Italy along with Alexandra Deschamps-Sonsino [^4] to visit Casa Jasmina and spend some time with the team. 
+A few weeks later in June 2015, we flew to Turin, Italy along with Alexandra Deschamps-Sonsino[^4] to visit Casa Jasmina and spend some time with the team. 
 
 We were curious to see how it would be to live in and contribute to this home of the future, and we're very grateful we got to experience it so early on. 
 
-Ever since visiting [^5] Casa Jasmina, some questions wouldn't leave us alone. There hasn't been a day where the topic of *connected homes* hadn't come up, where we haven't been trying to get closer to figuring out answers, or at least asking better questions. 
+Ever since visiting[^5] Casa Jasmina, some questions wouldn't leave us alone. There hasn't been a day where the topic of *connected homes* hadn't come up, where we haven't been trying to get closer to figuring out answers, or at least asking better questions. 
 
 > How do we interact with a connected home? How does a space communicate what's expected of the people who live in it? What are the ground rules and who has permission to change them? What objects require interaction and what don't? How do we know how to build and live in a connected home?
 
@@ -75,12 +75,12 @@ In this way, we see ourselves as part of **a professional peer-learning communit
 
 The initial publication of this book coincided with the start of a number of projects & conversations. Since then, we have developed our thinking and followed up on some of the questions we addressed in version 1: 
 
-- September 2015: In collaboration with Alexandra Deschamps-Sonsino [^7], Peter launched The Good Home Project [^8] to explore the same set of questions this book addresses through design proposals and exhibits.
+- September 2015: In collaboration with Alexandra Deschamps-Sonsino[^7], Peter launched The Good Home Project[^8] to explore the same set of questions this book addresses through design proposals and exhibits.
 - January 2016: Michelle took on a new role at Mozilla Foundation, leading the Open IoT Studio with Jon Rogers, Professor of Creative Technology at the University of Dundee.[^9]
-- March 2016: Peter co-chaired Interaction16 [^10], a conference that gathered the global interaction design community in Helskinki where many questions of designing connected experiences, services and products were discussed indepth.
-- April 2016: The Good Home Project exhibited at Fuori Salone in Milan with Iohanna Nicenboim [^11] and Michelle.
+- March 2016: Peter co-chaired Interaction16[^10], a conference that gathered the global interaction design community in Helskinki where many questions of designing connected experiences, services and products were discussed indepth.
+- April 2016: The Good Home Project exhibited at Fuori Salone in Milan with Iohanna Nicenboim[^11] and Michelle.
 - April 2016: Michelle curated a series of design sprints around privacy and the connected home, notably the Mozilla Open IoT Design Sprint in Berlin.[^12]
-- April 2016: The German government published a research report and set of policy recommendations that Peter co-authored with Prof. Dr. Christoph Bieber on smart cities and their implications for citizens. [^13]
+- April 2016: The German government published a research report and set of policy recommendations that Peter co-authored with Prof. Dr. Christoph Bieber on smart cities and their implications for citizens.[^13]
 - And throughout, ThingsCon hosted numerous local community events that explore the techniques, design and ethics of connected products and services.
 
 It has been a busy and productive year, with many touch points that are directly relevant to Understanding the Connected Home. All of those activities evolved our thinking. That meant, it was time to revisit the book. 
