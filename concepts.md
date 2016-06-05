@@ -1,7 +1,5 @@
 # Concepts
 
-## DONE
-
 Interactions in the connected home happen at two layers: human-readable and machine-readable. By "readable" we mean a human or machine can easily understand, modify and execute actions.
 
 To engage in the human-readable layer, we may need to learn certain skills and competencies so that we can be empowered in connected environments and able to read, write and participate fully in them.

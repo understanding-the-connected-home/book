@@ -1,7 +1,5 @@
 # Approaches
 
-## DONE
-
 Over the last year, we've experimented with various ways of exploring the questions surrounding the connected home.
 
 We're trying out a wide range of formats and research methods and are happy to share our experiences with them so far, as well as learn about new approaches.

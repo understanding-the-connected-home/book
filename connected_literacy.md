@@ -1,7 +1,5 @@
 # Connected literacy 
 
-## DONE
-
 *To be empowered in the connected home, we will need to learn certain skills and competencies so that we can fully read, write and participate in these technologies.* 
 
 ## Building on web literacy
@@ -63,5 +61,5 @@ Taking a closer look:
 
 As connected homes come online, these might be some of the skills and competencies required to be empowered in these new environments. These questions might also provide interesting avenues of design and technical research, as well as considerations for future lesson plans and courses.  
 
-[^1]: See [Mozilla Web Literacy Map](https://learning.mozilla.org/web-literacy)
+[^1]: See Mozilla Web Literacy Map: [learning.mozilla.org/web-literacy](https://learning.mozilla.org/web-literacy)
 [^2]: As an example, what would the reference look like for a digital artwork in a connected picture frame like the Electric Object?

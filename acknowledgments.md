@@ -6,7 +6,7 @@ A huge thank you to **Jasmina Tesanovic and Bruce Sterling** for their kind hosp
 
 Grazie mille to the whole Arduino team especially **Lorenzo Romagnoli and Davide Gomba** for hosting us and making us feel so welcome in Torino. 
 
-It's also such a pleasure to think about and tinker with connected homes together with **Jon Rogers** from the University of Dundee. From faciliating workshops, to inviting us to Fife, and to always bringing a collaborative, open spirit to everything he does, we can't wait to keep exploring the future together. 
+It's also such a pleasure to think about and tinker with connected homes together with **Jon Rogers** from the University of Dundee. From facilitating workshops, to inviting us to Fife, and to always bringing a collaborative, open spirit to everything he does, we can't wait to keep exploring the future together. 
 
 A big thank you for lovely, inspiring and informative chats to **Matt Webb**, **Matt Biddulph** and **Tom Coates**.
 
