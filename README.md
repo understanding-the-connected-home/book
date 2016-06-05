@@ -1,9 +1,3 @@
-<h1> v2—in progress </h1>
-Please note: We are in the process of revising the book in preparation for version 2. Until this revision is done, the text online is going to look messy with many lose ends. The new version will be available here in June; until then, please refer to [this archived version 1 (PDF)](https://www.dropbox.com/s/4yp9delbrw9l0wu/20150911%20understanding-the-connected-home.pdf?dl=0).
-
-## WRITTEN by peter
-## PROOFED by Michelle
-
 <h1> About the authors </h1>
 <div>
     <img class="left" src="http://www.thewavingcat.com/wp-content/uploads/2014/10/Nina-Zimmermann-IMG_5259-3-300x200.jpg" alt="peter-bihr">
@@ -63,7 +57,7 @@ There are many challenges ahead, including designing interactions, privacy, user
 
 ## Welcome to version 2
 
-We published version 1 of [Understanding the Connected Home](http://theconnectedhome.org) a few months after our visit to Turin, in the fall of 2015. [^6] 
+We published version 1 of [Understanding the Connected Home](http://theconnectedhome.org) a few months after our visit to Turin, in the fall of 2015.[^6] 
 
 It turns out this collection of essays could not have been more timely. Just about every major tech company has now entered the field of connected homes with a smart home hub, a wifi-enabled light bulb or thermostat or some other gadget. 
 
@@ -98,9 +92,11 @@ As always, we look forward to hearing about your thinking and hope to talk to yo
 
 ## How to use this book
 
-We laid the ground for this book in a one-week content sprint. Since then, it has become an ongoing research project. You can find the results both here and outside the scope of this book in other areas of our work.
+We laid the ground for this book in a one-week content sprint in 2015. Since then, it has become an ongoing research project spawning conversations and results both in this book (as version 2) as well as in other areas of our work.
 
 We have been writing this in public on Gitbook, and license the content under a [Creative Commons Attribution Non-Commercial license (BY-NC)](http://creativecommons.org/licenses/by-nc/4.0/), so you can adapt and re-use the texts, too. If in doubt or if you have feedback, please get in touch (details in the [Contact section](contact.md)).
+
+You can find the original release, version 1, archived as a PDF at [dropbox.com/s/4yp9delbrw9l0wu/20150911%20understanding-the-connected-home.pdf?dl=0](https://dropbox.com/s/4yp9delbrw9l0wu/20150911%20understanding-the-connected-home.pdf?dl=0).
 
 
 Peter Bihr & Michelle Thorne  
@@ -112,13 +108,13 @@ Berlin, June 2016
 [^3]: Casa Jasmina is a joint research project by Bruce Sterling and Jasmina Tesanovic as well as the Arduino team, represented by Lorenzo Romagnoli and Massimo Banzi. To learn more about Casa Jasmina visit [casajasmina.arduino.cc](http://casajasmina.arduino.cc)
 [^4]: Learn more about Alexandra on her website [designswarm.com](http://designswarm.com) and follow her on Twitter [@iotwatch](http://twitter.com/iotwatch).
 [^5]: For detailed reports visit Michelle's blog post on [michellethorne.cc](http://michellethorne.cc/2015/07/casa-jasmina-how-to-be-a-guest-in-an-open-source-connected-home/) and Peter's at [thewavingcat.com](http://www.thewavingcat.com/2015/07/22/visiting-casa-jasmina/).
-[^6]: Version 1 is available in the archives as a PDF: [https://www.dropbox.com/s/4yp9delbrw9l0wu/20150911%20understanding-the-connected-home.pdf?dl=0](https://www.dropbox.com/s/4yp9delbrw9l0wu/20150911%20understanding-the-connected-home.pdf?dl=0)
-[^7]: [http://designswarm.com](http://designswarm.com)
-[^8]: http://thegoodhome.org
-[^9]: Learn more about Jon on his university website [http://www.dundee.ac.uk/djcad/staff/jonrogers/](http://www.dundee.ac.uk/djcad/staff/jonrogers/) and follow him on Twitter [@ileddigital](http://twitter.com/ileddigital). 
-[^10]: http://interaction16.ixda.org
-[^11]: http://iohanna.com
-[^12]: http://www.thewavingcat.com/2016/04/25/privacy-machines/
-[^13]: http://www.thewavingcat.com/2016/04/25/smart-cities-in-the-21c-humanity-on-the-move-the-transformative-power-of-cities/
+[^6]: Version 1 is available in the archives as a PDF: [dropbox.com/s/4yp9delbrw9l0wu/20150911%20understanding-the-connected-home.pdf?dl=0](https://www.dropbox.com/s/4yp9delbrw9l0wu/20150911%20understanding-the-connected-home.pdf?dl=0)
+[^7]: [designswarm.com](http://designswarm.com)
+[^8]: [thegoodhome.org](http://thegoodhome.org)
+[^9]: Learn more about Jon on his university website [dundee.ac.uk/djcad/staff/jonrogers/](http://www.dundee.ac.uk/djcad/staff/jonrogers/) and follow him on Twitter [@ileddigital](http://twitter.com/ileddigital). 
+[^10]: [interaction16.ixda.org](http://interaction16.ixda.org)
+[^11]: [iohanna.com](http://iohanna.com)
+[^12]: [thewavingcat.com/2016/04/25/privacy-machines/](http://www.thewavingcat.com/2016/04/25/privacy-machines/)
+[^13]: [www.thewavingcat.com/2016/04/25/smart-cities-in-the-21c-humanity-on-the-move-the-transformative-power-of-cities/](http://www.thewavingcat.com/2016/04/25/smart-cities-in-the-21c-humanity-on-the-move-the-transformative-power-of-cities/)
 
 
