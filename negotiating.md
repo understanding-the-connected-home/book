@@ -2,8 +2,7 @@
 
 _As we invite more algorithmic agents into our lives, we'll see more conflicts both between machines and humans, as well as among machines. How can we understand and mediate these conflicts?_
 
-## WRITTEN: M
-## PROOFED?
+## DONE
 
 How can interactions and understanding be mediated across the human-readable and machine-readable layers? 
 
@@ -16,11 +15,9 @@ Here we discuss the idea of a "user agent" that translates and negotiates across
 
 ## Where conflicts arise
 
-Whenever we enter or leave a connected environment, some type of data engagement will take place. Whether it is opt-in or opt-out or something more granular, whether it is an all-or-nothing, binary choice like a EULA, or something negotiated between humans or software agents. 
+Whenever we enter or leave a connected environment, some type of data engagement will take place. This could be an opt-in or opt-out or something more granular. It could be an all-or-nothing, binary choice like a EULA, or something negotiated between humans or software agents. 
 
-We need to find ways to make this type of interaction and exchange understandable, human-readable, and negotiable.
-
-It seems better to discuss today how to get this right, or at least how to ask the right questions that will arise tomorrow.
+We need to find ways to make this type of interaction and exchange understandable, human-readable, and negotiable. It seems better to discuss today how to get this right, or at least how to ask the right questions that will arise tomorrow.
 
 The other aspect is the negotiating of agreements on a (semi-)automatic level. Even more than on the web, in the physical space we need to be in control of our privacy. 
 
@@ -32,12 +29,12 @@ So what could that look like? What's the interface for negotiating these questio
 
 We cannot yet answer these questions but can make some educated guesses:
 
-- **Social norms might solve many of these questions before they even become problematic.** Most home owners might turn down "sniffing" levels to the lowest default, while some early adopters turn it up. In both cases, their friends and peer group should self-select, exactly like it happens today. Some people use CCTV cameras on their premises, others don't. Some have guns in their homes, others don't. Some play loud music, others don't. No technological negotiations are at work here. Social interactions, legal regulation and cultural norms are used to resolve these things.
+- **Social norms might solve many of these questions before they even become problematic.** Most home owners might turn down "sniffing" levels to the lowest default, while some early adopters turn it up. In both cases, their friends and peer group are likely to self-select, exactly like it happens today. Some people use CCTV cameras on their premises, others don't. Some have guns in their homes, others don't. Some play loud music, others don't. No technological negotiations are at work here. Social interactions, legal regulation and cultural norms are used to resolve these things.
 - **Design principles that honor privacy will win the market.** It makes sense to honor privacy in the home and to make it an overwhelmingly strong default. The market might simply solve this as users vote with their money. Different regions/markets might produce different outcomes, as these preferences differ across countries.
 - **Smart contracts could provide a technological backend.** Unlike in software and web services where users are routinely forced to accept End User License Agreements (EULAs), there is a window of opportunity to create a better system for IoT in general and the connected home in particular. Each person could store their personal agreements on a digital ID that negotiates a deal with the connected environment. Say Alice the visitor is fine to be sniffed for wifi devices, refuses to be captured by CCTV, and doesn't have a strong preference around mood lighting. Bob the home owner has similarly expressed his preferences. A relatively simple algorithm could match them up so that the camera stops recording, while Bob's mood lighting preferences override Alice's (since she doesn't care anyway) and the system does connect to Alice's wifi devices because she agreed to it.[^2] For heightened security needs, the blockchain could be used to verify these negotiations. This might seem like overkill now, but might turn out to be relatively seamless and offer smooth sailing.
-- **We need a Do Not Track for the physical space.** As a lowest-common denominator, we might need Do Not Track not just for connected homes, but especially for smart cities and connected retails spaces. This could be a device or service that allows us to reliably opt-out of marketing & advertising tracking as it enters physical spaces.
+- **We need a Do Not Track for the physical space.** As a lowest-common denominator, we might need a Do Not Track[^3] for the physical world. Not just for connected homes, but especially for smart cities and connected retails spaces. This could be a device or service that allows us to reliably opt-out of marketing & advertising tracking as it enters physical spaces.
 
-These rules and types of interactions need to be human and machine readable. For any of this to work, we need to come up with a way to communicate these rules in a format that is legible by humans and machines alike, like Creative Commons licenses.[^3] 
+These rules and types of interactions need to be human and machine readable. For any of this to work, we need to come up with a way to communicate these rules in a format that is legible by humans and machines alike, like Creative Commons licenses.[^4] 
 
 ## Managing Conflict
 
@@ -45,7 +42,7 @@ When we introduce connectedness into infrastructure like buildings—into our ho
 
 For example, a Nest thermostat's primary goal might be to achieve and maintain a certain temperature in the living room; a secondary goal might be to save energy.
 
-The owner of the Nest has given that objective to the thermostat. And while it will undergo some interpretation at the hand of the algorithm (say you express you prefer a desire for the temperature to be 19° Celsius and the algorithm knows to translate this statement into "you want 19° Celsius in your living room _when you are at home_ but while you're gone temperature can vary to lower energy consumption"), the goals come more or less from the user.
+The owner of the Nest has given that objective to the thermostat. And while it will undergo some interpretation at the hand of the algorithm. Say you express you prefer a desire for the temperature to be 19° Celsius and the algorithm knows to translate this statement into "you want 19° Celsius in your living room _when you are at home_ but while you're gone temperature can vary to lower energy consumption". The algorithm's goals are set directly or indirectly by the user.
 
 The user this example is a _single human being_. It's important to stress this as these kinds of interaction models tend to break down, or at least be challenged, along three axes once we do not talk about single-user scenarios:
 
@@ -71,19 +68,19 @@ When we introduce smart appliances to our home, we deal with software agents. In
 
 Good friend and excellent systems thinker/designer Louisa Heinrich articulated this perfectly with an example of different appliances fighting over the blinds being open or closed based on their respective goals: The coffee machine wants them closed so the milk keeps longer, dishwasher wants them open to grab some solar power, the Nest wants them closed to keep the temperature low, the plants want them open... 
 
-Who moderates these conflicts? What happens when you—the master—are not at home?[^4] 
+Who moderates these conflicts? What happens when you—the master—are not at home?[^5] 
 
-In Louisa's words, "There is a narrow but very deep gap between assistance and replacement."[^5]
+In Louisa's words, "There is a narrow but very deep gap between assistance and replacement."[^6]
 
 ## When things clash
 
 We still need a bit of a framework to interrogate and explore these conflicts between the smart agents in our environment. 
 
-Enter Scott Smith, who at ThingsCon 2015 shared his excellent research project, Thingclash. It's a framework for considering cross-impacts and implications of colliding technologies, systems, cultures and values around the IoT:[^6]
+Enter Scott Smith, who at ThingsCon 2015 shared his excellent research project, Thingclash. It's a framework for considering cross-impacts and implications of colliding technologies, systems, cultures and values around the IoT:[^7]
 
 [![Scott Smith at ThingsCon](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/talk_scottsmith.png)](https://www.youtube.com/embed/CjcJfGrWKNA)
 
-As Scott points out starting around the 27 min mark (but we strongly recommend watching the whole talk), it's crucial to think about the legacy of UX decisions, business models, etc., to explore the different cross-impacts, the implications.
+As Scott points out starting around the 27 min mark, it's crucial to think about the legacy of UX decisions, business models, etc., to explore the different cross-impacts, the implications.
 
 > "Can we find a way to surface and make legible the tensions and the frictions and the conflicts that arise when new connected, data-collecting objects are introduced into our world?"
 
@@ -99,12 +96,13 @@ This tool could function like the web browser does today when surfing online. As
 
 This interpretation tool can also communicate preferences to devices and connected environment. It might also be where conflicts among devices and preferences are brought to the attention of the user, who can parse and override certain decisions. This could also be the interface for the user to express themselves, either to machines in the environment or to other users.
 
-Given the above needs, the smartphone may be a natural place to start exploring what a user agent in the connected home could look like. 
+Given the above needs, the smartphone seems to be a natural place to start exploring what a user agent in the connected home could look like. In due time, other interfaces will surely develop. Until that is the case, the challenge for designers is not to increase even more the smartphone's ongoing attention grabbing, this time on behalf of our apartments. 
 
-[^1]: Wifi sniffing smart rubbish bins installed, and then abandoned, in London a few years ago. [cnet.com/news/london-tosses-out-wi-fi-sniffing-smart-bins](http://www.cnet.com/news/london-tosses-out-wi-fi-sniffing-smart-bins/)
+[^1]: For now. Wifi sniffing smart rubbish bins were installed, and then abandoned, in London a few years ago. [cnet.com/news/london-tosses-out-wi-fi-sniffing-smart-bins](http://www.cnet.com/news/london-tosses-out-wi-fi-sniffing-smart-bins/)
 [^2]: Read more about what smart contracts could look like in practice in our [Controlling Privacy chapter.](controlling_privacy.md)
-[^3]: Read more about human-readable and machine-readable layers in our [Interaction layers chapter.](interations.md)
-[^4]: Watch Louisa Heinrich's talk at NEXT14, especially around the 7 minute mark: [video.nextconf.eu/v.ihtml?photo%5fid=9802229](http://video.nextconf.eu/v.ihtml?photo%5fid=9802229). 
-[^5]: See [louisaheinrich.com/2015/03/23/good-help-is-hard-to-find-post-26100](http://www.louisaheinrich.com/2015/03/23/good-help-is-hard-to-find-post-26100/) 
-[^6]: Check out Scott Smith's research project [thingclash.com](http://www.thingclash.com/) and his personal website [changeist.com](http://changeist.com).
+[^3]: See [en.wikipedia.org/wiki/Do_Not_Track(https://en.wikipedia.org/wiki/Do_Not_Track)]
+[^4]: Read more about human-readable and machine-readable layers in our [Interaction layers chapter.](interations.md)
+[^5]: Watch Louisa Heinrich's talk at NEXT14, especially around the 7 minute mark: [video.nextconf.eu/v.ihtml?photo%5fid=9802229](http://video.nextconf.eu/v.ihtml?photo%5fid=9802229). 
+[^6]: See [louisaheinrich.com/2015/03/23/good-help-is-hard-to-find-post-26100](http://www.louisaheinrich.com/2015/03/23/good-help-is-hard-to-find-post-26100/) 
+[^7]: Check out Scott Smith's research project [thingclash.com](http://www.thingclash.com/) and his personal website [changeist.com](http://changeist.com). The video of his talk is available at [youtube.com/embed/CjcJfGrWKNA](https://www.youtube.com/embed/CjcJfGrWKNA).
 
