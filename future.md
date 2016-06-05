@@ -1,8 +1,6 @@
 # Future
 
-## DONE
-
-_Smartphones are a sign of the speed of change that our homes may soon face. These rapid lifecyles bring risks, such as security vulnerabilities and broken devices. There's an urgency to address these issues now, as well as innovation opportunities, to ensure throughout that the home remains a place that puts humans first._  
+_Smartphones are a sign of the speed of change that our homes may soon face. These rapid lifecycles bring risks, such as security vulnerabilities and broken devices. There's an urgency to address these issues now, as well as innovation opportunities, to ensure throughout that the home remains a place that puts humans first._  
 
 ## The speed of change
 
@@ -14,7 +12,7 @@ Since the advent of the iPhone and Android, we've seen entire industries and soc
 
 ![HTC Dream](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/htc_dream.jpg)
 
-_HTC Dream mobile phone with AZERTY keyboard for French market. By Akela NDE, CC BY-SA 3.0 [^1]_
+_HTC Dream mobile phone with AZERTY keyboard for French market. By Akela NDE, CC BY-SA 3.0[^1]_
 
 If anything, the last decade shows us how quickly new technologies can be pciked up and become mundane in their ubiquity. We anticipate a similar trajectory for the connected home. 
 
@@ -46,7 +44,7 @@ There aren't many connected homes today. Similar to smartphone proliferation, it
 
 Exceptions may be in some cities, such as in South Korea, where large-scale network infrastructure is being installed directly into the new buildings. In other places, retro-fitting is a more common path to connectedness, and that will likely move at a slower pace. 
 
-For a glimpse of what the connected home may be like, we can examine the trajectories of other connected environments, such as **retail spaces, office buildings, and hotels.**  
+For a glimpse of what the connected home may be like, we can examine the trajectories of other connected environments, such as retail spaces, office buildings, and hotels. 
 
 Already our behavior in these spaces is being tracked. As we move through the city, into stores and offices, in transit and on our devices, many systems are recording what we look at, what we click on and what we do. 
 
@@ -54,7 +52,7 @@ Due to the generally temporary and transactional nature of our interactions in t
 
 ![Mannequins](https://raw.githubusercontent.com/understanding-the-connected-home/book/master/img/mannequins.jpg)
 
-_Mannequiner i en tøjbutik i Canada. By Colin Rose, CC BY 2.0 [^5]_
+_Mannequiner i en tøjbutik i Canada. By Colin Rose, CC BY 2.0[^5]_
 
 Similarly, on the web, advertising companies are particularly aggressive in how they track us.[^6] Through consumer education and proection as well as browser tools like ad blockers and Do Not Track, we can mitigate these tracking measures. However, it is basically an arms race with online advertising. Our privacy is increasingly eroded, and our web experiences slowed down as ad companies try to ensure we are humans and serve us tailored ads.
 
@@ -76,10 +74,10 @@ The future is one that promises augmentation. But the only kind of connection an
 
 We will continue to explore concepts and scenarios that bring these risks and opportunities to life. And throughout, we will be guided by the understanding that above all else, no matter what technology can, the home is for the people living in it. 
 
-[^1]: By Akela NDE: https://commons.wikimedia.org/wiki/User:Akela_NDE, Own work. Licensed CC BY-SA 3.0: http://creativecommons.org/licenses/by-sa/3.0/, available at https://commons.wikimedia.org/w/index.php?curid=6680413.
-[^2]: For a recent example, learn more about how Google killswitched one of its home automation products, Revolv, and explained to customers how the warranty had expired: https://boingboing.net/2016/04/05/google-reaches-into-customers.html
-[^3]: For more thinking about how products and services should end, see Joe Macleod's Closure Experiences: http://www.closureexperiences.com/ 
-[^4]: EyeSee mannequins, for example, recognize retail customers' faces and record their movements in a store. http://www.theverge.com/2012/11/20/3670222/almax-eyesee-dummy-retail-facial-recognition-privacy
-[^5]: By Colin Rose: http://flickr.com/photos/73416633@N00 Licensed CC BY 2.0: http://creativecommons.org/licenses/by/2.0, availabled at: https://commons.wikimedia.org/w/index.php?curid=3214087
-[^6]: The documentary "Do Not Track" by Brett Gaylor explains the perils of tracking and practical measures to reducing it: https://donottrack-doc.com
-[^7]: There is a growing number of apps and services to offer unified interfaces. San Francisco-based startup [Thington](http://thington.com/) offers a simple concierge-like interface that aims to bring all smart home devices into one app based on their APIs. It's an easy-to-use approach with intelligent, well-designed interactions. Other approaches that are even more explicitly conversational include the smart home hubs Amazon Echo and Google Home, both of which bring voice control into the home (and fold their respective mother companies' services right in).
+[^1]: By Akela NDE: [commons.wikimedia.org/wiki/User:Akela_NDE](https://commons.wikimedia.org/wiki/User:Akela_NDE), Own work. Licensed CC BY-SA 3.0: [creativecommons.org/licenses/by-sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/), available at [commons.wikimedia.org/w/index.php?curid=6680413](https://commons.wikimedia.org/w/index.php?curid=6680413).
+[^2]: For a recent example, learn more about how Google killswitched one of its home automation products, Revolv, and explained to customers how the warranty had expired: [boingboing.net/2016/04/05/google-reaches-into-customers.html](https://boingboing.net/2016/04/05/google-reaches-into-customers.html)
+[^3]: For more thinking about how products and services should end, see Joe Macleod's Closure Experiences: [closureexperiences.com](http://www.closureexperiences.com/) 
+[^4]: EyeSee mannequins, for example, recognize retail customers' faces and record their movements in a store. [theverge.com/2012/11/20/3670222/almax-eyesee-dummy-retail-facial-recognition-privacy](http://www.theverge.com/2012/11/20/3670222/almax-eyesee-dummy-retail-facial-recognition-privacy)
+[^5]: By Colin Rose: [flickr.com/photos/73416633@N00](http://flickr.com/photos/73416633@N00) Licensed CC BY 2.0: [creativecommons.org/licenses/by/2.0](http://creativecommons.org/licenses/by/2.0), available at [commons.wikimedia.org/w/index.php?curid=3214087](https://commons.wikimedia.org/w/index.php?curid=3214087).
+[^6]: The documentary "Do Not Track" by Brett Gaylor explains the perils of tracking and practical measures to reducing it: [donottrack-doc.com](https://donottrack-doc.com)
+[^7]: There is a growing number of apps and services to offer unified interfaces. San Francisco-based startup Thington ([thington.com](http://thington.com/)) offers a simple concierge-like interface that aims to bring all smart home devices into one app based on their APIs. It's an easy-to-use approach with intelligent, well-designed interactions. Other approaches that are even more explicitly conversational include the smart home hubs Amazon Echo and Google Home, both of which bring voice control into the home (and fold their respective mother companies' services right in).

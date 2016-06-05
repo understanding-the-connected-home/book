@@ -2,8 +2,6 @@
 
 _Privacy is complex, contextual, cultural, fuzzy, and we need to develop the vocabulary and tools to put people in control of their privacy._
 
-## DONE
-
 Privacy is complex, contextual, cultural, fuzzy. It is hard to get right, especially in the context of connected things. Really hard. 
 
 Our vocabulary has not evolved as quickly as technological and societal change has. We are essentially stuck—for now—with crutches, metaphorically speaking. 
@@ -123,7 +121,7 @@ As these products are built, our policies need to adjust as well. Rather than pl
 In the mean time, the brunt of the burden is on the shoulders of UX designers. As a group, they might be the best positioned professionals with both the skill sets and the mandate to ensure users are empowered to control their own privacy.
 
 
-[^1]: http://thegoodhome.org/projects/privacy-dimmer/
-[^2]: http://thegoodhome.org/milan/
-[^3]: Our group consisted of Rachel Uwa, Martin Skelly, Vladan Joler and Peter Bihr. You can find photos and more descriptions of the various fictional privacy machines at [http://www.thewavingcat.com/2016/04/25/privacy-machines/](http://www.thewavingcat.com/2016/04/25/privacy-machines/)
+[^1]: [thegoodhome.org/projects/privacy-dimmer/](http://thegoodhome.org/projects/privacy-dimmer/)
+[^2]: [thegoodhome.org/milan](http://thegoodhome.org/milan/)
+[^3]: Our group consisted of Rachel Uwa, Martin Skelly, Vladan Joler and Peter Bihr. You can find photos and more descriptions of the various fictional privacy machines at [thewavingcat.com/2016/04/25/privacy-machines/](http://www.thewavingcat.com/2016/04/25/privacy-machines/)
 

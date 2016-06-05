@@ -2,8 +2,6 @@
 
 *A connected object is one that senses, thinks, and acts. The home has categories of connected objects that tend not to be in other spaces, such as white goods and personal memorabilia.*
 
-## DONE
-
 ## What is a connected object
 
 Depending on the field, the terms *smart* and *connected* are used largely interchangeably. For the purposes of this book, we primarily use the term *connected*. 
@@ -108,6 +106,6 @@ The fourth category is **truly new stuff**. The unknown unknowns we can only spe
 
 We'll be watching with interest over the next five to twenty-five years as more connected objects, from fridges to kitchen tables, come online. 
 
-[^1]: See AV Interaction (Jan 2016): [http://www.avinteractive.com/news/samsung-announces-plans-to-make-all-tvs-iot-devices-by-2017-06-01-2016/](http://www.avinteractive.com/news/samsung-announces-plans-to-make-all-tvs-iot-devices-by-2017-06-01-2016/)
-[^2]: https://on.google.com/hub/
-[^3]: http://fuckyeahinternetfridge.tumblr.com/
+[^1]: See AV Interaction (Jan 2016): [avinteractive.com/news/samsung-announces-plans-to-make-all-tvs-iot-devices-by-2017-06-01-2016/](http://www.avinteractive.com/news/samsung-announces-plans-to-make-all-tvs-iot-devices-by-2017-06-01-2016/)
+[^2]: [on.google.com/hub/](https://on.google.com/hub/)
+[^3]: [fuckyeahinternetfridge.tumblr.com](http://fuckyeahinternetfridge.tumblr.com/)

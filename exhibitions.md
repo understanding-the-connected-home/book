@@ -2,8 +2,6 @@
 
 _Designing speculative prototypes is a worthwhile way to make complex, abstract issues more graspable, and an exhibition can provide helpful deadlines and a platform to share your work with the public._
 
-## DONE
-
 In addition to the intellectual exploration of connected homes that has become this book, we wanted to also proposing actual design solutions to the complex and often abstract questions posed by increasingly connected homes. 
 
 Thus exhibiting became a regular tool in our projects, such as the Mozilla Open IoT Studio, and new ones were born, namely the Good Home Project in collaboration with Alexandra Deschamps-Sonsino.[^1] 
