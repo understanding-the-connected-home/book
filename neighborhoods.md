@@ -1,7 +1,5 @@
 # Neighborhoods
 
-## DONE
-
 _How can connected homes contribute to a healthier neighborhood, and how can it offer residents a better ambient understanding of what's happening in the neighborhood?_
 
 When connected homes are networked together, we may see tremendous potential to improve the neighborhood they're in. Here we outline some ideas.

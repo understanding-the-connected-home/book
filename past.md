@@ -1,7 +1,5 @@
 # Past
 
-## DONE
-
 *In the past, human-to-machine interaction was modeled primarily on a single user interacting with a single machine. The lifespans of our built environment were long. And most use cases for the "home of the future" were about automation.* 
 
 ## Single user, single machine
@@ -20,7 +18,7 @@ _Human-computer interface with mouse. Photo: Doug Engelbart Institute_
 
 If you watch Engelbart's demo (which you should, it's both brilliant and entertaining), you will note that he has to start pretty much with first principles:
 
-**When introducing the mouse, Engelbart doesn't just introduce a new connected object. He also introduces a new paradigm of human-machine interaction.**
+When introducing the mouse, Engelbart doesn't just introduce a new connected object. He also introduces a new paradigm of human-machine interaction.
 
 That means he doesn't just need to explain how the mouse works, but also needs to elaborate on:
 
@@ -33,7 +31,6 @@ For example, there's a long passage in the demo in which Engelbart describes typ
 That's a lot of explaining for just one small, novel device. 
 
 Engelbart's demo gives us a good understanding of the challenge for today's product designers making objects for the connected home. Not only do they have to describe what the object is and why its useful, they are also defining an entirely new field, with new layers of interaction and more complex systems than we've ever seen in our homes before. 
-
 
 ## Long lifespans
 
@@ -80,18 +77,18 @@ There is great opportunity for technology to augment human intellect. However, c
 Now is the moment to go beyond automation and determine what augmentation we desire. 
 
 [^1]: Card, Stuart K.; Thomas P. Moran; Allen Newell (July 1980). "The keystroke-level model for user performance time with interactive systems". Communications of the ACM 23 (7): 396–410. doi:[10.1145/358886.358895](http://dl.acm.org/citation.cfm?doid=358886.358895)
-[^2]: Thanks to [Scott Jensen](http://www.jenson.org/) for the pointer to Engelbart's work for this context. 
-[^3]: [http://www.dougengelbart.org/firsts/mouse.html](http://www.dougengelbart.org/firsts/mouse.html)
-[^4]: Watch Doug Engelbart's demo at [The Mother of All Demos (video playlist)](https://www.youtube.com/playlist?list=PL76DBC8D6718B8FD3&feature=plcp).
-[^5]: Moore's Law: [https://en.wikipedia.org/wiki/Moore's_law](https://en.wikipedia.org/wiki/Moore's_law)
-[^6]: By Wgsimon—Own work licensed under Creative Commons CC BY-SA 3.0 [https://commons.wikimedia.org/w/index.php?curid=15193542](https://commons.wikimedia.org/w/index.php?curid=15193542)
-[^7]: Thanks to [Ame Elliot](https://simplysecure.org/blog/lessons-from-architecture-school-1) for articulating the differences in lifespans for architecture, connected objects and digital services.
-[^8]: By Peter Bihr. [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
-[^9]: By Laura de Reynal. [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
+[^2]: Thanks to Scott Jensen for the pointer to Engelbart's work for this context: [jenson.org](http://www.jenson.org/) 
+[^3]: [dougengelbart.org/firsts/mouse.html](http://www.dougengelbart.org/firsts/mouse.html)
+[^4]: Watch Doug Engelbart's demo at [youtube.com/playlist?list=PL76DBC8D6718B8FD3&feature=plcp](https://www.youtube.com/playlist?list=PL76DBC8D6718B8FD3&feature=plcp).
+[^5]: Moore's Law: [en.wikipedia.org/wiki/Moore's_law](https://en.wikipedia.org/wiki/Moore's_law)
+[^6]: By Wgsimon—Own work licensed under Creative Commons CC BY-SA 3.0 [commons.wikimedia.org/w/index.php?curid=15193542](https://commons.wikimedia.org/w/index.php?curid=15193542)
+[^7]: Thanks to Ame Elliot for articulating the differences in lifespans for architecture, connected objects and digital services: [simplysecure.org/blog/lessons-from-architecture-school-1](https://simplysecure.org/blog/lessons-from-architecture-school-1)
+[^8]: By Peter Bihr licensed under CC BY 2.0: [creativecommons.org/licenses/by/2.0/](https://creativecommons.org/licenses/by/2.0/)
+[^9]: By Laura de Reynal licensed under CC BY-NC 2.0: [creativecommons.org/licenses/by-nc/2.0](https://creativecommons.org/licenses/by-nc/2.0/)
 [^10]: Thanks to Alexandra Deschamps-Sonsino for the critique of past "homes of the future."
-[^11]: [https://en.wikipedia.org/wiki/Monsanto_House_of_the_Future](https://en.wikipedia.org/wiki/Monsanto_House_of_the_Future) 
-[^12]: [https://en.wikipedia.org/wiki/Design_for_Dreaming](https://en.wikipedia.org/wiki/Design_for_Dreaming)
-[^13]: [http://www.dougengelbart.org/pubs/augment-3906.html](http://www.dougengelbart.org/pubs/augment-3906.html)
+[^11]: [en.wikipedia.org/wiki/Monsanto_House_of_the_Future](https://en.wikipedia.org/wiki/Monsanto_House_of_the_Future) 
+[^12]: [en.wikipedia.org/wiki/Design_for_Dreaming](https://en.wikipedia.org/wiki/Design_for_Dreaming)
+[^13]: [dougengelbart.org/pubs/augment-3906.html](http://www.dougengelbart.org/pubs/augment-3906.html)
 
 
 

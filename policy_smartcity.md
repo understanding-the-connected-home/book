@@ -2,8 +2,6 @@
 
 _Connected homes exist within the larger context of a smart city, and we need to design both services and policies to make this work for citizens._
 
-## DONE
-
 In this book, we focus primarily on the home as a connected environment. However, as is the nature of networked systems, homes do not exist independently but rather in context. We need to consider a smart home in the context of the smart city. This holds especially true here where data will be exchanged between systems.. 
 
 ## A smart home in a smart city

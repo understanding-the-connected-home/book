@@ -1,8 +1,6 @@
 # Moving in and out of homes
 
 _If we live inside a computer, how do we handle and maintain our data? How does data change the way we live in a house or move in and out?_
- 
-## DONE
 
 A connected home is a home kitted out with sensors and network infrastructure—it is essentially a computer we live in. 
 
@@ -93,8 +91,8 @@ What do failure modes in connected homes look like? Is there an off switch? How 
 
 
 [^1]: As Cory Doctorow does here: [wired.co.uk/magazine/archive/2015/07/features/stop-spies](http://www.wired.co.uk/magazine/archive/2015/07/features/stop-spies)
-[^2]: See the article [Future](future.md) or for earlier thoughts on this topic: [thewavingcat.com/2015/08/03/understanding-the-connected-home-ground-rules/](http://www.thewavingcat.com/2015/08/03/understanding-the-connected-home-ground-rules/)
-[^3]: See the article on [Mediating](mediating_across_layers.md), or for earlier thoughts [http://www.thewavingcat.com/2015/08/17/understanding-the-connected-home-managing-conflict/](http://www.thewavingcat.com/2015/08/17/understanding-the-connected-home-managing-conflict/)
+[^2]: See the chapter [Future](future.md) or for earlier thoughts on this topic: [thewavingcat.com/2015/08/03/understanding-the-connected-home-ground-rules/](http://www.thewavingcat.com/2015/08/03/understanding-the-connected-home-ground-rules/)
+[^3]: See the chapter on [Negotiating](negotiating.md), or for earlier thoughts [http://www.thewavingcat.com/2015/08/17/understanding-the-connected-home-managing-conflict/](http://www.thewavingcat.com/2015/08/17/understanding-the-connected-home-managing-conflict/)
 [^4]: Source: Wikipedia [commons.wikimedia.org/wiki/File:Windows_9X_BSOD.png#/media/File:Windows_9X_BSOD.png](https://commons.wikimedia.org/wiki/File:Windows_9X_BSOD.png#/media/File:Windows_9X_BSOD.png), Licensed under Public Domain via Wikimedia Commons.
 [^5]: More about the Good Home project and the other exhibits we made for the Fuori Salone at Milan see [thegoodhome.org/projects](http://thegoodhome.org/projects/)
 [^6]: See [thegoodhome.org/projects/home-totem/](http://thegoodhome.org/projects/home-totem/)
