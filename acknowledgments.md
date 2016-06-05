@@ -13,11 +13,15 @@ It's also such a pleasure to think about and tinker with connected homes togethe
 
 A big thank you for lovely, inspiring and informative chats to **Matt Webb**, **Matt Biddulph** and **Tom Coates**.
 
-**Louisa Heinrich** and **Scott Smith** have been doing tremendous work in this field. Conversations with them, as well as their massive output, have been priceless. Please read & watch everything they produce. 
+**Louisa Heinrich** has been doing tremendous work in this field. Conversations with her, as well as her frequent talks, have been priceless.  
+
+**Scott Smith** and his team at Changeist have been an ongoing source of inspiration. Especially their research project Thingclash and their outstanding critical IoT reading list are priceless.
 
 A big shoutout to the **Max Krüger, Simon Höher, and Emanuel Schwarz** as partners in crime for ThingsCon. You all are always thinking about how to make great events around this topic. An amazing bunch to work with.
 
-Conversations with **Alper Çuğun** are always insightful and entertaining, but his thinking around conversational interfaces has been especially helpful.  
+Conversations with **Alper Çuğun** are always insightful and entertaining, but his thinking around conversational interfaces has been especially helpful. We highly recommend you seek out his upcoming book on the topic.
 
 Thanks to Prof. Dr. **Christoph Bieber**. Writing a study and policy recommendations around smart cities for the German federal government was just the perfect excuse to work together once more, and the process was both full of learning opportunities and a lot of fun.
+
+The importance of the work **Marcel Schouwenaar** and his network of collaborators across the Netherlands and Belgium have been doing around ethics in IoT cannot be overstated, from the IoT Design Manifesto to the new Just Things foundation.
 
