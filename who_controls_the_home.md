@@ -19,11 +19,11 @@ But it isn't quite as simple. In fact, DRM is highly controversial. Because it w
 
 If this sounds silly, it's because it is. A label can never predict how a buyer of music or film might want to consume the music they bought—yet often DRM measures restrict playback of a song or movie to certain devices, operating systems, or contexts. 
 
-This is so confusing and limiting. Even the very basic understanding of what happens when someone pays for a legal download cannot be taken for granted. [^1] 
+This is so confusing and limiting. Even when someone pays for content legally, their freedom to use it is not guaranteed.[^1] 
 
-"In What We Buy When We "Buy Now", a paper forthcoming in The University of Pennsylvania Law Review, respected copyright scholars Aaron Perzanowski and Chris Jay Hoofnagle report on an experiment they set up to test what people clicking the "buy now" button on stores selling digital things (ebooks, games, music, videos, etc) think they get for their money -- it's not what they think."
+"In What We Buy When We "Buy Now", a paper forthcoming in The University of Pennsylvania Law Review, respected copyright scholars Aaron Perzanowski and Chris Jay Hoofnagle report on an experiment they set up to test what people clicking the "buy now" button on stores selling digital things (ebooks, games, music, videos, etc) think they get for their money—it's not what they think."
 
-And while as consumers in the digital ecosystem we need to raise media literacy, this is not primarily the users' fault. The study shows that retailers use misleading language all along: [^2]
+And while as consumers in the digital ecosystem we need to raise media literacy, this is not primarily the users' fault. The study shows that retailers use misleading language all along:[^2]
 
 "Retailers such as Apple and Amazon market digital media to consumers using the familiar language of product ownership, including phrases like “buy now,” “own,” and “purchase.” Consumers may understandably associate such language with strong personal property rights. But the license agreements and terms of use associated with these transactions tell a different story. They explain that ebooks, mp3 albums, digital movies, games, and software are not sold, but merely licensed. The terms limit consumers' ability to resell, lend, transfer, and even retain possession of the digital media they acquire. Moreover, unlike physical media products, access to digital media is contingent — it depends on shifting business models, the success and failure of platforms, and often on the maintenance and availability of DRM authentication systems years after the consumer clicked “buy now.”"
 
