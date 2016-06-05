@@ -14,7 +14,7 @@ What kind of information and data about their neighborhood would be useful for r
 
 How can we communicate these types of data to increase ambient awareness without the blunt instrument of screens? How about ambient sounds like birdsong, glowing lights, water sloshing in a tank, a Tempescope [^1], a Good Night Lamp [^2], a fan spinning faster, a cookoo clock, a vibration [^3] through jewelry or the armchair?
 
-What are the most useful, least intrusive models of notification? Should these alerts - be they ever so subtle - be sent when something changes (*state change*), when something is wrong (*alert*) or continues to be ok (*affirmation*), when cartain milestones are reached (*positive notification*), or continuously as an ongoing background ambient awareness system (*monitoring*)?  
+What are the most useful, least intrusive models of notification? Should these alerts—be they ever so subtle—be sent when something changes (*state change*), when something is wrong (*alert*) or continues to be ok (*affirmation*), when cartain milestones are reached (*positive notification*), or continuously as an ongoing background ambient awareness system (*monitoring*)?  
 
 **Contributing data to the commons**
 What types of data are both useful and safe to share with the neighborhood and city beyond? What services can be built on top of data like that to save energy, reduce waste, increase production of energy, enable more rich social interactions?

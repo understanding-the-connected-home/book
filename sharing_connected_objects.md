@@ -30,7 +30,7 @@ However, digital things are often "non-rival goods." That means if I'm reading a
 
 When we add connectivity to an object, could we start to use physical objects in a non-rival way?
 
-When we imagine objects being shared, what if we consider usage beyond the household - neighbors, friends, the broader world? What if an object could even be used by several of these group at the same time?
+When we imagine objects being shared, what if we consider usage beyond the household—neighbors, friends, the broader world? What if an object could even be used by several of these group at the same time?
 
 How can we build and use objects in the connected home so that others can use them as well? Is there a way to build shared resources in the connected home, for example through pooling and sharing computational capacity when we don't need all of our processors' full capacity?
 

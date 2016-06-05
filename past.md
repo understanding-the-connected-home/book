@@ -45,7 +45,7 @@ Since the 1970s, computing power has effectively doubled every two years.[^5]
 
 _Moore's Law as illustrated by "A plot of CPU transistor counts against dates of introduction; note the logarithmic vertical scale; the line corresponds to exponential growth with transistor count doubling every two years.[^6]_
 
-However, while our computing environment moves at such a rapid rate, our built environment - that of our homes, places of work and leisure, our streets and urban infrastructure - have historically changed at a much slower rate.[^7]
+However, while our computing environment moves at such a rapid rate, our built environment—that of our homes, places of work and leisure, our streets and urban infrastructure—have historically changed at a much slower rate.[^7]
 
 Buildings can take years to construct and then stand for decades, if not centuries. Renovating and retrofitting are important ways we maintain and repurpose our built environment. These are all relatively lengthy and costly processes, as compared to updating a digital service or personal devices.   
 
@@ -84,7 +84,7 @@ Now is the moment to go beyond automation and determine what augmentation we des
 [^3]: [http://www.dougengelbart.org/firsts/mouse.html](http://www.dougengelbart.org/firsts/mouse.html)
 [^4]: Watch Doug Engelbart's demo at [The Mother of All Demos (video playlist)](https://www.youtube.com/playlist?list=PL76DBC8D6718B8FD3&feature=plcp).
 [^5]: Moore's Law: [https://en.wikipedia.org/wiki/Moore's_law](https://en.wikipedia.org/wiki/Moore's_law)
-[^6]: By Wgsimon - Own work licensed under Creative Commons CC BY-SA 3.0 [https://commons.wikimedia.org/w/index.php?curid=15193542](https://commons.wikimedia.org/w/index.php?curid=15193542)
+[^6]: By Wgsimon—Own work licensed under Creative Commons CC BY-SA 3.0 [https://commons.wikimedia.org/w/index.php?curid=15193542](https://commons.wikimedia.org/w/index.php?curid=15193542)
 [^7]: Thanks to [Ame Elliot](https://simplysecure.org/blog/lessons-from-architecture-school-1) for articulating the differences in lifespans for architecture, connected objects and digital services.
 [^8]: By Peter Bihr. [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 [^9]: By Laura de Reynal. [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)

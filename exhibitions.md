@@ -11,11 +11,11 @@ Our mission statement for the Good Home Project is as simple as it is ambitious:
 
 > The Good Home project explores ideas for 21st century urban living. In an on-going series of installments it will explore what life for a technologically-savvy household could look like while they are (and sometimes aren’t) at home in the near future. We will showcase how flexible living interacts with the limitations of diminishing household budgets, limited global resources, evolving concepts of privacy, the sharing economy, and global migration.
 
-We build prototypes - often purely conceptual or speculative, but increasingly also working prototypes - that fill these questions of domesticity and the connected home with life. This always considers the larger context, the mega trends shaping the world over the next few decades.
+We build prototypes—often purely conceptual or speculative, but increasingly also working prototypes—that fill these questions of domesticity and the connected home with life. This always considers the larger context, the mega trends shaping the world over the next few decades.
 
 This is an approach that inherently produces outcomes that are easy to criticize (and criticized they should be!), that are likely to look dated quickly, and that in some cases will turn out to seem pointless in the near future. However, in the short and medium turn lots and lots of valuable insights can be gained this way both from the design process and the conversations that follow.
 
-The fact that an exhibition date also means the team works against a hard deadline is an added bonus that helps - especially in contexts where the team is decentralized and has other, more commercially viable obligations. It also is fun, and the importance of that cannot be overstated in volunteer-driven projects.
+The fact that an exhibition date also means the team works against a hard deadline is an added bonus that helps—especially in contexts where the team is decentralized and has other, more commercially viable obligations. It also is fun, and the importance of that cannot be overstated in volunteer-driven projects.
 
 To give a few examples of the role of physical prototyping, the Good Home's Privacy Dimmer [^2] is both the basis for and the physical manifestation of the chapter on the [UX of privacy](ux_of_privacy.md) in this book. The Wayback Machine that emerged out of Mozilla's Open IoT Design Sprint [^3]. In both cases, questions of privacy in the connected home and the interactions surrounding privcacy control were explored by different collaborators, with their different background, and manifested in a speculative design object.
 

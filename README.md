@@ -1,4 +1,4 @@
-<h1> v2 - in progress </h1>
+<h1> v2—in progress </h1>
 Please note: We are in the process of revising the book in preparation for version 2. Until this revision is done, the text online is going to look messy with many lose ends. The new version will be available here in June; until then, please refer to [this archived version 1 (PDF)](https://www.dropbox.com/s/4yp9delbrw9l0wu/20150911%20understanding-the-connected-home.pdf?dl=0).
 
 ## WRITTEN by peter

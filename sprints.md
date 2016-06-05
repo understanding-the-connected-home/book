@@ -5,7 +5,7 @@ _Content sprints are a great way to do a first quick collaborative deep-dive int
 ## WRITTEN by peter
 ## PROOFED?
 
-Content sprints - sometimes also referred to as topic or book sprints - are heavily condensed writing exercises with a focus on collaboration and peer review: A group comes together and within a few days or weeks writes a chunk of content to be published by the end of the sprint.
+Content sprints—sometimes also referred to as topic or book sprints—are heavily condensed writing exercises with a focus on collaboration and peer review: A group comes together and within a few days or weeks writes a chunk of content to be published by the end of the sprint.
 
 This very book was started as a content sprint back in 2015, and updated in another in 2016.
 
@@ -34,5 +34,5 @@ We would love to see more writing on these issues. If this sounds like it might 
 
 
 
-[^1]: For an overview of strengths and weaknesses, as well as some hands-on pointers, see Peter Bihr's article in E-180 magazine: [Topic Sprints - the fastest way to dive into a topic](http://mag.e-180.com/en/2015/09/topic-sprints-the-fastest-way-to-deep-dive-into-a-topic/)
+[^1]: For an overview of strengths and weaknesses, as well as some hands-on pointers, see Peter Bihr's article in E-180 magazine: [Topic Sprints—the fastest way to dive into a topic](http://mag.e-180.com/en/2015/09/topic-sprints-the-fastest-way-to-deep-dive-into-a-topic/)
 [^2]: Again, consider Peter's E-180 magazine article from which this is re-quoted.

@@ -31,15 +31,15 @@ And while as consumers in the digital ecosystem we need to raise media literacy,
 
 Now we have to assume that similar challenges will arise around the connected home: Only there, the effect would be compounded as it would touch on our essential domestic infrastructure.
 
-**Let me be blunt: DRM for domestic infrastructure - Residential Rights Management if you will - should under no circumstance become part of our homes.**
+**Let me be blunt: DRM for domestic infrastructure—Residential Rights Management if you will—should under no circumstance become part of our homes.**
 
-**Rights managements is hard to understand.** If you've ever encountered a situation where you needed to assign read/write/execute rights for a personal computer, server or network without proper training, you'll know how confusing this is - even professionals regularly fail at considering the exact rights settings, and more importantly at considering all possible scenarious in which any setting might be required or appropriate. 
+**Rights managements is hard to understand.** If you've ever encountered a situation where you needed to assign read/write/execute rights for a personal computer, server or network without proper training, you'll know how confusing this is—even professionals regularly fail at considering the exact rights settings, and more importantly at considering all possible scenarious in which any setting might be required or appropriate. 
 
-In a connected home we'd have to work with complex interacting layers of access rights for buildings, apartments, rooms, devices, users - all of which are entirely non-intuitive to handle. 
+In a connected home we'd have to work with complex interacting layers of access rights for buildings, apartments, rooms, devices, users—all of which are entirely non-intuitive to handle. 
 
 **With connectivity come power struggles and access & rights management.**
 
-**Who has root to your home?** Root access [^3] is what we call full, unfettered access - including the rights to shut out other users or delete all data. Who are the parties who have this kind of access to your home? Even at the best of times, scenarios of having another entity, person, or organization have control over your home seem problematic. Screw-ups seem both unavoidable and potentially horrendous.
+**Who has root to your home?** Root access [^3] is what we call full, unfettered access—including the rights to shut out other users or delete all data. Who are the parties who have this kind of access to your home? Even at the best of times, scenarios of having another entity, person, or organization have control over your home seem problematic. Screw-ups seem both unavoidable and potentially horrendous.
 
 For a little taster of power struggles to come, consider the following scenerios and questions of remotely controlled rights or restrictions management:
 
@@ -50,11 +50,11 @@ For a little taster of power struggles to come, consider the following scenerios
 - **A resident is a diabetic.** Can their health insurance track if a diabetic takes any sweet beverage or food out of the fridge, and reports back? Could they block access to the fridge? How about changing the orders for grocery delivery services?
 - **A young couple is two weeks late on their mortgage payments.** Can the bank shut them out of their homes by taking them off list of authorized users in the smart lock's facial recognition system?[^4]
 
-We chose those pointedly dystopian scenarios for a reason: Many of them start off with a legitimate reason, concern, or gripe - and then they go overboard, leveraging connected home systems in ways that go entirely overboard (or so we think).
+We chose those pointedly dystopian scenarios for a reason: Many of them start off with a legitimate reason, concern, or gripe—and then they go overboard, leveraging connected home systems in ways that go entirely overboard (or so we think).
 
 We believe that residents should be in control of their domestic lives, limited only by a legal framework that allows for recourse: As a rule of thumb, no company or other entity should unilaterally be in a position to shut down services in the home or change the rules of engagement like in the world of web services: *The iTunes Terms of Services just changed.* 
 
-We need to ask ourselves: **Who controls - or should be able to control - access to and within a home?** Is it going to be the resident, landlord, owner, renter? An insurance, bank, or Airbnb? What are the kind of legal frameworks that can ensure that residents are in charge of their home?
+We need to ask ourselves: **Who controls—or should be able to control—access to and within a home?** Is it going to be the resident, landlord, owner, renter? An insurance, bank, or Airbnb? What are the kind of legal frameworks that can ensure that residents are in charge of their home?
 
 **The home is a space that needs special protections.** 
 
@@ -62,5 +62,5 @@ We need to ask ourselves: **Who controls - or should be able to control - access
 [^1]: See Cory Doctorow on [BoingBoing.net](http://boingboing.net/2016/05/13/clicking-buy-now-doesnt.html) for a quick summary of the study. 
 [^2]: Perzanowski, Aaron and Hoofnagle, Chris Jay, What We Buy When We 'Buy Now' (May 13, 2016). 165 University of Pennsylvania Law Review (2017), Forthcoming. Available at SSRN: [http://ssrn.com/abstract=2778072](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2778072)
 [^3]: See [Super User on Wikipedia](https://en.wikipedia.org/wiki/Superuser)
-[^4]: We have already seen cases where [leased cars won't start](https://boingboing.net/2014/09/25/class-war-meets-the-war-on-gen.html) if the lease payments are overdue - a truly malicious, out of proportion invasion of privacy and basic rights. 
+[^4]: We have already seen cases where [leased cars won't start](https://boingboing.net/2014/09/25/class-war-meets-the-war-on-gen.html) if the lease payments are overdue—a truly malicious, out of proportion invasion of privacy and basic rights. 
 

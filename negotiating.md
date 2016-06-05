@@ -22,7 +22,7 @@ The other aspect is the negotiating of agreements on a (semi-)automatic level. E
 
 For example, CCTV cameras in the public space are somewhat controversial because they do not reliably prevent crimes while increasing the level of surveillance; Wifi sniffing trash cans (like implemented, [then abandoned](http://www.cnet.com/news/london-tosses-out-wi-fi-sniffing-smart-bins/), in London a few years back), crossed the line. This is a case-by-case negotiation of what's acceptable in the public environment.
 
-In homes - both permanent and temporary - stricter rules should apply. **Privacy is key, and strong privacy protection must be the default. We need opt-in, not opt-out, for the sharing of personal information.**
+In homes—both permanent and temporary—stricter rules should apply. **Privacy is key, and strong privacy protection must be the default. We need opt-in, not opt-out, for the sharing of personal information.**
 
 So what could that look like? What's the interface for negotiating these questions? What are the social norms going to be? What kind of recourse might there be for cases of abuse?
 
@@ -37,7 +37,7 @@ We cannot yet answer these questions but can make some educated guesses:
 
 ## Managing Conflict
 
-When we introduce connectedness into infrastructure like buildings - into our homes - we stitch a technological network into our lives. And with it we introduce smart agents of sorts: Software that has more or less its own goals and agendas.
+When we introduce connectedness into infrastructure like buildings—into our homes—we stitch a technological network into our lives. And with it we introduce smart agents of sorts: Software that has more or less its own goals and agendas.
 
 For example, a Nest thermostat's primary goal might be to achieve and maintain a certain temperature in the living room; a secondary goal might be to save energy.
 
@@ -64,9 +64,9 @@ When we introduce smart appliances to our home, we deal with software agents. In
 
 Good friend and excellent systems thinker/designer Louisa Heinrich articulated this perfectly with an example of different appliances fighting over the blinds being open or closed based on their respective goals: The coffee machine wants them closed so the milk keeps longer, dishwasher wants them open to grab some solar power, the Nest wants them closed to keep the temperature low, the plants want them open... 
 
-Who moderates these conflicts? What happens when you - the master - are not at home?[^2]
+Who moderates these conflicts? What happens when you—the master—are not at home?[^2]
 
-The underlying question here is, of course, if automation is really that desirable - it strikes us as a low-hanging fruit and only a small part of the potential upside, but one fraught with downside (see the [Framing The Debate post](http://www.thewavingcat.com/2015/08/07/understanding-the-connected-home-framing-the-debate/) from this very series for more).
+The underlying question here is, of course, if automation is really that desirable—it strikes us as a low-hanging fruit and only a small part of the potential upside, but one fraught with downside (see the [Framing The Debate post](http://www.thewavingcat.com/2015/08/07/understanding-the-connected-home-framing-the-debate/) from this very series for more).
 
 Groundbreaking researcher and interface researcher Douglas Englebart framed it right (thanks to [Scott Jenson](http://jenson.org/) for the pointer!) in the motto:
 
@@ -82,9 +82,9 @@ As Scott points out starting around the 27 min mark (but we strongly recommend w
 
 > "Can we find a way to surface and make legible the tensions and the frictions and the conflicts that arise when new connected, data-collecting objects are introduced into our world?"
 
-For now, just assume that putting several smart agents/appliances to work side by side might yield unintended consequences. These might not be devastating - most likely they're simply annoying, like lots of notifications on your phone or shutters that open and close seemingly at random. 
+For now, just assume that putting several smart agents/appliances to work side by side might yield unintended consequences. These might not be devastating—most likely they're simply annoying, like lots of notifications on your phone or shutters that open and close seemingly at random. 
 
-**As connectivity becomes more deeply engrained in our physical environments - homes, vehicles, bodies, cities - we better figure out how to make all these agents work together smoothly: In our interests, by our standards, and to augment rather than simply automate.**
+**As connectivity becomes more deeply engrained in our physical environments—homes, vehicles, bodies, cities—we better figure out how to make all these agents work together smoothly: In our interests, by our standards, and to augment rather than simply automate.**
 
 ....
 

@@ -7,9 +7,9 @@ _Privacy is complex, contextual, cultural, fuzzy, and we need to develop our voc
 
 Privacy is complex, contextual, cultural, fuzzy. It is hard to get right, especially in the context of connected things. Really hard. 
 
-Our vocabulary has not evolved as quickly as technological and societal change has, and so we are essentially stuck - for now - with crutches, metaphorically speaking: We try to describe and solve problems of connected privacy with terminology and metaphors from non-connected privacy. This is as tricky and often misleading as trying to depict a 4-dimenstional figure in 3-dimensional space: It's possible to a degree but we simply are not, as a society, fluent in doing it.
+Our vocabulary has not evolved as quickly as technological and societal change has, and so we are essentially stuck—for now—with crutches, metaphorically speaking: We try to describe and solve problems of connected privacy with terminology and metaphors from non-connected privacy. This is as tricky and often misleading as trying to depict a 4-dimenstional figure in 3-dimensional space: It's possible to a degree but we simply are not, as a society, fluent in doing it.
 
-Yet controlling your privacy and making informed decisions about the factors that impact it are absolutely essential going forward: How can anyone decide which product/service/network/company - in other words which actor or set of actors - to allow into the safe space that is the home?
+Yet controlling your privacy and making informed decisions about the factors that impact it are absolutely essential going forward: How can anyone decide which product/service/network/company—in other words which actor or set of actors—to allow into the safe space that is the home?
 
 It might be helpful to think about privacy-related choices just as we think about *consent* rather than just preferences.
 
@@ -17,7 +17,7 @@ It might be helpful to think about privacy-related choices just as we think abou
 
 We see two things we need to address the issue of navigating privacy better:
 
-1. In the medium term, we need to evolve a new vocabulary - terminology and metaphors - to help us think about the complex arising issues that make up privacy in the 21st century.
+1. In the medium term, we need to evolve a new vocabulary—terminology and metaphors—to help us think about the complex arising issues that make up privacy in the 21st century.
 2. In the short term, we need to design privacy-related interactions much, much easier. Controlling your privacy should be as intuitive (or at least simple) as possible. Even if simplifying means losing granularity, that would be better than the alternative of making ill-informed decisions.
 
 ### Dimmers and other metaphors
@@ -43,7 +43,7 @@ Just like a light dimmer does not just allow to switch on or off the light but t
 _Privacy is a spectrum. We need to explore how to best express and refer to this spectrum._
 
 ### The Privacy Dimmer
-The Privacy Dimmer would accommodate this gradual dimming by mapping the various systems and subsystems (sensors, analytics, etc.) that make up a connected home to settings on the privacy spectrum: If the privacy was turned up to the max, nothing would sense or process activity in the house - the house would be "dumb" again, ie. in a state like all homes until 10 years ago. Turned all the way the other direction, all tracking, sensing, processing would be active, whatever this might mean for any given smart home.
+The Privacy Dimmer would accommodate this gradual dimming by mapping the various systems and subsystems (sensors, analytics, etc.) that make up a connected home to settings on the privacy spectrum: If the privacy was turned up to the max, nothing would sense or process activity in the house—the house would be "dumb" again, ie. in a state like all homes until 10 years ago. Turned all the way the other direction, all tracking, sensing, processing would be active, whatever this might mean for any given smart home.
 
 ![Privacy dimmer sketch](/img/privacy_dimmer_sketch.png)
 
@@ -54,7 +54,7 @@ For example, if your home had pressure sensors in the floor, movement tracking f
 The dimmer is installed in the house or room; it's immobile. But what happens if you move about? You still should be able to make informed decision about your privacy.
 
 ### The privacy keyfob: Controlling your privacy while out and about
-Just like the dimmer would let a user control privacy in the context of their own home, we should have the means to control - or at least make informed decisions about - our privacy while we are out and about.
+Just like the dimmer would let a user control privacy in the context of their own home, we should have the means to control—or at least make informed decisions about—our privacy while we are out and about.
 
 Imagine a keyfob as the on-the-go counterpart of the Privacy Dimmer: A little device you carry on yourself at all times. Rather than switching on or off any systems in its environment (which would be hugely invasive and aggressive), it reads a signal from the connected home (or retail space, or public space...) and compares the amount and types of sensing and data processing against your personal preferences as stated in that keyfob. 
 
@@ -77,7 +77,7 @@ At the Mozilla Open IoT design sprint in Berlin, my group worked on Privacy Mach
 
 _Privacy Machines at the Mozilla Open IoT design sprint, Berlin April 2016._
 
-One of these machines was the Wayback Machine: A little box that explored privacy and control over privacy in the home through the metaphor of time. Concretely, it would switch off various media-related technologies one by one - much like the privacy dimmer - in reverse chronological order in which they were introduced: Go back to 2013 and most smart home products would have stopped working; turn the dial back to 2004 and you would have lost access to Youtube, Facebook, Twitter. Go back to 1996 and your internet access might be turned off.
+One of these machines was the Wayback Machine: A little box that explored privacy and control over privacy in the home through the metaphor of time. Concretely, it would switch off various media-related technologies one by one—much like the privacy dimmer—in reverse chronological order in which they were introduced: Go back to 2013 and most smart home products would have stopped working; turn the dial back to 2004 and you would have lost access to Youtube, Facebook, Twitter. Go back to 1996 and your internet access might be turned off.
 
 ![Privacy Machines at the Mozilla Open IoT design sprint](/img/privacy_machines_top.jpg)
 
@@ -89,7 +89,7 @@ _Privacy Machines at the Mozilla Open IoT design sprint, Berlin April 2016._
 
 The Wayback Machine plays with two notions: 
 
-First, the time angle makes it immensely relatable. While there are many issues with this - it fosters nostalgia, it's technologically and historically tricky, it doesn't necessarily make a lot of sense - it does help start great discussions. Because it removes the technological barriers and works with simple metaphors and examples we found that most people would much more happily engage in this kind of debate than if you approached from a perspective of privacy, policy, or surveillance.
+First, the time angle makes it immensely relatable. While there are many issues with this—it fosters nostalgia, it's technologically and historically tricky, it doesn't necessarily make a lot of sense—it does help start great discussions. Because it removes the technological barriers and works with simple metaphors and examples we found that most people would much more happily engage in this kind of debate than if you approached from a perspective of privacy, policy, or surveillance.
 
 Second, it underlines that media and communications technologies have evolved from one-way (broadcasting) to two-way (phone) to systems that are two-way and tracking the users' behaviors (through cookies, traffic analysis, meta data, etc.). Media and communications infrastructure since the advent of the  modern web has turned from something watched or consumed into a system that stares right back at the user. Connected homes are extending this right into our living rooms.
 

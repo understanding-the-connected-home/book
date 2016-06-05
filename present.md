@@ -15,7 +15,7 @@ We live in an era of multimodality. Thanks to our pervasive and powerful computi
 
 Through these interactions, we contribute to the creation of enormous amounts of data.
 
-There is a lot opportunity in the volume, variety and velocity of processing all of this data. When we think about the connected home, we see it as an integral part of these complex computational systems. Our interactions can call upon and contribute to these massive data sets, if we make them in a way that is readable and writable to us - and if we build interfaces to help them augment our lives in meaningful ways.
+There is a lot opportunity in the volume, variety and velocity of processing all of this data. When we think about the connected home, we see it as an integral part of these complex computational systems. Our interactions can call upon and contribute to these massive data sets, if we make them in a way that is readable and writable to us—and if we build interfaces to help them augment our lives in meaningful ways.
 
 
 ## Simple interfaces to complex systems

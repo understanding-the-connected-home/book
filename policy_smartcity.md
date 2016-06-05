@@ -49,7 +49,7 @@ As a little playful exploration, let us replace "city/urban" with "home", "publi
 
 > A <strike>city</strike> home that is measured and sensed through sensors, cameras and other survey systems is always a <strike>city</strike> home under surveillance that could discipline its <strike>citizens</strike> residents. This means a conflict between problematic surveillance and control on one side positive knowledge and data based opportunities on the other. The ambivalence of the potentials that threaten democracy and those that foster it need to be reevaluated constantly.
 
-Not all of these simple replacements fit 100 percent. And yet you get the idea: The larger issues, threats and opportunities all apply to the context of the connected home to some degree. And in building connections and connectedness across the boundary between the two - in strengthening the data flow between both worlds - the lines increasingly blur. 
+Not all of these simple replacements fit 100 percent. And yet you get the idea: The larger issues, threats and opportunities all apply to the context of the connected home to some degree. And in building connections and connectedness across the boundary between the two—in strengthening the data flow between both worlds—the lines increasingly blur. 
 
 What happens inside the home is part of the larger cityscape, and now it is measurable in real time, too.
 
