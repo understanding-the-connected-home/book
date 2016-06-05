@@ -1,7 +1,5 @@
 # Surveillance & tracking
 
-## DONE
-
 *Surveillance and tracking are serious issues for the internet of things and the connected home, and we need to build safeguards against them.*
 
 As we have learned over the last few years through the Snowden revelations, we live in a system of ubiquitous, nearly limitless tracking and surveillance. It's to a degree which easily matches the dystopian scenarios of even the most paranoid security activists. Our every step, at least in the digital world, is watched by commercial entities and governments. Directly or through meta-data, complete privacy is impossible.
@@ -40,7 +38,7 @@ It is this last point that is particularly concerning from a political and socie
 
 Now this study focused on internet use, not the internet of things. But it is safe to assume that for IoT, and especially the connected home, these concerns will be as strong or stronger. 
 
-## Governments are tracking IoT, including the connected home
+## Governments are surveilling IoT, including in the home
 
 The US intelligence services have publicly stated their intentions to use connected devices for mass surveillance. Other governments won't be far behind.
 
@@ -74,8 +72,8 @@ While the journey might not be easy, this is an endeavor worth fighting for.
 
 [^1]: The study is available online in full at: [ntia.doc.gov/blog/2016/lack-trust-internet-privacy-and-security-may-deter-economic-and-other-online-activities](https://www.ntia.doc.gov/blog/2016/lack-trust-internet-privacy-and-security-may-deter-economic-and-other-online-activities). The Washington Post has a summary of the results: [washingtonpost.com/news/the-switch/wp/2016/05/13/new-government-data-shows-a-staggering-number-of-americans-have-stopped-basic-online-activities/](https://www.washingtonpost.com/news/the-switch/wp/2016/05/13/new-government-data-shows-a-staggering-number-of-americans-have-stopped-basic-online-activities/) 
 [^2]: For details, refer to this 2015 study by Pew Research: [pewresearch.org/fact-tank/2015/04/14/why-some-americans-have-not-changed-their-privacy-and-security-behaviors/](http://www.pewresearch.org/fact-tank/2015/04/14/why-some-americans-have-not-changed-their-privacy-and-security-behaviors/)
-[^3]: See WIRED 2012 at [https://www.wired.com/2012/03/petraeus-tv-remote/](https://www.wired.com/2012/03/petraeus-tv-remote/)
-[^4]: See The Guardian (2016) at [https://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper](https://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper)
+[^3]: See WIRED 2012 at [wired.com/2012/03/petraeus-tv-remote/](https://www.wired.com/2012/03/petraeus-tv-remote/)
+[^4]: See The Guardian (2016) at [theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper](https://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper)
 [^5]: The full study "Don't Panic: Making Progress on the 'Going Dark' Debate'" by the Berkman Center (2016) is available online (PDF): [cyber.law.harvard.edu/pubrelease/dont-panic/Dont_Panic_Making_Progress_on_Going_Dark_Debate.pdf](https://cyber.law.harvard.edu/pubrelease/dont-panic/Dont_Panic_Making_Progress_on_Going_Dark_Debate.pdf)
 [^6]: The search engine Shodan indexes thousands of unsecured web-connected devices, incl. webcams and more: [shodan.io](https://www.shodan.io/)
 

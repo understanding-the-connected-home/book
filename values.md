@@ -1,23 +1,23 @@
 # Values
 
-## DONE
-
-
 We believe that the connected home should respect several foundational values: 
 
-* **Privacy.** We consider privacy a core value to be included throughout the design, manufacture, usage and end of a connected product or service.
-* **Openness.** Openness leads to more robust, resilient, and participatory products. For creators of connected products, we advocate for open practices and technologies paired with open reflection and documentation that can serve professional communities learning how to make things with these values.
-* **Read, write, participate.** As a matter of empowerment, people should be able to read, write and participate fully in their connected home.
-* **Diversity and inclusion.** The connected home is a safe space and must be designed with diversity and inclusivity in mind. This includes challenging assumptions about cultural context as much as taking into account socio-economic factors, gender and other forms of identity.
-* **Security.** Users and their data need to be protected from any party that might try to track, spy, or hack. Aggregate data needs to be anonymized in a way that guarantees that data cannot be traced back to identifiable users.
-* **Sustainability.** Sustainable sourcing and manufacturing as well as designing for end-of-lifecycle are important ecological and social considerations as well as an opportunity to position a connected home company better in the market place while saving their customers money.
+**1. Privacy.** We consider privacy a core value to be included throughout the design, manufacture, usage and end of a connected product or service.
+
+**2. Read, write, participate.** As a matter of empowerment, people should be able to read, write and participate fully in their connected home.
+
+**3. Openness.** Openness leads to more robust, resilient, and participatory products. For creators of connected products, we advocate for open practices and technologies paired with open reflection and documentation that can serve professional communities learning how to make things with these values.
+
+**4. Diversity and inclusion.** The connected home is a safe space and must be designed with diversity and inclusivity in mind. This includes challenging assumptions about cultural context as much as taking into account socio-economic factors, gender and other forms of identity.
+
+**5. Security.** Users and their data need to be protected from any party that might try to track, spy, or hack. Aggregate data needs to be anonymized in a way that guarantees that data cannot be traced back to identifiable users.
+
+**6. Sustainability.** Sustainable sourcing and manufacturing as well as designing for end-of-lifecycle are important ecological and social considerations as well as an opportunity to position a connected home company better in the market place while saving their customers money.
 
 These values can guide makers of connected products and services. By building these values directly into the products they make, designers and engineers can in aggregate positively shape the Internet of Things landscape.[^1]
 
 
-
-
-## Privacy
+## 1. Privacy
 
 Our home needs to be a safe space. It must be respectful of its  inhabitants, especially when it comes to sensitive information and personal data. As the home becomes more connected, data-driven services can put this safe space at risk. 
 
@@ -76,7 +76,7 @@ In addition to data deletion, users should be able to move their data across con
 As an innovation opportunity, connected products can offer easy data import and export functions as well as adopt standards that build in portability.
 
 
-## Read, Write and Participate
+## 2. Read, Write and Participate
 
 Everyone should be able to understand how the connected systems in their homes work. And from that understanding, everyone should have the ability to modify and adapt these systems to meet their needs and fully participate in their connected home. 
 
@@ -112,7 +112,7 @@ As our homes become more connected, we must preserve the ability to read, write 
 An open source motto says: If you can't open it, you don't own it. We should all be able to open—and change—the things in our homes.
 
 
-## Openness
+## 3. Openness
 
 
 ### Open practices for better connected products
@@ -156,7 +156,7 @@ In a field as young and unexplored at the connected home, there is tremendous va
 In aggregate, these open practices will create a more robust and welcoming ecosystem for the connected home. 
 
 
-## Diversity and inclusivity
+## Diversity and inclusion
 
 The home must be a safe space. That means its residents must have the ability to shape it regardless of, and in response to, their gender, religion, language, ethnicity, origin, professional background, socio-economic factors or age.
 
@@ -216,8 +216,6 @@ To avoid connected homes becoming the next main contributor to hazardous e-waste
 Makers of connected home products need to make sustainability a priority. 
 
 We believe that companies strongly embracing sustainability ulimately put themselves in a better position in the market[^10]—both from an ecological and social perspective (our planet and society can only handle so much more abuse) and because it makes sense for their customers (sustainability can lead to substantial savings in the medium and long term). 
-
-
 
 
 [^1]: This set of values is likely to evolve over time as we explore more cases and scenarios. As part of the Good Home project, we drafted a list of more concrete design values, which we include here as a further inspiration: networked, communal, interdependent, participatory, readable, open, humble, adaptable, hackable, diverse, resilient, respectful, sustainable, perfect imperfection, one size does not fit all, local, careful, provocative, post-capitalistic, constrictively critical. See [thegoodhome.org/values/](http://thegoodhome.org/values/) 

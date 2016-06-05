@@ -2,9 +2,6 @@
 
 _In a household, it's common to share lots of objects. From appliances to furniture to toys and media and more, what are the design opportunities that await when we share connected objects?_
 
-
-# DONE
-
 > On the whole, you find wealth much more in use than in ownership. — Aristotle[^1]
 
 Living together means sharing objects. The circumstances where we feel comfortable sharing depend on the relationship and personal preferences. Different rules apply among families, partnerships, roommates, etc. 
@@ -42,7 +39,7 @@ Some of the key concerns we see:
 - **Trust management.** If we have pseudo-non-rival goods being shared thanks to their connectivity, how do we facilitate trust among users?
 - **Value add through usage.** How do we design connected objects to improve, rather than degrade, through use? Algorithmic learning seems to offer promising avenues to explore.
 - **Modularity.** Because shared connected objects will get a lot of usage (hopefully), they should be built to be easily maintained and repaired.[^4]
-- **Privacy.** In connected objects, multiple users means that we need to firewall against data leaks between users. If user or aggregate data is to be shared back into larger services or the commons, that data needs to be squeeky clean[^5] to make sure it cannot be linked back to individual users if they have opted out.
+- **Privacy.** In connected objects, multiple users means that we need to firewall against data leaks between users. If user or aggregate data is to be shared back into larger services or the commons, that data needs to be squeaky clean[^5] to make sure it cannot be linked back to individual users if they have opted out.
 - **Decision-making and resource coordination.** Do we need technological or design solutions to make decision-making and allocation of shared resources easier, or is that a social challenge in need of a social solution? Can a connected object be designed to facilitate this resource coordination?[^6]
 
 Connected objects offer a great opportunity for designers and technologists to explore how sharing could add value and increase usage and lifecycle of physical objects. 

@@ -1,7 +1,5 @@
 # Relationships
 
-## DONE
-
 We believe that a home, whether connected or not, should primarily serve the humans in it.
 
 Products and services we make should augment and respect human relationships. And, as more computation enters the home, we must be aware of how some human interactions and scenarios may take on new norms and considerations.  
@@ -16,7 +14,7 @@ Products and services we make should augment and respect human relationships. An
 
 **The connected things we surround ourselves with.** What criteria do we use to decide what connected objects to invite into our homes? How do we evaluate when we want to own something or not?
 
-**The home as a target for commercial tracking and government surveillance.** If a device has the ability to track and record you, it's likely that it will, even when you don't want it to. Advertisers, governments and criminals alike will use the Internet of Things to track our behavior to an even greater degree than today. We need to build safeguards against commerical and government surveillance and protections against abuse. 
+**The home as a target for commercial tracking and government surveillance.** If a device has the ability to track and record you, it's likely that it will, even when you don't want it to. Advertisers, governments and criminals alike will use the Internet of Things to track our behavior to an even greater degree than today. We need to build safeguards against commercial and government surveillance and protections against abuse. 
 
 
 

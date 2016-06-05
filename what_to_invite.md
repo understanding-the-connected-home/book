@@ -2,8 +2,6 @@
 
 _How do we choose which connected objects to invite into our homes?_
 
-## DONE
-
 Which connected objects do we invite into our homes? We believe that fundamentally, when answering this question, we should not consider connected objects differently than any other object. 
 
 However, as a matter of personal philosophy we believe that it pays to be mindful of what we surround ourselves with. As connected things in our homes might change through software updates or learning algorithms, a careful look at what we invite in is certainly warranted.
