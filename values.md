@@ -156,7 +156,7 @@ In a field as young and unexplored at the connected home, there is tremendous va
 In aggregate, these open practices will create a more robust and welcoming ecosystem for the connected home. 
 
 
-## Diversity and inclusion
+## 4. Diversity and inclusion
 
 The home must be a safe space. That means its residents must have the ability to shape it regardless of, and in response to, their gender, religion, language, ethnicity, origin, professional background, socio-economic factors or age.
 
@@ -185,7 +185,7 @@ Including ethnographers and anthropologists also can add a lot of value.
 And finally, it's worth remembering that a product made with diversity and inclusivity in mind also means it has a much larger potential user base, so it makes sense from a business perspective as much as an ethics perspective.
 
 
-## Security
+## 5. Security
 
 Computer systems are notoriously easy to attack once they are connected to the internet. The connected home is no different. 
 
@@ -202,7 +202,7 @@ Aggregate data needs to be anonymized in a way that really guarantees that data 
 Wherever possible, data should not be saved at all. The best way to prevent abuse of data is not to have it in the first place.
 
 
-## Sustainability
+## 6. Sustainability
 
 Connected home products and infrastructure are computing infrastructure. As such, they tend to be software-driven, and their lifecycles are linked to the innovation cycles of the processor industry.
 

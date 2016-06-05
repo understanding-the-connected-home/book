@@ -2,8 +2,6 @@
 
 _As homes become more connected and software-based, access and rights control become more salient: Who controls your home?_
 
-## DONE
-
 When our homes become connected and more software-based, it will be software that grants or denies the rights to use and change everything that goes on inside the room. (At least everything that has a digital or data aspect to it.) This suggests that going forward, access and control over the home might resemble access and control over digital media content. 
 
 ## The problem with Digital Rights Management (DRM)
@@ -24,17 +22,17 @@ This is so confusing and limiting. Even when someone pays for content legally, t
 
 So while there is certainly a need to raise consumer's media literacy here, it's also not primarily their fault. The study shows that retailers use misleading language all along:[^2]
 
-> "Retailers such as Apple and Amazon market digital media to consumers using the familiar language of product ownership, including phrases like “buy now,” “own,” and “purchase.” 
+> "Retailers such as Apple and Amazon market digital media to consumers using the familiar language of product ownership, including phrases like 'buy now,' 'own,' and 'purchase.' 
 
 > Consumers may understandably associate such language with strong personal property rights. 
 
-> But the license agreements and terms of use associated with these transactions tell a different story. They explain that ebooks, mp3 albums, digital movies, games, and software are not sold, but merely licensed. The terms limit consumers' ability to resell, lend, transfer, and even retain possession of the digital media they acquire. Moreover, unlike physical media products, access to digital media is contingent — it depends on shifting business models, the success and failure of platforms, and often on the maintenance and availability of DRM authentication systems years after the consumer clicked “buy now.”"
+> But the license agreements and terms of use associated with these transactions tell a different story. They explain that ebooks, mp3 albums, digital movies, games, and software are not sold, but merely licensed. The terms limit consumers' ability to resell, lend, transfer, and even retain possession of the digital media they acquire. Moreover, unlike physical media products, access to digital media is contingent-it depends on shifting business models, the success and failure of platforms, and often on the maintenance and availability of DRM authentication systems years after the consumer clicked 'buy now.'"
 
 ## DRM for the home: Residential Rights Management
 
 Now we have to assume that similar challenges will arise around the connected home. Only there, the effect would be compounded as it would affect on our essential domestic infrastructure.
 
-Let us be blunt: **DRM for domestic infrastructure—Residential Rights Management if you will—should under no circumstance become part of our homes.**
+Let us be blunt: DRM for domestic infrastructure—Residential Rights Management if you will—should under no circumstance become part of our homes.
 
 Rights managements is hard to understand. If you've ever encountered a situation where you needed to assign read/write/execute rights for a personal computer, server or network without proper training, you'll know how confusing this is—even professionals regularly fail at selecting the appropriate permissions settings.
 
@@ -61,13 +59,13 @@ We chose those pointedly dystopian scenarios for a reason. Many of them begin wi
 
 We believe that residents should be in control of their domestic lives. As a rule of thumb, no company or other entity should unilaterally be in a position to shut down services in the home. Nor should companies be able to sweepingly change terms and services, like they currently do on our personal computing environments. *The iTunes Terms of Services just changed.* 
 
-We need to ask ourselves: **Who controls—or should be able to control—access to and within a home?** Is it going to be the resident, landlord, owner, renter? An insurance, bank, or Airbnb? What are the kind of legal frameworks that can ensure that residents are in charge of their home?
+We need to ask ourselves: Who controls—or should be able to control—access to and within a home? Is it going to be the resident, landlord, owner, renter? An insurance, bank, or Airbnb? What are the kind of legal frameworks that can ensure that residents are in charge of their home?
 
-**The home is a space that needs special protections.** 
+The home is a space that needs special protections.
 
 
 [^1]: See Cory Doctorow's summary of the study: [boingboing.net/2016/05/13/clicking-buy-now-doesnt.html](http://boingboing.net/2016/05/13/clicking-buy-now-doesnt.html) 
-[^2]: Perzanowski, Aaron and Hoofnagle, Chris Jay, What We Buy When We 'Buy Now' (May 13, 2016). 165 University of Pennsylvania Law Review (2017), Forthcoming. Available at SSRN: [http://ssrn.com/abstract=2778072](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2778072)
+[^2]: Perzanowski, Aaron and Hoofnagle, Chris Jay, What We Buy When We 'Buy Now' (May 13, 2016). 165 University of Pennsylvania Law Review (2017), Forthcoming. Available at SSRN: [ssrn.com/abstract=2778072](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2778072)
 [^3]: See Super User on Wikipedia: [wikipedia.org/wiki/Superuser](https://en.wikipedia.org/wiki/Superuser)
 [^4]: We have already seen cases where leased cars won't start  if the lease payments are overdue—a truly malicious, out of proportion invasion of privacy and basic rights: [boingboing.net/2014/09/25/class-war-meets-the-war-on-gen.html](https://boingboing.net/2014/09/25/class-war-meets-the-war-on-gen.html)
 
