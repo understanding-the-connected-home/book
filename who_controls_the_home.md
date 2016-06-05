@@ -1,25 +1,25 @@
 # Who controls your home?
 
-_As homes become more connected and software-based, the thorny issues of access and rights control become salient: Who controls your home's infrastructure?_
+_As homes become more connected and software-based, access and rights control become more salient: Who controls your home?_
 
 #written by peter
 #proofed?
 
-When our homes become connected and hence more software-based, it will be software that grants or denies the rights to use and change everything that goes on inside the room. (At least everything that has a digital or data aspect to it.) This suggest that going forward, access and control over the home might work in a similar fashion as access and control over digital media content. 
+When our homes become connected and more software-based, it will be software that grants or denies the rights to use and change everything that goes on inside the room. (At least everything that has a digital or data aspect to it.) This suggests that going forward, access and control over the home might resemble access and control over digital media content. 
 
 ## The problem with Digital Rights Management (DRM)
 
-Enter Digital Rights Management - DRM for short. Time for a little refresher.
+Enter Digital Rights Management: DRM for short. Time for a little refresher.
 
-The world of commercially distributed digital content - movies, music, books - has been shaped by discussions about DRM: Digital Rights Management, or *Digital Restrictions Management* as some critics call it, is a set of technological systems that aim to control who can and who cannot access digital media, and under what conditions.
+The world of commercially distributed digital content—movies, music, books—has been shaped by discussions about Digital Rights Management, or *Digital Restrictions Management* as some critics call it. DRM is a set of technological systems that aim to control who can and who cannot access digital media and under what conditions.
 
-The concept sounds simple enough: Is this paid content? If so, has this user paid and is hence eligible to consume it?
+The concept sounds simple enough: Is this paid content? If so, has this user paid and is therefore eligible to consume it?
 
-But it isn't quite as simple. In fact, DRM is highly controversial: Because it works on the premise of restricting access, often it punishes legitimate customers. The files or streams a customer pays for are those with built-in restrictive technologies. In other words, the customer pays for damaged files, whereas a (potentially illegally) downloaded version would usually be free of such restrictions. 
+But it isn't quite as simple. In fact, DRM is highly controversial. Because it works on the premise of restricting access, often it punishes legitimate uses. The files or streams a customer pays for are those with built-in restrictive technologies. In other words, the customer pays for damaged files, whereas a (potentially illegally) downloaded version would usually be free of such restrictions. 
 
-If this sounds silly, it's because it is: A label can never predict how a buyer of music or film might want to consume the music they bought - yet often DRM measures restrict playback of a song or movie to certain devices, operating systems, or contexts. 
+If this sounds silly, it's because it is. A label can never predict how a buyer of music or film might want to consume the music they bought—yet often DRM measures restrict playback of a song or movie to certain devices, operating systems, or contexts. 
 
-This is so confusing and limiting that even the very basic understanding of what happens when someone pays for a legal, legitimate download cannot be taken for granted: [^1] 
+This is so confusing and limiting. Even the very basic understanding of what happens when someone pays for a legal download cannot be taken for granted. [^1] 
 
 "In What We Buy When We "Buy Now", a paper forthcoming in The University of Pennsylvania Law Review, respected copyright scholars Aaron Perzanowski and Chris Jay Hoofnagle report on an experiment they set up to test what people clicking the "buy now" button on stores selling digital things (ebooks, games, music, videos, etc) think they get for their money -- it's not what they think."
 
