@@ -1,12 +1,10 @@
 # Interaction layers
 
-## DONE
-
 *Interactions in the connected home happen at two layers: human-readable and machine-readable. By "readable" we mean a human or machine can easily understand, modify and execute actions. With the rise of more complex computational systems, new layers of interaction may emerge.*
 
 ## Introducing interaction layers
 
-Borrowing from the **three-tiered Creative Commons licensing structure,[^1]** we'd like to explore how interactions in the home can take place at different layers: 
+Borrowing from the three-tiered Creative Commons licensing structure,[^1] we'd like to explore how interactions in the home can take place at different layers: 
 
 * human-readable
 * machine-readable
@@ -22,7 +20,7 @@ We use the term "readability" as shorthand for the broader ability to read, writ
 
 The human-readable layer contains interactions that humans can read and modify.
 
-The purpose of this layer is for humans, **regardless of their technical proficiency**, to feel confident in understanding what a connected object or service can do, and where desired, modify or opt out of it. 
+The purpose of this layer is for humans, regardless of their technical proficiency, to feel confident in understanding what a connected object or service can do, and where desired, modify or opt out of it. 
 
 As much as possible, this layer should convey things in simple iconography or text, or in ways that are intuitive and build on behaviors that humans are already familiar and comfortable with. Accessible control over machines is essential for people to live confidently and with dignity in their home. 
 
@@ -69,6 +67,6 @@ Or do certain social relationships, such as neighborhoods or cities, gain the ab
 
 We're not sure what those new layers might be, but regardless there remains the need to have human-readable and machine-readable layers so that humans and machines respectively can understand the systems and engage in interaction.  
 
-[^1]: Creative Commons licesening layers: https://creativecommons.org/licenses
-[^2]: Images from the Noun Project. Eye by Thomas Le Bas: https://thenounproject.com/search/?q=eye&amp;i=6186, Ear by Søren Michelsen: https://thenounproject.com/search/?q=ear&amp;i=6200, and Cloud by Aaron K. Kim: https://thenounproject.com/search/?q=wifi&amp;i=123908.
-[^3]: https://en.wikipedia.org/wiki/Data_model 
+[^1]: Creative Commons licesening layers: [creativecommons.org/licenses](https://creativecommons.org/licenses)
+[^2]: Images from the Noun Project. Eye by Thomas Le Bas ([thenounproject.com/search/?q=eye&amp;i=6186](https://thenounproject.com/search/?q=eye&amp;i=6186)), Ear by Søren Michelsen ([thenounproject.com/search/?q=ear&amp;i=6200](https://thenounproject.com/search/?q=ear&amp;i=6200)), and Cloud by Aaron K. Kim: ([thenounproject.com/search/?q=wifi&amp;i=123908](https://thenounproject.com/search/?q=wifi&amp;i=123908)).
+[^3]: [en.wikipedia.org/wiki/Data_model](https://en.wikipedia.org/wiki/Data_model)

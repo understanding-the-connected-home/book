@@ -2,8 +2,6 @@
 
 _How does hospitality change in a connected environment? Certainly there are timeless elements of etiquette. Nevertheless, there might be new considerations when we're a guest in someone's connected home._
 
-## DONE
-
 Being a house guest and host in a connected home will in many ways be similar to how humans have socialized for centuries. But we expect there will also be some crucial aspects that are new, or that need to be negotiated. What might that look like?
 
 ## A good guest
@@ -34,5 +32,5 @@ Much of what made for a good guest/host relationship will likely remain unchange
 
 Nevertheless, in the connected home that will likely manifest in slightly different ways. This will especially be the case for interactions that are not overt, but rather happening passively, for example among our devices and services. 
 
-[1]: For many great examples see "How to Be the Perfect Host in the 21st Century" by Jason Fitzpatrick: http://lifehacker.com/5606282/how-to-be-the-perfect-host-in-the-21st-century
-[^2]: For a first exploration of these questions based on our experience at Casa Jasmina, see Michelle's blog post, "How to be a guest in an open source connected home": http://michellethorne.cc/2015/07/casa-jasmina-how-to-be-a-guest-in-an-open-source-connected-home/
+[^1]: For many great examples see "How to Be the Perfect Host in the 21st Century" by Jason Fitzpatrick: [lifehacker.com/5606282/how-to-be-the-perfect-host-in-the-21st-century](http://lifehacker.com/5606282/how-to-be-the-perfect-host-in-the-21st-century)
+[^2]: For a first exploration of these questions based on our experience at Casa Jasmina, see Michelle's blog post, "How to be a guest in an open source connected home": [michellethorne.cc/2015/07/casa-jasmina-how-to-be-a-guest-in-an-open-source-connected-home/](http://michellethorne.cc/2015/07/casa-jasmina-how-to-be-a-guest-in-an-open-source-connected-home/)
