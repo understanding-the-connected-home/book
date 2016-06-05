@@ -5,7 +5,7 @@ _Designing speculative prototypes is a worthwhile way to make complex, abstract 
 ## WRITTEN by peter
 ## PROOFED?
 
-In addition to the purely intellectual exploration of connected homes that has become this book, we wanted to start also proposing actual design solutions to the complex and often abstract questions posed by increasingly connected homes: Thus the Good Home Project was born in collaboration with Alexandra Deschamps-Sonsino. [^1]
+In addition to the purely intellectual exploration of connected homes that has become this book, we wanted to start also proposing actual design solutions to the complex and often abstract questions posed by increasingly connected homes: Thus the Good Home Project was born in collaboration with Alexandra Deschamps-Sonsino.[^1]
 
 Our mission statement for the Good Home Project is as simple as it is ambitious:
 
@@ -17,7 +17,7 @@ This is an approach that inherently produces outcomes that are easy to criticize
 
 The fact that an exhibition date also means the team works against a hard deadline is an added bonus that helps—especially in contexts where the team is decentralized and has other, more commercially viable obligations. It also is fun, and the importance of that cannot be overstated in volunteer-driven projects.
 
-To give a few examples of the role of physical prototyping, the Good Home's Privacy Dimmer [^2] is both the basis for and the physical manifestation of the chapter on the [UX of privacy](ux_of_privacy.md) in this book. The Wayback Machine that emerged out of Mozilla's Open IoT Design Sprint [^3]. In both cases, questions of privacy in the connected home and the interactions surrounding privcacy control were explored by different collaborators, with their different background, and manifested in a speculative design object.
+To give a few examples of the role of physical prototyping, the Good Home's Privacy Dimmer[^2] is both the basis for and the physical manifestation of the chapter on the [UX of privacy](ux_of_privacy.md) in this book. The Wayback Machine that emerged out of Mozilla's Open IoT Design Sprint[^3]. In both cases, questions of privacy in the connected home and the interactions surrounding privcacy control were explored by different collaborators, with their different background, and manifested in a speculative design object.
 
 These conceptual prototypes essentially serve as narrative devices: Narratives can help fill concepts as abstract and complex as privacy, empowerment, participation, or data protection with life. This in turn lowers the barrier of joining the conversation: If a debate is too abstract, technical, or just jargon-filled, many people will not feel like their contributions are welcome. This means not all voices are heard, and inclusivity and diversity are at the very core of what makes a home a home. 
 
