@@ -21,7 +21,7 @@
 * [Relationships](relationships.md)
    * [Hospitality](hospitality.md)
    * [Sharing connected objects](sharing_connected_objects.md)
-   * [Home and data](home_and_data.md)
+   * [Moving in and out of homes](moving.md)
    * [Who controls your home?](who_controls_the_home.md)
    * [What to invite: The connected things in our homes](what_to_invite.md)
    * [Surveillance & tracking](surveillance.md)
