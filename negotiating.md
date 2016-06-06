@@ -2,8 +2,6 @@
 
 _As we invite more algorithmic agents into our lives, we'll see more conflicts both between machines and humans, as well as among machines. How can we understand and mediate these conflicts?_
 
-## DONE
-
 How can interactions and understanding be mediated across the human-readable and machine-readable layers? 
 
 Here we discuss the idea of a "user agent" that translates and negotiates across the layers. Historically, this has been metaphor-based software (GUIs) like the browser or mobile operating system. It might look different going forward. 
