@@ -96,8 +96,6 @@ We laid the ground for this book in a one-week content sprint in 2015. Since the
 
 We have been writing this in public on Gitbook, and license the content under a [Creative Commons Attribution Non-Commercial license (BY-NC)](http://creativecommons.org/licenses/by-nc/4.0/), so you can adapt and re-use the texts, too. If in doubt or if you have feedback, please get in touch (details in the [Contact section](contact.md)).
 
-You can find the original release, version 1, archived as a PDF at [dropbox.com/s/4yp9delbrw9l0wu/20150911%20understanding-the-connected-home.pdf?dl=0](https://dropbox.com/s/4yp9delbrw9l0wu/20150911%20understanding-the-connected-home.pdf?dl=0).
-
 
 Peter Bihr & Michelle Thorne  
 Berlin, June 2016
