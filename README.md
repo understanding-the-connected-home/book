@@ -49,7 +49,7 @@ We asked a great number of smart and experienced people for their thoughts. It s
 
 We know that connectivity increasingly makes its way into our living rooms, kitchens and bedrooms. The internet is coming into our smoke detectors, lights, door locks, kitchen scales and ovens. We bring in more connectivity through fitness tracking wristbands and our phones and tablets, and take it along when we get into the driving computers that are our cars.
 
-**Understanding the connected home—how it can be designed, how we can engage with it and control it, how we can live with it and still have agency over our data—twill be essential to address.**
+**Understanding the connected home—how it can be designed, how we can engage with it and control it, how we can live with it and still have agency over our data—will be essential to address.**
 
 Connected homes will impact the lives of hundreds of millions people around the globe.
 
