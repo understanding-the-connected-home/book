@@ -69,9 +69,9 @@ We wrote this book with practitioners in mind. We hope the people who read this 
 
 The lens we bring is that of experience working with fellow IoT practitioners. We are involved in many of IoT conversations, and we're learning as we go, just like everyone in this field.  
 
-In this way, we see ourselves as part of **a professional peer-learning community.** It's an informal, global network of designers, technologists, activists and more who collaborate with one another and exchange insights and best practices so that collectively we can evolve the IoT conversation and influence the state of the art.
+In this way, we see ourselves as part of a professional peer-learning community. It's an informal, global network of designers, technologists, activists and more who collaborate with one another and exchange insights and best practices so that collectively we can evolve the IoT conversation and influence the state of the art.
 
-## What's new in this version?
+## Why this update ?
 
 The initial publication of this book coincided with the start of a number of projects & conversations. Since then, we have developed our thinking and followed up on some of the questions we addressed in version 1: 
 
