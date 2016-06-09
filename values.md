@@ -84,17 +84,17 @@ To achieve that, users need both the skills to interact with these systems (lite
 
 ### Read
  
-Users can see connected systems and understand how its parts interrelate. This includes aspects like being able to see actionable, contextual data and visbility in what happens in the system after certain actions are taken.
+Users can see connected systems and understand how its parts interrelate. This includes aspects like being able to see actionable, contextual data and visibility in what happens in the system after certain actions are taken.
 
 In practice, "reading" the connected home may be about recognizing common visual cues. Perhaps these cues are standardized symbols displayed on connected objects, or status lights that indicate what's happening to your data, or whether an object is actively listening to audio inputs.
 
-The ability to "read" also applies to data that the home generates. These data sets could include maintence reports, electricity usage, connectivity maps and more. 
+The ability to "read" also applies to data that the home generates. These data sets could include maintenance reports, electricity usage, connectivity maps and more. 
 
 Users in the home should be able to read, evaluate and manipulate these datasets as well as understand the algorithms that create and compute with them.  
 
 ### Write
 
-Users should be able to modify their connected home, including the data and algorigthms in it, as well as create new ones.
+Users should be able to modify their connected home, including the data and algorithms in it, as well as create new ones.
 
 We should be able to query APIs in our home and to build bespoke services on top of them. It should also be possible to identify data that has been modified by other members of the household and to navigate permissions to accept or edit those changes. 
 
@@ -215,7 +215,7 @@ To avoid connected homes becoming the next main contributor to hazardous e-waste
 
 Makers of connected home products need to make sustainability a priority. 
 
-We believe that companies strongly embracing sustainability ulimately put themselves in a better position in the market[^10]—both from an ecological and social perspective (our planet and society can only handle so much more abuse) and because it makes sense for their customers (sustainability can lead to substantial savings in the medium and long term). 
+We believe that companies strongly embracing sustainability ultimately put themselves in a better position in the market[^10]—both from an ecological and social perspective (our planet and society can only handle so much more abuse) and because it makes sense for their customers (sustainability can lead to substantial savings in the medium and long term). 
 
 
 [^1]: This set of values is likely to evolve over time as we explore more cases and scenarios. As part of the Good Home project, we drafted a list of more concrete design values, which we include here as a further inspiration: networked, communal, interdependent, participatory, readable, open, humble, adaptable, hackable, diverse, resilient, respectful, sustainable, perfect imperfection, one size does not fit all, local, careful, provocative, post-capitalistic, constrictively critical. See [thegoodhome.org/values/](http://thegoodhome.org/values/) 
@@ -224,7 +224,7 @@ We believe that companies strongly embracing sustainability ulimately put themse
 [^4]: We explore this in more depth in the article on [connected literacy](connected_literacy.md)
 [^5]: This starts from more straightforward solutions like dropping binary gender user profiles (*male/female* should not be the only option) or not asking for gendered user profiles to begin with (consider if they are really required for the core product), and goes into much complex questions of roles and power dynamics surrounding gender in the larger context of domesticity. Also, obviously, marketing.
 [^6]: For some up-to-date examples, just search online for the terms "iot" and "hacked". You'll find plenty.
-[^7]: We touch upons these issues in more depth in the article on [surveillance](surveillance.md).
+[^7]: We touch upon these issues in more depth in the article on [surveillance](surveillance.md).
 [^8]: For consumer electronics, this is notoriously hard, especially at the resource level. Fairphone has been doing an exemplary job with their sourcing and the transparency around making a smartphone ethical and sustainable: [fairphone.com](https://www.fairphone.com/)
 [^9]: For a great overview of the potential of closure experiences we recommend the excellent work of Joe Macleod available at closureexperiences.com or as an introductory talk recorded at Interaction16: [vimeo.com/159666826](https://vimeo.com/159666826)
 [^10]: The B Corp structure is a promising way to encode values like sustainability in corporate governance: [bcorporation.net](https://www.bcorporation.net/) As a prominent example of a B Corporation that does sustainable and fair production as well as recycling and end-of-lifecycle, look no further than Patagonia's B Corp Annual report 2014): [patagonia.com/pdf/en_US/bcorp_annual_report_2014.pdf](http://www.patagonia.com/pdf/en_US/bcorp_annual_report_2014.pdf)
