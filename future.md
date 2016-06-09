@@ -14,7 +14,7 @@ Since the advent of the iPhone and Android, we've seen entire industries and soc
 
 _HTC Dream mobile phone with AZERTY keyboard for French market. By Akela NDE, CC BY-SA 3.0[^1]_
 
-If anything, the last decade shows us how quickly new technologies can be pciked up and become mundane in their ubiquity. We anticipate a similar trajectory for the connected home. 
+If anything, the last decade shows us how quickly new technologies can be picked up and become mundane in their ubiquity. We anticipate a similar trajectory for the connected home. 
 
 While today's connected objects can be clunky and exploratory, there will be some iconic releases or "must have" devices that change how people see this space: The iPhone moment of the connected home.
 
@@ -54,7 +54,7 @@ Due to the generally temporary and transactional nature of our interactions in t
 
 _Mannequiner i en tøjbutik i Canada. By Colin Rose, CC BY 2.0[^5]_
 
-Similarly, on the web, advertising companies are particularly aggressive in how they track us.[^6] Through consumer education and proection as well as browser tools like ad blockers and Do Not Track, we can mitigate these tracking measures. However, it is basically an arms race with online advertising. Our privacy is increasingly eroded, and our web experiences slowed down as ad companies try to ensure we are humans and serve us tailored ads.
+Similarly, on the web, advertising companies are particularly aggressive in how they track us.[^6] Through consumer education and protection as well as browser tools like ad blockers and Do Not Track, we can mitigate these tracking measures. However, it is basically an arms race with online advertising. Our privacy is increasingly eroded, and our web experiences slowed down as ad companies try to ensure we are humans and serve us tailored ads.
 
 We are seeing parallels in online tracking and behavior tracking in the physical world. As this trend continues, we need to ensure we can make informed decisions whether to enter these spaces and what information we consent to giving. Connected spaces, similar to websites, should communicate what data they are collecting, how it's being used, and how to opt out. 
 
