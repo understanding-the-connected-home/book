@@ -204,7 +204,7 @@ Wherever possible, data should not be saved at all. The best way to prevent abus
 
 ## 6. Sustainability
 
-Connected home products and infrastructure are computing infrastructure. As such, they tend to be software-driven, and their lifecycles are linked to the innovation cycles of the processor industry.
+Connected home products and infrastructure are computing infrastructure. As such, they tend to be software-driven, and their life cycles are linked to the innovation cycles of the processor industry.
 
 To avoid connected homes becoming the next main contributor to hazardous e-waste piles, we need to consider sustainability:
 

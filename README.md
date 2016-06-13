@@ -77,7 +77,7 @@ The initial publication of this book coincided with the start of a number of pro
 
 - September 2015: In collaboration with Alexandra Deschamps-Sonsino[^7], Peter launched The Good Home Project[^8] to explore the same set of questions this book addresses through design proposals and exhibits.
 - January 2016: Michelle took on a new role at Mozilla Foundation, leading the Open IoT Studio with Jon Rogers, Professor of Creative Technology at the University of Dundee.[^9]
-- March 2016: Peter co-chaired Interaction16[^10], a conference that gathered the global interaction design community in Helskinki where many questions of designing connected experiences, services and products were discussed indepth.
+- March 2016: Peter co-chaired Interaction16[^10], a conference that gathered the global interaction design community in Helsinki where many questions of designing connected experiences, services and products were discussed indepth.
 - April 2016: The Good Home Project exhibited at Fuori Salone in Milan with Iohanna Nicenboim[^11] and Michelle.
 - April 2016: Michelle curated a series of design sprints around privacy and the connected home, notably the Mozilla Open IoT Design Sprint in Berlin.[^12]
 - April 2016: The German government published a research report and set of policy recommendations that Peter co-authored with Prof. Dr. Christoph Bieber on smart cities and their implications for citizens.[^13]

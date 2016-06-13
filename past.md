@@ -72,7 +72,7 @@ Then, just as now, these product showcases promise time-saving, ease of mind, an
 
 Here we return to Engelbart. He noticed this emphasis on automation in human-machine interaction, to which he responded: _Augmentation not automation_.[^13] 
 
-There is great opportunity for technology to augment human intellect. However, challenges remain as we move into a new era of human-machine interaction, where computing is  ubiquitious, where it more rapidly affects our built environment, and where corporations vie to shape our domestic lives. 
+There is great opportunity for technology to augment human intellect. However, challenges remain as we move into a new era of human-machine interaction, where computing is  ubiquitous, where it more rapidly affects our built environment, and where corporations vie to shape our domestic lives. 
 
 Now is the moment to go beyond automation and determine what augmentation we desire. 
 

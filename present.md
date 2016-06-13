@@ -10,7 +10,7 @@ Today, our machines are networked with one another and enable us to interact wit
 
 We participate in real-time communication and collaboration across great distances constantly. We can view and modify complex online systems by changing our user profiles across platforms, chatting in interwoven communication threads, and make decisions and purchases based on the analysis of huge data sets. 
 
-We live in an era of multimodality. Thanks to our pervasive and powerful computing environments, we communicate with each other and with machines across text, sound, image and languages. We are increasingly multiliterate. We know how to shift between these modes naturally and understand the affordances and limitations of each.     
+We live in an era of multimodality. Thanks to our pervasive and powerful computing environments, we communicate with each other and with machines across text, sound, image and languages. We are increasingly multi-literate. We know how to shift between these modes naturally and understand the affordances and limitations of each.     
 
 Through these interactions, we contribute to the creation of enormous amounts of data.
 
