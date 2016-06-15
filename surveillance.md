@@ -42,15 +42,15 @@ Now this study focused on internet use, not the internet of things. But it is sa
 
 The US intelligence services have publicly stated their intentions to use connected devices for mass surveillance. Other governments won't be far behind.
 
-In a 2012 interview, CIA director David Patraeus called the surveillance implication of the internet of things "transformational... particularly to their effect on clandestine tradecraft."[^3]
+In a 2012 interview, CIA director David Patraeus called the surveillance implication of the internet of things "transformational... particularly to their effect on clandestine tradecraft."[^2]
 
-More recently, James Clapper, the US director of national intelligence, stated that "intelligence services might use the [internet of things] for identification, surveillance, monitoring, location tracking, and targeting for recruitment, or to gain access to networks or user credentials."[^4]
+More recently, James Clapper, the US director of national intelligence, stated that "intelligence services might use the [internet of things] for identification, surveillance, monitoring, location tracking, and targeting for recruitment, or to gain access to networks or user credentials."[^3]
 
-The consequences to these developments were highlighted in a study by the Berkman Center called *Don't Panic: Making Progress on the "Going Dark" Debate.*[^5] The internet of things—and again, this applies particularly in the connected home—might be a back door that helps criminals and governments alike to work their way around all other defenses (technological and legal alike) and towards a ubiquitous surveillance. 
+The consequences to these developments were highlighted in a study by the Berkman Center called *Don't Panic: Making Progress on the "Going Dark" Debate.*[^4] The internet of things—and again, this applies particularly in the connected home—might be a back door that helps criminals and governments alike to work their way around all other defenses (technological and legal alike) and towards a ubiquitous surveillance. 
 
 > "Networked sensors and the Internet of Things are projected to grow substantially, and this has the potential to drastically change surveillance. The still images, video, and audio captured by these devices may enable real-time intercept and recording with after-the fact access. Thus an inability to monitor and encrypt channels could be mitigated by the ability to monitor from afar a person through a different channel."
 
-It does not help at all that the majority of users find it difficult to figure out the right tools and strategies to meaningfully enhance their privacy, as a 2015 Pew Research study found.[^2] Again, this is for online communications—and it will apply to an even larger degree to IoT in general and to connected homes in particular. 
+It does not help at all that the majority of users find it difficult to figure out the right tools and strategies to meaningfully enhance their privacy, as a 2015 Pew Research study found.[^5] Again, this is for online communications—and it will apply to an even larger degree to IoT in general and to connected homes in particular. 
 
 Yet, taking privacy in their own hands might be the only way for users to protect themselves given the sad state of security in IoT these days. This is verified with a quick look at search engine Shodan, which indexes thousands of unsecured web-connected devices.[^6]
 
@@ -71,10 +71,10 @@ While the journey might not be easy, this is an endeavor worth fighting for.
 
 
 [^1]: The study is available online in full at: [ntia.doc.gov/blog/2016/lack-trust-internet-privacy-and-security-may-deter-economic-and-other-online-activities](https://www.ntia.doc.gov/blog/2016/lack-trust-internet-privacy-and-security-may-deter-economic-and-other-online-activities). The Washington Post has a summary of the results: [washingtonpost.com/news/the-switch/wp/2016/05/13/new-government-data-shows-a-staggering-number-of-americans-have-stopped-basic-online-activities/](https://www.washingtonpost.com/news/the-switch/wp/2016/05/13/new-government-data-shows-a-staggering-number-of-americans-have-stopped-basic-online-activities/) 
-[^2]: For details, refer to this 2015 study by Pew Research: [pewresearch.org/fact-tank/2015/04/14/why-some-americans-have-not-changed-their-privacy-and-security-behaviors/](http://www.pewresearch.org/fact-tank/2015/04/14/why-some-americans-have-not-changed-their-privacy-and-security-behaviors/)
-[^3]: See WIRED 2012 at [wired.com/2012/03/petraeus-tv-remote/](https://www.wired.com/2012/03/petraeus-tv-remote/)
-[^4]: See The Guardian (2016) at [theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper](https://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper)
-[^5]: The full study "Don't Panic: Making Progress on the 'Going Dark' Debate'" by the Berkman Center (2016) is available online (PDF): [cyber.law.harvard.edu/pubrelease/dont-panic/Dont_Panic_Making_Progress_on_Going_Dark_Debate.pdf](https://cyber.law.harvard.edu/pubrelease/dont-panic/Dont_Panic_Making_Progress_on_Going_Dark_Debate.pdf)
+[^2]: See WIRED 2012 at [wired.com/2012/03/petraeus-tv-remote/](https://www.wired.com/2012/03/petraeus-tv-remote/)
+[^3]: See The Guardian (2016) at [theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper](https://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper)
+[^4]: The full study "Don't Panic: Making Progress on the 'Going Dark' Debate'" by the Berkman Center (2016) is available online (PDF): [cyber.law.harvard.edu/pubrelease/dont-panic/Dont_Panic_Making_Progress_on_Going_Dark_Debate.pdf](https://cyber.law.harvard.edu/pubrelease/dont-panic/Dont_Panic_Making_Progress_on_Going_Dark_Debate.pdf)
+[^5]: For details, refer to this 2015 study by Pew Research: [pewresearch.org/fact-tank/2015/04/14/why-some-americans-have-not-changed-their-privacy-and-security-behaviors/](http://www.pewresearch.org/fact-tank/2015/04/14/why-some-americans-have-not-changed-their-privacy-and-security-behaviors/)
 [^6]: The search engine Shodan indexes thousands of unsecured web-connected devices, incl. webcams and more: [shodan.io](https://www.shodan.io/)
 
 
