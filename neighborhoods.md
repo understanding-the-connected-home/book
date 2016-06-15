@@ -10,9 +10,9 @@ What kind of information and data about a neighborhood would be useful for resid
 
 How can we communicate these types of data in an ambient way without the blunt instrument of screens? How about ambient sounds like birdsong, glowing lights, water sloshing in a tank, a Tempescope[^1], a Good Night Lamp[^2], a fan spinning faster, a cuckoo clock, or a vibration[^3] through jewelry or the park bench?
 
-What are the most useful, least intrusive models of notification? Should these alerts—be they ever so subtle—be sent when something changes (*state change*), when something is wrong (*alert*) or continues to be ok (*affirmation*), when cartain milestones are reached (*positive notification*), or continuously as an ongoing background ambient awareness system (*monitoring*)? 
+What are the most useful, least intrusive models of notification? Should these alerts—be they ever so subtle—be sent when something changes (*state change*), when something is wrong (*alert*) or continues to be ok (*affirmation*), when certain milestones are reached (*positive notification*), or continuously as an ongoing background ambient awareness system (*monitoring*)? 
 
-Connected homes could contribute to larger systems in the neighborhood and offer ambient ways of monitoring the neighorhood's health.  
+Connected homes could contribute to larger systems in the neighborhood and offer ambient ways of monitoring the neighborhood's health.  
 
 ## Contributing data to the commons
 
@@ -26,7 +26,7 @@ We need to figure out models to use community and neighborhood data in a way whe
 
 Traditionally, private business has been data savvy in terms of value extraction and creation. There is huge potential value for retail and commercial uses of data from homes, buildings, and neighborhoods. 
 
-What kind of services improve lives of citizens, visitors, and other stakeholders in the neighborhood? What kind of obligations should be tied to using these types of data commercially? What does that mean for transparency, APIs, licensing, policy and political work?
+What kinds of services improve lives of citizens, visitors, and other stakeholders in the neighborhood? What kind of obligations should be tied to using these types of data commercially? What does that mean for transparency, APIs, licensing, policy and political work?
 
 ## Fostering stronger social relationships
 
