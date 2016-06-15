@@ -48,7 +48,7 @@ Who are the parties who have this kind of access to your home? Even at the best 
 
 For a little taster of power struggles to come, consider the following scenarios and questions of remotely controlled rights or restrictions management:
 
-- **A renter is late on their payment.** Can the landlord shut down services or access until the rent is paid? Potentially non-essential services like air conditioning? Essential services like plumbing?  Access to the apartment? Under which conditions? 
+- **A renter is late on their payment.** Can the landlord shut down services or access until the rent is paid? Potentially non-essential services like air conditioning? Essential services like plumbing? Access to the apartment? Under which conditions? 
 - **A teenager comes home later than agreed with their parents and finds the door does not unlock.** The parents, feeling wronged and slightly vindictive, set up the home's smart lock not to let their kid in after 10pm. And the teenager doesn't have the permissions to override it.
 - **An elderly person in an assistive living facility wants to cook a meal.** Yet, the oven won't turn on this morning. An algorithm set up by their son has decided to reduce the risk of fire and burns, so the resident's usage rights to the oven were remotely revoked.
 - **A malicious landlord wants to get rid off a renter and starts messing with lights and heating.** What kind of recourse do renters have if they lose control of the infrastructure they live in?
@@ -67,5 +67,5 @@ The home is a space that needs special protections.
 [^1]: See Cory Doctorow's summary of the study: [boingboing.net/2016/05/13/clicking-buy-now-doesnt.html](http://boingboing.net/2016/05/13/clicking-buy-now-doesnt.html) 
 [^2]: Perzanowski, Aaron and Hoofnagle, Chris Jay, What We Buy When We 'Buy Now' (May 13, 2016). 165 University of Pennsylvania Law Review (2017), Forthcoming. Available at SSRN: [ssrn.com/abstract=2778072](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2778072)
 [^3]: See Super User on Wikipedia: [wikipedia.org/wiki/Superuser](https://en.wikipedia.org/wiki/Superuser)
-[^4]: We have already seen cases where leased cars won't start  if the lease payments are overdue—a truly malicious, out of proportion invasion of privacy and basic rights: [boingboing.net/2014/09/25/class-war-meets-the-war-on-gen.html](https://boingboing.net/2014/09/25/class-war-meets-the-war-on-gen.html)
+[^4]: We have already seen cases where leased cars won't start if the lease payments are overdue—a truly malicious, out of proportion invasion of privacy and basic rights: [boingboing.net/2014/09/25/class-war-meets-the-war-on-gen.html](https://boingboing.net/2014/09/25/class-war-meets-the-war-on-gen.html)
 
