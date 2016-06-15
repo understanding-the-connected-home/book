@@ -34,7 +34,7 @@ Often, a simple reboot of the wifi router or oven will do the trick. But what ab
 
 We don't know yet what kind of data will be common to be created in the apartment and moved with us from one place to another. But we do know that moving with both data and preference settings will be "a thing" we all do.
 
-As a way of exploring mechanism that might help us with this process (independently from the types of data), we created a bit of speculative design for The Good Home[^5]: the Home Totem[^6]:
+As a way of exploring mechanism that might help us with this process (independently from the types of data), we created a bit of speculative design for The Good Home[^5], the Home Totem[^6]:
 
 > The Home Totem represents the owner’s privacy and sharing preferences. It also serves as a link between the home and the owner’s secure data or profile on the internet. Think dietary requirements, energy consumption profiles, records of former home ownership and the like.
 
