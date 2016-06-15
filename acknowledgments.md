@@ -14,7 +14,7 @@ A big thank you for lovely, inspiring and informative chats to **Matt Webb**, **
 
 **Scott Smith** and his team at Changeist have been an ongoing source of inspiration. Especially their research project Thingclash and their outstanding critical IoT reading list are priceless.
 
-A big shoutout to the **Max Krüger, Simon Höher, and Emanuel Schwarz** as partners in crime for ThingsCon. You all are always thinking about how to make great events around this topic. An amazing bunch to work with.
+A big shoutout to the **Max Krüger, Simon Höher, and Emanuel Schwarz** as partners in crime for ThingsCon. Theay all are always thinking about how to make  events around this topic great. An amazing bunch to work with.
 
 Conversations with **Alper Çuğun** are always insightful and entertaining, but his thinking around conversational interfaces has been especially helpful. We highly recommend you seek out his upcoming book on the topic.
 
