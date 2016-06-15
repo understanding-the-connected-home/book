@@ -44,7 +44,7 @@ An even more compressed approach is suggested by Japanese "tidying up" specialis
 
 > Does it spark joy?
 
-Her argument is that if an object is useful, it will spark joy because you acknowledge its ability. If its beautiful, it will also bring joy. If its emotionally important, you will also recognize that through joy. 
+Her argument is that if an object is useful, it will spark joy because you acknowledge its ability. If it's beautiful, it will also bring joy. If it's emotionally important, you will also recognize that through joy. 
 
 ## Make joyful objects
 
