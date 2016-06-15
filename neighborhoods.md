@@ -8,7 +8,7 @@ When connected homes are networked together, we may see tremendous potential to 
 
 What kind of information and data about a neighborhood would be useful for residents? Traffic, crime statistics, peaks and valleys of energy consumption? Increase and decrease in the flow of people in the streets? Sharp changes in the number of tweets sent or photos shared online? Local weather data like temperature changes and rainfall? 
 
-How can we communicate these types of data in an ambient way without the blunt instrument of screens? How about ambient sounds like birdsong, glowing lights, water sloshing in a tank, a Tempescope[^1], a Good Night Lamp[^2], a fan spinning faster, a cookoo clock, or a vibration[^3] through jewelry or the park bence?
+How can we communicate these types of data in an ambient way without the blunt instrument of screens? How about ambient sounds like birdsong, glowing lights, water sloshing in a tank, a Tempescope[^1], a Good Night Lamp[^2], a fan spinning faster, a cuckoo clock, or a vibration[^3] through jewelry or the park bench?
 
 What are the most useful, least intrusive models of notification? Should these alerts—be they ever so subtle—be sent when something changes (*state change*), when something is wrong (*alert*) or continues to be ok (*affirmation*), when cartain milestones are reached (*positive notification*), or continuously as an ongoing background ambient awareness system (*monitoring*)? 
 
