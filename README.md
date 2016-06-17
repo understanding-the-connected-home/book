@@ -67,7 +67,7 @@ While there has been great progress in terms of user experience, manufacturing a
 
 We wrote this book with practitioners in mind. We hope the people who read this will be the people who make connected homes happen. That could include designers, developers, strategists, entrepreneurs, researchers, activists, educators and many more. 
 
-The lens we bring is that of experience working with fellow IoT practitioners. We are involved in many of IoT conversations, and we're learning as we go, just like everyone in this field.  
+The lens we bring is that of experience working with fellow IoT practitioners. We are involved in many IoT conversations, and we're learning as we go, just like everyone in this field.  
 
 In this way, we see ourselves as part of a professional peer-learning community. It's an informal, global network of designers, technologists, activists and more who collaborate with one another and exchange insights and best practices so that collectively we can evolve the IoT conversation and influence the state of the art.
 
