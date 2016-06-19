@@ -85,7 +85,7 @@ The initial publication of this book coincided with the start of a number of pro
 
 It has been a busy and productive year, with many touch points that are directly relevant to Understanding the Connected Home. All of those activities evolved our thinking. That meant, it was time to revisit the book. 
 
-For this new and updated version, we edited the old essays and restructured the content. We hope this makes for more accessible reading. New chapters were added to bring the book up to date, offering fresh content for readers of the first version. 
+For this new and updated version, we edited and revised the original essays, restructured the whole bit, and added new content. We hope this makes for more accessible reading. New chapters were added to bring the book up to date, offering fresh content for readers of the first version. 
 
 As always, we look forward to hearing about your thinking and hope to talk to you online or face-to-face.
 
