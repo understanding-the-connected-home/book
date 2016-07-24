@@ -1,4 +1,4 @@
-
+<img src="img/cover_rect.jpg" alt="cover"><br><br>
 
 # Understanding the connected home
 
