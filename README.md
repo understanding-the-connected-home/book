@@ -1,3 +1,14 @@
+
+
+# Understanding the connected home
+
+While there has been great progress in terms of user experience, manufacturing and technology, there has not been much reflection about the implication of the connected homes for our lives. 
+
+**How will ubiquitous connectedness and data change our domestic lives? What are the powers currently shaping this landscape and what do they have to gain? And more importantly, how can we as practitioners shape IoT to be a net positive for society?**
+
+We wrote this book with practitioners in mind. We hope the people who read this will be the people who make connected homes happen. That could include designers, developers, strategists, entrepreneurs, researchers, activists, educators and many more.
+
+
 <h1> About the authors </h1>
 <div>
     <img class="left" src="http://www.thewavingcat.com/wp-content/uploads/2014/10/Nina-Zimmermann-IMG_5259-3-300x200.jpg" alt="peter-bihr">
