@@ -1,7 +1,7 @@
 # Controlling privacy
 
 _Privacy is complex, contextual, cultural, fuzzy, and we need to develop the vocabulary and tools to put people in control of their privacy._
-
+I
 Privacy is complex, contextual, cultural, fuzzy. It is hard to get right, especially in the context of connected things. Really hard. 
 
 Our vocabulary has not evolved as quickly as technological and societal change has. We are essentially stuck—for now—with crutches, metaphorically speaking. 
